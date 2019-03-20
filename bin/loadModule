@@ -1,0 +1,3 @@
+#!/bin/sh
+cd git_temp/tp_smapi
+sudo make load HDAPS=1

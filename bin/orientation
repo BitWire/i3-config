@@ -1,0 +1,31 @@
+#!/bin/sh
+rotation=`xrandr -q --verbose|grep LVDS-1|cut -b46-51`
+sleep 1
+if [ $rotation = "normal" ] ;
+then
+  xrandr -o right
+  xsetwacom set "Wacom ISDv4 E6 Pen stylus" rotate cw
+  xsetwacom set "Wacom ISDv4 E6 Pen eraser" rotate cw
+  xsetwacom set "Wacom ISDv4 E6 Finger touch" rotate cw
+  xinput set-prop "SynPS/2 Synaptics TouchPad"    "Coordinate Transformation Matrix" 0 1 0 -1 0 1 0 0 1
+elif [ $rotation = "right" ] ;
+then
+  xrandr -o inverted
+  xsetwacom set "Wacom ISDv4 E6 Pen stylus" rotate half
+  xsetwacom set "Wacom ISDv4 E6 Pen eraser" rotate half
+  xsetwacom set "Wacom ISDv4 E6 Finger touch" rotate half
+  xinput set-prop "SynPS/2 Synaptics TouchPad"    "Coordinate Transformation Matrix" -1 0 1 0 -1 1 0 0 1
+elif [ $rotation = "invert" ] ;
+then
+  xrandr -o left
+  xsetwacom set "Wacom ISDv4 E6 Pen stylus" rotate ccw
+  xsetwacom set "Wacom ISDv4 E6 Pen eraser" rotate ccw
+  xsetwacom set "Wacom ISDv4 E6 Finger touch" rotate ccw
+  xinput set-prop "SynPS/2 Synaptics TouchPad"    "Coordinate Transformation Matrix" 0 -1 1 1 0 0 0 0 1
+else
+  xrandr -o normal
+  xsetwacom set "Wacom ISDv4 E6 Pen stylus" rotate none
+  xsetwacom set "Wacom ISDv4 E6 Pen eraser" rotate none
+  xsetwacom set "Wacom ISDv4 E6 Finger touch" rotate none
+  xinput set-prop "SynPS/2 Synaptics TouchPad"    "Coordinate Transformation Matrix" 1 0 0 0 1 0 0 0 1
+fi
