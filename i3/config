@@ -216,4 +216,4 @@ exec --no-startup-id albert
 exec xautolock -time 5 -locker i3lock-fancy
 exec --no-startup-id xset -dpms
 exec --no-startup-id xset s off
-exec mate-terminal -e loadModule
+exec --no-startup-id addDisplay
