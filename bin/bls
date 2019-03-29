@@ -1,0 +1,27 @@
+#!/bin/bash
+
+output=`xrandr --verbose | grep 'Brightness' | awk '{print $2}'`
+
+case "$1" in
+    inc)
+        if [[ $output =~ "1.0" ]]; then
+            notify-send "Maximum Brightness reached"
+            exit 0
+        else
+            x=$(bc<<<"$output + 0.1")
+            xrandr --output LVDS-1 --brightness $x
+        fi
+        ;;
+    dec)
+        if [[ $output =~ "0.3" ]] ; 
+        then
+            notify-send "Minimum Brightness reached"
+            exit 0
+        else
+            x=$(bc<<<"$output - 0.1")
+            xrandr --output LVDS-1 --brightness $x
+        fi
+        ;;
+esac
+
+exit 0

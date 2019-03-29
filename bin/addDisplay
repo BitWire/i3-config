@@ -4,9 +4,19 @@ for output in $(xrandr | grep '\Wconnected' | awk '{ print $1 }'); do
             lvds=$output
     fi
 done
+for outputd in $(xrandr | grep '\Wdisconnected' | awk '{ print $1 }'); do
+    if [[ $outputd =~ ^LVDS.*$ ]]; then
+	    lvdsd=$outputd
+    fi
+done
 for output in $(xrandr | grep '\Wconnected' | awk '{ print $1 }'); do
     if [[ ! $output =~ ^LVDS.*$ ]]; then
        xrandr --output $lvds --auto --output $output --pos 0x0 --auto \
               --right-of $lvds --primary
+    fi
+done
+for outputd in $(xrandr | grep '\Wdisconnected' | awk '{ print $1 }'); do
+    if [[ ! $outputd =~ ^LVDS.*$ ]]; then
+       xrandr --output $outputd --off
     fi
 done
