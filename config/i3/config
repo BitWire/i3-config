@@ -30,7 +30,7 @@ font pango: Google Sans Bold 0
 floating_modifier $mod
 
 # start a terminal
-bindsym $mod+Return exec i3-sensible-terminal
+bindsym $mod+Return exec mate-terminal
 
 # kill focused window
 bindsym $mod+Shift+q kill
@@ -201,9 +201,12 @@ bindsym XF86AudioPrev exec playerctl previous
 
 bindsym XF86RotateWindows exec orientation
 
+bindsym $mod+p exec gnome-screenshot -i
+bindsym $mod+Shift+p exec gnome-screenshot -a
+
 exec --no-startup-id compton
 exec --no-startup-id nm-applet
-exec --no-startup-id feh --bg-scale /home/tom/Pictures/giulia.jpg
+exec --no-startup-id feh --bg-scale /home/tom/Pictures/amd-zen-pure.jpg
 exec --no-startup-id synclient NaturalScrolling=1 VertScrollDelta=-113
 exec --no-startup-id albert
 exec xautolock -time 5 -locker i3lock-fancy
