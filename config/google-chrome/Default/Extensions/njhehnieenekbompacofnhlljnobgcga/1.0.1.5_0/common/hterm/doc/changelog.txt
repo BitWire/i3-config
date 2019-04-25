@@ -1,0 +1,108 @@
+1.17, 2013-07-26, Double-click to select url-ish.
+
+* On double-click, expand the text selection to make it easy to select URLs
+  or other interesting substrings.
+
+1.16, 2013-07-25, More fix newline regression.
+
+* 1.15 got the treatment of the areas above/below the scroll region wrong.
+
+1.15, 2013-07-25, Fix newline regression.
+
+* getVTScrollBottom returns the row count if there is no vt scroll region in
+  effect, need to read the vtScrollBottom_ property directly instead.
+
+1.14, 2013-07-19, Fix newline in VT Scroll Region, packaged app fix.
+
+* BUG=chromium:223140, Terminal viewer doesn't handle horizontally split curses
+  application correctly.
+* Fix the hterm.windowType detection to not barf when hterm is used in a
+  Chrome packaged app.
+
+1.13, 2013-07-17, Disable zoom warning on newer Chrome builds.
+
+* New builds of Chrome removed document.width/height, so we're not able to use
+  them to detect the zoom factor.  Disabled zoom detection when these properties
+  are missing until we have a better solution.
+* Fix libdot/changelog/(version|date) resources.
+* Fix jscompiler errors.
+* Stop printing "CSI K", "CSI ? J", and "ESC #" sequences with bad params.
+* Shell script changes to pacify BSD.
+
+1.12, 2013-06-24, Fix zoom warning.
+
+* Fix the browser-zoom detection so we show the zoom warning again.
+
+1.11, 2013-06-20, Add 'send-encoding'/'receive-encoding' preferences.
+
+* Splits 'character-encoding' into two preferences so send and receive
+  encodings can be set independently.
+* Refactor Terminal.keyboard.onKeyDown_ to allow Ctrl+Alt+(printable) key
+  combinations.
+* Fix regression in Terminal..onPaste_.
+
+1.10, 2013-06-20, Add 'character-encoding' preference.
+
+* Adds a 'character-encoding' preference which can be set to 'utf-8' (default)
+  or 'raw'.  When set to 'utf-8' hterm's behavior is unchanged from previous
+  versions.  When set to 'raw', hterm will not attempt to decode input or
+  encode output.
+
+1.9, 2013-06-19, Fix issues with shift-key and CSI sequences.
+
+* Clear e.shiftKey in hterm_keyboard_keymap.js' sh() function so that
+  hterm_keyboard.js doesn't apply its own shift key munging.
+
+1.8, 2013-05-31, overscroll fix
+
+* BUG=chromium:245700: Call preventDefault on mousewheel events that we've
+  handled.
+
+1.7, 2013-05-31, Fix onTerminalResize, dec12 pref
+
+* Pass width and height in io.onTerminalResize again, which regressed in the
+  previous commit.
+* BUG=245120: Add 'enable-dec12' preference, off by default, which allows the
+  host to control the cursor blink state via DEC private mode 12.
+
+1.6, 2013-05-24, Track terminal size on the io object.
+
+* This installs a default onTerminalResize handler on the hterm.Terminal.IO
+  object that records the most recent terminal size as io.columnCount and
+  io.rowCount.  This gives consumers synchronous access to these values without
+  having to wire up the event handler themselves.
+
+1.5, 2013-04-18, Pass shift-ctrl-L
+
+* BUG=chromium:233008, PASS shift-ctrl-L (CrOS screen lock combo)
+
+1.4, 2013-04-05, wipeContents fix
+
+* BUG=chromium:226819, Handle clearing screen when not scrolled to bottom
+
+1.3, 2013-04-04, Keyboard fixes
+
+* BUG=chromium:174410, Fix to allow Alt-Backspace to send Meta-Backspace
+* BUG=chromium:226752, Don't trap media keys (e.g. Mute) by default.
+
+1.2, 2013-03-19, Fix bell regression.
+
+* Fix bug that made terminal bell only ring once.
+
+1.1, 2013-03-13, Grab bag of fixes.
+
+* Fix base64 encoding of the bell audio.
+* Break out of a parseUntilStringTerminator_ if an embedded ESC is
+  found (other than the one that may appear as part of a 7-bit ST),
+  or if the sequence has been going on for too long (measured by the
+  wall clock).
+* BUG=chromium:191050, Map Chrome OS top-row keys to function keys.
+* BUG=chromum-os:30792, beeps accumulate - leads to non stop beeping
+* BUG=chromum-os:35288, scroll-on-output doesn't appear to work
+* BUG=chromum-os:39645, Application keypad doesn't work properly
+
+1.0, 2013-03-06, Initial split from Secure Shell codebase.
+
+* Move nassh related files out into ../nassh/.
+* Add hterm_resources.concat.
+* Add bin/export.sh and related concat/ lists.

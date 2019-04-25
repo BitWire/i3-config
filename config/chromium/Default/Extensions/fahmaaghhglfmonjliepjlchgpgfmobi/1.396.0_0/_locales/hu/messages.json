@@ -1,0 +1,2761 @@
+{
+   "1001360787461904844": {
+      "message": "További lehetőségek a következőnél: $TARGET$",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "1026450251988549367": {
+      "message": "Legutóbb módosított"
+   },
+   "1035476379650787996": {
+      "message": "Nem lehet végrehajtani a kérést"
+   },
+   "1035734413919296": {
+      "message": "Zene hozzáadása"
+   },
+   "1044946868924904798": {
+      "message": "Nincs kapcsolat"
+   },
+   "1046700819368184074": {
+      "message": "Letöltési mappa"
+   },
+   "1047094450854611275": {
+      "message": "A minilejátszóval a böngészőablakon kívülről irányíthatod a zene lejátszását, lájkolhatod a számokat, és átválthatsz a „Jó napom van” rádió műsorára."
+   },
+   "10524368647766690": {
+      "message": "#"
+   },
+   "1065557748112539713": {
+      "message": "Zeneletöltés szüneteltetése"
+   },
+   "1091846413708174942": {
+      "message": "Saját podcastok"
+   },
+   "1099947980448260765": {
+      "message": "Ugrás a toplistákhoz"
+   },
+   "1105024870503318889": {
+      "message": "Saját zene hozzáadása"
+   },
+   "1141501935253936315": {
+      "message": "Podcastok"
+   },
+   "1144407473317535723": {
+      "message": "Feliratkozás"
+   },
+   "1144614654642966892": {
+      "message": "Lemondás a következő számlázás előtt. Addig továbbra is hallgathatsz zenét."
+   },
+   "1145877575671354635": {
+      "message": "Könyvtár frissítése"
+   },
+   "1147358182484006761": {
+      "message": "Vásárlás"
+   },
+   "1150285978886683433": {
+      "message": "Ismétlés váltása a \"ki\", \"összes szám\" és \"egy szám\" lehetőségek között."
+   },
+   "1152313922995021532": {
+      "message": "64 bit .rpm (Fedora/openSUSE disztribúcióhoz)"
+   },
+   "1165829070116929673": {
+      "message": "{NUM_TRANSFERRED_TRACKS_1,plural, =1{ 1 dal hozzáadva}other{ {NUM_TRANSFERRED_TRACKS_2} dal hozzáadva}}"
+   },
+   "1181311234668957012": {
+      "message": "Automatikus lejátszási lista"
+   },
+   "1182611188595867762": {
+      "message": "2. A telepítő megnyitása után kövesd az utasításokat a Zenekezelő beállításához."
+   },
+   "1189933439482480473": {
+      "message": "Elérted a számok korlátját."
+   },
+   "1218504303426384579": {
+      "message": "Albumok"
+   },
+   "1220984280262077870": {
+      "message": "Ingyenes és megvásárolt"
+   },
+   "1227051853106034748": {
+      "message": "Nem lehet előnézetet keresni"
+   },
+   "1238358838717941284": {
+      "message": "Minta"
+   },
+   "1249846405947826980": {
+      "message": "Előző epizód"
+   },
+   "1257583932123379891": {
+      "message": "Podcastok megtekintése a következő szerint"
+   },
+   "1280952737124946671": {
+      "message": "{NUM_PODCASTS,plural, =0{0 podcast}=1{1 podcast}other{# podcast}}"
+   },
+   "1288885129710503327": {
+      "message": "3. Nyisd meg az Alkalmazások mappát, és kattints duplán a Zenekezelőre."
+   },
+   "1291021741111868686": {
+      "message": "64 bit .deb (Debian/Ubuntu disztribúcióhoz)"
+   },
+   "1291623607736913474": {
+      "message": "Állomások tallózása a következő szerint"
+   },
+   "1294292881529533213": {
+      "message": "Google Play Zene-embléma"
+   },
+   "129923171865835166": {
+      "message": "„Jó napom van” rádió"
+   },
+   "1303647473723340887": {
+      "message": "A kiválasztott elem felett található elem kiválasztása"
+   },
+   "131636849522359023": {
+      "message": "A(z) $XXX$ szerint áll rendelkezésre",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "1341185708905265042": {
+      "message": "#. lemez"
+   },
+   "1348774649041038169": {
+      "message": "Navigáció"
+   },
+   "1370021378292702047": {
+      "message": "„$SONG_TITLE$” megjelölve hibás megfeleltetésként.",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "1372720741032795625": {
+      "message": "Be- vagy kikapcsolja a véletlenszerű lejátszást."
+   },
+   "1372788343021542418": {
+      "message": "A minilejátszó használatához jelentkezz be a Google Play Zene szolgáltatásba az interneten."
+   },
+   "1393837337557373364": {
+      "message": "Album"
+   },
+   "1404225614691686373": {
+      "message": "Korlátlan mennyiségű zene$START_BREAK$a Google Play-től",
+      "placeholders": {
+         "START_BREAK": {
+            "content": "$1"
+         }
+      }
+   },
+   "1411257156168420592": {
+      "message": "$ITEM_NAME$ – kattints a kiválasztásához.",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1429336442713571177": {
+      "message": "Számlisták"
+   },
+   "1435809990540516997": {
+      "message": "Zene hozzáadása folyamatban"
+   },
+   "1464072562214937907": {
+      "message": "Év"
+   },
+   "147527058386222778": {
+      "message": "Streamelési minőség"
+   },
+   "1490665788833937521": {
+      "message": "Minilejátszó letöltése"
+   },
+   "1501458973427096787": {
+      "message": "Bármit meghallgathatsz offline is"
+   },
+   "1504214836895903832": {
+      "message": "Nem sikerült kapcsolódni"
+   },
+   "1517865562673472241": {
+      "message": "1. Várd meg, amíg a telepítés befejeződik."
+   },
+   "1529406134757733750": {
+      "message": "{NUM_FAILURES_1,plural, =1{ Nem lehet letölteni 1 számot}other{ Nem lehet letölteni {NUM_FAILURES_2} számot}}"
+   },
+   "1573657685592390905": {
+      "message": "Mappa kiválasztása…"
+   },
+   "1575810254412583888": {
+      "message": "Számok"
+   },
+   "1595478688335662057": {
+      "message": "Egy Google-felhasználó"
+   },
+   "1598061158801514509": {
+      "message": "Zeneletöltés folytatása"
+   },
+   "1607904075839741217": {
+      "message": "Kiválasztás a számítógépről"
+   },
+   "1664100143082435029": {
+      "message": "Mégse"
+   },
+   "1666765550993208796": {
+      "message": "Hibás az összes szám megfeleltetése?"
+   },
+   "1673135862760647009": {
+      "message": "Hirdetésmentes rádió korlátlan számátugrással"
+   },
+   "1676480944844752785": {
+      "message": "Automatikus lejátszási listák"
+   },
+   "1686917835491599951": {
+      "message": "Nemrég hozzáadva a Saját könyvtárhoz"
+   },
+   "1688117822806275177": {
+      "message": "Eltávolítás a könyvtárból"
+   },
+   "1689044830718067443": {
+      "message": "A telepítésnek automatikusan el kell kezdődnie néhány másodpercen belül. $START_LINK$Segítségre van szükséged$END_LINK$?",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "1700078784075267898": {
+      "message": "Google Play Zene"
+   },
+   "1712333098917352630": {
+      "message": "Rádió"
+   },
+   "1715373473261069991": {
+      "message": "Twitter"
+   },
+   "1721299725717238391": {
+      "message": "Már előfizető vagy. A kuponok jelenleg csak az új előfizetők számára állnak rendelkezésre."
+   },
+   "1722592106949807025": {
+      "message": "Hibakeresési naplók mentése"
+   },
+   "1726363342938046830": {
+      "message": "Névjegy"
+   },
+   "1729815731089690989": {
+      "message": "Győződj meg róla, hogy kapcsolódsz az internethez"
+   },
+   "174952015183967014": {
+      "message": "$TITLE$ – podcastokat tartalmaz",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "1765521785433616250": {
+      "message": "A letöltés hamarosan megkezdődik. Ha mégsem, $START_SPAN$kattints ide$END_SPAN$.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "1781759902625939771": {
+      "message": "Ismeretlen előadó"
+   },
+   "1790640569414740156": {
+      "message": "Műfajok"
+   },
+   "1803865475179910876": {
+      "message": "Google Play Zene Chrome-hoz $PLATFORM$ platformon",
+      "placeholders": {
+         "PLATFORM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1823843876735462104": {
+      "message": "Lejátszási listák"
+   },
+   "1831178715211281116": {
+      "message": "Sajnos csak bizonyos Chrome OS-eszközök vesznek részt a promócióban. Ennek ellenére szeretnél korlátlan zenei hozzáférést kapni?"
+   },
+   "1838639948466909028": {
+      "message": "Ez az oldal nem kompatibilis böngésződdel. Használj egy $START_LINK$támogatott böngészőt$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "1850859858333664648": {
+      "message": "Az összes zene"
+   },
+   "1857207760765836958": {
+      "message": "$START_SPAN$Hallgass rádiót korlátlan számú kihagyással$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "1865818889600889051": {
+      "message": "Fiókod megváltozott. A folytatáshoz frissítsd az oldalt."
+   },
+   "1869199094024141188": {
+      "message": "{NUM_MIXES,plural, =0{0 egyveleg}=1{1 egyveleg}other{# egyveleg}}"
+   },
+   "1869588215425319728": {
+      "message": "Navigációs fiók bezárása"
+   },
+   "1872101028863972302": {
+      "message": "$NUM_TRANSFERRED_TRACKS$ dal letöltve",
+      "placeholders": {
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$1"
+         }
+      }
+   },
+   "1873654242780262831": {
+      "message": "A kiválasztott elem alatt található elem kiválasztása"
+   },
+   "192481666606780833": {
+      "message": "Nem lehet lejátszani a zenét"
+   },
+   "193503854366151748": {
+      "message": "Negatívan értékeli az aktuális számot"
+   },
+   "197153323825255063": {
+      "message": "Adatvédelmi súgó"
+   },
+   "1980398532913758377": {
+      "message": "$NUM_COMPUTERS$ számítógép",
+      "placeholders": {
+         "NUM_COMPUTERS": {
+            "content": "$1"
+         }
+      }
+   },
+   "1984987229407697795": {
+      "message": "Podcastok"
+   },
+   "1993805115277775762": {
+      "message": "$FORMATTED_MUSIC_CATALOG_SIZE$ zeneszám igény szerint",
+      "placeholders": {
+         "FORMATTED_MUSIC_CATALOG_SIZE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2006786763920466492": {
+      "message": "Törlés dátuma"
+   },
+   "2029980907058777630": {
+      "message": "Általános Szerződési Feltételek"
+   },
+   "2032972931560484213": {
+      "message": "Készítette: $CREATOR$",
+      "placeholders": {
+         "CREATOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "2038618429165152799": {
+      "message": "Névtelen"
+   },
+   "2085941577249285555": {
+      "message": "Előfizetés"
+   },
+   "2093026227428526289": {
+      "message": "Ez az ajánlat csak bizonyos új Chromebookokon érhető el olyan országokban, amelyekben a Google Play Zene előfizetéses szolgáltatás$START_LINK$ elérhető.$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2101525118384454593": {
+      "message": "Keverés kikapcsolása"
+   },
+   "2102825898069375693": {
+      "message": "Menü"
+   },
+   "2139100152161431685": {
+      "message": "Ezen az eszközön zenéd átmenetileg nem elérhető. Kérjük, próbáld meg később. $START_LINK$Súgó$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2139683490477275175": {
+      "message": "Bezárás"
+   },
+   "2145060893030204211": {
+      "message": "Nem tudunk további információval szolgálni. Próbáld újra később."
+   },
+   "2149165958319691680": {
+      "message": "Vásárlás"
+   },
+   "2149839604112465314": {
+      "message": "{NUM_SONGS_1,plural, =0{0 dal}=1{1 dal}other{{NUM_SONGS_2} dal}}"
+   },
+   "2152998011161774228": {
+      "message": "g, majd h"
+   },
+   "2158830056128036057": {
+      "message": "Zenefájlok feldolgozása folyamatban…"
+   },
+   "2159130950882492111": {
+      "message": "Mégse"
+   },
+   "2187022653493279712": {
+      "message": "g, majd e"
+   },
+   "2214224657661107347": {
+      "message": "Ajándék küldése"
+   },
+   "2220879710364134067": {
+      "message": "A jelenleg kiválasztott dalokat szerkeszti"
+   },
+   "2239551688895104696": {
+      "message": "A lejátszási lista menüjének megnyitása és bezárása"
+   },
+   "2244547550956716142": {
+      "message": "Toplisták"
+   },
+   "2246437904181111020": {
+      "message": "Google Play Zene: Médiamappák kiválasztása"
+   },
+   "2256597604224604671": {
+      "message": "A következő lejátszásának szüneteltetése: $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2270666830264677427": {
+      "message": "Legfeljebb $MAX_TRACKS_IN_ZIP$ dal tölthető le egyszerre. Kérjük, válassz kevesebb dalt, és próbáld újra.",
+      "placeholders": {
+         "MAX_TRACKS_IN_ZIP": {
+            "content": "$1"
+         }
+      }
+   },
+   "2277837732287051413": {
+      "message": "Pozitívan értékeli az aktuális számot"
+   },
+   "2280774384387096759": {
+      "message": "Ha zeneszámokat szeretnél hozzáadni könyvtáradhoz, húzz ide számokat vagy mappákat."
+   },
+   "2296431514706414883": {
+      "message": "1. A Letöltések ablakban kattints duplán a MusicManager.dmg-re."
+   },
+   "229748758179155728": {
+      "message": "Sajnos a Google Play Zene nem érhető el az országodban."
+   },
+   "2303154715443443305": {
+      "message": "A Zenekezelő letöltése folyamatban van..."
+   },
+   "2303727423829841771": {
+      "message": "Hoppá! Úgy tűnik, hogy a böngésződben ki van kapcsolva a JavaScript. A Google Play megfelelő működéséhez engedélyezni kell a JavaScript használatát."
+   },
+   "2309808536212982229": {
+      "message": "Tevékenységek"
+   },
+   "2311151671924532713": {
+      "message": "Eltávolítás a lejátszási listából"
+   },
+   "2312110731653597036": {
+      "message": "$PERCENTAGE_COMPLETE$%",
+      "placeholders": {
+         "PERCENTAGE_COMPLETE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2329070756809480856": {
+      "message": "Album: $ALBUM_NAME$",
+      "placeholders": {
+         "ALBUM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "2357805327369816634": {
+      "message": "Fizess elő, hogy hirdetések nélkül hallgathasd meg valamennyi zeneszámot"
+   },
+   "2359922567074115383": {
+      "message": "Lemezborító törlése"
+   },
+   "2372448112806402757": {
+      "message": "Következő epizód"
+   },
+   "2383360664777254925": {
+      "message": "A navigációs menü megnyitása vagy bezáráa"
+   },
+   "2407755817901433243": {
+      "message": "Válts be egy kuponkódot a Google Play Zene-előfizetéshez."
+   },
+   "2443885011055165607": {
+      "message": "Válaszd ki a letöltési csomagot:"
+   },
+   "2447745837421769983": {
+      "message": "A legjobb letöltési élmény érdekében telepítsd a Google Play Zene Chrome-hoz alkalmazást."
+   },
+   "2461177781520343478": {
+      "message": "Ismeretlen szám"
+   },
+   "2474664417751811820": {
+      "message": "(ELLENŐRIZD, HOGY TAPASZTALSZ-E PROBLÉMÁT A HANGOK LEJÁTSZÁSA SORÁN) Engedélyezed számunkra a lejátszási naplók lekérését és a fiók hibaelhárítását?"
+   },
+   "2483680006830369490": {
+      "message": "g, majd p"
+   },
+   "2492300395471245755": {
+      "message": "Előadó"
+   },
+   "250478839881665936": {
+      "message": "g, majd s"
+   },
+   "2537475974842549685": {
+      "message": "Hirdetés bezárása"
+   },
+   "2540334409214949805": {
+      "message": "$START_LINK$Jelentkezz be$END_LINK$, hogy megtudd, várnak-e rád Chrome-akciók.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2544569632476723854": {
+      "message": "Általános Szerződési Feltételek"
+   },
+   "2567679469483426925": {
+      "message": "Ez az ajánlat jelenleg nem érhető el."
+   },
+   "2597193119810674616": {
+      "message": "Iratkozz fel a Google Play Zene szolgáltatásra, és $OFFER_LENGTH_DAYS$ napig ingyen használhatod.",
+      "placeholders": {
+         "OFFER_LENGTH_DAYS": {
+            "content": "$1"
+         }
+      }
+   },
+   "259918799497504180": {
+      "message": "Javasolt: $SECOND$/$FIRST$.",
+      "placeholders": {
+         "FIRST": {
+            "content": "$1"
+         },
+         "SECOND": {
+            "content": "$2"
+         }
+      }
+   },
+   "2605658322936929408": {
+      "message": "Podcast"
+   },
+   "2626751888211361777": {
+      "message": "További népszerű számok megtekintése"
+   },
+   "2634703826856398600": {
+      "message": "($NUM_NEW_SONGS$ új)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "2635933238308036768": {
+      "message": "A Zenekezelő csak Windows és Linux rendszereken, illetve Mac típusú eszközökön áll rendelkezésre."
+   },
+   "2655732800763953732": {
+      "message": "$TITLE$ instant egyveleg",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2662644497259948010": {
+      "message": "Megjegyzés"
+   },
+   "2665785172586453916": {
+      "message": "A jelenlegi hangalapú hirdetéshez kapcsolódó hirdetési kép"
+   },
+   "2673412443855817873": {
+      "message": "Nem tetszik"
+   },
+   "2687424427940533491": {
+      "message": "Tevékenységvezérlők"
+   },
+   "2707074873770010705": {
+      "message": "Az eszközöd nem alkalmas erre a promócióra. De ne aggódj, a Google Play Zene próbaverziójával még mindig korlátlanul hallgathatsz zenét. 30 napig ingyenes."
+   },
+   "2714752802779336020": {
+      "message": "Google Play zene"
+   },
+   "2721786517672194900": {
+      "message": "Ez a korlátozás nem vonatkozik a $START_SPAN$Google Play Zene Chrome-hoz$END_SPAN$ alkalmazással végrehajtott letöltésekre.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "2728721019095728485": {
+      "message": "Jó"
+   },
+   "2731202671625726225": {
+      "message": "A családi csoport beállításainak kezelése."
+   },
+   "2777498733015254880": {
+      "message": "Súgó és visszajelzés"
+   },
+   "2787148143326073325": {
+      "message": "Hangkeresés"
+   },
+   "280973959199634338": {
+      "message": "YouTube-videó megjelenítése"
+   },
+   "2826705908408853328": {
+      "message": "A regisztráció befejezéséhez át kell irányítanunk a Google Playre. Ezt követően azonban rögtön visszakerülsz a Play Zene oldalára."
+   },
+   "2834324594183341424": {
+      "message": "Add hozzá meglévő zenegyűjteményedet a Google Playhez"
+   },
+   "2840006222747077107": {
+      "message": "A Saját könyvtár üres"
+   },
+   "2856670286248433202": {
+      "message": "Hirdetés"
+   },
+   "2857356182021649243": {
+      "message": "Ugrás a saját dalokhoz"
+   },
+   "2881621988818346391": {
+      "message": "Igen"
+   },
+   "2881776379326317082": {
+      "message": "Mindig ezt a helyet használja"
+   },
+   "2896640427519622010": {
+      "message": "Gyors navigációs linkek"
+   },
+   "29046698705387751": {
+      "message": "{NUM_STATIONS,plural, =0{0 állomás}=1{1 állomás}other{# állomás}}"
+   },
+   "2924201210722864904": {
+      "message": "Vásárlás"
+   },
+   "2933981780439742153": {
+      "message": "A minilejátszó megjelenítése"
+   },
+   "2941843189430218247": {
+      "message": "Shift + Q"
+   },
+   "2982463607788408741": {
+      "message": "Kijelentkeztél a Google-fiókból. Az újbóli bejelentkezéshez frissíts."
+   },
+   "2983216790003568156": {
+      "message": "Nem sikerült biztonságos kapcsolatot létesíteni"
+   },
+   "3010015422095710725": {
+      "message": "A teljes könyvtáram törlése a megvásárolt zenékkel és a Google Play Zene-előfizetésemen keresztül hozzáadott zenékkel együtt ($TOTAL_SONGS$)",
+      "placeholders": {
+         "TOTAL_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "302056167930397366": {
+      "message": "Ajánlat beváltása"
+   },
+   "3066644656941512863": {
+      "message": "Hoppá, hiba történt a zene törlése során."
+   },
+   "309901418176428732": {
+      "message": "Podcastok"
+   },
+   "3099741642167775297": {
+      "message": "Letöltés"
+   },
+   "310152014457055522": {
+      "message": "Fizess elő bármely zeneszám vagy album lejátszásához"
+   },
+   "311252408333124913": {
+      "message": "Beállítás frissítése"
+   },
+   "3117706868107348105": {
+      "message": "Vagy másold és illeszd be ezt a linket:"
+   },
+   "3120374312076174169": {
+      "message": "{NUM_EPISODES,plural, =0{0 epizód}=1{1 epizód}other{# epizód}}"
+   },
+   "3125342991297920614": {
+      "message": "Nem sikerült megnyitni az albumot. Próbálkozz újra."
+   },
+   "3150614832204809552": {
+      "message": "Podcast: $SERIES_NAME$",
+      "placeholders": {
+         "SERIES_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "315237578086020945": {
+      "message": "Ugrás a saját előadókhoz"
+   },
+   "31530890844887887": {
+      "message": "Előrehaladás nyomon követése"
+   },
+   "3154951825194528737": {
+      "message": "Zeneletöltés megszakítása"
+   },
+   "3163044740176820503": {
+      "message": "Első lépések"
+   },
+   "3164162886883870754": {
+      "message": "{NUM_SONGS_TO_DELETE,plural, =1{Biztosan törlöd a kiválasztott dalt?}other{Biztosan törlöd a kiválasztott dalokat?}}"
+   },
+   "3185279424082070029": {
+      "message": "Kérjük, győződj meg arról, hogy a zenét tartalmazó számítógépen fut a Zenekezelő, és az kapcsolódik az internethez. A zenét egy napon belül ismét feltölti a rendszer."
+   },
+   "3187115322095111816": {
+      "message": "{VALUE,plural, =0{0 dal}=1{1 dal}other{# dal}}"
+   },
+   "3198123723060667787": {
+      "message": "Mikor"
+   },
+   "3213972439514824911": {
+      "message": "Tetszik"
+   },
+   "3225804441370198247": {
+      "message": "Minden zeném a következő előadótól: $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3229693790499517570": {
+      "message": "Újdonságok"
+   },
+   "3244003434432113241": {
+      "message": "Lejátszás"
+   },
+   "3248575677000760820": {
+      "message": "{NUM_SONGS,plural, =0{Nem választottál ki a számítógépére letölteni kívánt dalokat.}=1{Biztos vagy benne, hogy szeretnéd letölteni a kiválasztott dalt a számítógépre?}other{Biztos vagy benne, hogy szeretnéd letölteni a kiválasztott dalokat a számítógépre?}}"
+   },
+   "3277700190370010726": {
+      "message": "A Google Play Zene-promóció a(z) $START_BOLD$$USER_EMAIL$$END_BOLD$ felhasználó számára átmenetileg nem érhető el. Kérjük, próbálkozz később.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "START_BOLD": {
+            "content": "$2"
+         },
+         "USER_EMAIL": {
+            "content": "$3"
+         }
+      }
+   },
+   "3307635842875172003": {
+      "message": "Ugrás a saját egyvelegekhez"
+   },
+   "3310099093781584673": {
+      "message": "g, majd m"
+   },
+   "3311269073804742952": {
+      "message": "Zeneajánló"
+   },
+   "3323193679372503780": {
+      "message": "Nem, köszönöm"
+   },
+   "3326102734049980036": {
+      "message": "$DURATION$ van hátra",
+      "placeholders": {
+         "DURATION": {
+            "content": "$1"
+         }
+      }
+   },
+   "3334073701901432746": {
+      "message": "Az összes lejátszási lista megtekintése a találatok között"
+   },
+   "3335728816495350082": {
+      "message": "Népszerű dalok – $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3339989424930162325": {
+      "message": "Fő lejátszó megjelenítése"
+   },
+   "3342201181237345414": {
+      "message": "Nem szókimondó"
+   },
+   "3377006691156456363": {
+      "message": "Megosztható link"
+   },
+   "3381844160250536550": {
+      "message": "Jelentkezz be a Chrome-ba"
+   },
+   "3410315382362912156": {
+      "message": "A(z) $START_SPAN$$TITLE$$END_SPAN$ jelenleg privát módban van; a megosztáshoz tedd nyilvánossá.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "3418677553313974490": {
+      "message": "Kuka"
+   },
+   "3419681791450150574": {
+      "message": "Állapot"
+   },
+   "342127282404571667": {
+      "message": "Google Play Zene Chrome OS-hez"
+   },
+   "3430836318571306097": {
+      "message": "A fizetési mód megváltoztatása –"
+   },
+   "3431116501598202644": {
+      "message": "Ismeretlen album"
+   },
+   "3462291720620021793": {
+      "message": "Létrehozta: $OWNER_NAME$",
+      "placeholders": {
+         "OWNER_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "346461448125635284": {
+      "message": "Bárhol meghallgathatod zeneszámaidat. Ehhez elég hozzáadnod őket a számítógépen a Google Playhez."
+   },
+   "3491417595697100862": {
+      "message": "Szolgáltató: $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "3503286865266511120": {
+      "message": "Csökkenti a lejátszó hangerejét"
+   },
+   "3519190023725081398": {
+      "message": "g, majd b"
+   },
+   "352192086869301337": {
+      "message": "$NUM_TRANSFERRED_TRACKS$/$START_SPAN$$NUM_TOTAL_TRACKS$$END_SPAN$ hozzáadva",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TOTAL_TRACKS": {
+            "content": "$2"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$3"
+         },
+         "START_SPAN": {
+            "content": "$4"
+         }
+      }
+   },
+   "3530801739313410091": {
+      "message": "Google Play Zene kupon beváltása"
+   },
+   "3545785371861413299": {
+      "message": "Ingyenes próbaidőszak elindítása"
+   },
+   "3545929198870894557": {
+      "message": "Ugrás a saját lejátszási listákhoz"
+   },
+   "3565714850919973591": {
+      "message": "/"
+   },
+   "3583962010571084681": {
+      "message": "Mindig jó minőségű legyen"
+   },
+   "3605470624800934973": {
+      "message": "Biztosan törlöd a kiválasztott albumot?"
+   },
+   "3629941396858927174": {
+      "message": "További lehetőségek elrejtése"
+   },
+   "3638177113998814964": {
+      "message": "$TARGET$ betöltése",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "3643866539136239218": {
+      "message": "Keresett kifejezés törlése"
+   },
+   "3650356879337858878": {
+      "message": "Adatvédelem és hely"
+   },
+   "3693467228074689327": {
+      "message": "Folytatás"
+   },
+   "370216116393129031": {
+      "message": "Lejátszási sor megnyitása"
+   },
+   "3748893353086104812": {
+      "message": "A helyi gyorsítótár kiürítése, és az összes szám és lejátszási lista adatainak frissítése."
+   },
+   "3768927257183755959": {
+      "message": "Mentés"
+   },
+   "3782346097595894324": {
+      "message": "Nem sikerült kapcsolódni a szerverhez. Kérjük, próbáld újra később."
+   },
+   "3789779144889291801": {
+      "message": "Könnyen letöltheted a Google Playen megvásárolt és oda feltöltött zenéket."
+   },
+   "3795262960327716692": {
+      "message": "Szám hozzáadásához húzd azt az oldalsávon lévő lejátszási lista nevére"
+   },
+   "3839679337223320857": {
+      "message": "Bejelentkezve mint $EMAIL$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "3847468592740504132": {
+      "message": "$ITEM_NAME$ rádió",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3849149261610050417": {
+      "message": "Ugrás a Google Play Zenére"
+   },
+   "3861583677596279097": {
+      "message": "A jelentéshez tervezői vélemény szükséges legkésőbb a következő munkanapon"
+   },
+   "3865248559890962003": {
+      "message": "Javasolt: $SUGGESTION$",
+      "placeholders": {
+         "SUGGESTION": {
+            "content": "$1"
+         }
+      }
+   },
+   "3866082057646051822": {
+      "message": "Google Play Zene-kupon beváltása"
+   },
+   "3868119883080041455": {
+      "message": "$TITLE$ rádió",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "3872632959071287956": {
+      "message": "A Chrome-alkalmazás használata előtt jelentkezz be a Google Play Zenébe az interneten."
+   },
+   "3885497195825665706": {
+      "message": "Tovább"
+   },
+   "3890078112831612818": {
+      "message": "Kérjük, győződj meg arról, hogy a zenéket tartalmazó számítógépen fut a Zenekezelő, és hogy a számítógép kapcsolódik az internethez. A zenéket egy napon belül ismét feltölti a rendszer."
+   },
+   "3897348120591552265": {
+      "message": "Kezelés"
+   },
+   "3904027274600624417": {
+      "message": "Bárki megtalálhatja és hallgathatja, tökéletes a megosztáshoz."
+   },
+   "3905289916217023036": {
+      "message": "Véglegesen törölheted az összes megvásárolt és feltöltött zenét."
+   },
+   "392008683752499246": {
+      "message": "Gyűjteményedből akár $FORMATTED_LOCKER_SIZE$ zeneszámot is hozzáadhatsz a Google Playhez ingyen.",
+      "placeholders": {
+         "FORMATTED_LOCKER_SIZE": {
+            "content": "$1"
+         }
+      }
+   },
+   "3936240281193464170": {
+      "message": "Frissítés"
+   },
+   "3941019069704400974": {
+      "message": "Biztosan véglegesen törlöd a személyre szabott javaslatokhoz használt előzményeket? Ezzel nem távolítod el az értékeléseidet, illetve nem állítod vissza az egyes számok lejátszási számlálóját."
+   },
+   "3949911572988594237": {
+      "message": "Lejátszási lista létrehozása"
+   },
+   "3973260061047030021": {
+      "message": "Zene lejátszása vagy szüneteltetése"
+   },
+   "3973931101896534797": {
+      "message": "Dátum"
+   },
+   "3981724709755713539": {
+      "message": "Legutóbbi lejátszási listák"
+   },
+   "3982112843644394207": {
+      "message": "2. Böngésződ Letöltések ablakában kattints duplán a musicmanagerinstaller.exe fájlra annak megnyitásához."
+   },
+   "3993484408454658640": {
+      "message": "Szülői felügyelet:"
+   },
+   "4018574576796390012": {
+      "message": "Biztosan $START_SPAN$véglegesen törlöd$END_SPAN$ a következő lejátszási listát: $PLAYLIST_NAME$?",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "PLAYLIST_NAME": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "4021376741882293501": {
+      "message": "Linux"
+   },
+   "4052021127566304266": {
+      "message": "Szerkesztés"
+   },
+   "405696346909038516": {
+      "message": "Az összes podcasttalálat megtekintése"
+   },
+   "4063027937991598166": {
+      "message": "Kiválasztott elem törlése"
+   },
+   "4071581399160046214": {
+      "message": "Otthon"
+   },
+   "4075286221500750156": {
+      "message": "Verzió: $VERSION$ $BUILD_MODE$",
+      "placeholders": {
+         "BUILD_MODE": {
+            "content": "$1"
+         },
+         "VERSION": {
+            "content": "$2"
+         }
+      }
+   },
+   "4082846773463542695": {
+      "message": "Nem sikerült azonosítani a számítógépedet."
+   },
+   "4086606389696938932": {
+      "message": "Fiók"
+   },
+   "4091426921184034649": {
+      "message": "Előfizetés-váltás"
+   },
+   "4110926661719376304": {
+      "message": "További információ a JavaScript bekapcsolásáról"
+   },
+   "4117886182866316912": {
+      "message": "Előreteker az aktuális számban"
+   },
+   "4136239927282562599": {
+      "message": "Hallgass egy olyan rádióállomást, amely a(z) $START_SPAN$$TITLE$$END_SPAN$ számhoz hasonlókat játszik.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "4139665515290249483": {
+      "message": "Ez a lejátszási lista üres"
+   },
+   "4141582858389779168": {
+      "message": "Iratkozz fel a korlátlan zenére csupán $OFFER_PRICE$/hónap áron, és több millió zeneszámot játszhatsz le azonnal és hirdetések nélkül.",
+      "placeholders": {
+         "OFFER_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4158639452472568044": {
+      "message": "Ez a dal téves megfeleltetésként lett megjelölve."
+   },
+   "4170852783933160433": {
+      "message": "{SONG_COUNT,plural, =1{A kiválasztott dal a te példányodat fogja használni a megfeleltetett példány helyett.}other{A kiválasztott dalok a te példányodat fogják használni a megfeleltetett példányok helyett.}}"
+   },
+   "4183640380235728062": {
+      "message": "Ismétlés kikapcsolva. Kattints az Ismétlés módosításához."
+   },
+   "4207298621447602833": {
+      "message": "A legjobb találat"
+   },
+   "4210934092144627539": {
+      "message": "Nemrég lejátszott vagy hozzáadott"
+   },
+   "4214349520294814506": {
+      "message": "$LABEL$, kiválasztva",
+      "placeholders": {
+         "LABEL": {
+            "content": "$1"
+         }
+      }
+   },
+   "4223772395954115656": {
+      "message": "$START_SPAN$Válogass több millió szám közül, amikor csak akarod$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "4250881018175851283": {
+      "message": "Legújabbak megjelenítése"
+   },
+   "4260036130369028456": {
+      "message": "g, majd g"
+   },
+   "4263959392548297550": {
+      "message": "Mégse"
+   },
+   "4267092206833736997": {
+      "message": "Rádióállomások"
+   },
+   "4272173055918340921": {
+      "message": "Zenekönyvtár betöltése&hellip;"
+   },
+   "4275466320467620600": {
+      "message": "Mindig legfölül"
+   },
+   "4285216590250755577": {
+      "message": "Az eszközt frissíteni kell, mielőtt leellenőrizzük, hogy részt vehetsz-e a promócióban."
+   },
+   "4307428996576001111": {
+      "message": "Ugrás az előző zeneszámra"
+   },
+   "4323912651038951928": {
+      "message": "Ez a művelet törli a lejátszási listákat, rádióállomásokat, értékeléseket és a lejátszási számlálók adatait."
+   },
+   "4330683855002842723": {
+      "message": "További lehetőségek megjelenítése"
+   },
+   "4340616150909089613": {
+      "message": "„$SONG_TITLE$” meg van feleltetve egy másik zenével?",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4357737589458300153": {
+      "message": "Az MPEG Layer-3 audiokódolási technológia licence a Fraunhofer IIS és a Thomson cégektől származik. Az Advanced Audio Coding (AAC) kódolásra a Via Licensing Corporation által kiadott licenc vonatkozik. A Google Play harmadik féltől származó szoftvereket tartalmaz, melyek közlemények és/vagy további szerződési feltételek elfogadását követelhetik meg. A harmadik féltől származó szoftverekhez kapcsolódó közlemények és/vagy kiegészítő feltételek megtalálhatók a $START_LINK$harmadik felekkel kapcsolatos közzétételi oldalunkon$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "4373763311924773906": {
+      "message": "Zene hozzáadása innen: $SOURCE_LIST$",
+      "placeholders": {
+         "SOURCE_LIST": {
+            "content": "$1"
+         }
+      }
+   },
+   "4374547022638899908": {
+      "message": "A tartalomszolgáltatók által szókimondóként megjelölt zenék letiltása"
+   },
+   "437655423845564400": {
+      "message": "Elérted a számok korlátját. Legfeljebb $TRACK_LIMIT$ számot tölthetsz fel.",
+      "placeholders": {
+         "TRACK_LIMIT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4383725505132456525": {
+      "message": "Zenehozzáadás szüneteltetése"
+   },
+   "4386455913448027147": {
+      "message": "$ITEM_NAME$",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4387704382811204091": {
+      "message": "Létrehozhatod saját lejátszási listáidat"
+   },
+   "4396890764725725469": {
+      "message": "Mentés"
+   },
+   "4432809939941276493": {
+      "message": "A Google Play Zene jelenleg csak adott területeken és fióktípusokban érhető el."
+   },
+   "4448959744786615285": {
+      "message": "{COUNT_1,plural, =0{0 szám}=1{1 szám}other{{COUNT_2} szám}}"
+   },
+   "445149490695787423": {
+      "message": "Jelentkezz be újra"
+   },
+   "4452427314943113135": {
+      "message": "Előző"
+   },
+   "4461486069850736796": {
+      "message": "{NUM_SECONDS,plural, =0{0 másodperc}=1{1 másodperc}other{# másodperc}}"
+   },
+   "4462494623248108758": {
+      "message": "Lejátszási lista"
+   },
+   "4476647413225813774": {
+      "message": "A(z) $OFFER_LENGTH_DAYS$ nap után pedig mindössze havi $OFFER_PRICE$ összegért folytathatod a zenehallgatást.",
+      "placeholders": {
+         "OFFER_LENGTH_DAYS": {
+            "content": "$1"
+         },
+         "OFFER_PRICE": {
+            "content": "$2"
+         }
+      }
+   },
+   "4479370175321248159": {
+      "message": "Mac OS X"
+   },
+   "4481282928945235645": {
+      "message": "Egyes dalaidat újra fel kell töltened."
+   },
+   "4523347413979510028": {
+      "message": "YouTube-videó"
+   },
+   "4537375385198577563": {
+      "message": "További információ."
+   },
+   "4539806158142214585": {
+      "message": "g, majd n"
+   },
+   "4548136982356342217": {
+      "message": "Shift + &#8592;"
+   },
+   "4554520729383911291": {
+      "message": "Új instant egyveleget hoz létre a kiválasztott számból"
+   },
+   "4580988005648117665": {
+      "message": "Keresés"
+   },
+   "4601938511613873712": {
+      "message": "Eszközeim"
+   },
+   "46135825491334308": {
+      "message": "A zenék törlése végleges."
+   },
+   "4624704164651982020": {
+      "message": "A Google Play Zene Chrome-hoz beállítása…"
+   },
+   "4629398054050196678": {
+      "message": "Zene letöltése a következő helyre:"
+   },
+   "4645609569705949286": {
+      "message": "Csak én"
+   },
+   "4648993989034133051": {
+      "message": "Megjeleníti az aktuálisan kiválasztott dal menüjét"
+   },
+   "4658362967039953209": {
+      "message": "Zene feltöltése"
+   },
+   "4662613464573260354": {
+      "message": "Javasolt"
+   },
+   "4687189636655044066": {
+      "message": "Szóköz"
+   },
+   "4709553525160465770": {
+      "message": "A zene gyors feltöltése érdekében a Google Play megfelelteti zenefájljaidat a szerverünkön található példányokkal. Esetenként ez a megfeleltetés hibás lehet. Itt jelezheted a hibát, és ismét feltöltjük a számot."
+   },
+   "4718177503702130030": {
+      "message": "Aktuális zeneszám ideje: $CURRENT_TIME$",
+      "placeholders": {
+         "CURRENT_TIME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4724245563419948725": {
+      "message": "A Google Play maradjon naprakész, amikor új számokat adok hozzá ezekhez a gyűjteményekhez"
+   },
+   "472845696068673335": {
+      "message": "A frissített tartalom sikeresen betöltődött"
+   },
+   "4742770396342457517": {
+      "message": "Zenehallgatás a Google Play Zene szolgáltatásban"
+   },
+   "4743341466695708276": {
+      "message": "Android"
+   },
+   "4769480851867061848": {
+      "message": "$TARGET$ lejátszása",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "4775550080689015987": {
+      "message": "Ok"
+   },
+   "477988155866276940": {
+      "message": "{NUM_GENRES,plural, =0{0 műfaj}=1{1 műfaj}other{# műfaj}}"
+   },
+   "4782493710939339680": {
+      "message": "Megosztás a Twitteren"
+   },
+   "4846792506513649213": {
+      "message": "Állomások"
+   },
+   "4862902902120611556": {
+      "message": "Az összes előadó megtekintése a találatok között"
+   },
+   "4867246087786788222": {
+      "message": "Fióktípus:"
+   },
+   "4874337908897060929": {
+      "message": "Zenehozzáadás szüneteltetve"
+   },
+   "4875592400807861759": {
+      "message": "{NUM_SONGS_TO_DELETE,plural, =1{Biztosan {START_SPAN_1}véglegesen törlöd{END_SPAN} a kiválasztott dalt?}other{Biztosan {START_SPAN_2}véglegesen törlöd{END_SPAN} a kiválasztott dalokat?}}"
+   },
+   "4886126295094352182": {
+      "message": "Google Play Zene Chrome-hoz"
+   },
+   "4902817035128594900": {
+      "message": "Leírás"
+   },
+   "4916816672463415688": {
+      "message": "Próbáld ki a Google Play Zene szolgáltatást"
+   },
+   "4920946997448724158": {
+      "message": "Zeneszerző"
+   },
+   "4930506384627295710": {
+      "message": "Beállítások"
+   },
+   "4945228064546795686": {
+      "message": "Az összes album megtekintése a találatok között"
+   },
+   "4962022175989879342": {
+      "message": "Szókimondó"
+   },
+   "4972659496812307928": {
+      "message": "Zeneletöltés szüneteltetve"
+   },
+   "4980580439123922024": {
+      "message": "Előadók"
+   },
+   "4982958189718922051": {
+      "message": "Google Play Zene kezdőlap"
+   },
+   "4998030835388374541": {
+      "message": "Lemezborító módosítása"
+   },
+   "5003850562831597565": {
+      "message": "Nemrég előfizetett"
+   },
+   "5004312405043027351": {
+      "message": "Kész"
+   },
+   "5029496897209707807": {
+      "message": "A Google Play Zene Chrome-alkalmazás frissítésre szorul. A frissítés automatikusan történik."
+   },
+   "5043933900720743682": {
+      "message": "Albumok"
+   },
+   "504907426029176372": {
+      "message": "Utolsó hozzáférés ideje:"
+   },
+   "5049432650728491454": {
+      "message": "Tallózás új megjelenések, toplisták, lejátszási listák és műfajok között"
+   },
+   "5067818727161314391": {
+      "message": "Megosztás a Google+-on"
+   },
+   "5080822706931608370": {
+      "message": "{NUM_ALBUMS,plural, =0{0 album}=1{1 album}other{# album}}"
+   },
+   "5085509606319320198": {
+      "message": "Lejátszási sor bezárása"
+   },
+   "5117284791649421953": {
+      "message": "Play Zene-előzmények"
+   },
+   "5119663120731608161": {
+      "message": "Legújabb számaid megtekintéséhez nyisd meg a $START_LINK$Legutóbb hozzáadva$END_LINK$ lejátszási listát.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "5125947296792815314": {
+      "message": "{NUM_SKIPS,plural, =1{1 kihagyás maradt}other{# kihagyás maradt}}"
+   },
+   "5128240607770067472": {
+      "message": "Névjegy…"
+   },
+   "5141725357376719861": {
+      "message": "$NUM_TRANSFERRED_TRACKS$/$START_SPAN$$NUM_TOTAL_TRACKS$$END_SPAN$ letöltve",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TOTAL_TRACKS": {
+            "content": "$2"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$3"
+         },
+         "START_SPAN": {
+            "content": "$4"
+         }
+      }
+   },
+   "5143432838919500349": {
+      "message": "Keresés…"
+   },
+   "5154374028369457456": {
+      "message": "Navigációs eszköztár"
+   },
+   "5161411570094992408": {
+      "message": "Most nem"
+   },
+   "5188231675115376764": {
+      "message": "Ugrás a saját állomásokhoz"
+   },
+   "5237204164514638395": {
+      "message": "Ajándék küldése"
+   },
+   "5274506773583039432": {
+      "message": "Biztos vagy benne, hogy $START_SPAN$véglegesen törlöd$END_SPAN$ a kiválasztott lejátszási listát?",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "5302287499843369186": {
+      "message": "A Google Play Zene beállítása"
+   },
+   "5316998074277327666": {
+      "message": "A tartalom egyes részleteinek szerzői joga © a Gracenote-ot vagy annak szolgáltatóit illeti."
+   },
+   "5324332666649007562": {
+      "message": "{NUM_SONGS_TO_EXPUNGE,plural, =1{Biztosan {START_SPAN_1}véglegesen törlöd{END_SPAN} a kiválasztott dalt?}other{Biztosan {START_SPAN_2}véglegesen törlöd{END_SPAN} a kiválasztott dalokat?}}"
+   },
+   "5326351540290142036": {
+      "message": "Előző zeneszám"
+   },
+   "5346889542079298595": {
+      "message": "Ingyenes rádió minden tevékenységedhez. $FORMATTED_LOCKER_SIZE$ számot tárolhatsz személyes gyűjteményedből. Fizess elő $FORMATTED_MUSIC_CATALOG_SIZE$ zeneszám igény szerinti eléréséhez, és hallgass zenéket offline is.",
+      "placeholders": {
+         "FORMATTED_LOCKER_SIZE": {
+            "content": "$1"
+         },
+         "FORMATTED_MUSIC_CATALOG_SIZE": {
+            "content": "$2"
+         }
+      }
+   },
+   "5348600594194881699": {
+      "message": "Dőlj hátra és lazíts: már a Google Play Zene előfizetője vagy!"
+   },
+   "5350246280596757721": {
+      "message": "Kapcsolódó előadók"
+   },
+   "5370332239555585516": {
+      "message": "Tömény zene hirdetések nélkül"
+   },
+   "5379453108698089622": {
+      "message": "Ugrás a Zeneajánlóhoz"
+   },
+   "5393158295657392839": {
+      "message": "A zeneszámokat megjelöltük hibás megfeleltetésként."
+   },
+   "5395035563228151731": {
+      "message": "Fiókállapot:"
+   },
+   "5407092932504462689": {
+      "message": "Az összes rádióállomás megtekintése a találatok között"
+   },
+   "5410695385284979104": {
+      "message": "$TITLE$Egyveleg",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "541213310813871561": {
+      "message": "A családi csoport beállításai"
+   },
+   "5432330868773114140": {
+      "message": "Rádió indítása"
+   },
+   "5444318821310889944": {
+      "message": "{COUNT_1,plural, =0{0 rész}=1{1 rész}other{{COUNT_2} rész}}"
+   },
+   "545173546103184657": {
+      "message": "Google-fiók:"
+   },
+   "5452218284042451605": {
+      "message": "Ha a(z) $START_SPAN$$USER_EMAIL$$END_SPAN$ fiókhoz szeretnéd felhasználni a kupont, írd be a kódot alább",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "USER_EMAIL": {
+            "content": "$3"
+         }
+      }
+   },
+   "5464364716831469679": {
+      "message": "Ismeretlen album"
+   },
+   "5480320305561124595": {
+      "message": "Saját könyvtár"
+   },
+   "548629550059508920": {
+      "message": "A feltöltés sikertelen, mert épp két fiókból végzel feltöltést."
+   },
+   "5492320356892382782": {
+      "message": "Végleges törlés"
+   },
+   "5497512316841934820": {
+      "message": "„Jó napom van” egyveleg"
+   },
+   "5497627646066282315": {
+      "message": "Csatlakozás"
+   },
+   "550380163414655031": {
+      "message": "A következőkben ízlésvilágodról fogunk érdeklődni, hogy segíthessünk a megfelelő zenék felfedezésében."
+   },
+   "5518817744725858296": {
+      "message": "Az előadó élő koncertet ad a közelben"
+   },
+   "5535160370665610524": {
+      "message": "Visszateker az aktuális számban"
+   },
+   "5578390534357178026": {
+      "message": "Győződj meg róla, hogy ugyanazzal a Google-fiókkal jelentkeztél be a Chrome-ba."
+   },
+   "5584189341216439776": {
+      "message": "Saját zenék hozzáadása"
+   },
+   "5586233271963962252": {
+      "message": "Következő zeneszám"
+   },
+   "5593848105713936399": {
+      "message": "Várólista"
+   },
+   "5594762259680838005": {
+      "message": "Legutóbb vásárolt"
+   },
+   "5605692130698677333": {
+      "message": "Segítségre van szükséged a zenék olyan számítógépről történő hozzáadásához, amelyre már telepítetted a Google Play Zenekezelőt?"
+   },
+   "560627050344405345": {
+      "message": "Előre 30 másodperccel"
+   },
+   "5607000992339442129": {
+      "message": "Pár perc múlva már el is kezdheted feltölteni zenegyűjteményedet a Google Playre."
+   },
+   "5631364725702248876": {
+      "message": "Állomások böngészése"
+   },
+   "5635270894887625192": {
+      "message": "$START_UNORDERED_LIST$$START_ITEM$$START_DIV_1$$END_DIV$$START_SPAN$A Google Playen akár $FORMATTED_LOCKER_SIZE$ zeneszámot is tárolhatsz ingyen.$END_SPAN$$END_ITEM$$START_ITEM$$START_DIV_2$$END_DIV$$START_SPAN$Gyűjteményed hozzáadhatod az iTunes szolgáltatásból, a Windows Media Player alkalmazásból és a mappákból.$END_SPAN$$END_ITEM$$START_ITEM$$START_DIV_3$$END_DIV$$START_SPAN$Anélkül hallgathatod a zeneszámokat az interneten keresztül vagy mobileszközeiden, hogy a kábelekkel vagy a szinkronizálással kellene vesződnöd.$END_SPAN$$END_ITEM$$END_UNORDERED_LIST$",
+      "placeholders": {
+         "END_DIV": {
+            "content": "$1"
+         },
+         "END_ITEM": {
+            "content": "$2"
+         },
+         "END_SPAN": {
+            "content": "$3"
+         },
+         "END_UNORDERED_LIST": {
+            "content": "$4"
+         },
+         "FORMATTED_LOCKER_SIZE": {
+            "content": "$5"
+         },
+         "START_DIV_1": {
+            "content": "$6"
+         },
+         "START_DIV_2": {
+            "content": "$7"
+         },
+         "START_DIV_3": {
+            "content": "$8"
+         },
+         "START_ITEM": {
+            "content": "$9"
+         },
+         "START_SPAN": {
+            "content": "$10"
+         },
+         "START_UNORDERED_LIST": {
+            "content": "$11"
+         }
+      }
+   },
+   "5671499827182863671": {
+      "message": "A rendszer kiléptetett ebből a fiókból. Kattints az alábbi gombra, ha szeretnél visszalépni a zenéidhez."
+   },
+   "5729733224544981434": {
+      "message": "Telepítsd a Google Play Zene Chrome-hoz alkalmazást az áthúzás engedélyezéséhez"
+   },
+   "5769804815976568558": {
+      "message": "Letöltési hely kiválasztása"
+   },
+   "5827343664961087180": {
+      "message": "Feliratkozás"
+   },
+   "5832435837238304779": {
+      "message": "$TITLE$ lejátszása",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "585739095777961817": {
+      "message": "–"
+   },
+   "5862309805277852777": {
+      "message": "Név"
+   },
+   "5863523793538309428": {
+      "message": "A törlés folyamatban van. Kérjük, adj néhány órát az összes zene eltávolítására."
+   },
+   "5888141336325862688": {
+      "message": "Ugrás az állomások böngészéséhez"
+   },
+   "5889126665299129466": {
+      "message": "A minilejátszó használatához be kell jelentkezned a Chrome-ba."
+   },
+   "5889904821719049150": {
+      "message": "Bármilyen számítógépen – de legfeljebb tíz eszközön – hallgathatod zenéidet. Ha a Zenekezelő vagy a Google Play Zene Chrome-hoz alkalmazás segítségével töltesz le vagy fel zenét, az is beleszámít az eszközszámra vonatkozó korlátozásba."
+   },
+   "5891064527381218201": {
+      "message": "Ingyenes"
+   },
+   "5923830678189377717": {
+      "message": "Hmmm..."
+   },
+   "5946473117506990177": {
+      "message": "Ajándékozz Google Play Zene-előfizetést"
+   },
+   "5971001229987621398": {
+      "message": "Ajánlott új kiadás"
+   },
+   "5987565417212088924": {
+      "message": "Hangkeresés lejátszási lista"
+   },
+   "5990212441459592050": {
+      "message": "Legyen nyilvános"
+   },
+   "599493319699637812": {
+      "message": "Számok keverése"
+   },
+   "6028312506269896318": {
+      "message": "Biztosan visszavonod a következő eszköz jogosultságát zene lejátszására?"
+   },
+   "60369026765465265": {
+      "message": "Állomás frissítése"
+   },
+   "6037216776738907588": {
+      "message": "Ugrás a saját műfajokhoz"
+   },
+   "6062704261604405084": {
+      "message": "Állítsd be a Google Play Zene Chrome-hoz szolgáltatást zenegyűjteményed hozzáadásához, hogy telefonon, táblagépen és számítógépen is élvezhesd zenéidet."
+   },
+   "6062911693359625717": {
+      "message": "Bitsebesség: $BITRATE$",
+      "placeholders": {
+         "BITRATE": {
+            "content": "$1"
+         }
+      }
+   },
+   "6068863249628617875": {
+      "message": "Próbáld ki most"
+   },
+   "607779708716020188": {
+      "message": "…"
+   },
+   "6080972150136904755": {
+      "message": "Ez a lejátszási lista jelenleg üres"
+   },
+   "6082171864197428613": {
+      "message": "Telepítés"
+   },
+   "609463966491943885": {
+      "message": "Mappák kiválasztása"
+   },
+   "6097429778714195840": {
+      "message": "Ugrás az újdonságokhoz"
+   },
+   "6104044107385556653": {
+      "message": "A kuponkódokban a rendszer megkülönbözteti a kis- és nagybetűket"
+   },
+   "6115840172404094036": {
+      "message": "Ugrás a következő zeneszámra"
+   },
+   "6134905866550808378": {
+      "message": "Minden zeném $GENRE_NAME$ stílusban",
+      "placeholders": {
+         "GENRE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "6176916746057281482": {
+      "message": "Az epizód adatai"
+   },
+   "6182267200530067545": {
+      "message": "Előfizetésedet már most állítsd megújulóra, így sosem fogysz ki a zenékből."
+   },
+   "6202991870072245705": {
+      "message": "Leiratkozás"
+   },
+   "6214362172197372800": {
+      "message": "A folytatás előtt ne felejtsd el letölteni a Google Playen vásárolt összes tartalmat a számítógépre."
+   },
+   "6227307047241266902": {
+      "message": "további lehetőségek menüje"
+   },
+   "6233107584508657559": {
+      "message": "Nem sikerült csatlakozni a Google-hoz"
+   },
+   "6233799104785293347": {
+      "message": "Frissítés"
+   },
+   "6242354668932209396": {
+      "message": "Az összes szám ismétlése. Kattints az Ismétlés módosításához."
+   },
+   "624560585652958729": {
+      "message": "Jogosultság visszavonása"
+   },
+   "6254019915482435769": {
+      "message": "Lemezek"
+   },
+   "6263911096488435737": {
+      "message": "Egyveleg frissítése"
+   },
+   "6266962164598137510": {
+      "message": "Nem tetszik"
+   },
+   "6295780096198935300": {
+      "message": "Az összes szám megtekintése a találatok között"
+   },
+   "6321629750851370838": {
+      "message": "Lejátszás"
+   },
+   "6334800505555910746": {
+      "message": "Szolgáltató: $XXX_1$, a(z) $XXX_2$ szerint",
+      "placeholders": {
+         "XXX_1": {
+            "content": "$1"
+         },
+         "XXX_2": {
+            "content": "$2"
+         }
+      }
+   },
+   "6338543385295715171": {
+      "message": "Feltöltési hiba!"
+   },
+   "6348993545995904615": {
+      "message": "Véletlenszerű lejátszás"
+   },
+   "6360340926892934518": {
+      "message": "Mappa hozzáadása"
+   },
+   "6385838952512467617": {
+      "message": "{NUM,plural, =0{Nincs dal, amely már csak egyszer tölthető le.}=1{A(z) \"{XXX_1}\" már csak egyszer tölthető le.}=2{A(z) \"{XXX_1}\" és a(z) \"{XXX_2}\" már csak egyszer tölthető le.}=3{A(z) \"{XXX_1}\", a(z) \"{XXX_2}\" és a(z) \"{XXX_3}\" már csak egyszer tölthető le.}=4{A(z) \"{XXX_1}\", a(z) \"{XXX_2}\", a(z) \"{XXX_3}\" és 1 további kiválasztott dal már csak egyszer tölthető le.}other{A(z) \"{XXX_1}\", a(z) \"{XXX_2}\", a(z) \"{XXX_3}\" és {XXX_4} további kiválasztott dal már csak egyszer tölthető le.}}"
+   },
+   "6386884903976634321": {
+      "message": "Beállítások frissítése"
+   },
+   "6392918669949841614": {
+      "message": "Hozzáadás dátuma"
+   },
+   "6401620758535187625": {
+      "message": "Fizetési információ frissítése"
+   },
+   "6426880811380367028": {
+      "message": "$TARGET$ szüneteltetése",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "6439365426343089851": {
+      "message": "Általános"
+   },
+   "6453809956732788630": {
+      "message": "$START_SPAN$Élvezd a zeneőrültjeink által összeállított lejátszási listákat$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "6455589326534311330": {
+      "message": "Ez a korlátozás nem vonatkozik arra, amikor a $START_SPAN$Zenekezelő$END_SPAN$ segítségével töltöd le a teljes könyvtárat számítógépedre.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "6463864371052292453": {
+      "message": "Szókimondó: lehet, hogy a tartalom gyermekek számára nem megfelelő"
+   },
+   "6473040876350306456": {
+      "message": "Helyelőzmények"
+   },
+   "6482036697464831271": {
+      "message": "Zenéid gyors feltöltése érdekében a Google Play megfelelteti zenei fájljaidat a szervereinken lévő másolatoknak. Előfordulhat, hogy ez a megfeleltetés helytelen. Jelentsd itt problémáidat, és a javítás során az egyes dalok esetében a te példányod lesz felhasználva a megfeleltetett példány helyett."
+   },
+   "6482522612734635310": {
+      "message": "Itt szünetel a zenelejátszás, mert úgy tűnik, egy másik eszközön hallgatod a zenét."
+   },
+   "6482815137654580311": {
+      "message": "Adatok szerkesztése"
+   },
+   "6485379744416240146": {
+      "message": "Tetszik"
+   },
+   "6488707262592852720": {
+      "message": "2. A telepítőablakban húzd a Zenekezelő ikont az Alkalmazások mappa ikonjához."
+   },
+   "6502885021177224543": {
+      "message": "Google Play Zene: Letöltési mappa kiválasztása"
+   },
+   "6504449653938065974": {
+      "message": "Ajánlott lejátszási lista"
+   },
+   "6513265996872955028": {
+      "message": "Hozzáadás a könyvtárhoz"
+   },
+   "6523257069333866790": {
+      "message": "Zenekönyvtár"
+   },
+   "6531109671848395983": {
+      "message": "Zene hozzáadásához telepítsd a Google Play Zene Chrome-hoz alkalmazást."
+   },
+   "6531471505721570155": {
+      "message": "Továbbiak"
+   },
+   "6555053572817998410": {
+      "message": "Szüneteltetés"
+   },
+   "6562996658473327600": {
+      "message": "Lejátszás innen:"
+   },
+   "6568036879894576496": {
+      "message": "A következő mappákban található zenék hozzá lesznek adva a Google Play Zenéhez"
+   },
+   "6576943715351613839": {
+      "message": "{DOWNLOAD_COUNT_MAX_1,plural, =1{ Minden egyes számot egyszer lehet letölteni az internetről.}other{ Minden egyes számot {DOWNLOAD_COUNT_MAX_2} alkalommal lehet letölteni az internetről.}}"
+   },
+   "65984904390749158": {
+      "message": "Befejezés"
+   },
+   "66116513409922755": {
+      "message": "Nem"
+   },
+   "6612332818623520965": {
+      "message": "Sajnos hiba történt. Kérjük, próbáld újra."
+   },
+   "6634231960955145278": {
+      "message": "Szám"
+   },
+   "6638274938129779637": {
+      "message": "„Tetszik” értékelés visszavonása"
+   },
+   "6650633628037596693": {
+      "message": "Próbáld újra"
+   },
+   "6650888720096194474": {
+      "message": "A minilejátszó használatához be kell állítani a Google Play Zene szolgáltatást a(z) $START_SPAN$$EMAIL$$END_SPAN$ fiókkal",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         },
+         "END_SPAN": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "6652649548557498169": {
+      "message": "Normál"
+   },
+   "6652787256443519035": {
+      "message": "Címke nélküli"
+   },
+   "6674940684074453217": {
+      "message": "iOS"
+   },
+   "6703444928647322448": {
+      "message": "Név"
+   },
+   "6704452266937792847": {
+      "message": "Hozzáadás a könyvtárhoz"
+   },
+   "6706494172112196654": {
+      "message": "Váltás családi előfizetési csomagra, amelyet akár hat családtag is használhat"
+   },
+   "6716575470159796252": {
+      "message": "Chrome OS"
+   },
+   "6718773735728815040": {
+      "message": "Neked ajánlott"
+   },
+   "6719382961812623394": {
+      "message": "Hiba történt a beállítás során"
+   },
+   "6724866564770579816": {
+      "message": "A lejátszás módjai"
+   },
+   "6742017901699269182": {
+      "message": "Ugrás a saját albumokhoz"
+   },
+   "6747414430222084644": {
+      "message": "Zeneszám hossza: $TRACK_LENGTH$",
+      "placeholders": {
+         "TRACK_LENGTH": {
+            "content": "$1"
+         }
+      }
+   },
+   "6790172339432877080": {
+      "message": "Ez az „L-mark” ikon egy regisztrált védjegy, amely azt jelzi, hogy az itt található tartalmat lemezkiadók és videógyártó cégek biztosítják."
+   },
+   "6814976743136440069": {
+      "message": "OK"
+   },
+   "6820635381009519748": {
+      "message": "Eltávolítás a lejátszási sorból"
+   },
+   "6830152735949448199": {
+      "message": "A Google Play Zene Labs az olyan kísérleti funkciók próbaterepe, amelyek még nem állnak készen a nagyközönség számára. Bármikor módosulhatnak, lefagyhatnak, illetve eltűnhetnek. Jó szórakozást!"
+   },
+   "6839273670547667172": {
+      "message": "Különböző előadók"
+   },
+   "6840919594921167668": {
+      "message": "A letöltött számokat számítógéped Letöltések mappájában találod meg."
+   },
+   "6852978731943767591": {
+      "message": "3. A telepítő megnyitása után kövesd az utasításokat a Zenekezelő beállításához."
+   },
+   "6857227272497365704": {
+      "message": "Egy konkrét ponthoz ugrik a dalban (a 7-essel előrelép a szám 70%-áig)"
+   },
+   "6875485529840056179": {
+      "message": "Hozzáférhetsz több mint $FORMATTED_MUSIC_CATALOG_SIZE$ zeneszámhoz és korlátlan mennyiségű rádióműsorhoz.",
+      "placeholders": {
+         "FORMATTED_MUSIC_CATALOG_SIZE": {
+            "content": "$1"
+         }
+      }
+   },
+   "6887831882226099905": {
+      "message": "Biztosan visszavonod a következő eszköz jogosultságát zene hozzáadására:"
+   },
+   "6932671848756303275": {
+      "message": "Gyenge"
+   },
+   "6940170973585783277": {
+      "message": "Váltás családi előfizetési csomagra"
+   },
+   "6941609127174167431": {
+      "message": "Vissza 10 másodperccel"
+   },
+   "6943941659433003765": {
+      "message": "Instant egyveleg indítása"
+   },
+   "6962699013778688473": {
+      "message": "Folytatás"
+   },
+   "6990699195498598876": {
+      "message": "A kezdéshez töltsd le a lenti Zenekezelőt. Ez egy egyszerű alkalmazás, amellyel hozzáadhatod a számítógépeden lévő zenéket a Google Play szolgáltatáshoz."
+   },
+   "699971906528455934": {
+      "message": "Ismeretlen előadó"
+   },
+   "7009828133009731416": {
+      "message": "Ingyenesen a Google-tól"
+   },
+   "7022070615528435141": {
+      "message": "Törlés"
+   },
+   "7035822615949880851": {
+      "message": "Zenéid átmenetileg nem érhetők el erről az eszközről. Próbáld újra később. 442-es hiba."
+   },
+   "7043080825985118397": {
+      "message": "Visszaállítás"
+   },
+   "7054091192371222228": {
+      "message": " / "
+   },
+   "7062695654404914711": {
+      "message": "Instant egyvelegek"
+   },
+   "7067908984080925888": {
+      "message": "Továbbiak"
+   },
+   "7071666053441099517": {
+      "message": "1. Nyisd meg a böngésződ alsó bal sarkában található MusicManager.dmg-t."
+   },
+   "7080245643233785574": {
+      "message": "A Google Play Zene Chrome-hoz problémát tapasztalt, és az ismételt bejelentkezésedet kéri."
+   },
+   "7090368974279082159": {
+      "message": "Hoppá!"
+   },
+   "709740537382334098": {
+      "message": "A teljes könyvtár törlése, beleértve a megvásárolt zenéket is ($TOTAL_SONGS$)",
+      "placeholders": {
+         "TOTAL_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7105416082849293719": {
+      "message": "Legutóbbi tevékenység"
+   },
+   "7110393208916703749": {
+      "message": "Videók"
+   },
+   "7116872031464114568": {
+      "message": "A Hangkeresés segítségével azonosítva"
+   },
+   "7136816542440442290": {
+      "message": "Probléma merült fel a rádióállomás betöltése során."
+   },
+   "7182974689040833178": {
+      "message": "Folytatás"
+   },
+   "7192513315706728552": {
+      "message": "Szerverhiba – próbálkozz újra később."
+   },
+   "7194376132387780145": {
+      "message": "Nem lehet engedélyezni ezt a számítógépet, mivel már rendelkezel tíz eszközzel."
+   },
+   "7212676589977202933": {
+      "message": "$NUM_TRANSFERRED_TRACKS$ dal hozzáadva",
+      "placeholders": {
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7224832103566723854": {
+      "message": "Nem sikerült megnyitni a lejátszási listát. Próbálkozz újra."
+   },
+   "7225854335198901823": {
+      "message": "Gyengébb minőség, kisebb adatforgalom"
+   },
+   "7249560357803023328": {
+      "message": "Letöltési könyvtár"
+   },
+   "7262284142845767114": {
+      "message": "Tetszik"
+   },
+   "7277602889799602415": {
+      "message": "Saját könyvtár törlése"
+   },
+   "7283215568776397157": {
+      "message": "Feltöltött dalok:"
+   },
+   "7287006426755387074": {
+      "message": "Növeli a lejátszó hangerejét"
+   },
+   "7292878672940239832": {
+      "message": "{NUM_MINUTES,plural, =0{0 perc}=1{1 perc}other{# perc}}"
+   },
+   "7292902857194439444": {
+      "message": "Eszköz"
+   },
+   "7293925053370285812": {
+      "message": "Az aktuális szám ismétlése. Kattints az Ismétlés módosításához."
+   },
+   "729714018676926076": {
+      "message": "Előrendelhető a Google Play Zene áruházból"
+   },
+   "7299356918464630268": {
+      "message": "Jobb minőség, nagyobb adatforgalom"
+   },
+   "730022297859142476": {
+      "message": "Instant egyveleg"
+   },
+   "731429515932674572": {
+      "message": "Hangerő némítása"
+   },
+   "7320133162875658022": {
+      "message": "Új dalok feltöltése ($NUM_NEW_SONGS$)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7354536653016090160": {
+      "message": "Toplisták"
+   },
+   "7354691783317064273": {
+      "message": "A Chrome-alkalmazás csatlakozik."
+   },
+   "7376787658603979700": {
+      "message": "Vásárláskor több millió – köztük több száz ingyenes – szám közül válogathatsz."
+   },
+   "7410432243549869948": {
+      "message": "Időtartam"
+   },
+   "7411932913365107274": {
+      "message": "Évente négy eszköz jogosultságát vonhatod vissza."
+   },
+   "741454111929523251": {
+      "message": "Keresési javaslat: $START_LINK$$SUGGESTED_QUERY$$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         },
+         "SUGGESTED_QUERY": {
+            "content": "$3"
+         }
+      }
+   },
+   "7417635001613679430": {
+      "message": "Mappák kiválasztása…"
+   },
+   "7422152161839392092": {
+      "message": "Google Play Zene-előfizetés ajándékozása"
+   },
+   "7467710920158412786": {
+      "message": "Egy privát lejátszási lista, kizárólag neked."
+   },
+   "7501747046724259714": {
+      "message": "Nem sikerült lekérni a felhasználó lejátszási listáit. Próbáld újra."
+   },
+   "7502695447103329189": {
+      "message": "Shift + &#8594;"
+   },
+   "7512291922236002631": {
+      "message": "A megosztásához másold és illeszd be ezt a linket: $START_SPAN$$TITLE$$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "7515033107202878673": {
+      "message": "Válaszd ki kedvenc előadóidat"
+   },
+   "7535122927261158198": {
+      "message": "Legutóbb hozzáadva"
+   },
+   "7546873952682838388": {
+      "message": "Zene erről a számítógépről"
+   },
+   "756024699361489239": {
+      "message": "Véletlenszerű lejátszás"
+   },
+   "756532847162987514": {
+      "message": "($XXX$)",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "7569000733095186860": {
+      "message": "Hiba történt a tartalom frissítése közben"
+   },
+   "7572946295452220765": {
+      "message": "Telepítési útmutató"
+   },
+   "7587796626090923635": {
+      "message": "{COUNT_1,plural, =0{0 lejátszás}=1{1 lejátszás}other{{COUNT_2} lejátszás}}"
+   },
+   "7592349062857393820": {
+      "message": "g, majd t"
+   },
+   "7599424290971072767": {
+      "message": "Műfaj"
+   },
+   "7604883230326131491": {
+      "message": "$TITLE$ lejátszási lista",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7605394550777137111": {
+      "message": "A letöltés hamarosan megkezdődik. Ha mégsem, kérjük, $START_LINK$kattints ide$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "7619560701830330401": {
+      "message": "Betöltés"
+   },
+   "762389150316771008": {
+      "message": "„Jó napom van” rádió"
+   },
+   "7625459160681249394": {
+      "message": "{NUM_SONGS,plural, =0{Nem választottál ki a számítógépére letölteni kívánt dalokat.}=1{A kiválasztott dalt már nem töltheted le többször.}other{A kiválasztott dalokat már nem töltheted le többször.}}"
+   },
+   "763998168115480566": {
+      "message": "Nincs több kihagyási lehetőséged. Igény szerinti és offline hozzáférést is szerezhetsz több millió zeneszámhoz."
+   },
+   "7664246845088850317": {
+      "message": "Nem sikerült csatlakozni a szerverhez – hibakód: "
+   },
+   "7669291472367464463": {
+      "message": "Add meg a @google.com e-mail címed"
+   },
+   "7677669941581940117": {
+      "message": "Google+"
+   },
+   "7743528314734813641": {
+      "message": "Probléma merült fel az instant egyveleg betöltése során."
+   },
+   "7756401573104983978": {
+      "message": "Számítógépes alkalmazás"
+   },
+   "776736242214904151": {
+      "message": "Bármikor újra lejátszhatod ezt a zeneszámot és még több millió másikat"
+   },
+   "7772875668912229569": {
+      "message": "{NUM_SONGS,plural, =0{0 dal}=1{1 dal}other{# dal}}"
+   },
+   "7774266771623079214": {
+      "message": "Play Zene"
+   },
+   "7783345534551124847": {
+      "message": "Dalok"
+   },
+   "7801884781403562273": {
+      "message": "Beváltás"
+   },
+   "7819314041543176992": {
+      "message": "Bezárás"
+   },
+   "7832954852370077811": {
+      "message": "Indíts el egy zeneszámot, vagy kattints a $MENU_ICON$ ikonra egy album, szám vagy lejátszási lista mellett, hogy hozzáadd azt a lejátszási sorhoz",
+      "placeholders": {
+         "MENU_ICON": {
+            "content": "$1"
+         }
+      }
+   },
+   "7834872082445723495": {
+      "message": "Zenehozzáadás megszakítása"
+   },
+   "7873745865358968651": {
+      "message": "{NUM_HOURS,plural, =0{0 óra}=1{1 óra}other{# óra}}"
+   },
+   "7941094066137301803": {
+      "message": "Frissítsd a Google+-t, és ossz meg zenéket ismerőseiddel."
+   },
+   "7943877664425892318": {
+      "message": "A lejátszási lista fiókjának megnyitása"
+   },
+   "7947294997516635657": {
+      "message": "Minden naprakész"
+   },
+   "7978348005042781826": {
+      "message": "{VALUE,plural, =0{0 mappa}=1{1 mappa}other{# mappa}}"
+   },
+   "7980428538910137664": {
+      "message": "Ingyenes és megvásárolt"
+   },
+   "7985393396166342590": {
+      "message": "Zenehozzáadás folytatása"
+   },
+   "7996265599642887416": {
+      "message": "Eltávolítás a könyvtárból"
+   },
+   "8041472556355834197": {
+      "message": "Lejátszóvezérlők"
+   },
+   "8058956869215275454": {
+      "message": "Megosztás a Facebookon"
+   },
+   "8110367050267853536": {
+      "message": "További lehetőségek"
+   },
+   "8110717721846730575": {
+      "message": "Hangerő némításának feloldása"
+   },
+   "8117873518116417445": {
+      "message": "{NUM,plural, =0{Egyetlen dal sem érte el a letöltési korlátot.}=1{A(z) \"{XXX_1}\" dalt már letöltötted {DOWNLOAD_COUNT_MAX} alkalommal, ezért nem fog letöltődni.}=2{A(z) \"{XXX_1}\" és a(z) \"{XXX_2}\" dalokat már letöltötted {DOWNLOAD_COUNT_MAX} alkalommal, ezért nem fognak letöltődni.}=3{A(z) \"{XXX_1}\", a(z) \"{XXX_2}\" és a(z) \"{XXX_3}\" dalokat már letöltötted {DOWNLOAD_COUNT_MAX} alkalommal, ezért nem fognak letöltődni.}=4{A(z) \"{XXX_1}\", a(z) \"{XXX_2}\", a(z) \"{XXX_3}\" és további 1 kiválasztott dalt már letöltötted {DOWNLOAD_COUNT_MAX} alkalommal, ezért nem fognak letöltődni.}other{A(z) \"{XXX_1}\", a(z) \"{XXX_2}\", a(z) \"{XXX_3}\" és további {XXX_4} kiválasztott dalt már letöltötted {DOWNLOAD_COUNT_MAX} alkalommal, ezért nem fognak letöltődni.}}"
+   },
+   "8140841959031615975": {
+      "message": "Naprakész szeretnék lenni a Google Play Zene híreivel és ajánlataival kapcsolatban"
+   },
+   "8144474297019493415": {
+      "message": "Utoljára hozzáadott"
+   },
+   "8167254435928832023": {
+      "message": "Jó napom van"
+   },
+   "8174689178967388837": {
+      "message": "#. szám"
+   },
+   "8184838044774375710": {
+      "message": "Ugyanazt a zenét nem lehet egyszerre két eszközön lejátszani"
+   },
+   "819996403327805209": {
+      "message": "További információ"
+   },
+   "8202537648978392187": {
+      "message": "{DOWNLOAD_COUNT_MAX_1,plural, =1{{START_SPAN_1}Közvetlenül is letöltheted{END_SPAN}, de {START_SPAN_2}számonként csak egyszer{END_SPAN}.}other{{START_SPAN_1}Közvetlenül is letöltheted{END_SPAN}, de {START_SPAN_3}számonként csak {DOWNLOAD_COUNT_MAX_2} alkalommal{END_SPAN}.}}"
+   },
+   "8216772648076666728": {
+      "message": "Szókimondó számok engedélyezése"
+   },
+   "8233851949641842866": {
+      "message": "{NUM_FAILURES_1,plural, =1{ 1 szám hozzáadása sikertelen}other{ {NUM_FAILURES_2} szám hozzáadása sikertelen}}"
+   },
+   "8235345176344531979": {
+      "message": "g, majd a"
+   },
+   "828333935216451744": {
+      "message": "A Google Play Zene-előfizetéssel hozzáférést kaphatsz több mint $FORMATTED_MUSIC_CATALOG_SIZE$ zeneszámhoz, valamint korlátlan számú rádióhoz.",
+      "placeholders": {
+         "FORMATTED_MUSIC_CATALOG_SIZE": {
+            "content": "$1"
+         }
+      }
+   },
+   "828700836558117968": {
+      "message": "Google Play Zene"
+   },
+   "8300572760144032022": {
+      "message": "Új rádióállomás létrehozása a kiválasztott zeneszám alapján"
+   },
+   "8302804816588048941": {
+      "message": "Ez a művelet törli a lejátszási listákat, instant egyvelegeket, értékeléseket és a lejátszási számlálók adatait."
+   },
+   "8325100368677049569": {
+      "message": "Fedezz fel új zenéket"
+   },
+   "8385464685117997940": {
+      "message": "Nemrég lejátszott"
+   },
+   "8395180429531273524": {
+      "message": "Miért nem jogosult az eszközöm?"
+   },
+   "8396767881870375563": {
+      "message": "Az összes tevékenység megtekintése a találatok között"
+   },
+   "8405156617531647050": {
+      "message": "Úgy tűnik, hogy már kipróbáltad a Google Play Zenét."
+   },
+   "840664911413405433": {
+      "message": "Windows"
+   },
+   "840692109692540367": {
+      "message": "Bejelentkezés"
+   },
+   "8421838551605999158": {
+      "message": "1. Mentsd a musicmanagerinstaller.exe fájlt."
+   },
+   "8424326418312855409": {
+      "message": "Hiba történt a Google Play Zene beállításakor."
+   },
+   "8439955599488894226": {
+      "message": "Adatvédelmi irányelvek"
+   },
+   "8440128775129354214": {
+      "message": "Adatvédelem"
+   },
+   "8455196866871985315": {
+      "message": "Az összes népszerű album megtekintése"
+   },
+   "8455204924704616723": {
+      "message": "Fájl"
+   },
+   "8477224362193738096": {
+      "message": "Előadó: $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "848933194605193751": {
+      "message": "Nemrég megnézve a YouTube-on"
+   },
+   "851623407011365974": {
+      "message": "A zenelejátszás hamarosan folytatódik"
+   },
+   "8534560073330554352": {
+      "message": "Lejátszások száma"
+   },
+   "8542907888351533629": {
+      "message": "…"
+   },
+   "8559735404345611808": {
+      "message": "Hirdetések nélküli, igény szerinti hozzáférés $FORMATTED_MUSIC_CATALOG_SIZE$ zeneszámhoz. Letölthetsz bármit, és meghallgathatod, amikor nem csatlakozol az internethez. Hozzáadhatsz $FORMATTED_LOCKER_SIZE$ zeneszámot, és bárhol meghallgathatod őket.",
+      "placeholders": {
+         "FORMATTED_LOCKER_SIZE": {
+            "content": "$1"
+         },
+         "FORMATTED_MUSIC_CATALOG_SIZE": {
+            "content": "$2"
+         }
+      }
+   },
+   "8564202903947049539": {
+      "message": "Lejátszás"
+   },
+   "8574053857298592408": {
+      "message": "Navigációs fiók kinyitása"
+   },
+   "8602981985283490607": {
+      "message": "$START_LINK$Segítség a Zenekezelő eltávolításához$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "8604571003772710870": {
+      "message": "Nyomd le a Shift + Enter billentyűkombinációt a lejátszáshoz"
+   },
+   "8606325754052632992": {
+      "message": "A zene gyors feltöltése érdekében a Google Play megfelelteti zenefájljaidat a szerverünkön található példányokkal. Esetenként ez a megfeleltetés hibás lehet. Itt jelezheted a hibát, és ismét feltöltjük a számot."
+   },
+   "8608281335099046628": {
+      "message": "Zene feldolgozása folyamatban…"
+   },
+   "8619410898472620495": {
+      "message": "A lejátszás folytatásához látogass el a Google Play Zenére az interneten."
+   },
+   "862440714280873951": {
+      "message": "Podcastok találhatók benne"
+   },
+   "8624490471677691415": {
+      "message": "Zenék megtekintése a következő szerint"
+   },
+   "8624618794349836904": {
+      "message": "Törli a személyre szabott ajánlásokhoz és a rádiók személyre szabásához használt előzményeket.  Ezzel nem távolítod el az értékeléseidet, illetve nem állítod vissza az egyes számok lejátszási számlálóját."
+   },
+   "8639048757911329468": {
+      "message": "NaCl-verzió: $START_SPAN$$NACL_VERSION$$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NACL_VERSION": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "8642779049394824811": {
+      "message": "Rádióhallgatás közben nem lehet keresni"
+   },
+   "8679806927601731663": {
+      "message": "Próbáld újra"
+   },
+   "8692453200617588996": {
+      "message": "Válaszd ki kedvenc műfajaidat"
+   },
+   "8700121026680200191": {
+      "message": "Törlés"
+   },
+   "8733921970136713647": {
+      "message": "Előfizetés lemondása"
+   },
+   "8764339661945610128": {
+      "message": "További előadók megjelenítése"
+   },
+   "8790918354594417962": {
+      "message": "Facebook"
+   },
+   "8799945990693183114": {
+      "message": "Labs (kísérleti funkciók)"
+   },
+   "880592275679936810": {
+      "message": "$START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$ hozzáadva",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "8825531460389729800": {
+      "message": "{NUM_PLAYLISTS,plural, =0{0 lejátszási lista}=1{1 lejátszási lista}other{# lejátszási lista}}"
+   },
+   "8841049363660529484": {
+      "message": "$ITEM_NAME$ kiválasztva. Kattints a kiválasztás visszavonásához.",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "886941024758881610": {
+      "message": "További dalok"
+   },
+   "8871219022895015530": {
+      "message": "A várólistához adja az aktuálisan kiválasztott számokat"
+   },
+   "88781093248476711": {
+      "message": "névtelen"
+   },
+   "8890553633144307762": {
+      "message": "Vissza"
+   },
+   "8892908795692466458": {
+      "message": "Megosztás"
+   },
+   "8910998670732377227": {
+      "message": "Újrapróbálkozás"
+   },
+   "8920100935192456970": {
+      "message": "Az összes műfaj megtekintése a találatok között"
+   },
+   "8928816882866356838": {
+      "message": "Nyilvános"
+   },
+   "8931700495296520714": {
+      "message": "A minilejátszó bezárása"
+   },
+   "8936704404804793618": {
+      "message": "Videók"
+   },
+   "8949306858344607697": {
+      "message": "$USER_FULL_NAME$ nyilvános lejátszási listái",
+      "placeholders": {
+         "USER_FULL_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8953033926734869941": {
+      "message": "Név"
+   },
+   "8961985815150856927": {
+      "message": "Legutóbb létrehozott"
+   },
+   "8969179774064404960": {
+      "message": "Hangerő"
+   },
+   "8971282019539581965": {
+      "message": "A Névjegy párbeszédablak bezárása"
+   },
+   "8982807952821993986": {
+      "message": "{NUM_TRANSFERRED_TRACKS_1,plural, =1{ 1 dal letöltve}other{ {NUM_TRANSFERRED_TRACKS_2} dal letöltve}}"
+   },
+   "9000028459946302905": {
+      "message": "Az összes zene törlése, amelyet feltöltöttem a Saját könyvtárba ($UPLOADED_SONGS$)",
+      "placeholders": {
+         "UPLOADED_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "902263003582497446": {
+      "message": "Jó minőség a hálózati kapcsolat minőségétől függetlenül. A lassú hálózatokon előfordulhat pufferelés."
+   },
+   "9024489874326845912": {
+      "message": "Ajánlott album"
+   },
+   "9042260521669277115": {
+      "message": "Szüneteltetés"
+   },
+   "9049377337845973204": {
+      "message": "Lejátszás: $SONG_NAME$",
+      "placeholders": {
+         "SONG_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "9059560719840598868": {
+      "message": "Visszajelzés küldése"
+   },
+   "9084816336314899019": {
+      "message": "Folytatás"
+   },
+   "9128859482251917046": {
+      "message": "A sor kibontása vagy összecsukása"
+   },
+   "9138683078793837147": {
+      "message": "„Nem tetszik” értékelés visszavonása"
+   },
+   "9143597363285105250": {
+      "message": "Album előadója"
+   },
+   "9166842143674355091": {
+      "message": "Legutóbbiak"
+   },
+   "9179661003472285430": {
+      "message": "Zenekezelő letöltése"
+   },
+   "9193901371937110673": {
+      "message": "Nincs feljogosított eszköz"
+   },
+   "9205544184671349450": {
+      "message": "Úgy tűnik, már van zene ezen a számítógépen."
+   },
+   "9214517335069385090": {
+      "message": "Vagy ha inkább így szeretnéd…"
+   },
+   "933914956414602837": {
+      "message": "Zenéid gyors feltöltése érdekében a Google Play megfelelteti zenei fájljaidat a szervereinken lévő másolatoknak. Előfordulhat, hogy ez a megfeleltetés helytelen. Jelentsd itt problémáidat, és a javítás során az adott dal esetében a te példányod lesz felhasználva a megfeleltetett példány helyett."
+   },
+   "935985887697278449": {
+      "message": "Már előfizettél?"
+   },
+   "949327761578931377": {
+      "message": "Hallgasd tovább havi $OFFER_PRICE$ összegért.",
+      "placeholders": {
+         "OFFER_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "953268105555355822": {
+      "message": "Összes megtekintése"
+   },
+   "95869773684474447": {
+      "message": "Lejátszási hiba"
+   },
+   "963232722931839477": {
+      "message": "A lejátszási sor üres"
+   },
+   "993762601773196496": {
+      "message": "Átküldés"
+   },
+   "997890303689941626": {
+      "message": "Az összes videó megtekintése a találatok között"
+   }
+}

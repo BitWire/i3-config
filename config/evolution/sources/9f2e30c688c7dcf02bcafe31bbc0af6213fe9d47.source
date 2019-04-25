@@ -1,0 +1,19 @@
+[Data Source]
+DisplayName=University
+Enabled=true
+Parent=8be9d370160b903e8df89a7d28861afbe8671297
+
+[Mail Transport]
+BackendName=smtp
+
+[Authentication]
+Host=mail-s.hs-kempten.de
+Method=GSSAPI
+Port=587
+ProxyUid=system-proxy
+RememberPassword=true
+User=sttaschm
+CredentialName=
+
+[Security]
+Method=starttls-on-standard-port

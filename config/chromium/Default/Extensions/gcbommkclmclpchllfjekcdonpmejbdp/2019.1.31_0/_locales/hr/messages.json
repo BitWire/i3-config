@@ -1,0 +1,149 @@
+{
+   "about_add_new_rule": {
+      "message": "Dodaj novo pravilo"
+   },
+   "about_ext_description": {
+      "message": "Enkriptiraj Web! Automatski koristi HTTPS na mnogim stranicama."
+   },
+   "about_ext_name": {
+      "message": "HTTPS Svuda"
+   },
+   "about_rulesets_version": {
+      "message": "Verzija ruleset-a za"
+   },
+   "about_title": {
+      "message": "O HTTPS-u Svuda"
+   },
+   "about_version": {
+      "message": "Verzija"
+   },
+   "cancel_he_blocking_explainer": {
+      "message": "HTTPS Svuda je uočio da ste se kretali prema stranici koja nije HTTPS i pokušao vas je poslati na HTTPS verziju. HTTPS verzija nije dostupna. Najvjerojatnije stranica ne podržava HTTPS, ali je moguće i da napadač blokira HTTPS verziju. Ako želite pogledati ne-kriptiranu verziju ove stranice, onemogućite 'Blokiraj sve ne-kriptirane zahtjeve' u Vašem HTTPS Svuda dodatku. Imajte na umu da onemogućavanje ove opcije Vaš preglednik može biti ranjiv na napade na mrežu unazađenjem na stranicama koje posjetite."
+   },
+   "cancel_he_blocking_network": {
+      "message": "napadi na mrežu unazađenjem"
+   },
+   "chrome_add_new_rule": {
+      "message": "Dodaj novo pravilo za ovu stranicu"
+   },
+   "chrome_add_rule": {
+      "message": "Dodaj pravilo za ovu stranicu"
+   },
+   "chrome_always_https_for_host": {
+      "message": "Uvijek koristi https za ovaj poslužitelj"
+   },
+   "chrome_disable_on_this_site": {
+      "message": "Onemogući HTTPS Svuda na ovoj stranici"
+   },
+   "chrome_enable_on_this_site": {
+      "message": "Omogući HTTPS Svuda na ovoj stranici"
+   },
+   "chrome_experimental_rules": {
+      "message": "Eksperimentalna pravila"
+   },
+   "chrome_experimental_rules_description": {
+      "message": "Moguće je da urokuje upozorenja i prekide. Ugašeno po standardnim postavkama"
+   },
+   "chrome_hide_advanced": {
+      "message": "Sakrij napredno"
+   },
+   "chrome_host": {
+      "message": "Poslužitelj:"
+   },
+   "chrome_redirect_to": {
+      "message": "Preusmjeri na"
+   },
+   "chrome_regex": {
+      "message": "Odgovarajući regex"
+   },
+   "chrome_rule_name": {
+      "message": "Naziv pravila"
+   },
+   "chrome_show_advanced": {
+      "message": "Prikaži napredno"
+   },
+   "chrome_stable_rules": {
+      "message": "Stabilna pravila"
+   },
+   "chrome_stable_rules_description": {
+      "message": "Forsiraj enkriptirane veze na sljedeće stranice:"
+   },
+   "chrome_status_cancel_button": {
+      "message": "Odustani"
+   },
+   "menu_donate_eff_imperative": {
+      "message": "Doniraj EFF-u"
+   },
+   "menu_encryptAllSitesEligible": {
+      "message": "Encrypt All Sites Eligible (EASE)"
+   },
+   "menu_globalEnable": {
+      "message": "Omogući HTTPS svuda."
+   },
+   "menu_observatory": {
+      "message": "Postavke SSL opservatorija"
+   },
+   "menu_showCounter": {
+      "message": "Prikaži brojilo"
+   },
+   "menu_viewAllRules": {
+      "message": "Pogledaj sva pravila"
+   },
+   "options_addUpdateChannel": {
+      "message": "Dodaj kanal za ažuriranje"
+   },
+   "options_advancedSettings": {
+      "message": "Napredne postavke"
+   },
+   "options_autoUpdateRulesets": {
+      "message": "Automatski ažuriraj rulesetove"
+   },
+   "options_delete": {
+      "message": "Obriši"
+   },
+   "options_disabledUrlsListed": {
+      "message": "Onemogućene stranice HTTPS Svuda"
+   },
+   "options_enableMixedRulesets": {
+      "message": "Omogući rulesetove miješanog sadržaja"
+   },
+   "options_enterUpdateChannelName": {
+      "message": "Unesite naziv kanala za ažuriranje"
+   },
+   "options_generalSettings": {
+      "message": "Opće postavke"
+   },
+   "options_showDevtoolsTab": {
+      "message": "Prikaži Devtools karticu"
+   },
+   "options_storedRulesetsVersion": {
+      "message": "Spremljena verzija ruleset-a:"
+   },
+   "options_update": {
+      "message": "Ažuriraj"
+   },
+   "options_updateChannels": {
+      "message": "Ažuriraj kanale"
+   },
+   "options_updateChannelsWarning": {
+      "message": "Upozorenje: dodavanje kanala za ažuriranje može uzrokovati da napadači otmu vaš preglednik. Ovaj odjel uređujte jedino ako znate što radite!"
+   },
+   "options_updatesLastChecked": {
+      "message": "Ažuriranja zadnji put provjerena:"
+   },
+   "options_updatesLastCheckedNever": {
+      "message": "nikad"
+   },
+   "options_userRulesListed": {
+      "message": "Korisnička pravila HTTPS Svuda"
+   },
+   "prefs_export_settings": {
+      "message": "Izvoz postavki"
+   },
+   "prefs_reset_defaults": {
+      "message": "Poništi na zadano"
+   },
+   "prefs_reset_defaults_message": {
+      "message": "Ovo će obnoviti svaki ruleset na svoje zadano stanje. Nastavi?"
+   }
+}

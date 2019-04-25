@@ -1,0 +1,44 @@
+{
+   "app": {
+      "icon_color": "#1BA0F1",
+      "launch": {
+         "web_url": "https://twitter.com/"
+      },
+      "linked_icons": [ {
+         "size": 32,
+         "url": "https://abs.twimg.com/responsive-web/web/icon-default.604e2486a34a2f6e1.png"
+      }, {
+         "size": 48,
+         "url": "https://abs.twimg.com/responsive-web/web/icon-default.604e2486a34a2f6e1.png"
+      }, {
+         "size": 64,
+         "url": "https://abs.twimg.com/responsive-web/web/icon-default.604e2486a34a2f6e1.png"
+      }, {
+         "size": 96,
+         "url": "https://abs.twimg.com/responsive-web/web/icon-default.604e2486a34a2f6e1.png"
+      }, {
+         "size": 128,
+         "url": "https://abs.twimg.com/responsive-web/web/icon-default.604e2486a34a2f6e1.png"
+      }, {
+         "size": 144,
+         "url": "https://abs.twimg.com/responsive-web/web/icon-default.604e2486a34a2f6e1.png"
+      }, {
+         "size": 256,
+         "url": "https://abs.twimg.com/responsive-web/web/icon-default.604e2486a34a2f6e1.png"
+      } ],
+      "theme_color": "rgba(255,255,255,1)"
+   },
+   "description": "",
+   "icons": {
+      "128": "icons/128.png",
+      "144": "icons/144.png",
+      "256": "icons/256.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "64": "icons/64.png",
+      "96": "icons/96.png"
+   },
+   "key": "L6Xj9AFQJ4+VkoeTkMMW24x7yOtrhQweClo2g25pUrY=",
+   "name": "Twitter",
+   "version": "2019.3.10.57207"
+}

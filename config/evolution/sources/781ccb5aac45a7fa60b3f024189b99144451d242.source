@@ -1,0 +1,48 @@
+[Data Source]
+DisplayName=University
+Enabled=true
+Parent=8be9d370160b903e8df89a7d28861afbe8671297
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=folder://local/Templates
+StartBottom=inconsistent
+TopSignature=inconsistent
+
+[Mail Identity]
+Address=thomas.k.schmidt@stud.hs-kempten.de
+Aliases=
+Name=Thomas Schmidt
+Organization=
+ReplyTo=
+SignatureUid=none
+
+[Mail Submission]
+SentFolder=folder://8be9d370160b903e8df89a7d28861afbe8671297/Sent
+TransportUid=9f2e30c688c7dcf02bcafe31bbc0af6213fe9d47
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Pretty Good Privacy (OpenPGP)]
+AlwaysTrust=false
+EncryptToSelf=true
+KeyId=
+SigningAlgorithm=
+SignByDefault=false
+EncryptByDefault=false
+PreferInline=false
+
+[Message Disposition Notifications]
+ResponsePolicy=ask
+
+[Secure MIME (S/MIME)]
+EncryptionCertificate=
+EncryptByDefault=false
+EncryptToSelf=true
+SigningAlgorithm=
+SigningCertificate=
+SignByDefault=false

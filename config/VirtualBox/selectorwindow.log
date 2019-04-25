@@ -1,0 +1,10 @@
+05:15:03.026635 Log continuation - Log started 2019-04-20T14:45:36.159701000Z
+05:15:03.228462 GUI: Snapshot tree update successful!
+05:15:03.238824 GUI: UIMediumEnumerator: Medium-enumeration finished!
+05:15:03.529378 GUI: Updating snapshot tree after RESTORING snapshot with MachineID={{d6cb4057-703c-4cd8-ab18-32ec86035e92}}, SnapshotID={{9e2dd212-9899-4b97-9153-f35b01e18ad0}}...
+05:15:03.743774 GUI: Snapshot tree update successful!
+05:15:03.938587 GUI: UIMediumEnumerator: Medium-enumeration finished!
+05:15:07.385698 GUI: Updating snapshot tree after DELETING snapshot with MachineID={{d6cb4057-703c-4cd8-ab18-32ec86035e92}}, SnapshotID={{d2911706-6527-4b3d-be74-e3bb89970347}}...
+05:15:07.453843 GUI: Snapshot tree update successful!
+05:15:07.460432 GUI: UIMediumEnumerator: Medium-enumeration finished!
+05:15:37.577372 GUI: UIMediumEnumerator: Medium-enumeration finished!

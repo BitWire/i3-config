@@ -1,0 +1,4 @@
+[Info  - 4:09:44 PM] Language server connection initialized.
+[Info  - 4:09:44 PM] Configuration change triggerd, validating all open documents.
+[Info  - 4:09:44 PM] New document opened, starting validation.
+[Error - 4:09:44 PM] An error occured during document validation after open with the following message: An error occured, no output was received after executing the phpmd command

@@ -1,0 +1,149 @@
+{
+   "about_add_new_rule": {
+      "message": "নতুন নিয়ম যোগ করুন"
+   },
+   "about_ext_description": {
+      "message": "ওয়েব এনক্রিপ্ট! অনেক সাইটগুলিতে স্বয়ংক্রিয়ভাবে HTTPS নিরাপত্তা ব্যবহার করুন"
+   },
+   "about_ext_name": {
+      "message": "সর্বত্র HTTPS"
+   },
+   "about_rulesets_version": {
+      "message": "নিয়মাবলী সংস্করণ জন্য"
+   },
+   "about_title": {
+      "message": "সর্বত্র HTTPS সম্পর্কে "
+   },
+   "about_version": {
+      "message": "সংস্করণ"
+   },
+   "cancel_he_blocking_explainer": {
+      "message": "HTTPS দ্বারা সর্বত্র লক্ষ্য আপনি ছিল নেভিগেট, একটি অ-HTTPS পৃষ্ঠা, এবং চেষ্টা করার জন্য আপনাকে পাঠাতে HTTPS সংস্করণ পরিবর্তে. HTTPS সংস্করণ অনুপলব্ধ. সম্ভবত এই সাইটের সমর্থন করে না, HTTPS দ্বারা, কিন্তু এটা সম্ভব যে একটি আক্রমণকারী ব্লক করা হয়, HTTPS সংস্করণ. যদি আপনি চান আপনি দেখতে এনক্রিপশনবিহীন সংস্করণ এই পৃষ্ঠায় আপনি এখনও করতে পারেন না, তাই নিষ্ক্রিয় দ্বারা 'ব্লক সব এনক্রিপশনবিহীন অনুরোধ' বিকল্প আপনার HTTPS সর্বত্র এক্সটেনশন. যে সচেতন হতে হবে এই বিকল্পটি অক্ষম করতে পারে আপনার ব্রাউজার প্রবন, নেটওয়ার্ক-ভিত্তিক ডাউনগ্রেড উপর হামলা, আপনি যান ওয়েবসাইটের."
+   },
+   "cancel_he_blocking_network": {
+      "message": "নেটওয়ার্ক-ভিত্তিক ডাউনগ্রেড হামলা"
+   },
+   "chrome_add_new_rule": {
+      "message": "এই সাইটের জন্য নতুন একটি নিয়ম যোগ করুন"
+   },
+   "chrome_add_rule": {
+      "message": "এই সাইটের জন্য একটি নিয়ম যোগ করুন"
+   },
+   "chrome_always_https_for_host": {
+      "message": "সর্বদা এই হোস্টের জন্য HTTPS ব্যবহার করুন"
+   },
+   "chrome_disable_on_this_site": {
+      "message": "এই সাইটের জন্য HTTPS Everywhere অকার্যকর করুন"
+   },
+   "chrome_enable_on_this_site": {
+      "message": "এই সাইটের জন্য HTTPS Everywhere কার্যকর করুন"
+   },
+   "chrome_experimental_rules": {
+      "message": "পরীক্ষামূলক নিয়ম"
+   },
+   "chrome_experimental_rules_description": {
+      "message": "সতর্কতা বা ভাঙ্গন হতে পারে। বিপদ এড়ানোর জন্য বন্ধ করা হয়েছে।"
+   },
+   "chrome_hide_advanced": {
+      "message": "উন্নত লুকান"
+   },
+   "chrome_host": {
+      "message": "হোস্ট:"
+   },
+   "chrome_redirect_to": {
+      "message": "পুনঃনির্দেশ করুন"
+   },
+   "chrome_regex": {
+      "message": "Regex মিলছে"
+   },
+   "chrome_rule_name": {
+      "message": "নিয়মের নাম"
+   },
+   "chrome_show_advanced": {
+      "message": "উন্নত দেখান"
+   },
+   "chrome_stable_rules": {
+      "message": "স্থিতিশীল নিয়ম"
+   },
+   "chrome_stable_rules_description": {
+      "message": "এই ওয়েবসাইটগুলিতে এনক্রিপ্ট  সংযোগ চালু করুন:"
+   },
+   "chrome_status_cancel_button": {
+      "message": "বাতিল"
+   },
+   "menu_donate_eff_imperative": {
+      "message": "ইএফএফকে দান করুন"
+   },
+   "menu_encryptAllSitesEligible": {
+      "message": "সকল যোগ্য সাইট এনক্রিপ্ট করুন (স্বচ্ছন্দে)"
+   },
+   "menu_globalEnable": {
+      "message": "HTTPS Everywhere সক্রিয় করুন"
+   },
+   "menu_observatory": {
+      "message": "SSL পর্যবেক্ষক পছন্দগুলি"
+   },
+   "menu_showCounter": {
+      "message": "কাউন্টার দেখুন"
+   },
+   "menu_viewAllRules": {
+      "message": "সমস্ত নিয়ম দেখুন"
+   },
+   "options_addUpdateChannel": {
+      "message": "হালনাগাদ চ্যানেল জুড়ুন"
+   },
+   "options_advancedSettings": {
+      "message": "উন্নত সেটিংস"
+   },
+   "options_autoUpdateRulesets": {
+      "message": "স্বয়ংক্রিয় আপডেট নিয়মাবলী"
+   },
+   "options_delete": {
+      "message": "মুছুন"
+   },
+   "options_disabledUrlsListed": {
+      "message": "HTTPS Everywhere সাইট অকার্যকর"
+   },
+   "options_enableMixedRulesets": {
+      "message": "মিশ্র কন্টেন্ট/বিষয়বস্তু নিয়মাবলী সক্ষম করুন"
+   },
+   "options_enterUpdateChannelName": {
+      "message": "হালনাগাদ চ্যানেল নাম প্রবেশ করান"
+   },
+   "options_generalSettings": {
+      "message": "সাধারণ সেটিংস"
+   },
+   "options_showDevtoolsTab": {
+      "message": "Devtools ট্যাব দেখান"
+   },
+   "options_storedRulesetsVersion": {
+      "message": "সঞ্চিত নিয়ম বিন্যাস: "
+   },
+   "options_update": {
+      "message": "হালনাগাদ"
+   },
+   "options_updateChannels": {
+      "message": "চ্যানেল আপডেট করুন"
+   },
+   "options_updateChannelsWarning": {
+      "message": "সতর্কীকরণ: যোগ করা চ্যানেলগুলো আপনার ব্রাউজার হাইজ্যাক করতে হামলাকারীদের কারণ হতে পারে । আপনি যদি জানেন আপনি কি করছেন তাহলে এই বিভাগ শুধুমাত্র সম্পাদনা করুন!"
+   },
+   "options_updatesLastChecked": {
+      "message": "সর্বশেষ পরীক্ষা হালনাগাদ করা হচ্ছে: "
+   },
+   "options_updatesLastCheckedNever": {
+      "message": "কখনো না"
+   },
+   "options_userRulesListed": {
+      "message": "সর্বত্র HTTPS ব্যবহারকারীর নিয়ম"
+   },
+   "prefs_export_settings": {
+      "message": "সেটিংস রপ্তানি করুন"
+   },
+   "prefs_reset_defaults": {
+      "message": "ডিফল্টে রিসেট করুন"
+   },
+   "prefs_reset_defaults_message": {
+      "message": "এটি প্রতিটি নিয়ম সেটটি তার ডিফল্ট স্টেটে পুনরায় সেট করবে। চালিয়ে যেতে চান?"
+   }
+}

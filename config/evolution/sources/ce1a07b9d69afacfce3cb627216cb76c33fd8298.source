@@ -1,0 +1,28 @@
+[Data Source]
+DisplayName=T-Online Mail
+Enabled=true
+Parent=549b3d65caf70d97314d7c0e0b5f2a4a9e088344
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://549b3d65caf70d97314d7c0e0b5f2a4a9e088344/INBOX/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=folder://local/Templates
+StartBottom=inconsistent
+TopSignature=inconsistent
+
+[Mail Identity]
+Address=schmidts.tom@t-online.de
+Aliases=
+Name=Thomas Schmidt
+Organization=
+ReplyTo=
+SignatureUid=none
+
+[Mail Submission]
+SentFolder=folder://549b3d65caf70d97314d7c0e0b5f2a4a9e088344/INBOX/Sent
+TransportUid=064556af0dbb9965cea3f5c334e047b3f1156d23
+RepliesToOriginFolder=false
+UseSentFolder=true

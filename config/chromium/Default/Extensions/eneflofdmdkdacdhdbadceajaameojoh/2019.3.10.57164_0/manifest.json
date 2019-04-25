@@ -1,0 +1,39 @@
+{
+   "app": {
+      "icon_color": "#00AEFF",
+      "launch": {
+         "web_url": "https://www.messenger.com/t/horsey.cloud.54"
+      },
+      "linked_icons": [ {
+         "size": 32,
+         "url": "https://static.xx.fbcdn.net/rsrc.php/y7/r/O6n_HQxozp9.ico"
+      }, {
+         "size": 48,
+         "url": "https://static.xx.fbcdn.net/rsrc.php/y7/r/O6n_HQxozp9.ico"
+      }, {
+         "size": 64,
+         "url": "https://static.xx.fbcdn.net/rsrc.php/y7/r/O6n_HQxozp9.ico"
+      }, {
+         "size": 96,
+         "url": "https://static.xx.fbcdn.net/rsrc.php/y7/r/O6n_HQxozp9.ico"
+      }, {
+         "size": 128,
+         "url": "https://static.xx.fbcdn.net/rsrc.php/y7/r/O6n_HQxozp9.ico"
+      }, {
+         "size": 256,
+         "url": "https://static.xx.fbcdn.net/rsrc.php/y7/r/O6n_HQxozp9.ico"
+      } ]
+   },
+   "description": "",
+   "icons": {
+      "128": "icons/128.png",
+      "256": "icons/256.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "64": "icons/64.png",
+      "96": "icons/96.png"
+   },
+   "key": "qaZWTnA6+dZ4zWR2KJjT41OvDbyiSSm3tLSpj6Sw17M=",
+   "name": "Messenger",
+   "version": "2019.3.10.57164"
+}

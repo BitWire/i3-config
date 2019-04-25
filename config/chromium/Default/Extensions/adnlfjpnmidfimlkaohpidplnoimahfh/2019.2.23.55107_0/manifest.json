@@ -1,0 +1,47 @@
+{
+   "app": {
+      "icon_color": "#FF0000",
+      "launch": {
+         "web_url": "https://www.youtube.com/"
+      },
+      "linked_icons": [ {
+         "size": 16,
+         "url": "https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico"
+      }, {
+         "size": 32,
+         "url": "https://s.ytimg.com/yts/img/favicon_32-vflOogEID.png"
+      }, {
+         "size": 48,
+         "url": "https://s.ytimg.com/yts/img/favicon_48-vflVjB_Qk.png"
+      }, {
+         "size": 64,
+         "url": "https://s.ytimg.com/yts/img/favicon_96-vflW9Ec0w.png"
+      }, {
+         "size": 96,
+         "url": "https://s.ytimg.com/yts/img/favicon_96-vflW9Ec0w.png"
+      }, {
+         "size": 128,
+         "url": "https://s.ytimg.com/yts/img/favicon_144-vfliLAfaB.png"
+      }, {
+         "size": 144,
+         "url": "https://s.ytimg.com/yts/img/favicon_144-vfliLAfaB.png"
+      }, {
+         "size": 256,
+         "url": "https://s.ytimg.com/yts/img/favicon_144-vfliLAfaB.png"
+      } ]
+   },
+   "description": "",
+   "icons": {
+      "128": "icons/128.png",
+      "144": "icons/144.png",
+      "16": "icons/16.png",
+      "256": "icons/256.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "64": "icons/64.png",
+      "96": "icons/96.png"
+   },
+   "key": "264tAgSqSJ4jTrL5A6ASexfHEjhkKMqxK4bF9oqnWGc=",
+   "name": "YouTube",
+   "version": "2019.2.23.55107"
+}

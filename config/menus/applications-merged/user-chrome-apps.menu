@@ -1,0 +1,21 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+    "http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<!-- Do not edit manually - generated and managed by xdg-desktop-menu -->
+<Menu>
+    <Name>Applications</Name>
+<Menu>
+    <Name>chrome-apps</Name>
+    <Directory>chrome-apps.directory</Directory>
+    <Include>
+        <Filename>chrome-gidgenkbbabolejbgbpnhbimgjbffefm-Default.desktop</Filename>
+        <Filename>chrome-fahmaaghhglfmonjliepjlchgpgfmobi-Default.desktop</Filename>
+        <Filename>chrome-gbchcmhmhahfdphkhkmpfmihenigjmpp-Default.desktop</Filename>
+        <Filename>chrome-njhehnieenekbompacofnhlljnobgcga-Default.desktop</Filename>
+        <Filename>chrome-eneflofdmdkdacdhdbadceajaameojoh-Default.desktop</Filename>
+        <Filename>chrome-lddagfjihimnacaabfnfagjcokfmnekc-Default.desktop</Filename>
+        <Filename>chrome-hnpfjngllnobngcgfapefoaidbinmjnm-Default.desktop</Filename>
+        <Filename>chrome-pjibgclleladliembfgfagdaldikeohf-Default.desktop</Filename>
+        <Filename>chrome-gnjnklpjdjebijhmeplhdgbpcpnmndpn-Default.desktop</Filename>
+    </Include>
+</Menu>
+</Menu>

@@ -1,0 +1,2761 @@
+{
+   "1001360787461904844": {
+      "message": "Več možnosti za $TARGET$",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "1026450251988549367": {
+      "message": "Nedavno spremenjeno"
+   },
+   "1035476379650787996": {
+      "message": "Zahteve ni mogoče izpolniti"
+   },
+   "1035734413919296": {
+      "message": "Dodaj glasbo"
+   },
+   "1044946868924904798": {
+      "message": "Ni povezave"
+   },
+   "1046700819368184074": {
+      "message": "Mapa za prenos"
+   },
+   "1047094450854611275": {
+      "message": "Z minipredvajalnikom lahko nadzirate predvajanje glasbe zunaj okna brskalnika, označite skladbe z oznako »Všeč mi je« in predvajate radijsko postajo »Klik na srečo«."
+   },
+   "10524368647766690": {
+      "message": "Št."
+   },
+   "1065557748112539713": {
+      "message": "Začasna ustavitev prenosa glasbe"
+   },
+   "1091846413708174942": {
+      "message": "Vaše poddaje"
+   },
+   "1099947980448260765": {
+      "message": "Odpri Lestvice najbolj priljubljenih"
+   },
+   "1105024870503318889": {
+      "message": "Dodaj mojo glasbo"
+   },
+   "1141501935253936315": {
+      "message": "Poddaje"
+   },
+   "1144407473317535723": {
+      "message": "Naroči"
+   },
+   "1144614654642966892": {
+      "message": "Prekličite pred naslednjim računom, do takrat pa poslušajte."
+   },
+   "1145877575671354635": {
+      "message": "Osveži knjižnico"
+   },
+   "1147358182484006761": {
+      "message": "Trgovina"
+   },
+   "1150285978886683433": {
+      "message": "Preklop ponavljanja med načini izklopljeno, vse in en"
+   },
+   "1152313922995021532": {
+      "message": "64-bitna datoteka .rpm (za operacijski sistem Fedora ali openSUSE)"
+   },
+   "1165829070116929673": {
+      "message": "{NUM_TRANSFERRED_TRACKS_1,plural, =1{ Dodana je bila 1 skladba}one{ Dodana je bila {NUM_TRANSFERRED_TRACKS_2} skladba}two{ Dodani sta bili {NUM_TRANSFERRED_TRACKS_2} skladbi}few{ Dodane so bile {NUM_TRANSFERRED_TRACKS_2} skladbe}other{ Dodanih je bilo {NUM_TRANSFERRED_TRACKS_2} skladb}}"
+   },
+   "1181311234668957012": {
+      "message": "Samodejni seznam predvajanja"
+   },
+   "1182611188595867762": {
+      "message": "2. Ko se namestitveni program odpre, upoštevajte navodila za namestitev Upravitelja glasbe."
+   },
+   "1189933439482480473": {
+      "message": "Dosežena je omejitev števila skladb."
+   },
+   "1218504303426384579": {
+      "message": "Albumi"
+   },
+   "1220984280262077870": {
+      "message": "Brezplačno in kupljeno"
+   },
+   "1227051853106034748": {
+      "message": "Med predogledom ni mogoče iskati"
+   },
+   "1238358838717941284": {
+      "message": "Primer"
+   },
+   "1249846405947826980": {
+      "message": "Prejšnja epizoda"
+   },
+   "1257583932123379891": {
+      "message": "Ogled poddaj glede na"
+   },
+   "1280952737124946671": {
+      "message": "{NUM_PODCASTS,plural, =0{0 poddaj}=1{1 poddaja}one{# poddaja}two{# poddaji}few{# poddaje}other{# poddaj}}"
+   },
+   "1288885129710503327": {
+      "message": "3. Odprite mapo s programi in dvokliknite program Upravitelj glasbe."
+   },
+   "1291021741111868686": {
+      "message": "64-bitna datoteka .deb (za operacijski sistem Debian/Ubuntu)"
+   },
+   "1291623607736913474": {
+      "message": "Brskanje po postajah glede na"
+   },
+   "1294292881529533213": {
+      "message": "Logotip za Google Play Music"
+   },
+   "129923171865835166": {
+      "message": "Radio »Klik na srečo«"
+   },
+   "1303647473723340887": {
+      "message": "Izberite element nad trenutno izbiro"
+   },
+   "131636849522359023": {
+      "message": "Zagotovljeno v skladu z licenco $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "1341185708905265042": {
+      "message": "Št. plošče"
+   },
+   "1348774649041038169": {
+      "message": "Krmarjenje"
+   },
+   "1370021378292702047": {
+      "message": "Skladba »$SONG_TITLE$« je označena kot napačno ujemanje.",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "1372720741032795625": {
+      "message": "Preklop naključnega predvajanja"
+   },
+   "1372788343021542418": {
+      "message": "Če želite uporabljati minipredvajalnik, se prijavite v Glasbo Google Play v spletu."
+   },
+   "1393837337557373364": {
+      "message": "Album"
+   },
+   "1404225614691686373": {
+      "message": "Neomejena glasba$START_BREAK$v Googlu Play",
+      "placeholders": {
+         "START_BREAK": {
+            "content": "$1"
+         }
+      }
+   },
+   "1411257156168420592": {
+      "message": "$ITEM_NAME$, kliknite za izbiro.",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1429336442713571177": {
+      "message": "Seznami skladb"
+   },
+   "1435809990540516997": {
+      "message": "Dodajanje glasbe"
+   },
+   "1464072562214937907": {
+      "message": "Leto"
+   },
+   "147527058386222778": {
+      "message": "Kakovost pretočnega predvajanja"
+   },
+   "1490665788833937521": {
+      "message": "Prenos minipredvajalnika"
+   },
+   "1501458973427096787": {
+      "message": "Poslušajte kar koli brez povezave"
+   },
+   "1504214836895903832": {
+      "message": "Povezave ni bilo mogoče vzpostaviti"
+   },
+   "1517865562673472241": {
+      "message": "1. Počakajte, da namestitveni program konča."
+   },
+   "1529406134757733750": {
+      "message": "{NUM_FAILURES_1,plural, =1{ Ni mogoče prenesti ene skladbe}one{ Ni mogoče prenesti {NUM_FAILURES_2} skladbe}two{ Ni mogoče prenesti {NUM_FAILURES_2} skladb}few{ Ni mogoče prenesti {NUM_FAILURES_2} skladb}other{ Ni mogoče prenesti {NUM_FAILURES_2} skladb}}"
+   },
+   "1573657685592390905": {
+      "message": "Izbira mape ..."
+   },
+   "1575810254412583888": {
+      "message": "Skladbe"
+   },
+   "1595478688335662057": {
+      "message": "Uporabnik Googla"
+   },
+   "1598061158801514509": {
+      "message": "Nadaljevanje prenosa glasbe"
+   },
+   "1607904075839741217": {
+      "message": "Izberite v računalniku"
+   },
+   "1664100143082435029": {
+      "message": "Prekliči"
+   },
+   "1666765550993208796": {
+      "message": "Ali je ujemanje teh skladb napačno?"
+   },
+   "1673135862760647009": {
+      "message": "Radio brez oglasov z neomejenim preskakovanjem"
+   },
+   "1676480944844752785": {
+      "message": "Samodejni seznami predvajanja"
+   },
+   "1686917835491599951": {
+      "message": "Nedavno dodano v Mojo knjižnico"
+   },
+   "1688117822806275177": {
+      "message": "Odstrani iz knjižnice"
+   },
+   "1689044830718067443": {
+      "message": "Namestitev bi se morala samodejno začeti v nekaj sekundah. Potrebujete $START_LINK$pomoč$END_LINK$?",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "1700078784075267898": {
+      "message": "Glasba Google Play"
+   },
+   "1712333098917352630": {
+      "message": "Radio"
+   },
+   "1715373473261069991": {
+      "message": "Twitter"
+   },
+   "1721299725717238391": {
+      "message": "Ste že naročnik. Kuponi so trenutno na voljo samo za nove uporabnike."
+   },
+   "1722592106949807025": {
+      "message": "Shrani dnevnike za odpravljanje napak"
+   },
+   "1726363342938046830": {
+      "message": "Vizitka"
+   },
+   "1729815731089690989": {
+      "message": "Povezani morate biti v internet"
+   },
+   "174952015183967014": {
+      "message": "$TITLE$ – ima poddaje",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "1765521785433616250": {
+      "message": "Prenos se bo kmalu začel. Če se ne, $START_SPAN$kliknite tukaj$END_SPAN$.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "1781759902625939771": {
+      "message": "Neznan izvajalec"
+   },
+   "1790640569414740156": {
+      "message": "Zvrsti"
+   },
+   "1803865475179910876": {
+      "message": "Glasba Google Play za Chrome v okolju $PLATFORM$",
+      "placeholders": {
+         "PLATFORM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1823843876735462104": {
+      "message": "Seznami predvajanja"
+   },
+   "1831178715211281116": {
+      "message": "Za to ponudbo so žal primerne samo nekatere naprave s sistemom Chrome OS. Ali še vedno želite neomejen dostop do glasbe?"
+   },
+   "1838639948466909028": {
+      "message": "Ta stran ni združljiva z vašim brskalnikom. Uporabite enega od $START_LINK$podprtih brskalnikov$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "1850859858333664648": {
+      "message": "Vsa glasba"
+   },
+   "1857207760765836958": {
+      "message": "$START_SPAN$Poslušajte radio brez omejitev preskakovanja$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "1865818889600889051": {
+      "message": "Račun se je spremenil. Če želite nadaljevati, osvežite stran."
+   },
+   "1869199094024141188": {
+      "message": "{NUM_MIXES,plural, =0{0 miksov}=1{1 miks}one{# miks}two{# miksa}few{# miksi}other{# miksov}}"
+   },
+   "1869588215425319728": {
+      "message": "Zapri predal za krmarjenje."
+   },
+   "1872101028863972302": {
+      "message": "Št. prenesenih skladb: $NUM_TRANSFERRED_TRACKS$",
+      "placeholders": {
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$1"
+         }
+      }
+   },
+   "1873654242780262831": {
+      "message": "Izberite element pod trenutno izbiro"
+   },
+   "192481666606780833": {
+      "message": "Glasbe ni mogoče predvajati"
+   },
+   "193503854366151748": {
+      "message": "Oceni trenutno skladbo negativno (palec navzdol)"
+   },
+   "197153323825255063": {
+      "message": "Center za pomoč za zasebnost"
+   },
+   "1980398532913758377": {
+      "message": "Št. računalnikov: $NUM_COMPUTERS$",
+      "placeholders": {
+         "NUM_COMPUTERS": {
+            "content": "$1"
+         }
+      }
+   },
+   "1984987229407697795": {
+      "message": "Poddaje"
+   },
+   "1993805115277775762": {
+      "message": "Št. skladb na zahtevo: $FORMATTED_MUSIC_CATALOG_SIZE$",
+      "placeholders": {
+         "FORMATTED_MUSIC_CATALOG_SIZE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2006786763920466492": {
+      "message": "Datum izbrisa"
+   },
+   "2029980907058777630": {
+      "message": "Pogoji storitve"
+   },
+   "2032972931560484213": {
+      "message": "Avtor: $CREATOR$",
+      "placeholders": {
+         "CREATOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "2038618429165152799": {
+      "message": "Neimenovana"
+   },
+   "2085941577249285555": {
+      "message": "Naročanje"
+   },
+   "2093026227428526289": {
+      "message": "Ta ponudba je na voljo samo v nekaterih novih Chromebookih v državah, v katerih je $START_LINK$na voljo$END_LINK$ storitev naročnine na Glasbo Google Play.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2101525118384454593": {
+      "message": "Izklop naključnega predvajanja skladb"
+   },
+   "2102825898069375693": {
+      "message": "Meni"
+   },
+   "2139100152161431685": {
+      "message": "Glasba iz te naprave začasno ni na voljo. Poskusite znova pozneje. $START_LINK$Pomoč$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2139683490477275175": {
+      "message": "Zapri"
+   },
+   "2145060893030204211": {
+      "message": "Ne moremo vam posredovati več podatkov. Poskusite znova pozneje."
+   },
+   "2149165958319691680": {
+      "message": "Nakup"
+   },
+   "2149839604112465314": {
+      "message": "{NUM_SONGS_1,plural, =0{0 skladb}=1{1 skladba}one{{NUM_SONGS_2} skladba}two{{NUM_SONGS_2} skladbi}few{{NUM_SONGS_2} skladbe}other{{NUM_SONGS_2} skladb}}"
+   },
+   "2152998011161774228": {
+      "message": "g, nato h"
+   },
+   "2158830056128036057": {
+      "message": "Obdelava glasbenih datotek ..."
+   },
+   "2159130950882492111": {
+      "message": "Prekliči"
+   },
+   "2187022653493279712": {
+      "message": "g, nato e"
+   },
+   "2214224657661107347": {
+      "message": "Pošljite darilo"
+   },
+   "2220879710364134067": {
+      "message": "Ureja trenutno izbrane skladbe"
+   },
+   "2239551688895104696": {
+      "message": "Odpiranje ali zapiranje menija za sezname predvajanja"
+   },
+   "2244547550956716142": {
+      "message": "Lestvice najbolj priljubljenih"
+   },
+   "2246437904181111020": {
+      "message": "Glasba Google Play: Izbira map za predstavnost"
+   },
+   "2256597604224604671": {
+      "message": "Zaustavitev: $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2270666830264677427": {
+      "message": "Hkrati lahko prenesete največ toliko skladb: $MAX_TRACKS_IN_ZIP$. Izberite manj skladb in poskusite znova.",
+      "placeholders": {
+         "MAX_TRACKS_IN_ZIP": {
+            "content": "$1"
+         }
+      }
+   },
+   "2277837732287051413": {
+      "message": "Oceni trenutno skladbo pozitivno (palec navzgor)"
+   },
+   "2280774384387096759": {
+      "message": "Glasbo dodate v knjižnico tako, da sem povlečete skladbe ali mape."
+   },
+   "2296431514706414883": {
+      "message": "1. V oknu »Downloads« dvokliknite MusicManager.dmg."
+   },
+   "229748758179155728": {
+      "message": "Glasba Google Play žal ni na voljo v vaši državi."
+   },
+   "2303154715443443305": {
+      "message": "Poteka prenos Upravitelja glasbe ..."
+   },
+   "2303727423829841771": {
+      "message": "Ojoj, morda imate v brskalniku izklopljen JavaScript. Google Play za pravilno delovanje zahteva vklopljeni JavaScript."
+   },
+   "2309808536212982229": {
+      "message": "Dejavnosti"
+   },
+   "2311151671924532713": {
+      "message": "Odstrani s seznama predvajanja"
+   },
+   "2312110731653597036": {
+      "message": "$PERCENTAGE_COMPLETE$ %",
+      "placeholders": {
+         "PERCENTAGE_COMPLETE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2329070756809480856": {
+      "message": "Album: $ALBUM_NAME$",
+      "placeholders": {
+         "ALBUM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "2357805327369816634": {
+      "message": "Naročite se na vso glasbo brez oglasov"
+   },
+   "2359922567074115383": {
+      "message": "Počisti naslovnico albuma"
+   },
+   "2372448112806402757": {
+      "message": "Naslednja epizoda"
+   },
+   "2383360664777254925": {
+      "message": "Odpiranje ali zapiranje menija za krmarjenje"
+   },
+   "2407755817901433243": {
+      "message": "Izkoristite kodo kupona za naročnino na Glasbo Google Play."
+   },
+   "2443885011055165607": {
+      "message": "Izberite paket za prenos:"
+   },
+   "2447745837421769983": {
+      "message": "Če želite najboljšo izkušnjo prenašanja, namestite Glasbo Google Play za Chrome."
+   },
+   "2461177781520343478": {
+      "message": "Neznana skladba"
+   },
+   "2474664417751811820": {
+      "message": "(OZNAČITE SAMO, ČE IMATE TEŽAVE PRI PREDVAJANJU ZVOKA) Ali nam dovolite vpogled v dnevnike predvajanja in odpravljanje napak v računu?"
+   },
+   "2483680006830369490": {
+      "message": "g, nato p"
+   },
+   "2492300395471245755": {
+      "message": "Izvajalec"
+   },
+   "250478839881665936": {
+      "message": "g, nato s"
+   },
+   "2537475974842549685": {
+      "message": "Zapri oglas"
+   },
+   "2540334409214949805": {
+      "message": "$START_LINK$Prijavite se$END_LINK$ in preverite, ali so na voljo ponudbe za Chrome.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2544569632476723854": {
+      "message": "Pogoji"
+   },
+   "2567679469483426925": {
+      "message": "Ta dodatek trenutno ni na voljo."
+   },
+   "2597193119810674616": {
+      "message": "Naročite se na Glasbo Google Play in prejmite toliko dni brezplačne uporabe: $OFFER_LENGTH_DAYS$.",
+      "placeholders": {
+         "OFFER_LENGTH_DAYS": {
+            "content": "$1"
+         }
+      }
+   },
+   "259918799497504180": {
+      "message": "Predlagano: $FIRST$ od $SECOND$",
+      "placeholders": {
+         "FIRST": {
+            "content": "$1"
+         },
+         "SECOND": {
+            "content": "$2"
+         }
+      }
+   },
+   "2605658322936929408": {
+      "message": "Poddaja"
+   },
+   "2626751888211361777": {
+      "message": "Prikaz več najbolj priljubljenih skladb"
+   },
+   "2634703826856398600": {
+      "message": "(št. novih: $NUM_NEW_SONGS$)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "2635933238308036768": {
+      "message": "Upravitelj glasbe je na voljo samo za sisteme Windows, Mac OS in Linux."
+   },
+   "2655732800763953732": {
+      "message": "Takojšen miks $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2662644497259948010": {
+      "message": "Komentar"
+   },
+   "2665785172586453916": {
+      "message": "Oglasna slika, povezana s trenutnim zvočnim oglasom"
+   },
+   "2673412443855817873": {
+      "message": "Ni mi všeč"
+   },
+   "2687424427940533491": {
+      "message": "Kontrolniki za dejavnost"
+   },
+   "2707074873770010705": {
+      "message": "Vaša naprava ni primerna za to ponudbo. Toda brez skrbi, neomejeno število skladb imate na voljo z Glasbo Google Play. Storitev je 30 dni brezplačna."
+   },
+   "2714752802779336020": {
+      "message": "Glasba Google Play"
+   },
+   "2721786517672194900": {
+      "message": "Omejitev ne velja, če prenašate z $START_SPAN$Glasbo Google Play za Chrome$END_SPAN$.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "2728721019095728485": {
+      "message": "Visoka"
+   },
+   "2731202671625726225": {
+      "message": "Upravljanje nastavitev za družino."
+   },
+   "2777498733015254880": {
+      "message": "Pomoč in povratne informacije"
+   },
+   "2787148143326073325": {
+      "message": "Prepoznavanje zvokov za Google Play"
+   },
+   "280973959199634338": {
+      "message": "Prikaži videoposnetek v YouTubu"
+   },
+   "2826705908408853328": {
+      "message": "Nastavitev morate dokončati v Googlu Play. Ko opravite, se boste vrnili v Glasbo Play."
+   },
+   "2834324594183341424": {
+      "message": "Dodajte obstoječo glasbeno zbirko v Google Play"
+   },
+   "2840006222747077107": {
+      "message": "Moja knjižnica je prazna"
+   },
+   "2856670286248433202": {
+      "message": "Oglas"
+   },
+   "2857356182021649243": {
+      "message": "Odpiranje mojih skladb"
+   },
+   "2881621988818346391": {
+      "message": "Da"
+   },
+   "2881776379326317082": {
+      "message": "Vedno uporabi to mesto"
+   },
+   "2896640427519622010": {
+      "message": "Hitre povezave za krmarjenje"
+   },
+   "29046698705387751": {
+      "message": "{NUM_STATIONS,plural, =0{0 postaj}=1{1 postaja}one{# postaja}two{# postaji}few{# postaje}other{# postaj}}"
+   },
+   "2924201210722864904": {
+      "message": "Nakup"
+   },
+   "2933981780439742153": {
+      "message": "Prikaži minipredvajalnik"
+   },
+   "2941843189430218247": {
+      "message": "Shift q"
+   },
+   "2982463607788408741": {
+      "message": "Odjavljeni ste iz Google Računa. Če se želite znova prijaviti, osvežite stran."
+   },
+   "2983216790003568156": {
+      "message": "Varne povezave ni mogoče vzpostaviti"
+   },
+   "3010015422095710725": {
+      "message": "Izbriši celotno mojo knjižnico, vključno s kupljeno glasbo in glasbo, dodano prek naročnine na Glasbo Google Play ($TOTAL_SONGS$)",
+      "placeholders": {
+         "TOTAL_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "302056167930397366": {
+      "message": "Unovči ponudbo"
+   },
+   "3066644656941512863": {
+      "message": "Ojoj, težava pri izbrisu glasbe."
+   },
+   "309901418176428732": {
+      "message": "Poddaje"
+   },
+   "3099741642167775297": {
+      "message": "Prenos"
+   },
+   "310152014457055522": {
+      "message": "Naročite se, če želite predvajati poljubno skladbo ali album"
+   },
+   "311252408333124913": {
+      "message": "Posodobitev nastavitve"
+   },
+   "3117706868107348105": {
+      "message": "Objavite lahko tudi tako, da kopirate in prilepite to povezavo:"
+   },
+   "3120374312076174169": {
+      "message": "{NUM_EPISODES,plural, =0{0 epizod}=1{1 epizoda}one{# epizoda}two{# epizodi}few{# epizode}other{# epizod}}"
+   },
+   "3125342991297920614": {
+      "message": "Albuma ni bilo mogoče odpreti. Poskusite znova."
+   },
+   "3150614832204809552": {
+      "message": "Poddaja: $SERIES_NAME$",
+      "placeholders": {
+         "SERIES_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "315237578086020945": {
+      "message": "Odpiranje mojih izvajalcev"
+   },
+   "31530890844887887": {
+      "message": "Napredek predvajanja"
+   },
+   "3154951825194528737": {
+      "message": "Preklic prenosa glasbe"
+   },
+   "3163044740176820503": {
+      "message": "Začnite"
+   },
+   "3164162886883870754": {
+      "message": "{NUM_SONGS_TO_DELETE,plural, =1{Ali ste prepričani, da želite izbrisati izbrano skladbo?}one{Ali ste prepričani, da želite izbrisati izbrane skladbe?}two{Ali ste prepričani, da želite izbrisati izbrane skladbe?}few{Ali ste prepričani, da želite izbrisati izbrane skladbe?}other{Ali ste prepričani, da želite izbrisati izbrane skladbe?}}"
+   },
+   "3185279424082070029": {
+      "message": "Poskrbite, da se v računalniku, v katerem hranite to skladbo, izvaja Upravitelj glasbe in da ima internetno povezavo. Skladba bo znova prenesena naslednji dan."
+   },
+   "3187115322095111816": {
+      "message": "{VALUE,plural, =0{0 skladb}=1{1 skladba}one{# skladba}two{# skladbi}few{# skladbe}other{# skladb}}"
+   },
+   "3198123723060667787": {
+      "message": "Kdaj"
+   },
+   "3213972439514824911": {
+      "message": "Všeč mi je"
+   },
+   "3225804441370198247": {
+      "message": "Vse moje skladbe – $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3229693790499517570": {
+      "message": "Nove izdaje"
+   },
+   "3244003434432113241": {
+      "message": "Predvajanje"
+   },
+   "3248575677000760820": {
+      "message": "{NUM_SONGS,plural, =0{Za prenos v računalnik niste izbrali nobene skladbe.}=1{Ali ste prepričani, da želite prenesti izbrano skladbo v računalnik?}one{Ali ste prepričani, da želite prenesti izbrane skladbe v računalnik?}two{Ali ste prepričani, da želite prenesti izbrane skladbe v računalnik?}few{Ali ste prepričani, da želite prenesti izbrane skladbe v računalnik?}other{Ali ste prepričani, da želite prenesti izbrane skladbe v računalnik?}}"
+   },
+   "3277700190370010726": {
+      "message": "Ponudba za Glasbo Google Play za uporabnika $START_BOLD$$USER_EMAIL$$END_BOLD$ trenutno ni na voljo. Poskusite znova pozneje.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "START_BOLD": {
+            "content": "$2"
+         },
+         "USER_EMAIL": {
+            "content": "$3"
+         }
+      }
+   },
+   "3307635842875172003": {
+      "message": "Odpri Moje mikse"
+   },
+   "3310099093781584673": {
+      "message": "g, nato m"
+   },
+   "3311269073804742952": {
+      "message": "Poslušajte zdaj"
+   },
+   "3323193679372503780": {
+      "message": "Ne, hvala"
+   },
+   "3326102734049980036": {
+      "message": "Še $DURATION$",
+      "placeholders": {
+         "DURATION": {
+            "content": "$1"
+         }
+      }
+   },
+   "3334073701901432746": {
+      "message": "Prikaz vseh rezultatov iskanja seznamov predvajanja"
+   },
+   "3335728816495350082": {
+      "message": "Najbolj priljubljene skladbe – $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3339989424930162325": {
+      "message": "Prikaz glavnega predvajalnika"
+   },
+   "3342201181237345414": {
+      "message": "Ni nazorno"
+   },
+   "3377006691156456363": {
+      "message": "Povezava za deljenje z drugimi"
+   },
+   "3381844160250536550": {
+      "message": "Prijavite se v Google Chrome"
+   },
+   "3410315382362912156": {
+      "message": "Seznam predvajanja $START_SPAN$$TITLE$$END_SPAN$ je trenutno zaseben. Če ga želite deliti z drugimi, ga nastavite kot javnega.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "3418677553313974490": {
+      "message": "Smetnjak"
+   },
+   "3419681791450150574": {
+      "message": "Potek"
+   },
+   "342127282404571667": {
+      "message": "Glasba Google Play za Chrome OS"
+   },
+   "3430836318571306097": {
+      "message": "Spreminjanje plačilnega sredstva –"
+   },
+   "3431116501598202644": {
+      "message": "Neznan album"
+   },
+   "3462291720620021793": {
+      "message": "Avtor: $OWNER_NAME$",
+      "placeholders": {
+         "OWNER_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "346461448125635284": {
+      "message": "Poslušajte vso svojo glasbo. Kjer koli. Glasbo iz računalnika preprosto dodajte v Google Play."
+   },
+   "3491417595697100862": {
+      "message": "Zagotavlja: $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "3503286865266511120": {
+      "message": "Zmanjša glasnost predvajalnika"
+   },
+   "3519190023725081398": {
+      "message": "g, nato b"
+   },
+   "352192086869301337": {
+      "message": "Dodanih: $START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$ od $NUM_TOTAL_TRACKS$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TOTAL_TRACKS": {
+            "content": "$2"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$3"
+         },
+         "START_SPAN": {
+            "content": "$4"
+         }
+      }
+   },
+   "3530801739313410091": {
+      "message": "Unovčenje kupona za Glasbo Google Play"
+   },
+   "3545785371861413299": {
+      "message": "Začnite brezplačni preskus"
+   },
+   "3545929198870894557": {
+      "message": "Odpri Moje sezname predvajanja"
+   },
+   "3565714850919973591": {
+      "message": "/"
+   },
+   "3583962010571084681": {
+      "message": "Vedno visoka"
+   },
+   "3605470624800934973": {
+      "message": "Ste prepričani, da želite izbrisati izbrani album?"
+   },
+   "3629941396858927174": {
+      "message": "Zapri več možnosti"
+   },
+   "3638177113998814964": {
+      "message": "Nalaganje $TARGET$",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "3643866539136239218": {
+      "message": "Počisti iskanje"
+   },
+   "3650356879337858878": {
+      "message": "Zasebnost in lokacija"
+   },
+   "3693467228074689327": {
+      "message": "Naprej"
+   },
+   "370216116393129031": {
+      "message": "Odpiranje čakalne vrste"
+   },
+   "3748893353086104812": {
+      "message": "Brisanje lokalnega predpomnilnika in osvežitev vseh podatkov o skladbah in seznamih predvajanja."
+   },
+   "3768927257183755959": {
+      "message": "Shrani"
+   },
+   "3782346097595894324": {
+      "message": "Vzpostavitev povezave s strežnikom ni uspela. Poskusite znova pozneje."
+   },
+   "3789779144889291801": {
+      "message": "Preprost prenos glasbe, ki ste jo kupili v Googlu Play ali tja naložili."
+   },
+   "3795262960327716692": {
+      "message": "Če želite dodati skladbo, jo povlecite na ime seznama predvajanja v stranski vrstici"
+   },
+   "3839679337223320857": {
+      "message": "Prijavljeni ste kot $EMAIL$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "3847468592740504132": {
+      "message": "Radio $ITEM_NAME$",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3849149261610050417": {
+      "message": "Odprite Glasbo Google Play"
+   },
+   "3861583677596279097": {
+      "message": "Poročilo zahteva inženirsko obravnavo do konca naslednjega delovnega dne"
+   },
+   "3865248559890962003": {
+      "message": "Predlagano: $SUGGESTION$",
+      "placeholders": {
+         "SUGGESTION": {
+            "content": "$1"
+         }
+      }
+   },
+   "3866082057646051822": {
+      "message": "Izkoristite kupon za Glasbo Google Play"
+   },
+   "3868119883080041455": {
+      "message": "Radio $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "3872632959071287956": {
+      "message": "Pred uporabo aplikacije za Chrome se v spletu prijavite v Glasbo Google Play."
+   },
+   "3885497195825665706": {
+      "message": "Naprej"
+   },
+   "3890078112831612818": {
+      "message": "Poskrbite, da se bo v računalniku, v katerem so shranjene te skladbe, izvajal Upravitelj glasbe in da ima internetno povezavo. Skladbe bodo znova prenesene naslednji dan."
+   },
+   "3897348120591552265": {
+      "message": "Upravljaj"
+   },
+   "3904027274600624417": {
+      "message": "Vsi lahko poiščejo in poslušajo. Idealno za skupno rabo."
+   },
+   "3905289916217023036": {
+      "message": "Trajni izbris vse kupljene ali naložene glasbe."
+   },
+   "392008683752499246": {
+      "message": "Brezplačno dodajte do $FORMATTED_LOCKER_SIZE$ skladb iz svoje zbirke v Google Play.",
+      "placeholders": {
+         "FORMATTED_LOCKER_SIZE": {
+            "content": "$1"
+         }
+      }
+   },
+   "3936240281193464170": {
+      "message": "Osveži"
+   },
+   "3941019069704400974": {
+      "message": "Ali zares želite trajno izbrisati zgodovino, ki se uporablja za prikaz prilagojenih priporočil? S tem ne boste odstranili svojih ocen in števila predvajanj za posamezne skladbe."
+   },
+   "3949911572988594237": {
+      "message": "Ustvari seznam predvajanja"
+   },
+   "3973260061047030021": {
+      "message": "Predvajanje ali začasna ustavitev predvajanja glasbe"
+   },
+   "3973931101896534797": {
+      "message": "Datum"
+   },
+   "3981724709755713539": {
+      "message": "Nedavni seznami predvajanja"
+   },
+   "3982112843644394207": {
+      "message": "2. V oknu za prenose v brskalniku dvokliknite datoteko musicmanagerinstaller.exe, da jo odprete."
+   },
+   "3993484408454658640": {
+      "message": "Nastavitve starševskega nadzora:"
+   },
+   "4018574576796390012": {
+      "message": "Ste prepričani, da želite $START_SPAN$trajno izbrisati$END_SPAN$ seznam predvajanja »$PLAYLIST_NAME$«?",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "PLAYLIST_NAME": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "4021376741882293501": {
+      "message": "Linux"
+   },
+   "4052021127566304266": {
+      "message": "Uredi"
+   },
+   "405696346909038516": {
+      "message": "Ogled rezultatov iskanja vseh poddaj"
+   },
+   "4063027937991598166": {
+      "message": "Brisanje trenutne izbire"
+   },
+   "4071581399160046214": {
+      "message": "Začetna stran"
+   },
+   "4075286221500750156": {
+      "message": "Različica: $VERSION$ $BUILD_MODE$",
+      "placeholders": {
+         "BUILD_MODE": {
+            "content": "$1"
+         },
+         "VERSION": {
+            "content": "$2"
+         }
+      }
+   },
+   "4082846773463542695": {
+      "message": "Računalnika ni bilo mogoče prepoznati."
+   },
+   "4086606389696938932": {
+      "message": "Račun"
+   },
+   "4091426921184034649": {
+      "message": "Nadgradnja naročnine"
+   },
+   "4110926661719376304": {
+      "message": "Več o tem, kako vklopiti JavaScript"
+   },
+   "4117886182866316912": {
+      "message": "Iskanje naprej po trenutni skladbi"
+   },
+   "4136239927282562599": {
+      "message": "Poslušajte radio z glasbo, podobno skladbi $START_SPAN$$TITLE$$END_SPAN$.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "4139665515290249483": {
+      "message": "Ta seznam predvajanja je prazen"
+   },
+   "4141582858389779168": {
+      "message": "Prijavite se za neomejeno glasbo za samo $OFFER_PRICE$ na mesec in takoj ter brez oglasov predvajajte več milijonov skladb.",
+      "placeholders": {
+         "OFFER_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4158639452472568044": {
+      "message": "Ta skladba je označena, ker se ne ujema pravilno."
+   },
+   "4170852783933160433": {
+      "message": "{SONG_COUNT,plural, =1{Izbrana skladba bo namesto izvoda, ki se ujema, uporabila vaš izvod.}one{Izbrane skladbe bodo namesto izvodov, ki se ujemajo, uporabile vaše izvode.}two{Izbrane skladbe bodo namesto izvodov, ki se ujemajo, uporabile vaše izvode.}few{Izbrane skladbe bodo namesto izvodov, ki se ujemajo, uporabile vaše izvode.}other{Izbrane skladbe bodo namesto izvodov, ki se ujemajo, uporabile vaše izvode.}}"
+   },
+   "4183640380235728062": {
+      "message": "Ponavljanje je izklopljeno. Kliknite za spremembo načina ponavljanja."
+   },
+   "4207298621447602833": {
+      "message": "Najboljše ujemanje"
+   },
+   "4210934092144627539": {
+      "message": "Nedavno predvajano ali dodano"
+   },
+   "4214349520294814506": {
+      "message": "$LABEL$, izbrano",
+      "placeholders": {
+         "LABEL": {
+            "content": "$1"
+         }
+      }
+   },
+   "4223772395954115656": {
+      "message": "$START_SPAN$Predvajajte več milijonov skladb kadar koli$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "4250881018175851283": {
+      "message": "Pokaži najnovejše"
+   },
+   "4260036130369028456": {
+      "message": "g, nato g"
+   },
+   "4263959392548297550": {
+      "message": "Prekliči"
+   },
+   "4267092206833736997": {
+      "message": "Radijske postaje"
+   },
+   "4272173055918340921": {
+      "message": "Nalaganje glasbene knjižnice &hellip;"
+   },
+   "4275466320467620600": {
+      "message": "Vedno na vrhu"
+   },
+   "4285216590250755577": {
+      "message": "Napravo morate posodobiti, če želite, da preverimo, ali je primerna za to ponudbo."
+   },
+   "4307428996576001111": {
+      "message": "Na prejšnjo skladbo"
+   },
+   "4323912651038951928": {
+      "message": "S tem boste izbrisali tudi svoje sezname predvajanja, radijske postaje, ocene in podatke o številu predvajanj."
+   },
+   "4330683855002842723": {
+      "message": "Prikaži več možnosti"
+   },
+   "4340616150909089613": {
+      "message": "Ali je skladba »$SONG_TITLE$« ujemanje za drugo skladbo?",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4357737589458300153": {
+      "message": "Tehnologija kodiranja zvoka MPEG Layer-3 se uporablja na podlagi licence organizacije Fraunhofer IIS in podjetja Thomson. Tehnologija Advanced Audio Coding (AAC) se uporablja z licenco podjetja Via Licensing Corporation. Google Play vsebuje tudi programsko opremo tretjih oseb, za katero veljajo posebna obvestila in/ali dodatna določila in pogoji. Ti so objavljeni na naši $START_LINK$strani za razkrivanje podatkov tretjim osebam$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "4373763311924773906": {
+      "message": "Dodajanje glasbe iz: $SOURCE_LIST$",
+      "placeholders": {
+         "SOURCE_LIST": {
+            "content": "$1"
+         }
+      }
+   },
+   "4374547022638899908": {
+      "message": "Blokiranje glasbe, ki so jo ponudniki vsebine označili kot »nazorno«."
+   },
+   "437655423845564400": {
+      "message": "Dosežena je omejitev števila skladb. Naložite lahko največ toliko skladb: $TRACK_LIMIT$.",
+      "placeholders": {
+         "TRACK_LIMIT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4383725505132456525": {
+      "message": "Začasna ustavitev dodajanja glasbe"
+   },
+   "4386455913448027147": {
+      "message": "$ITEM_NAME$",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4387704382811204091": {
+      "message": "Ustvarite lastne sezname predvajanja"
+   },
+   "4396890764725725469": {
+      "message": "Shrani"
+   },
+   "4432809939941276493": {
+      "message": "Glasba Google Play je trenutno na voljo na izbranih območjih za izbrane vrste računov."
+   },
+   "4448959744786615285": {
+      "message": "{COUNT_1,plural, =0{0 skladb}=1{1 skladba}one{{COUNT_2} skladba}two{{COUNT_2} skladbi}few{{COUNT_2} skladbe}other{{COUNT_2} skladb}}"
+   },
+   "445149490695787423": {
+      "message": "Znova se prijavite"
+   },
+   "4452427314943113135": {
+      "message": "Prejšnja"
+   },
+   "4461486069850736796": {
+      "message": "{NUM_SECONDS,plural, =0{0 sekund}=1{1 sekunda}one{# sekunda}two{# sekundi}few{# sekunde}other{# sekund}}"
+   },
+   "4462494623248108758": {
+      "message": "Seznam predvajanja"
+   },
+   "4476647413225813774": {
+      "message": "Ko preteče toliko dni: $OFFER_LENGTH_DAYS$, poslušajte naprej za samo $OFFER_PRICE$ na mesec.",
+      "placeholders": {
+         "OFFER_LENGTH_DAYS": {
+            "content": "$1"
+         },
+         "OFFER_PRICE": {
+            "content": "$2"
+         }
+      }
+   },
+   "4479370175321248159": {
+      "message": "Mac OS X"
+   },
+   "4481282928945235645": {
+      "message": "Nekatere vaše skladbe je treba znova prenesti v strežnik."
+   },
+   "4523347413979510028": {
+      "message": "Videoposnetek v YouTubu"
+   },
+   "4537375385198577563": {
+      "message": "Več o tem"
+   },
+   "4539806158142214585": {
+      "message": "g, nato n"
+   },
+   "4548136982356342217": {
+      "message": "Shift &#8592;"
+   },
+   "4554520729383911291": {
+      "message": "Ustvari takojšen miks iz izbrane skladbe"
+   },
+   "4580988005648117665": {
+      "message": "Iskanje"
+   },
+   "4601938511613873712": {
+      "message": "Moje naprave"
+   },
+   "46135825491334308": {
+      "message": "Izbris glasbe je trajen."
+   },
+   "4624704164651982020": {
+      "message": "Nastavljanje Glasbe Google Play za Chrome ..."
+   },
+   "4629398054050196678": {
+      "message": "Glasba bo prenesena na to mesto:"
+   },
+   "4645609569705949286": {
+      "message": "Samo jaz"
+   },
+   "4648993989034133051": {
+      "message": "Prikaže meni za trenutno izbrano skladbo"
+   },
+   "4658362967039953209": {
+      "message": "Naloži glasbo"
+   },
+   "4662613464573260354": {
+      "message": "Predlagano"
+   },
+   "4687189636655044066": {
+      "message": "Preslednica"
+   },
+   "4709553525160465770": {
+      "message": "Google Play primerja vaše glasbene datoteke z izvodi v našem strežniku, da bi hitreje prenesel glasbo v storitev. Včasih se lahko zgodi, da za skladbo najdemo napačno ujemanje. O težavi nas obvestite tukaj in skladba bo znova prenesena."
+   },
+   "4718177503702130030": {
+      "message": "Trenutni čas skladbe: $CURRENT_TIME$",
+      "placeholders": {
+         "CURRENT_TIME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4724245563419948725": {
+      "message": "Google Play naj se posodobi, ko na te lokacije dodam novo glasbo"
+   },
+   "472845696068673335": {
+      "message": "Posodobljena vsebina je bila uspešno naložena"
+   },
+   "4742770396342457517": {
+      "message": "Poslušajte v Glasbi Google Play"
+   },
+   "4743341466695708276": {
+      "message": "Android"
+   },
+   "4769480851867061848": {
+      "message": "Predvajaj $TARGET$",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "4775550080689015987": {
+      "message": "Razlog"
+   },
+   "477988155866276940": {
+      "message": "{NUM_GENRES,plural, =0{0 zvrsti}=1{1 zvrst}one{# zvrst}two{# zvrsti}few{# zvrsti}other{# zvrsti}}"
+   },
+   "4782493710939339680": {
+      "message": "Objavi v Twitterju"
+   },
+   "4846792506513649213": {
+      "message": "Postaje"
+   },
+   "4862902902120611556": {
+      "message": "Prikaz vseh rezultatov iskanja izvajalcev"
+   },
+   "4867246087786788222": {
+      "message": "Vrsta računa:"
+   },
+   "4874337908897060929": {
+      "message": "Dodajanje glasbe je začasno ustavljeno"
+   },
+   "4875592400807861759": {
+      "message": "{NUM_SONGS_TO_DELETE,plural, =1{Ali ste prepričani, da želite {START_SPAN_1}trajno izbrisati{END_SPAN} izbrano skladbo?}one{Ali ste prepričani, da želite {START_SPAN_2}trajno izbrisati{END_SPAN} izbrane skladbe?}two{Ali ste prepričani, da želite {START_SPAN_2}trajno izbrisati{END_SPAN} izbrane skladbe?}few{Ali ste prepričani, da želite {START_SPAN_2}trajno izbrisati{END_SPAN} izbrane skladbe?}other{Ali ste prepričani, da želite {START_SPAN_2}trajno izbrisati{END_SPAN} izbrane skladbe?}}"
+   },
+   "4886126295094352182": {
+      "message": "Glasba Google Play za Chrome"
+   },
+   "4902817035128594900": {
+      "message": "Opis"
+   },
+   "4916816672463415688": {
+      "message": "Preskusite Glasbo Google Play"
+   },
+   "4920946997448724158": {
+      "message": "Skladatelj"
+   },
+   "4930506384627295710": {
+      "message": "Nastavitve"
+   },
+   "4945228064546795686": {
+      "message": "Prikaz vseh rezultatov iskanja albumov"
+   },
+   "4962022175989879342": {
+      "message": "Nazorno"
+   },
+   "4972659496812307928": {
+      "message": "Prenos glasbe je začasno ustavljen"
+   },
+   "4980580439123922024": {
+      "message": "Izvajalci"
+   },
+   "4982958189718922051": {
+      "message": "Začetna stran Glasbe Google Play"
+   },
+   "4998030835388374541": {
+      "message": "Zamenjaj naslovnico albuma"
+   },
+   "5003850562831597565": {
+      "message": "Nedavno naročeno"
+   },
+   "5004312405043027351": {
+      "message": "Končano"
+   },
+   "5029496897209707807": {
+      "message": "Aplikacijo Glasba Google Play za Chrome je treba posodobiti. To bi se moralo zgoditi samodejno."
+   },
+   "5043933900720743682": {
+      "message": "Albumi"
+   },
+   "504907426029176372": {
+      "message": "Zadnji dostop:"
+   },
+   "5049432650728491454": {
+      "message": "Brskajte po novih izdajah, lestvicah najbolj priljubljenih, seznamih predvajanja in zvrsteh"
+   },
+   "5067818727161314391": {
+      "message": "Skupna raba z drugimi v Googlu+"
+   },
+   "5080822706931608370": {
+      "message": "{NUM_ALBUMS,plural, =0{0 albumov}=1{1 album}one{# album}two{# albuma}few{# albumi}other{# albumov}}"
+   },
+   "5085509606319320198": {
+      "message": "Zapiranje čakalne vrste"
+   },
+   "5117284791649421953": {
+      "message": "Zgodovina Glasbe Play"
+   },
+   "5119663120731608161": {
+      "message": "Če si želite ogledati najnovejše skladbe, odprite seznam predvajanja $START_LINK$Zadnje dodano$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "5125947296792815314": {
+      "message": "{NUM_SKIPS,plural, =1{Preskočite lahko še enkrat}one{Preskočite lahko še #-krat}two{Preskočite lahko še #-krat}few{Preskočite lahko še #-krat}other{Preskočite lahko še #-krat}}"
+   },
+   "5128240607770067472": {
+      "message": "Vizitka …"
+   },
+   "5141725357376719861": {
+      "message": "Št. prenesenih: $START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$ od $NUM_TOTAL_TRACKS$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TOTAL_TRACKS": {
+            "content": "$2"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$3"
+         },
+         "START_SPAN": {
+            "content": "$4"
+         }
+      }
+   },
+   "5143432838919500349": {
+      "message": "Iskanje ..."
+   },
+   "5154374028369457456": {
+      "message": "Orodna vrstica za krmarjenje"
+   },
+   "5161411570094992408": {
+      "message": "Ne zdaj"
+   },
+   "5188231675115376764": {
+      "message": "Odpri Moje postaje"
+   },
+   "5237204164514638395": {
+      "message": "Pošiljanje darila"
+   },
+   "5274506773583039432": {
+      "message": "Ali ste prepričani, da želite $START_SPAN$trajno izbrisati$END_SPAN$ izbrani seznam predvajanja?",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "5302287499843369186": {
+      "message": "Nastavljanje Glasbe Google Play"
+   },
+   "5316998074277327666": {
+      "message": "Deli vsebine so avtorsko zaščitena dela © družbe Gracenote ali njenih ponudnikov."
+   },
+   "5324332666649007562": {
+      "message": "{NUM_SONGS_TO_EXPUNGE,plural, =1{Ali ste prepričani, da želite {START_SPAN_1}trajno izbrisati{END_SPAN} izbrano skladbo?}one{Ali ste prepričani, da želite {START_SPAN_2}trajno izbrisati{END_SPAN} izbrane skladbe?}two{Ali ste prepričani, da želite {START_SPAN_2}trajno izbrisati{END_SPAN} izbrane skladbe?}few{Ali ste prepričani, da želite {START_SPAN_2}trajno izbrisati{END_SPAN} izbrane skladbe?}other{Ali ste prepričani, da želite {START_SPAN_2}trajno izbrisati{END_SPAN} izbrane skladbe?}}"
+   },
+   "5326351540290142036": {
+      "message": "Prejšnja skladba"
+   },
+   "5346889542079298595": {
+      "message": "Brezplačen radio za vse, kar počnete. Shranite do $FORMATTED_LOCKER_SIZE$ skladb iz svoje osebne zbirke. Naročite se na poslušanje brez povezave in dostop na zahtevo do toliko skladb: $FORMATTED_MUSIC_CATALOG_SIZE$.",
+      "placeholders": {
+         "FORMATTED_LOCKER_SIZE": {
+            "content": "$1"
+         },
+         "FORMATTED_MUSIC_CATALOG_SIZE": {
+            "content": "$2"
+         }
+      }
+   },
+   "5348600594194881699": {
+      "message": "Le sprostite se. Ste že naročeni na Glasbo Google Play."
+   },
+   "5350246280596757721": {
+      "message": "Sorodni izvajalci"
+   },
+   "5370332239555585516": {
+      "message": "Vsa glasba, nič oglasov"
+   },
+   "5379453108698089622": {
+      "message": "Odpiranje »Poslušajte zdaj«"
+   },
+   "5393158295657392839": {
+      "message": "Skladbe, označene kot napačno ujemanje."
+   },
+   "5395035563228151731": {
+      "message": "Stanje računa:"
+   },
+   "5407092932504462689": {
+      "message": "Prikaz vseh rezultatov iskanja radijskih postaj"
+   },
+   "5410695385284979104": {
+      "message": "Miks $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "541213310813871561": {
+      "message": "Nastavitve za družino"
+   },
+   "5432330868773114140": {
+      "message": "Zaženi radio"
+   },
+   "5444318821310889944": {
+      "message": "{COUNT_1,plural, =0{0 epizod}=1{1 epizoda}one{{COUNT_2} epizoda}two{{COUNT_2} epizodi}few{{COUNT_2} epizode}other{{COUNT_2} epizod}}"
+   },
+   "545173546103184657": {
+      "message": "Google Račun:"
+   },
+   "5452218284042451605": {
+      "message": "Če želite uporabiti kupon za $START_SPAN$$USER_EMAIL$$END_SPAN$, spodaj vnesite kodo",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "USER_EMAIL": {
+            "content": "$3"
+         }
+      }
+   },
+   "5464364716831469679": {
+      "message": "Neznan album"
+   },
+   "5480320305561124595": {
+      "message": "Moja knjižnica"
+   },
+   "548629550059508920": {
+      "message": "Ni mogoče naložiti, ker že nalagate iz dveh računov."
+   },
+   "5492320356892382782": {
+      "message": "Trajno izbriši"
+   },
+   "5497512316841934820": {
+      "message": "Miks »Klik na srečo«"
+   },
+   "5497627646066282315": {
+      "message": "Vzpostavljanje povezave"
+   },
+   "550380163414655031": {
+      "message": "Nato vas bomo povprašali o okusu, da vam bomo lahko pomagali odkriti skladbe po vaši meri."
+   },
+   "5518817744725858296": {
+      "message": "Izvajalec nastopa v vaši bližini"
+   },
+   "5535160370665610524": {
+      "message": "Previjanje nazaj po trenutni skladbi"
+   },
+   "5578390534357178026": {
+      "message": "V Chrome morate biti prijavljeni z istim Google Računom."
+   },
+   "5584189341216439776": {
+      "message": "Dodajte svojo glasbo"
+   },
+   "5586233271963962252": {
+      "message": "Naslednja skladba"
+   },
+   "5593848105713936399": {
+      "message": "Čakalna vrsta"
+   },
+   "5594762259680838005": {
+      "message": "Nedavno kupljeno"
+   },
+   "5605692130698677333": {
+      "message": "Ali potrebujete pomoč pri prenosu glasbe iz računalnika, kamor ste že namestili Upravitelja Glasbe Google Play?"
+   },
+   "560627050344405345": {
+      "message": "Preskoči naprej za 30 sekund"
+   },
+   "5607000992339442129": {
+      "message": "Svojo glasbeno zbirko lahko v Google Play začnete prenašati že v nekaj minutah."
+   },
+   "5631364725702248876": {
+      "message": "Brskanje po postajah"
+   },
+   "5635270894887625192": {
+      "message": "$START_UNORDERED_LIST$$START_ITEM$$START_DIV_1$$END_DIV$$START_SPAN$V Googlu Play lahko brezplačno hranite do $FORMATTED_LOCKER_SIZE$ skladb.$END_SPAN$$END_ITEM$$START_ITEM$$START_DIV_2$$END_DIV$$START_SPAN$Dodajte svojo zbirko iz predvajalnikov iTunes ali Windows Media Player oziroma iz map.$END_SPAN$$END_ITEM$$START_ITEM$$START_DIV_3$$END_DIV$$START_SPAN$Poslušajte v mobilnih napravah ali spletu brez nepotrebnih kablov in sinhroniziranja.$END_SPAN$$END_ITEM$$END_UNORDERED_LIST$",
+      "placeholders": {
+         "END_DIV": {
+            "content": "$1"
+         },
+         "END_ITEM": {
+            "content": "$2"
+         },
+         "END_SPAN": {
+            "content": "$3"
+         },
+         "END_UNORDERED_LIST": {
+            "content": "$4"
+         },
+         "FORMATTED_LOCKER_SIZE": {
+            "content": "$5"
+         },
+         "START_DIV_1": {
+            "content": "$6"
+         },
+         "START_DIV_2": {
+            "content": "$7"
+         },
+         "START_DIV_3": {
+            "content": "$8"
+         },
+         "START_ITEM": {
+            "content": "$9"
+         },
+         "START_SPAN": {
+            "content": "$10"
+         },
+         "START_UNORDERED_LIST": {
+            "content": "$11"
+         }
+      }
+   },
+   "5671499827182863671": {
+      "message": "Odjavljeni ste iz tega računa. Kliknite spodnji gumb, če se želite vrniti v glasbo."
+   },
+   "5729733224544981434": {
+      "message": "Dodajte Glasbo Google Play za Chrome, če želite omogočiti vlečenje in spuščanje"
+   },
+   "5769804815976568558": {
+      "message": "Izbira mesta za prenos"
+   },
+   "5827343664961087180": {
+      "message": "Naročanje"
+   },
+   "5832435837238304779": {
+      "message": "Predvajanje seznama predvajanja $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "585739095777961817": {
+      "message": "Avtor:"
+   },
+   "5862309805277852777": {
+      "message": "Ime"
+   },
+   "5863523793538309428": {
+      "message": "Poteka brisanje glasbe. To lahko traja nekaj ur."
+   },
+   "5888141336325862688": {
+      "message": "Odpri Brskanje po postajah"
+   },
+   "5889126665299129466": {
+      "message": "Če želite uporabiti minipredvajalnik, morate biti prijavljeni v Chrome."
+   },
+   "5889904821719049150": {
+      "message": "Poslušajte glasbo v katerem koli računalniku in do desetih napravah. Nalaganje ali prenašanje glasbe z Upraviteljem glasbe ali Glasbo Google Play za Chrome se šteje v omejitev števila naprav."
+   },
+   "5891064527381218201": {
+      "message": "Brezplačno"
+   },
+   "5923830678189377717": {
+      "message": "Hmmm ..."
+   },
+   "5946473117506990177": {
+      "message": "Podarite naročnino na Glasbo Google Play"
+   },
+   "5971001229987621398": {
+      "message": "Predlagana novost"
+   },
+   "5987565417212088924": {
+      "message": "Seznam predvajanja Prepoznavanja zvokov za Google Play"
+   },
+   "5990212441459592050": {
+      "message": "Naj bo javno"
+   },
+   "599493319699637812": {
+      "message": "Naključno predvajanje skladb"
+   },
+   "6028312506269896318": {
+      "message": "Ste prepričani, da želite razveljaviti odobritev za predvajanje glasbe za to napravo?"
+   },
+   "60369026765465265": {
+      "message": "Osveži postajo"
+   },
+   "6037216776738907588": {
+      "message": "Odpiranje mojih zvrsti"
+   },
+   "6062704261604405084": {
+      "message": "Nastavite Glasbo Google Play za Chrome, če želite dodati svojo zbirko glasbe, da jo boste lahko poslušali v telefonu, tabličnem računalniku in računalniku."
+   },
+   "6062911693359625717": {
+      "message": "Bitna hitrost: $BITRATE$",
+      "placeholders": {
+         "BITRATE": {
+            "content": "$1"
+         }
+      }
+   },
+   "6068863249628617875": {
+      "message": "Preskusite"
+   },
+   "607779708716020188": {
+      "message": "…"
+   },
+   "6080972150136904755": {
+      "message": "Ta seznam predvajanja je trenutno prazen"
+   },
+   "6082171864197428613": {
+      "message": "Namesti"
+   },
+   "609463966491943885": {
+      "message": "Izbira map"
+   },
+   "6097429778714195840": {
+      "message": "Odpri Nove izdaje"
+   },
+   "6104044107385556653": {
+      "message": "Pri kodah kuponov je treba upoštevati male in velike črke"
+   },
+   "6115840172404094036": {
+      "message": "Na naslednjo skladbo"
+   },
+   "6134905866550808378": {
+      "message": "Vse moje skladbe – $GENRE_NAME$",
+      "placeholders": {
+         "GENRE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "6176916746057281482": {
+      "message": "Ogled podrobnosti epizode"
+   },
+   "6182267200530067545": {
+      "message": "Nastavite ponavljajočo se naročnino, da se glasba ne neha."
+   },
+   "6202991870072245705": {
+      "message": "Odjava"
+   },
+   "6214362172197372800": {
+      "message": "Preden nadaljujete, v računalnik prenesite kopije vseh nakupov v Googlu Play."
+   },
+   "6227307047241266902": {
+      "message": "meni z več možnostmi"
+   },
+   "6233107584508657559": {
+      "message": "Povezave z Googlom ni bilo mogoče vzpostaviti"
+   },
+   "6233799104785293347": {
+      "message": "Nadgradnja"
+   },
+   "6242354668932209396": {
+      "message": "Vse skladbe se ponovijo. Kliknite za spremembo načina ponavljanja."
+   },
+   "624560585652958729": {
+      "message": "Razveljavi odobritev"
+   },
+   "6254019915482435769": {
+      "message": "Plošče"
+   },
+   "6263911096488435737": {
+      "message": "Osveži miks"
+   },
+   "6266962164598137510": {
+      "message": "Ni mi všeč"
+   },
+   "6295780096198935300": {
+      "message": "Prikaz vseh rezultatov iskanja skladb"
+   },
+   "6321629750851370838": {
+      "message": "Predvajanje"
+   },
+   "6334800505555910746": {
+      "message": "Zagotavlja: $XXX_1$ v skladu z licenco $XXX_2$",
+      "placeholders": {
+         "XXX_1": {
+            "content": "$1"
+         },
+         "XXX_2": {
+            "content": "$2"
+         }
+      }
+   },
+   "6338543385295715171": {
+      "message": "Napaka pri prenosu."
+   },
+   "6348993545995904615": {
+      "message": "Naključno predvajaj"
+   },
+   "6360340926892934518": {
+      "message": "Dodaj mapo"
+   },
+   "6385838952512467617": {
+      "message": "{NUM,plural, =0{Za nobeno skladbo ni na voljo samo še en prenos.}=1{Za »{XXX_1}« je na voljo samo en še prenos.}=2{Za »{XXX_1}« in »{XXX_2}« je na voljo samo še en prenos.}=3{Za »{XXX_1}«, »{XXX_2}« in »{XXX_3}« je na voljo samo še en prenos.}=4{Za »{XXX_1}«, »{XXX_2}«, »{XXX_3}« in še eno drugo izbrano skladbo je na voljo samo še en prenos.}one{Za »{XXX_1}«, »{XXX_2}«, »{XXX_3}« in še »{XXX_4}« drugo izbrano skladbo je na voljo samo še en prenos.}two{Za »{XXX_1}«, »{XXX_2}«, »{XXX_3}« in še {XXX_4} drugi izbrani skladbi je na voljo samo še en prenos.}few{Za »{XXX_1}«, »{XXX_2}«, »{XXX_3}« in še {XXX_4} druge izbrane skladbe je na voljo samo še en prenos.}other{Za »{XXX_1}«, »{XXX_2}«, »{XXX_3}« in še »{XXX_4}« drugih izbranih skladb je na voljo samo še en prenos.}}"
+   },
+   "6386884903976634321": {
+      "message": "Posodobitev nastavitev"
+   },
+   "6392918669949841614": {
+      "message": "Datum dodajanja"
+   },
+   "6401620758535187625": {
+      "message": "Posodobitev podatkov za plačilo"
+   },
+   "6426880811380367028": {
+      "message": "Zaustavi $TARGET$",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "6439365426343089851": {
+      "message": "Splošno"
+   },
+   "6453809956732788630": {
+      "message": "$START_SPAN$Uživajte v seznamih predvajanja naših zanesenjakov$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "6455589326534311330": {
+      "message": "Omejitev ne velja, če uporabljate $START_SPAN$Upravitelja glasbe$END_SPAN$ za prenos celotne knjižnice v računalnik.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "6463864371052292453": {
+      "message": "Nazorno: vsebina, ki morda ni primerna za otroke"
+   },
+   "6473040876350306456": {
+      "message": "Zgodovina lokacij"
+   },
+   "6482036697464831271": {
+      "message": "Google Play za hiter prenos glasbe v naš strežnik primerja vaše glasbene datoteke z izvodi v strežniku. Včasih se lahko pri primerjavi prepozna napačna skladba. Sporočite nam težavo tu in skladbe bomo popravili, tako da bo namesto napačno prepoznanega izvoda uporabljen vaš izvod."
+   },
+   "6482522612734635310": {
+      "message": "Predvajanje glasbe je tukaj zaustavljeno, ker je videti, da jo poslušate v drugi napravi."
+   },
+   "6482815137654580311": {
+      "message": "Uredi podatke"
+   },
+   "6485379744416240146": {
+      "message": "Všeč mi je"
+   },
+   "6488707262592852720": {
+      "message": "2. V oknu namestitvenega programa povlecite ikono Music Manager na ikono Application."
+   },
+   "6502885021177224543": {
+      "message": "Glasba Google Play: Izbira mape za prenos"
+   },
+   "6504449653938065974": {
+      "message": "Priporočen seznam predvajanja"
+   },
+   "6513265996872955028": {
+      "message": "Dodaj v knjižnico"
+   },
+   "6523257069333866790": {
+      "message": "Glasbena knjižnica"
+   },
+   "6531109671848395983": {
+      "message": "Če želite dodati glasbo, namestite Glasbo Google Play za Chrome."
+   },
+   "6531471505721570155": {
+      "message": "Dobite več"
+   },
+   "6555053572817998410": {
+      "message": "Zaustavitev"
+   },
+   "6562996658473327600": {
+      "message": "Predvaja se:"
+   },
+   "6568036879894576496": {
+      "message": "V Glasbo Google Play bo dodana glasba iz teh map"
+   },
+   "6576943715351613839": {
+      "message": "{DOWNLOAD_COUNT_MAX_1,plural, =1{ Vsako skladbo je mogoče enkrat prenesti v spletu.}one{ Vsako skladbo je mogoče {DOWNLOAD_COUNT_MAX_2}-krat prenesti v spletu.}two{ Vsako skladbo je mogoče {DOWNLOAD_COUNT_MAX_2}-krat prenesti v spletu.}few{ Vsako skladbo je mogoče {DOWNLOAD_COUNT_MAX_2}-krat prenesti v spletu.}other{ Vsako skladbo je mogoče {DOWNLOAD_COUNT_MAX_2}-krat prenesti v spletu.}}"
+   },
+   "65984904390749158": {
+      "message": "Dokončaj"
+   },
+   "66116513409922755": {
+      "message": "Ne"
+   },
+   "6612332818623520965": {
+      "message": "Prišlo je do napake. Poskusite znova."
+   },
+   "6634231960955145278": {
+      "message": "Skladba"
+   },
+   "6638274938129779637": {
+      "message": "Razveljavitev oznake »všeč mi je«"
+   },
+   "6650633628037596693": {
+      "message": "Poskusite znova"
+   },
+   "6650888720096194474": {
+      "message": "Če želite uporabljati minipredvajalnik, morate nastaviti Glasbo Google Play za $START_SPAN$$EMAIL$$END_SPAN$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         },
+         "END_SPAN": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "6652649548557498169": {
+      "message": "Običajna"
+   },
+   "6652787256443519035": {
+      "message": "Neoznačeno"
+   },
+   "6674940684074453217": {
+      "message": "iOS"
+   },
+   "6703444928647322448": {
+      "message": "Ime"
+   },
+   "6704452266937792847": {
+      "message": "Dodaj v knjižnico"
+   },
+   "6706494172112196654": {
+      "message": "Nadgradite na družinski paket, do 6 družinskih članov"
+   },
+   "6716575470159796252": {
+      "message": "Chrome OS"
+   },
+   "6718773735728815040": {
+      "message": "Priporočamo"
+   },
+   "6719382961812623394": {
+      "message": "Pri namestitvi je prišlo do težave"
+   },
+   "6724866564770579816": {
+      "message": "Načini predvajanja"
+   },
+   "6742017901699269182": {
+      "message": "Odpiranje mojih albumov"
+   },
+   "6747414430222084644": {
+      "message": "Dolžina skladbe: $TRACK_LENGTH$",
+      "placeholders": {
+         "TRACK_LENGTH": {
+            "content": "$1"
+         }
+      }
+   },
+   "6790172339432877080": {
+      "message": "»L-mark« je registrirana blagovna znamka, ki označuje, da tukajšnjo vsebino zagotavljajo glasbene založbe in podjetja za videoprodukcijo."
+   },
+   "6814976743136440069": {
+      "message": "V redu"
+   },
+   "6820635381009519748": {
+      "message": "Odstrani iz čakalne vrste"
+   },
+   "6830152735949448199": {
+      "message": "Laboratoriji Glasbe Google Play so preskusni poligon za funkcije, ki še niso pripravljene za splošno uporabo. Lahko se kadar koli spremenijo, nehajo delovati ali izginejo. Uživajte!"
+   },
+   "6839273670547667172": {
+      "message": "Različni izvajalci"
+   },
+   "6840919594921167668": {
+      "message": "Prenesene skladbe si lahko ogledate v računalniku v mapi »Prenosi«."
+   },
+   "6852978731943767591": {
+      "message": "3. Ko se namestitveni program odpre, upoštevajte navodila za namestitev Upravitelja glasbe."
+   },
+   "6857227272497365704": {
+      "message": "Preskok na določeno točko skladbe (možnost 7 izvede pomik na 70 % trajanja)"
+   },
+   "6875485529840056179": {
+      "message": "Pridobite dostop do neomejenega radia in več kot toliko skladb: $FORMATTED_MUSIC_CATALOG_SIZE$.",
+      "placeholders": {
+         "FORMATTED_MUSIC_CATALOG_SIZE": {
+            "content": "$1"
+         }
+      }
+   },
+   "6887831882226099905": {
+      "message": "Ste prepričani, da želite razveljaviti odobritev za dodajanje glasbe za to napravo?"
+   },
+   "6932671848756303275": {
+      "message": "Nizka"
+   },
+   "6940170973585783277": {
+      "message": "Nadgradnja na družinski paket"
+   },
+   "6941609127174167431": {
+      "message": "Preskoči nazaj za 10 sekund"
+   },
+   "6943941659433003765": {
+      "message": "Začni takojšnji miks"
+   },
+   "6962699013778688473": {
+      "message": "Nadaljuj"
+   },
+   "6990699195498598876": {
+      "message": "Najprej prenesite Upravitelja glasbe, ki je na voljo spodaj. To je preprost program za dodajanje glasbenih datotek iz računalnika v Google Play."
+   },
+   "699971906528455934": {
+      "message": "Neznan izvajalec"
+   },
+   "7009828133009731416": {
+      "message": "Brezplačno iz Googla"
+   },
+   "7022070615528435141": {
+      "message": "Izbriši"
+   },
+   "7035822615949880851": {
+      "message": "Glasba iz te naprave začasno ni na voljo. Poskusite znova pozneje. Napaka 442."
+   },
+   "7043080825985118397": {
+      "message": "Razveljavi brisanje"
+   },
+   "7054091192371222228": {
+      "message": " od "
+   },
+   "7062695654404914711": {
+      "message": "Takojšnji miksi"
+   },
+   "7067908984080925888": {
+      "message": "Preberite več"
+   },
+   "7071666053441099517": {
+      "message": "1. V spodnjem levem kotu brskalnikovega okna odprite datoteko MusicManager.dmg."
+   },
+   "7080245643233785574": {
+      "message": "Aplikacija Glasba Google Play za Chrome je naletela na težavo, zato se morate znova prijaviti."
+   },
+   "7090368974279082159": {
+      "message": "Ups"
+   },
+   "709740537382334098": {
+      "message": "Izbriši mojo celotno knjižnico, vključno s kupljeno glasbo ($TOTAL_SONGS$)",
+      "placeholders": {
+         "TOTAL_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7105416082849293719": {
+      "message": "Nedavna dejavnost"
+   },
+   "7110393208916703749": {
+      "message": "Videoposnetki"
+   },
+   "7116872031464114568": {
+      "message": "Prepoznano s Prepoznavanjem zvokov za Google Play"
+   },
+   "7136816542440442290": {
+      "message": "Težava pri nalaganju radijske postaje."
+   },
+   "7182974689040833178": {
+      "message": "Nadaljuj"
+   },
+   "7192513315706728552": {
+      "message": "Napaka strežnika. Poskusite znova pozneje."
+   },
+   "7194376132387780145": {
+      "message": "Tega računalnika ni mogoče odobriti, ker že imate deset naprav."
+   },
+   "7212676589977202933": {
+      "message": "Št. dodanih skladb: $NUM_TRANSFERRED_TRACKS$",
+      "placeholders": {
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7224832103566723854": {
+      "message": "Seznama predvajanja ni bilo mogoče odpreti. Poskusite pozneje."
+   },
+   "7225854335198901823": {
+      "message": "Nižja kakovost porabi manj podatkov."
+   },
+   "7249560357803023328": {
+      "message": "Prenos knjižnice"
+   },
+   "7262284142845767114": {
+      "message": "Všeč mi je"
+   },
+   "7277602889799602415": {
+      "message": "Izbriši Mojo knjižnico"
+   },
+   "7283215568776397157": {
+      "message": "Naložene skladbe:"
+   },
+   "7287006426755387074": {
+      "message": "Poveča glasnost predvajalnika"
+   },
+   "7292878672940239832": {
+      "message": "{NUM_MINUTES,plural, =0{0 minut}=1{1 minuta}one{# minuta}two{# minuti}few{# minute}other{# minut}}"
+   },
+   "7292902857194439444": {
+      "message": "Naprava"
+   },
+   "7293925053370285812": {
+      "message": "Ponovi se trenutna skladba. Kliknite za spremembo načina ponavljanja."
+   },
+   "729714018676926076": {
+      "message": "Prednaročilo v Glasbi Google Play"
+   },
+   "7299356918464630268": {
+      "message": "Višja kakovost porabi več podatkov"
+   },
+   "730022297859142476": {
+      "message": "Takojšen miks"
+   },
+   "731429515932674572": {
+      "message": "Izklop zvoka"
+   },
+   "7320133162875658022": {
+      "message": "Naloži nove skladbe ($NUM_NEW_SONGS$)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7354536653016090160": {
+      "message": "Lestvice najbolj priljubljenih"
+   },
+   "7354691783317064273": {
+      "message": "Aplikacija za Chrome vzpostavlja povezavo."
+   },
+   "7376787658603979700": {
+      "message": "Nakupujte med več milijoni skladb, od katerih je več sto brezplačnih."
+   },
+   "7410432243549869948": {
+      "message": "Trajanje"
+   },
+   "7411932913365107274": {
+      "message": "Odobritev lahko prekličete za štiri naprave letno."
+   },
+   "741454111929523251": {
+      "message": "Ali ste mislili: $START_LINK$$SUGGESTED_QUERY$$END_LINK$?",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         },
+         "SUGGESTED_QUERY": {
+            "content": "$3"
+         }
+      }
+   },
+   "7417635001613679430": {
+      "message": "Izberite mape ..."
+   },
+   "7422152161839392092": {
+      "message": "Podarite naročnino na Glasbo Google Play"
+   },
+   "7467710920158412786": {
+      "message": "Zasebni seznam predvajanja samo za vas."
+   },
+   "7501747046724259714": {
+      "message": "Uporabnikovih seznamov predvajanja ni bilo mogoče pridobiti. Poskusite znova."
+   },
+   "7502695447103329189": {
+      "message": "Shift &#8594;"
+   },
+   "7512291922236002631": {
+      "message": "Kopirajte in prilepite to povezavo, če želite deliti $START_SPAN$$TITLE$$END_SPAN$ z drugimi",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "7515033107202878673": {
+      "message": "Izbira izvajalcev, ki so vam všeč"
+   },
+   "7535122927261158198": {
+      "message": "Zadnje dodano"
+   },
+   "7546873952682838388": {
+      "message": "Glasba iz tega računalnika"
+   },
+   "756024699361489239": {
+      "message": "Naključno predvajaj"
+   },
+   "756532847162987514": {
+      "message": "($XXX$)",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "7569000733095186860": {
+      "message": "Napaka pri posodobitvi vsebine"
+   },
+   "7572946295452220765": {
+      "message": "Navodila za namestitev"
+   },
+   "7587796626090923635": {
+      "message": "{COUNT_1,plural, =0{0 predvajanj}=1{1 predvajanje}one{{COUNT_2} predvajanje}two{{COUNT_2} predvajanji}few{{COUNT_2} predvajanja}other{{COUNT_2} predvajanj}}"
+   },
+   "7592349062857393820": {
+      "message": "g, nato t"
+   },
+   "7599424290971072767": {
+      "message": "Zvrst"
+   },
+   "7604883230326131491": {
+      "message": "Seznam predvajanja $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7605394550777137111": {
+      "message": "Prenos se bo kmalu začel. Če se ne, $START_LINK$kliknite tukaj$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "7619560701830330401": {
+      "message": "Nalaganje"
+   },
+   "762389150316771008": {
+      "message": "Radio »Klik na srečo«"
+   },
+   "7625459160681249394": {
+      "message": "{NUM_SONGS,plural, =0{Za prenos v računalnik niste izbrali nobene skladbe.}=1{Največje število prenosov za izbrano skladbo je doseženo.}one{Največje število prenosov za izbrane skladbe je doseženo.}two{Največje število prenosov za izbrane skladbe je doseženo.}few{Največje število prenosov za izbrane skladbe je doseženo.}other{Največje število prenosov za izbrane skladbe je doseženo.}}"
+   },
+   "763998168115480566": {
+      "message": "Nimate več preskakovanj. Zagotovite si dostop do več milijonov skladb na zahtevo in v načinu brez povezave."
+   },
+   "7664246845088850317": {
+      "message": "Povezave s strežnikom ni bilo mogoče vzpostaviti. Vrnjena je bila koda napake: "
+   },
+   "7669291472367464463": {
+      "message": "Vnesite e-poštni naslov z domeno @google.com"
+   },
+   "7677669941581940117": {
+      "message": "Google+"
+   },
+   "7743528314734813641": {
+      "message": "Težava pri nalaganju takojšnjega miksa."
+   },
+   "7756401573104983978": {
+      "message": "Računalniški program"
+   },
+   "776736242214904151": {
+      "message": "Kadar koli znova predvajajte tisto skladbo in več milijonov drugih"
+   },
+   "7772875668912229569": {
+      "message": "{NUM_SONGS,plural, =0{0 skladb}=1{1 skladba}one{# skladba}two{# skladbi}few{# skladbe}other{# skladb}}"
+   },
+   "7774266771623079214": {
+      "message": "Glasba Play"
+   },
+   "7783345534551124847": {
+      "message": "Skladbe"
+   },
+   "7801884781403562273": {
+      "message": "Unovčenje"
+   },
+   "7819314041543176992": {
+      "message": "Zapri"
+   },
+   "7832954852370077811": {
+      "message": "Začnite predvajati glasbo ali kliknite ikono $MENU_ICON$ na albumu, skladbi ali seznamu predvajanja, če ga oziroma jo želite dodati v čakalno vrsto.",
+      "placeholders": {
+         "MENU_ICON": {
+            "content": "$1"
+         }
+      }
+   },
+   "7834872082445723495": {
+      "message": "Preklic dodajanja glasbe"
+   },
+   "7873745865358968651": {
+      "message": "{NUM_HOURS,plural, =0{0 ur}=1{1 ura}one{# ura}two{# uri}few{# ure}other{# ur}}"
+   },
+   "7941094066137301803": {
+      "message": "Nadgradite na Google+, če želite začeti deliti vsebino s prijatelji."
+   },
+   "7943877664425892318": {
+      "message": "Odpri predal s seznami predvajanja"
+   },
+   "7947294997516635657": {
+      "message": "Vse je posodobljeno"
+   },
+   "7978348005042781826": {
+      "message": "{VALUE,plural, =0{0 map}=1{1 mapa}one{# mapa}two{# mapi}few{# mape}other{# map}}"
+   },
+   "7980428538910137664": {
+      "message": "Brezplačno in kupljeno"
+   },
+   "7985393396166342590": {
+      "message": "Nadaljevanje dodajanja glasbe"
+   },
+   "7996265599642887416": {
+      "message": "Odstrani iz knjižnice"
+   },
+   "8041472556355834197": {
+      "message": "Kontrolniki predvajalnika"
+   },
+   "8058956869215275454": {
+      "message": "Objavi v Facebooku"
+   },
+   "8110367050267853536": {
+      "message": "Več možnosti"
+   },
+   "8110717721846730575": {
+      "message": "Vklop zvoka"
+   },
+   "8117873518116417445": {
+      "message": "{NUM,plural, =0{Nobena skladba ni presegla omejitve prenosov.}=1{Skladbo »{XXX_1}« ste že prenesli {DOWNLOAD_COUNT_MAX}-krat in ne bo prenesena.}=2{Skladbi »{XXX_1}« in »{XXX_2}« ste že prenesli {DOWNLOAD_COUNT_MAX}-krat in ne bosta preneseni.}=3{Skladbe »{XXX_1}«, »{XXX_2}« in »{XXX_3}« ste že prenesli {DOWNLOAD_COUNT_MAX}-krat in ne bodo prenesene.}=4{Skladbe »{XXX_1}«, »{XXX_2}«, »{XXX_3}« in še eno izbrano skladbo ste že prenesli {DOWNLOAD_COUNT_MAX}-krat in ne bodo prenesene.}one{Skladbe »{XXX_1}«, »{XXX_2}«, »{XXX_3}« in še {XXX_4} izbrano skladbo ste že prenesli {DOWNLOAD_COUNT_MAX}-krat in ne bodo prenesene.}two{Skladbe »{XXX_1}«, »{XXX_2}«, »{XXX_3}« in še {XXX_4} drugi izbrani skladbi ste že prenesli {DOWNLOAD_COUNT_MAX}-krat in ne bodo prenesene.}few{Skladbe »{XXX_1}«, »{XXX_2}«, »{XXX_3}« in še {XXX_4} druge izbrane skladbe ste že prenesli {DOWNLOAD_COUNT_MAX}-krat in ne bodo prenesene.}other{Skladbe »{XXX_1}«, »{XXX_2}«, »{XXX_3}« in še {XXX_4} drugih izbranih skladb ste že prenesli {DOWNLOAD_COUNT_MAX}-krat in ne bodo prenesene.}}"
+   },
+   "8140841959031615975": {
+      "message": "Obveščajte me glede novic in ponudb Glasbe Google Play"
+   },
+   "8144474297019493415": {
+      "message": "Zadnje dodano"
+   },
+   "8167254435928832023": {
+      "message": "Klik na srečo"
+   },
+   "8174689178967388837": {
+      "message": "Št. skladbe"
+   },
+   "8184838044774375710": {
+      "message": "Hkratno predvajanje glasbe v dveh napravah ni mogoče"
+   },
+   "819996403327805209": {
+      "message": "Več o tem"
+   },
+   "8202537648978392187": {
+      "message": "{DOWNLOAD_COUNT_MAX_1,plural, =1{ Prav tako lahko {START_SPAN_1}prenesete neposredno{END_SPAN}, vendar samo {START_SPAN_2}enkrat na skladbo{END_SPAN}.}one{ Prav tako lahko {START_SPAN_1}prenesete neposredno{END_SPAN}, vendar samo {START_SPAN_3}{DOWNLOAD_COUNT_MAX_2}-krat na skladbo{END_SPAN}.}two{ Prav tako lahko {START_SPAN_1}prenesete neposredno{END_SPAN}, vendar samo {START_SPAN_3}{DOWNLOAD_COUNT_MAX_2}-krat na skladbo{END_SPAN}.}few{ Prav tako lahko {START_SPAN_1}prenesete neposredno{END_SPAN}, vendar samo {START_SPAN_3}{DOWNLOAD_COUNT_MAX_2}-krat na skladbo{END_SPAN}.}other{ Prav tako lahko {START_SPAN_1}prenesete neposredno{END_SPAN}, vendar samo {START_SPAN_3}{DOWNLOAD_COUNT_MAX_2}-krat na skladbo{END_SPAN}.}}"
+   },
+   "8216772648076666728": {
+      "message": "Nazorne skladbe so dovoljene."
+   },
+   "8233851949641842866": {
+      "message": "{NUM_FAILURES_1,plural, =1{ Ni mogoče dodati ene skladbe}one{ Ni mogoče dodati {NUM_FAILURES_2} skladbe}two{ Ni mogoče dodati {NUM_FAILURES_2} skladb}few{ Ni mogoče dodati {NUM_FAILURES_2} skladb}other{ Ni mogoče dodati {NUM_FAILURES_2} skladb}}"
+   },
+   "8235345176344531979": {
+      "message": "g, nato a"
+   },
+   "828333935216451744": {
+      "message": "Z naročnino na Glasbo Google Play dobite dostop do več kot $FORMATTED_MUSIC_CATALOG_SIZE$ skladb in neomejenega radia.",
+      "placeholders": {
+         "FORMATTED_MUSIC_CATALOG_SIZE": {
+            "content": "$1"
+         }
+      }
+   },
+   "828700836558117968": {
+      "message": "Glasba Google Play"
+   },
+   "8300572760144032022": {
+      "message": "Ustvarjanje nove radijske postaje z izbrano skladbo"
+   },
+   "8302804816588048941": {
+      "message": "S tem boste izbrisali tudi svoje sezname predvajanja, takojšnje mikse, ocene in podatke o številu predvajanj."
+   },
+   "8325100368677049569": {
+      "message": "Raziskovanje nove glasbe"
+   },
+   "8385464685117997940": {
+      "message": "Nedavno predvajano"
+   },
+   "8395180429531273524": {
+      "message": "Zakaj moja naprava ni primerna?"
+   },
+   "8396767881870375563": {
+      "message": "Prikaz vseh rezultatov iskanja dejavnosti"
+   },
+   "8405156617531647050": {
+      "message": "Videti je, da ste Glasbo Google Play že preskusili."
+   },
+   "840664911413405433": {
+      "message": "Windows"
+   },
+   "840692109692540367": {
+      "message": "Prijava"
+   },
+   "8421838551605999158": {
+      "message": "1. Shranite datoteko musicmanagerinstaller.exe."
+   },
+   "8424326418312855409": {
+      "message": "Pri nastavitvi Glasbe Google Play je prišlo do težave."
+   },
+   "8439955599488894226": {
+      "message": "Pravilnik o zasebnosti"
+   },
+   "8440128775129354214": {
+      "message": "Zasebnost"
+   },
+   "8455196866871985315": {
+      "message": "Prikaz vseh najbolj priljubljenih albumov"
+   },
+   "8455204924704616723": {
+      "message": "Datoteka"
+   },
+   "8477224362193738096": {
+      "message": "Izvajalec: $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "848933194605193751": {
+      "message": "Nedavno gledano v YouTubu"
+   },
+   "851623407011365974": {
+      "message": "Predvajanje glasbe se bo kmalu nadaljevalo"
+   },
+   "8534560073330554352": {
+      "message": "Število predvajanj"
+   },
+   "8542907888351533629": {
+      "message": "..."
+   },
+   "8559735404345611808": {
+      "message": "Dostop na zahtevo do toliko skladb brez oglasov: $FORMATTED_MUSIC_CATALOG_SIZE$. Prenesite skladbe, ki jih želite poslušati brez povezave. Dodajte do $FORMATTED_LOCKER_SIZE$ svojih skladb in jih poslušajte kjer koli.",
+      "placeholders": {
+         "FORMATTED_LOCKER_SIZE": {
+            "content": "$1"
+         },
+         "FORMATTED_MUSIC_CATALOG_SIZE": {
+            "content": "$2"
+         }
+      }
+   },
+   "8564202903947049539": {
+      "message": "Predvajaj"
+   },
+   "8574053857298592408": {
+      "message": "Odpri predal za krmarjenje."
+   },
+   "8602981985283490607": {
+      "message": "$START_LINK$Pomoč za odstranitev Upravitelja glasbe$END_LINK$ iz računalnika.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "8604571003772710870": {
+      "message": "Če želite predvajati, pritisnite shift in enter"
+   },
+   "8606325754052632992": {
+      "message": "Zaradi hitrejšega prenosa glasbe Google Play primerja vaše glasbene datoteke z izvodi v našem strežniku. Včasih se lahko zgodi, da za skladbo najdemo napačno ujemanje. O težavi nas obvestite tukaj in skladbe bodo znova prenesene."
+   },
+   "8608281335099046628": {
+      "message": "Obdelava glasbe ..."
+   },
+   "8619410898472620495": {
+      "message": "Odprite Glasbo Google Play v spletu, če želite nadaljevati predvajanje."
+   },
+   "862440714280873951": {
+      "message": "Vsebuje poddaje"
+   },
+   "8624490471677691415": {
+      "message": "Ogled glasbe glede na"
+   },
+   "8624618794349836904": {
+      "message": "Izbris zgodovine, uporabljene za prikazovanje prilagojenih priporočil in prilagajanje radia. S tem ne izbrišete svojih ocen ali števila predvajanj za posamezne skladbe."
+   },
+   "8639048757911329468": {
+      "message": "Različica NaCl: $START_SPAN$$NACL_VERSION$$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NACL_VERSION": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "8642779049394824811": {
+      "message": "Med poslušanjem radia ni mogoče iskati"
+   },
+   "8679806927601731663": {
+      "message": "Poskusi znova"
+   },
+   "8692453200617588996": {
+      "message": "Izbira zvrsti, ki so vam všeč"
+   },
+   "8700121026680200191": {
+      "message": "Počisti"
+   },
+   "8733921970136713647": {
+      "message": "Preklic naročnine"
+   },
+   "8764339661945610128": {
+      "message": "Pokaži več izvajalcev"
+   },
+   "8790918354594417962": {
+      "message": "Facebook"
+   },
+   "8799945990693183114": {
+      "message": "Laboratoriji"
+   },
+   "880592275679936810": {
+      "message": "Št. dodanih: $START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "8825531460389729800": {
+      "message": "{NUM_PLAYLISTS,plural, =0{0 seznamov predvajanja}=1{1 seznam predvajanja}one{# seznam predvajanja}two{# seznama predvajanja}few{# seznami predvajanja}other{# seznamov predvajanja}}"
+   },
+   "8841049363660529484": {
+      "message": "$ITEM_NAME$, izbrano. Kliknite za preklic izbire.",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "886941024758881610": {
+      "message": "Več skladb"
+   },
+   "8871219022895015530": {
+      "message": "Doda trenutno izbrane skladbe v čakalno vrsto"
+   },
+   "88781093248476711": {
+      "message": "neimenovana"
+   },
+   "8890553633144307762": {
+      "message": "Nazaj"
+   },
+   "8892908795692466458": {
+      "message": "Deljenje z drugimi"
+   },
+   "8910998670732377227": {
+      "message": "Poskusi znova"
+   },
+   "8920100935192456970": {
+      "message": "Prikaz vseh rezultatov iskanja zvrsti"
+   },
+   "8928816882866356838": {
+      "message": "Javno"
+   },
+   "8931700495296520714": {
+      "message": "Zapri minipredvajalnik"
+   },
+   "8936704404804793618": {
+      "message": "Videoposnetki"
+   },
+   "8949306858344607697": {
+      "message": "Javni seznami predvajanja uporabnika $USER_FULL_NAME$",
+      "placeholders": {
+         "USER_FULL_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8953033926734869941": {
+      "message": "Naslov"
+   },
+   "8961985815150856927": {
+      "message": "Nedavno ustvarjeno"
+   },
+   "8969179774064404960": {
+      "message": "Glasnost"
+   },
+   "8971282019539581965": {
+      "message": "Zapiranje pogovornega okna Vizitka"
+   },
+   "8982807952821993986": {
+      "message": "{NUM_TRANSFERRED_TRACKS_1,plural, =1{ Prenesena je bila 1 skladba}one{ Prenesena je bila {NUM_TRANSFERRED_TRACKS_2} skladba}two{ Preneseni sta bili {NUM_TRANSFERRED_TRACKS_2} skladbi}few{ Prenesene so bile {NUM_TRANSFERRED_TRACKS_2} skladbe}other{ Prenesenih je bilo {NUM_TRANSFERRED_TRACKS_2} skladb}}"
+   },
+   "9000028459946302905": {
+      "message": "Izbriši vso glasbo, preneseno v Mojo knjižnico ($UPLOADED_SONGS$)",
+      "placeholders": {
+         "UPLOADED_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "902263003582497446": {
+      "message": "Visoke kakovosti v vseh omrežnih pogojih. V počasnih omrežjih morda poteka medpomnjenje."
+   },
+   "9024489874326845912": {
+      "message": "Priporočeni album"
+   },
+   "9042260521669277115": {
+      "message": "Začasna zaustavitev"
+   },
+   "9049377337845973204": {
+      "message": "Predvajaj: $SONG_NAME$",
+      "placeholders": {
+         "SONG_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "9059560719840598868": {
+      "message": "Pošljite povratne informacije"
+   },
+   "9084816336314899019": {
+      "message": "Nadaljuj"
+   },
+   "9128859482251917046": {
+      "message": "Odpiranje ali zapiranje čakalne vrste"
+   },
+   "9138683078793837147": {
+      "message": "Razveljavitev oznake »ni mi všeč«"
+   },
+   "9143597363285105250": {
+      "message": "Izvajalec albuma"
+   },
+   "9166842143674355091": {
+      "message": "Nedavno"
+   },
+   "9179661003472285430": {
+      "message": "Prenesite Upravitelja glasbe"
+   },
+   "9193901371937110673": {
+      "message": "Ni odobrenih naprav"
+   },
+   "9205544184671349450": {
+      "message": "Videti je, da imate v tem računalniku glasbo."
+   },
+   "9214517335069385090": {
+      "message": "Ali pa ..."
+   },
+   "933914956414602837": {
+      "message": "Google Play za hiter prenos glasbe v naš strežnik primerja vaše glasbene datoteke z izvodi v strežniku. Včasih se lahko pri primerjavi prepozna napačna skladba. Sporočite nam težavo tu in skladbo bomo popravili, tako da bo namesto napačno prepoznanega izvoda uporabljen vaš izvod."
+   },
+   "935985887697278449": {
+      "message": "Ste že naročnik"
+   },
+   "949327761578931377": {
+      "message": "Poslušajte glasbo za $OFFER_PRICE$ na mesec.",
+      "placeholders": {
+         "OFFER_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "953268105555355822": {
+      "message": "Prikaz vseh"
+   },
+   "95869773684474447": {
+      "message": "Napaka pri predvajanju"
+   },
+   "963232722931839477": {
+      "message": "Čakalna vrsta je prazna"
+   },
+   "993762601773196496": {
+      "message": "Predvajanje"
+   },
+   "997890303689941626": {
+      "message": "Prikaz vseh rezultatov iskanja videoposnetkov"
+   }
+}

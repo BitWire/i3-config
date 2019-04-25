@@ -1,0 +1,2761 @@
+{
+   "1001360787461904844": {
+      "message": "$TARGET$: lisää vaihtoehtoja",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "1026450251988549367": {
+      "message": "Muokattu äskettäin"
+   },
+   "1035476379650787996": {
+      "message": "Pyyntöäsi ei voi suorittaa"
+   },
+   "1035734413919296": {
+      "message": "Lisää musiikkia"
+   },
+   "1044946868924904798": {
+      "message": "Ei yhteyttä"
+   },
+   "1046700819368184074": {
+      "message": "Latauskansio"
+   },
+   "1047094450854611275": {
+      "message": "Minisoittimen avulla voit hallita musiikin toistoa selainikkunan ulkopuolella, tykätä kappaleista ja kuunnella Kokeilen onneani -radiokanavaa."
+   },
+   "10524368647766690": {
+      "message": "#"
+   },
+   "1065557748112539713": {
+      "message": "Keskeytetään musiikin lataaminen"
+   },
+   "1091846413708174942": {
+      "message": "Omat podcastit"
+   },
+   "1099947980448260765": {
+      "message": "Siirry suosituimpiin"
+   },
+   "1105024870503318889": {
+      "message": "Lisää musiikkia"
+   },
+   "1141501935253936315": {
+      "message": "Podcastit"
+   },
+   "1144407473317535723": {
+      "message": "Tilaa"
+   },
+   "1144614654642966892": {
+      "message": "Peruuta ennen seuraavaa laskua. Jatka kuuntelemista siihen asti."
+   },
+   "1145877575671354635": {
+      "message": "Päivitä kirjasto"
+   },
+   "1147358182484006761": {
+      "message": "Kauppa"
+   },
+   "1150285978886683433": {
+      "message": "Vaihda jatkuvan toiston tilaa (pois käytöstä, kaikki kappaleet tai yksi kappale)"
+   },
+   "1152313922995021532": {
+      "message": "64-bittinen .rpm (Fedora/openSUSE)"
+   },
+   "1165829070116929673": {
+      "message": "{NUM_TRANSFERRED_TRACKS_1,plural, =1{ 1 kappale lisättiin}other{ {NUM_TRANSFERRED_TRACKS_2} kappaletta lisättiin}}"
+   },
+   "1181311234668957012": {
+      "message": "Automaattinen soittolista"
+   },
+   "1182611188595867762": {
+      "message": "2. Kun asennusohjelma avautuu, tee Music Managerin asetukset annettujen ohjeiden mukaan."
+   },
+   "1189933439482480473": {
+      "message": "Kappaleraja saavutettu."
+   },
+   "1218504303426384579": {
+      "message": "Albumit"
+   },
+   "1220984280262077870": {
+      "message": "Ilmaiset ja ostetut"
+   },
+   "1227051853106034748": {
+      "message": "Esikatseluita ei voi etsiä"
+   },
+   "1238358838717941284": {
+      "message": "Katkelma"
+   },
+   "1249846405947826980": {
+      "message": "Edellinen jakso"
+   },
+   "1257583932123379891": {
+      "message": "Podcastien lajittelujärjestys"
+   },
+   "1280952737124946671": {
+      "message": "{NUM_PODCASTS,plural, =0{0 podcastia}=1{1 podcast}other{# podcastia}}"
+   },
+   "1288885129710503327": {
+      "message": "3. Avaa Sovellus-kansio ja kaksoisklikkaa Music Manageria."
+   },
+   "1291021741111868686": {
+      "message": "64-bittinen .deb (Debian/Ubuntu)"
+   },
+   "1291623607736913474": {
+      "message": "Kanavien lajittelujärjestys"
+   },
+   "1294292881529533213": {
+      "message": "Google Play Musiikki -logo"
+   },
+   "129923171865835166": {
+      "message": "Kokeilen onneani ‑radio"
+   },
+   "1303647473723340887": {
+      "message": "Valitse kohde nykyisen valinnan yläpuolelta"
+   },
+   "131636849522359023": {
+      "message": "Käyttölupa: $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "1341185708905265042": {
+      "message": "Levy"
+   },
+   "1348774649041038169": {
+      "message": "Navigointi"
+   },
+   "1370021378292702047": {
+      "message": "$SONG_TITLE$ on merkitty virheellisesti yhdistetyksi",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "1372720741032795625": {
+      "message": "Vaihda mix päälle tai pois päältä."
+   },
+   "1372788343021542418": {
+      "message": "Jos haluat käyttää minisoitinta, kirjaudu Google Play Musiikkiin verkossa."
+   },
+   "1393837337557373364": {
+      "message": "Albumi"
+   },
+   "1404225614691686373": {
+      "message": "Rajattomasti musiikkia$START_BREAK$Google Playsta",
+      "placeholders": {
+         "START_BREAK": {
+            "content": "$1"
+         }
+      }
+   },
+   "1411257156168420592": {
+      "message": "Valitse $ITEM_NAME$ klikkaamalla.",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1429336442713571177": {
+      "message": "Kappaleluettelot"
+   },
+   "1435809990540516997": {
+      "message": "Lisätään musiikkia"
+   },
+   "1464072562214937907": {
+      "message": "Vuosi"
+   },
+   "147527058386222778": {
+      "message": "Striimauslaatu"
+   },
+   "1490665788833937521": {
+      "message": "Hanki minisoitin"
+   },
+   "1501458973427096787": {
+      "message": "Kuuntele mitä tahansa offline-tilassa"
+   },
+   "1504214836895903832": {
+      "message": "Ei yhteyttä"
+   },
+   "1517865562673472241": {
+      "message": "1. Odota, että asennusohjelma suoritetaan loppuun."
+   },
+   "1529406134757733750": {
+      "message": "{NUM_FAILURES_1,plural, =1{ 1 kappaleen lataaminen epäonnistui.}other{ {NUM_FAILURES_2} kappaleen lataaminen epäonnistui.}}"
+   },
+   "1573657685592390905": {
+      "message": "Valitse kansio…"
+   },
+   "1575810254412583888": {
+      "message": "Kappaleet"
+   },
+   "1595478688335662057": {
+      "message": "Googlen käyttäjä"
+   },
+   "1598061158801514509": {
+      "message": "Jatketaan musiikin lataamista"
+   },
+   "1607904075839741217": {
+      "message": "Valitse tietokoneelta"
+   },
+   "1664100143082435029": {
+      "message": "Peruuta"
+   },
+   "1666765550993208796": {
+      "message": "Onko nämä kappaleet yhdistetty väärin?"
+   },
+   "1673135862760647009": {
+      "message": "Mainokseton radio ja rajattomasti ohituksia"
+   },
+   "1676480944844752785": {
+      "message": "Automaattiset soittolistat"
+   },
+   "1686917835491599951": {
+      "message": "Lisätty omaan kirjastoon äskettäin"
+   },
+   "1688117822806275177": {
+      "message": "Poista kirjastosta"
+   },
+   "1689044830718067443": {
+      "message": "Asennuksen pitäisi alkaa automaattisesti muutaman sekunnin kuluttua. Tarvitsetko $START_LINK$ohjeita$END_LINK$?",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "1700078784075267898": {
+      "message": "Google Play Musiikki"
+   },
+   "1712333098917352630": {
+      "message": "Radio"
+   },
+   "1715373473261069991": {
+      "message": "Twitter"
+   },
+   "1721299725717238391": {
+      "message": "Olet jo tilaaja. Kupongit ovat tällä hetkellä vain uusien käyttäjien käytettävissä."
+   },
+   "1722592106949807025": {
+      "message": "Tallenna vianetsintälokit"
+   },
+   "1726363342938046830": {
+      "message": "Tietoja"
+   },
+   "1729815731089690989": {
+      "message": "Varmista, että olet yhteydessä internetiin"
+   },
+   "174952015183967014": {
+      "message": "$TITLE$ – sisältää podcasteja",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "1765521785433616250": {
+      "message": "Latauksen pitäisi alkaa pian. Jos lataus ei ala, $START_SPAN$klikkaa tätä$END_SPAN$.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "1781759902625939771": {
+      "message": "Tuntematon esittäjä"
+   },
+   "1790640569414740156": {
+      "message": "Lajityypit"
+   },
+   "1803865475179910876": {
+      "message": "Google Play Musiikki Chromelle laitteella, jossa on käytössä $PLATFORM$",
+      "placeholders": {
+         "PLATFORM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1823843876735462104": {
+      "message": "Soittolistat"
+   },
+   "1831178715211281116": {
+      "message": "Valitettavasti mainoskampanja koskee vain tiettyjä Chrome-laitteita. Haluatko silti eroon rajoituksista?"
+   },
+   "1838639948466909028": {
+      "message": "Sivu ei ole yhteensopiva selaimesi kanssa. Käytä $START_LINK$tuettua selainta$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "1850859858333664648": {
+      "message": "Kaikki musiikki"
+   },
+   "1857207760765836958": {
+      "message": "$START_SPAN$Kuuntele radiota ja ohita kappaleita rajoituksetta$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "1865818889600889051": {
+      "message": "Tilisi on muuttunut. Jatka päivittämällä sivu."
+   },
+   "1869199094024141188": {
+      "message": "{NUM_MIXES,plural, =0{0 mixta}=1{1 mix}other{# mixta}}"
+   },
+   "1869588215425319728": {
+      "message": "Sulje navigointipaneeli."
+   },
+   "1872101028863972302": {
+      "message": "$NUM_TRANSFERRED_TRACKS$ kappaletta ladattiin",
+      "placeholders": {
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$1"
+         }
+      }
+   },
+   "1873654242780262831": {
+      "message": "Valitse kohde nykyisen valinnan alapuolelta"
+   },
+   "192481666606780833": {
+      "message": "Musiikin toisto ei onnistu"
+   },
+   "193503854366151748": {
+      "message": "Anna nykyiselle kappaleelle peukalo alaspäin"
+   },
+   "197153323825255063": {
+      "message": "Tietosuojan ohjekeskus"
+   },
+   "1980398532913758377": {
+      "message": "$NUM_COMPUTERS$ tietokonetta",
+      "placeholders": {
+         "NUM_COMPUTERS": {
+            "content": "$1"
+         }
+      }
+   },
+   "1984987229407697795": {
+      "message": "Podcastit"
+   },
+   "1993805115277775762": {
+      "message": "$FORMATTED_MUSIC_CATALOG_SIZE$ kappaletta kuunneltavissa koska vain",
+      "placeholders": {
+         "FORMATTED_MUSIC_CATALOG_SIZE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2006786763920466492": {
+      "message": "Poistettu"
+   },
+   "2029980907058777630": {
+      "message": "Käyttöehdot"
+   },
+   "2032972931560484213": {
+      "message": "Tekijä: $CREATOR$",
+      "placeholders": {
+         "CREATOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "2038618429165152799": {
+      "message": "Nimetön"
+   },
+   "2085941577249285555": {
+      "message": "Tilaa"
+   },
+   "2093026227428526289": {
+      "message": "Tarjous on saatavilla vain tietyillä Chromebookeilla maissa, joissa Google Play Musiikin tilauspalvelu $START_LINK$on saatavilla.$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2101525118384454593": {
+      "message": "Älä sekoita kappaleita"
+   },
+   "2102825898069375693": {
+      "message": "Valikko"
+   },
+   "2139100152161431685": {
+      "message": "Musiikin kuuntelu tällä laitteella ei onnistu juuri nyt. Yritä myöhemmin uudelleen. $START_LINK$Ohje$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2139683490477275175": {
+      "message": "Sulje"
+   },
+   "2145060893030204211": {
+      "message": "Emme voi antaa lisätietoja. Yritä myöhemmin uudelleen."
+   },
+   "2149165958319691680": {
+      "message": "Osta"
+   },
+   "2149839604112465314": {
+      "message": "{NUM_SONGS_1,plural, =0{0 kappaletta}=1{1 kappale}other{{NUM_SONGS_2} kappaletta}}"
+   },
+   "2152998011161774228": {
+      "message": "g ja sitten h"
+   },
+   "2158830056128036057": {
+      "message": "Musiikkitiedostoja käsitellään…"
+   },
+   "2159130950882492111": {
+      "message": "Peruuta"
+   },
+   "2187022653493279712": {
+      "message": "g ja sitten e"
+   },
+   "2214224657661107347": {
+      "message": "Lähetä lahja"
+   },
+   "2220879710364134067": {
+      "message": "Muokkaa valittuja kappaleita"
+   },
+   "2239551688895104696": {
+      "message": "Avaa tai sulje soittolistavalikko."
+   },
+   "2244547550956716142": {
+      "message": "Suosituimpien listat"
+   },
+   "2246437904181111020": {
+      "message": "Google Play Musiikki: valitse mediakansiot"
+   },
+   "2256597604224604671": {
+      "message": "Keskeytä $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2270666830264677427": {
+      "message": "Voit ladata vain $MAX_TRACKS_IN_ZIP$ kappaletta kerralla. Valitse vähemmän kappaleita ja yritä uudelleen.",
+      "placeholders": {
+         "MAX_TRACKS_IN_ZIP": {
+            "content": "$1"
+         }
+      }
+   },
+   "2277837732287051413": {
+      "message": "Anna nykyiselle kappaleelle peukalo ylöspäin"
+   },
+   "2280774384387096759": {
+      "message": "Lisää musiikkia kirjastoosi vetämällä kappaleita tai kansioita tähän."
+   },
+   "2296431514706414883": {
+      "message": "1. Kaksoisklikkaa tiedostoa MusicManager.dmg Lataukset-ikkunassa."
+   },
+   "229748758179155728": {
+      "message": "Valitettavasti Google Play Musiikki ei ole saatavilla maassasi."
+   },
+   "2303154715443443305": {
+      "message": "Music Manager -sovellusta ladataan..."
+   },
+   "2303727423829841771": {
+      "message": "Näyttää siltä, että JavaScript ei ole käytössä selaimessasi. Google Play ei toimi kunnolla, jos JavaScript ei ole käytössä."
+   },
+   "2309808536212982229": {
+      "message": "Toiminnot"
+   },
+   "2311151671924532713": {
+      "message": "Poista soittolistasta"
+   },
+   "2312110731653597036": {
+      "message": "$PERCENTAGE_COMPLETE$ %",
+      "placeholders": {
+         "PERCENTAGE_COMPLETE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2329070756809480856": {
+      "message": "Albumi: $ALBUM_NAME$",
+      "placeholders": {
+         "ALBUM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "2357805327369816634": {
+      "message": "Tilaamalla voit kuunnella kaikkea musiikkia ilman mainoksia."
+   },
+   "2359922567074115383": {
+      "message": "Tyhjennä albumin kansikuva"
+   },
+   "2372448112806402757": {
+      "message": "Seuraava jakso"
+   },
+   "2383360664777254925": {
+      "message": "Avaa tai sulje navigointivalikko"
+   },
+   "2407755817901433243": {
+      "message": "Tilaa Google Play Musiikki lunastamalla tarjouskoodi."
+   },
+   "2443885011055165607": {
+      "message": "Valitse haluamasi latauspaketti:"
+   },
+   "2447745837421769983": {
+      "message": "Saat parhaan latauskokemuksen hankkimalla Google Play Musiikki Chromelle -sovelluksen."
+   },
+   "2461177781520343478": {
+      "message": "Tuntematon kappale"
+   },
+   "2474664417751811820": {
+      "message": "(VALITSE VAIN, JOS SINULLA ON ÄÄNEN TOISTAMISEEN LIITTYVIÄ ONGELMIA) Saammeko luvan tarkastella toiston lokitietoja ja suorittaa tilillä virheenkorjausta?"
+   },
+   "2483680006830369490": {
+      "message": "g ja sitten p"
+   },
+   "2492300395471245755": {
+      "message": "Esittäjä"
+   },
+   "250478839881665936": {
+      "message": "g ja sitten s"
+   },
+   "2537475974842549685": {
+      "message": "Sulje mainos"
+   },
+   "2540334409214949805": {
+      "message": "$START_LINK$Kirjaudu sisään$END_LINK$, niin saatat saada Chrome-herkkuja.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2544569632476723854": {
+      "message": "Ehdot"
+   },
+   "2567679469483426925": {
+      "message": "Laajennus ei ole saatavilla juuri nyt."
+   },
+   "2597193119810674616": {
+      "message": "Tilaa Google Play Musiikki ja kuuntele $OFFER_LENGTH_DAYS$ päivää maksutta.",
+      "placeholders": {
+         "OFFER_LENGTH_DAYS": {
+            "content": "$1"
+         }
+      }
+   },
+   "259918799497504180": {
+      "message": "Ehdotus: $FIRST$/$SECOND$",
+      "placeholders": {
+         "FIRST": {
+            "content": "$1"
+         },
+         "SECOND": {
+            "content": "$2"
+         }
+      }
+   },
+   "2605658322936929408": {
+      "message": "Podcast"
+   },
+   "2626751888211361777": {
+      "message": "Näytä lisää suosittuja kappaleita"
+   },
+   "2634703826856398600": {
+      "message": "($NUM_NEW_SONGS$ uutta)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "2635933238308036768": {
+      "message": "Music Manager on saatavilla vain Windowsille, Macille ja Linuxille."
+   },
+   "2655732800763953732": {
+      "message": "Pikasekoitus: $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2662644497259948010": {
+      "message": "Kommentti"
+   },
+   "2665785172586453916": {
+      "message": "Tämänhetkiseen äänimainokseen liittyvä mainoskuva"
+   },
+   "2673412443855817873": {
+      "message": "Peukalo alas"
+   },
+   "2687424427940533491": {
+      "message": "Toimintojen hallinta"
+   },
+   "2707074873770010705": {
+      "message": "Tämä tarjouskampanja ei koske laitettasi. Mutta älä huoli, voit silti nauttia musiikista rajatta Google Play Musiikin avulla. Maksutta 30 päivän ajan."
+   },
+   "2714752802779336020": {
+      "message": "Google Play Musiikki"
+   },
+   "2721786517672194900": {
+      "message": "Rajoitus ei ole voimassa ladatessasi musiikkia $START_SPAN$Google Play Musiikki Chromelle$END_SPAN$ -sovelluksen avulla.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "2728721019095728485": {
+      "message": "Korkea"
+   },
+   "2731202671625726225": {
+      "message": "Hallinnoi perheasetuksiasi."
+   },
+   "2777498733015254880": {
+      "message": "Ohje ja palaute"
+   },
+   "2787148143326073325": {
+      "message": "Sound Search"
+   },
+   "280973959199634338": {
+      "message": "Näytä YouTube-video"
+   },
+   "2826705908408853328": {
+      "message": "Sinut ohjataan Google Playhin suorittamaan määritys loppuun. Palaat takaisin Play Musiikkiin, kun määritys on valmis."
+   },
+   "2834324594183341424": {
+      "message": "Oman musiikkikokoelmasi lisääminen Google Playhin"
+   },
+   "2840006222747077107": {
+      "message": "Oma kirjasto on tyhjä"
+   },
+   "2856670286248433202": {
+      "message": "Mainos"
+   },
+   "2857356182021649243": {
+      "message": "Siirry omiin kappaleisiin"
+   },
+   "2881621988818346391": {
+      "message": "Kyllä"
+   },
+   "2881776379326317082": {
+      "message": "Käytä aina tätä sijaintia"
+   },
+   "2896640427519622010": {
+      "message": "Pikanavigointilinkit"
+   },
+   "29046698705387751": {
+      "message": "{NUM_STATIONS,plural, =0{0 kanavaa}=1{1 kanava}other{# kanavaa}}"
+   },
+   "2924201210722864904": {
+      "message": "Osta"
+   },
+   "2933981780439742153": {
+      "message": "Näytä minisoitin"
+   },
+   "2941843189430218247": {
+      "message": "Shift q"
+   },
+   "2982463607788408741": {
+      "message": "Olet kirjautunut ulos Google-tilistäsi. Kirjaudu uudelleen sisään päivittämällä sivu."
+   },
+   "2983216790003568156": {
+      "message": "Suojattua yhteyttä ei voi muodostaa."
+   },
+   "3010015422095710725": {
+      "message": "Poista koko kirjastoni, myös ostettu ja Google Play Musiikin tilauksella lisätty musiikki ($TOTAL_SONGS$)",
+      "placeholders": {
+         "TOTAL_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "302056167930397366": {
+      "message": "Lunasta tarjous"
+   },
+   "3066644656941512863": {
+      "message": "Hups, musiikkia poistettaessa tapahtui virhe."
+   },
+   "309901418176428732": {
+      "message": "Podcastit"
+   },
+   "3099741642167775297": {
+      "message": "Lataa"
+   },
+   "310152014457055522": {
+      "message": "Tilaa ja toista mikä tahansa kappale tai albumi"
+   },
+   "311252408333124913": {
+      "message": "Päivitä asetus"
+   },
+   "3117706868107348105": {
+      "message": "Tai kopioi ja liitä tämä linkki:"
+   },
+   "3120374312076174169": {
+      "message": "{NUM_EPISODES,plural, =0{0 jaksoa}=1{1 jakso}other{# jaksoa}}"
+   },
+   "3125342991297920614": {
+      "message": "Albumin avaaminen epäonnistui. Yritä uudelleen."
+   },
+   "3150614832204809552": {
+      "message": "Podcast: $SERIES_NAME$",
+      "placeholders": {
+         "SERIES_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "315237578086020945": {
+      "message": "Siirry omiin artisteihin"
+   },
+   "31530890844887887": {
+      "message": "Seuraa edistymistä"
+   },
+   "3154951825194528737": {
+      "message": "Peruutetaan musiikin lataaminen"
+   },
+   "3163044740176820503": {
+      "message": "Aloita käyttö"
+   },
+   "3164162886883870754": {
+      "message": "{NUM_SONGS_TO_DELETE,plural, =1{Oletko varma, että haluat poistaa valitun kappaleen?}other{Oletko varma, että haluat poistaa valitut kappaleet?}}"
+   },
+   "3185279424082070029": {
+      "message": "Varmista, että tietokone, jolle kappale on tallennettu, käyttää Music Manageria ja on yhteydessä internetiin. Kappale lähetetään uudelleen seuraavan päivän kuluessa."
+   },
+   "3187115322095111816": {
+      "message": "{VALUE,plural, =0{0 kappaletta}=1{1 kappale}other{# kappaletta}}"
+   },
+   "3198123723060667787": {
+      "message": "Milloin"
+   },
+   "3213972439514824911": {
+      "message": "Tykkään"
+   },
+   "3225804441370198247": {
+      "message": "Kaikki omat kappaleet – $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3229693790499517570": {
+      "message": "Uutuudet"
+   },
+   "3244003434432113241": {
+      "message": "Toista"
+   },
+   "3248575677000760820": {
+      "message": "{NUM_SONGS,plural, =0{Et ole valinnut yhtään kappaletta tietokoneelle ladattavaksi.}=1{Oletko varma, että haluat ladata valitun kappaleen tietokoneelle?}other{Oletko varma, että haluat ladata valitut kappaleet tietokoneelle?}}"
+   },
+   "3277700190370010726": {
+      "message": "Google Playn musiikkikampanja käyttäjälle $START_BOLD$$USER_EMAIL$$END_BOLD$ ei ole tällä hetkellä saatavilla. Kokeile myöhemmin uudelleen.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "START_BOLD": {
+            "content": "$2"
+         },
+         "USER_EMAIL": {
+            "content": "$3"
+         }
+      }
+   },
+   "3307635842875172003": {
+      "message": "Siirry omiin sekoituksiin"
+   },
+   "3310099093781584673": {
+      "message": "g ja sitten m"
+   },
+   "3311269073804742952": {
+      "message": "Kuuntele nyt"
+   },
+   "3323193679372503780": {
+      "message": "Ei kiitos"
+   },
+   "3326102734049980036": {
+      "message": "$DURATION$ jäljellä",
+      "placeholders": {
+         "DURATION": {
+            "content": "$1"
+         }
+      }
+   },
+   "3334073701901432746": {
+      "message": "Näytä kaikki haun soittolistatulokset."
+   },
+   "3335728816495350082": {
+      "message": "Suosituimmat kappaleet – $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3339989424930162325": {
+      "message": "Näytä pääsoitin"
+   },
+   "3342201181237345414": {
+      "message": "Sopii kaikille"
+   },
+   "3377006691156456363": {
+      "message": "Jaettava linkki"
+   },
+   "3381844160250536550": {
+      "message": "Kirjaudu Chromeen"
+   },
+   "3410315382362912156": {
+      "message": "$START_SPAN$$TITLE$$END_SPAN$ on tällä hetkellä yksityinen. Aseta soittolista julkiseksi, jos haluat jakaa sen.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "3418677553313974490": {
+      "message": "Roskakori"
+   },
+   "3419681791450150574": {
+      "message": "Edistyminen"
+   },
+   "342127282404571667": {
+      "message": "Google Play Musiikki Chrome-käyttöjärjestelmälle"
+   },
+   "3430836318571306097": {
+      "message": "Vaihda maksutapaa."
+   },
+   "3431116501598202644": {
+      "message": "Tuntematon albumi"
+   },
+   "3462291720620021793": {
+      "message": "Tekijä: $OWNER_NAME$",
+      "placeholders": {
+         "OWNER_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "346461448125635284": {
+      "message": "Kaikki kappaleesi, kuunneltavissa missä tahansa – lisää musiikkia tietokoneeltasi Google Playhin."
+   },
+   "3491417595697100862": {
+      "message": "Lähde: $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "3503286865266511120": {
+      "message": "Pienennä soittimen äänenvoimakkuutta"
+   },
+   "3519190023725081398": {
+      "message": "g ja sitten b"
+   },
+   "352192086869301337": {
+      "message": "$START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$/$NUM_TOTAL_TRACKS$ lisätty",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TOTAL_TRACKS": {
+            "content": "$2"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$3"
+         },
+         "START_SPAN": {
+            "content": "$4"
+         }
+      }
+   },
+   "3530801739313410091": {
+      "message": "Lunasta Google Play Musiikki -kuponki"
+   },
+   "3545785371861413299": {
+      "message": "Aloita ilmainen kokeilujakso"
+   },
+   "3545929198870894557": {
+      "message": "Siirry omiin soittolistoihin"
+   },
+   "3565714850919973591": {
+      "message": "/"
+   },
+   "3583962010571084681": {
+      "message": "Aina korkea laatu"
+   },
+   "3605470624800934973": {
+      "message": "Oletko varma, että haluat poistaa valitun albumin?"
+   },
+   "3629941396858927174": {
+      "message": "Sulje lisäasetukset"
+   },
+   "3638177113998814964": {
+      "message": "$TARGET$: ladataan",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "3643866539136239218": {
+      "message": "Tyhjennä haku"
+   },
+   "3650356879337858878": {
+      "message": "Tietosuoja ja sijainti"
+   },
+   "3693467228074689327": {
+      "message": "Jatka"
+   },
+   "370216116393129031": {
+      "message": "Avaa jono"
+   },
+   "3748893353086104812": {
+      "message": "Tyhjennä paikallinen välimuisti ja päivitä kaikki kappaleiden ja soittolistojen tiedot."
+   },
+   "3768927257183755959": {
+      "message": "Tallenna"
+   },
+   "3782346097595894324": {
+      "message": "Yhteyden muodostaminen palvelimeen epäonnistui. Yritä myöhemmin uudelleen."
+   },
+   "3789779144889291801": {
+      "message": "Lataa helposti Google Playsta ostamaasi tai sinne lähettämääsi musiikkia."
+   },
+   "3795262960327716692": {
+      "message": "Lisää kappale vetämällä se soittolistan nimen kohdalle sivupalkissa"
+   },
+   "3839679337223320857": {
+      "message": "Kirjautunut osoitteella $EMAIL$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "3847468592740504132": {
+      "message": "Radiokanava: $ITEM_NAME$",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3849149261610050417": {
+      "message": "Siirry Google Play Musiikkiin"
+   },
+   "3861583677596279097": {
+      "message": "Raportti täytyy tarkistaa seuraavana arkipäivänä."
+   },
+   "3865248559890962003": {
+      "message": "Ehdotettu: $SUGGESTION$",
+      "placeholders": {
+         "SUGGESTION": {
+            "content": "$1"
+         }
+      }
+   },
+   "3866082057646051822": {
+      "message": "Lunasta Google Play Musiikki -kuponki"
+   },
+   "3868119883080041455": {
+      "message": "Radio: $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "3872632959071287956": {
+      "message": "Sinun on kirjauduttava sisään Google Play Musiikkiin verkossa, ennen kuin voit käyttää Chrome-sovellusta."
+   },
+   "3885497195825665706": {
+      "message": "Seuraava"
+   },
+   "3890078112831612818": {
+      "message": "Varmista, että tietokone, jolle kappale on tallennettu, käyttää Music Manageria ja on yhteydessä internetiin. Kappaleet lähetetään uudelleen seuraavan päivän kuluessa."
+   },
+   "3897348120591552265": {
+      "message": "Hallinnoi"
+   },
+   "3904027274600624417": {
+      "message": "Kaikkien kuunneltavissa. Sopii jaettavaksi."
+   },
+   "3905289916217023036": {
+      "message": "Poista pysyvästi kaikki ostettu ja lähetetty musiikki."
+   },
+   "392008683752499246": {
+      "message": "Lisää Google Playhin maksutta jopa $FORMATTED_LOCKER_SIZE$ kappaletta omasta kokoelmastasi",
+      "placeholders": {
+         "FORMATTED_LOCKER_SIZE": {
+            "content": "$1"
+         }
+      }
+   },
+   "3936240281193464170": {
+      "message": "Päivitä"
+   },
+   "3941019069704400974": {
+      "message": "Haluatko poistaa pysyvästi historian, jonka avulla sinulle tarjotaan räätälöityjä suosituksia? Arvioitasi ja yksittäisten kappaleiden toistokertojasi ei poisteta."
+   },
+   "3949911572988594237": {
+      "message": "Luo soittolista"
+   },
+   "3973260061047030021": {
+      "message": "Toista tai keskeytä musiikki"
+   },
+   "3973931101896534797": {
+      "message": "Päivämäärä"
+   },
+   "3981724709755713539": {
+      "message": "Viimeisimmät soittolistat"
+   },
+   "3982112843644394207": {
+      "message": "2. Käynnistä musicmanagerinstaller.exe-tiedosto kaksoisklikkaamalla sitä selaimen Lataukset-kohdassa."
+   },
+   "3993484408454658640": {
+      "message": "Lapsilukko"
+   },
+   "4018574576796390012": {
+      "message": "Oletko varma, että haluat $START_SPAN$pysyvästi poistaa$END_SPAN$ soittolistan $PLAYLIST_NAME$?",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "PLAYLIST_NAME": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "4021376741882293501": {
+      "message": "Linux"
+   },
+   "4052021127566304266": {
+      "message": "Muokkaa"
+   },
+   "405696346909038516": {
+      "message": "Näytä kaikki podcast-hakutulokset."
+   },
+   "4063027937991598166": {
+      "message": "Poista nykyinen valinta"
+   },
+   "4071581399160046214": {
+      "message": "Etusivu"
+   },
+   "4075286221500750156": {
+      "message": "Versio $VERSION$ $BUILD_MODE$",
+      "placeholders": {
+         "BUILD_MODE": {
+            "content": "$1"
+         },
+         "VERSION": {
+            "content": "$2"
+         }
+      }
+   },
+   "4082846773463542695": {
+      "message": "Tietokonettasi ei tunnistettu."
+   },
+   "4086606389696938932": {
+      "message": "Tili"
+   },
+   "4091426921184034649": {
+      "message": "Päivitä tilaus"
+   },
+   "4110926661719376304": {
+      "message": "Näin voit ottaa JavaScriptin käyttöön"
+   },
+   "4117886182866316912": {
+      "message": "Kelaa nykyistä kappaletta eteenpäin"
+   },
+   "4136239927282562599": {
+      "message": "Kuuntele radiota, joka sisältää samankaltaista musiikkia kuin $START_SPAN$$TITLE$$END_SPAN$.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "4139665515290249483": {
+      "message": "Tämä soittolista on tyhjä."
+   },
+   "4141582858389779168": {
+      "message": "Kuuntele musiikkia rajattomasti hintaan $OFFER_PRICE$ kuukaudessa. Voit kuunnella miljoonia kappaleita välittömästi, ilman mainoksia.",
+      "placeholders": {
+         "OFFER_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4158639452472568044": {
+      "message": "Tämä kappale on merkitty virheellisesti yhdistetyksi."
+   },
+   "4170852783933160433": {
+      "message": "{SONG_COUNT,plural, =1{Valittu kappale käyttää omaa kopiotasi sitä vastaavan palvelinkopion sijaan.}other{Valitut kappaleet käyttävät omia kopioitasi niitä vastaavien palvelinkopioiden sijaan.}}"
+   },
+   "4183640380235728062": {
+      "message": "Jatkuva toisto ei ole käytössä. Vaihda jatkuvan toiston tilaa klikkaamalla."
+   },
+   "4207298621447602833": {
+      "message": "Paras osuma"
+   },
+   "4210934092144627539": {
+      "message": "Äskettäin toistettu tai lisätty"
+   },
+   "4214349520294814506": {
+      "message": "$LABEL$, valittu",
+      "placeholders": {
+         "LABEL": {
+            "content": "$1"
+         }
+      }
+   },
+   "4223772395954115656": {
+      "message": "$START_SPAN$Kuuntele miljoonia kappaleita milloin haluat$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "4250881018175851283": {
+      "message": "Näytä uusimmat"
+   },
+   "4260036130369028456": {
+      "message": "g ja sitten g"
+   },
+   "4263959392548297550": {
+      "message": "Peruuta"
+   },
+   "4267092206833736997": {
+      "message": "Radiokanavat"
+   },
+   "4272173055918340921": {
+      "message": "Ladataan musiikkikirjastoa&hellip;"
+   },
+   "4275466320467620600": {
+      "message": "Aina päällimmäisenä"
+   },
+   "4285216590250755577": {
+      "message": "Sinun täytyy päivittää laitteesi, jotta voimme tarkistaa, kuuluuko se mainoskampanjan piiriin."
+   },
+   "4307428996576001111": {
+      "message": "Siirry edelliseen kappaleeseen"
+   },
+   "4323912651038951928": {
+      "message": "Myös soittolistasi, radiokanavasi, arviosi ja toistokertojen lukumäärätiedot poistetaan."
+   },
+   "4330683855002842723": {
+      "message": "Näytä lisäasetukset"
+   },
+   "4340616150909089613": {
+      "message": "Onko kappale $SONG_TITLE$ yhdistetty toiseen kappaleeseen?",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4357737589458300153": {
+      "message": "MPEG Layer-3 -äänikoodaustekniikka on lisensoitu Fraunhofer IIS:ltä ja Thomsonilta. Advanced Audio Coding (AAC) -tekniikkaa käytetään Via Licensing Corporationin myöntämän lisenssin alaisesti. Google Play sisältää tiettyä kolmannen osapuolen ohjelmistoa, joka vaatii ilmoituksen ja/tai lisäehtoja. Nämä pakolliset kolmannen osapuolen ohjelmistoilmoitukset ja/tai lisäehdot löytyvät $START_LINK$kolmansien osapuolten ilmoitussivultamme$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "4373763311924773906": {
+      "message": "Lisää musiikkia kohteesta $SOURCE_LIST$",
+      "placeholders": {
+         "SOURCE_LIST": {
+            "content": "$1"
+         }
+      }
+   },
+   "4374547022638899908": {
+      "message": "Estä musiikki, jonka sisällöntuottajat ovat merkinneet voimakasta kielenkäyttöä sisältäväksi"
+   },
+   "437655423845564400": {
+      "message": "Kappaleraja saavutettu. Voit lähettää enintään $TRACK_LIMIT$ kappaletta.",
+      "placeholders": {
+         "TRACK_LIMIT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4383725505132456525": {
+      "message": "Keskeytetään musiikin lisääminen"
+   },
+   "4386455913448027147": {
+      "message": "$ITEM_NAME$",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4387704382811204091": {
+      "message": "Luo omia soittolistoja"
+   },
+   "4396890764725725469": {
+      "message": "Tallenna"
+   },
+   "4432809939941276493": {
+      "message": "Google Play Musiikki on saatavilla vain tietyillä alueilla ja tietyille tilityypeille."
+   },
+   "4448959744786615285": {
+      "message": "{COUNT_1,plural, =0{0 kappaletta}=1{1 kappale}other{{COUNT_2} kappaletta}}"
+   },
+   "445149490695787423": {
+      "message": "Kirjaudu sisään uudelleen"
+   },
+   "4452427314943113135": {
+      "message": "Edellinen"
+   },
+   "4461486069850736796": {
+      "message": "{NUM_SECONDS,plural, =0{0 sekuntia}=1{1 sekunti}other{# sekuntia}}"
+   },
+   "4462494623248108758": {
+      "message": "Soittolista"
+   },
+   "4476647413225813774": {
+      "message": "$OFFER_LENGTH_DAYS$ päivän jälkeen voit jatkaa kuuntelemista hintaan $OFFER_PRICE$ kuukaudessa.",
+      "placeholders": {
+         "OFFER_LENGTH_DAYS": {
+            "content": "$1"
+         },
+         "OFFER_PRICE": {
+            "content": "$2"
+         }
+      }
+   },
+   "4479370175321248159": {
+      "message": "Mac OS X"
+   },
+   "4481282928945235645": {
+      "message": "Jotkin kappaleet täytyy lähettää uudelleen."
+   },
+   "4523347413979510028": {
+      "message": "YouTube-video"
+   },
+   "4537375385198577563": {
+      "message": "Lisätietoja"
+   },
+   "4539806158142214585": {
+      "message": "g ja sitten n"
+   },
+   "4548136982356342217": {
+      "message": "Shift &#8592;"
+   },
+   "4554520729383911291": {
+      "message": "Luo uusi pikasekoitus valitusta kappaleesta"
+   },
+   "4580988005648117665": {
+      "message": "Haku"
+   },
+   "4601938511613873712": {
+      "message": "Omat laitteet"
+   },
+   "46135825491334308": {
+      "message": "Musiikki poistetaan pysyvästi."
+   },
+   "4624704164651982020": {
+      "message": "Asennetaan Google Play Musiikkia Chrome-selaimelle…"
+   },
+   "4629398054050196678": {
+      "message": "Lataa musiikki seuraavaan sijaintiin:"
+   },
+   "4645609569705949286": {
+      "message": "Ainoastaan minä"
+   },
+   "4648993989034133051": {
+      "message": "Näyttää valitun kappaleen valikon"
+   },
+   "4658362967039953209": {
+      "message": "Lähetä musiikkia"
+   },
+   "4662613464573260354": {
+      "message": "Ehdotettu"
+   },
+   "4687189636655044066": {
+      "message": "Välilyönti"
+   },
+   "4709553525160465770": {
+      "message": "Nopeuttaakseen musiikin lähettämistä Google Play yhdistää musiikkitiedostosi palvelimellamme oleviin kopioihin. Joskus saatamme kuitenkin yhdistää väärän kappaleen. Ilmoita ongelmasta tässä, niin kappale lähetetään uudelleen."
+   },
+   "4718177503702130030": {
+      "message": "Nyt soivan kappaleen aika: $CURRENT_TIME$",
+      "placeholders": {
+         "CURRENT_TIME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4724245563419948725": {
+      "message": "Päivitä Google Playn tiedot, kun lisään uutta musiikkia näihin paikkoihin"
+   },
+   "472845696068673335": {
+      "message": "Uuden sisällön lataus onnistui."
+   },
+   "4742770396342457517": {
+      "message": "Kuuntele Google Play Musiikissa"
+   },
+   "4743341466695708276": {
+      "message": "Android"
+   },
+   "4769480851867061848": {
+      "message": "Toista $TARGET$",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "4775550080689015987": {
+      "message": "Syy"
+   },
+   "477988155866276940": {
+      "message": "{NUM_GENRES,plural, =0{0 genreä}=1{1 genre}other{# genreä}}"
+   },
+   "4782493710939339680": {
+      "message": "Jaa Twitterissä"
+   },
+   "4846792506513649213": {
+      "message": "Kanavat"
+   },
+   "4862902902120611556": {
+      "message": "Näytä kaikki haun esittäjätulokset."
+   },
+   "4867246087786788222": {
+      "message": "Tilin tyyppi:"
+   },
+   "4874337908897060929": {
+      "message": "Musiikin lisääminen on keskeytetty"
+   },
+   "4875592400807861759": {
+      "message": "{NUM_SONGS_TO_DELETE,plural, =1{Oletko varma, että haluat {START_SPAN_1}poistaa pysyvästi{END_SPAN} valitun kappaleen?}other{Oletko varma, että haluat {START_SPAN_2}poistaa pysyvästi{END_SPAN} valitut kappaleet?}}"
+   },
+   "4886126295094352182": {
+      "message": "Google Play Musiikki Chrome-selaimelle"
+   },
+   "4902817035128594900": {
+      "message": "Kuvaus"
+   },
+   "4916816672463415688": {
+      "message": "Kokeile Google Play Musiikkia"
+   },
+   "4920946997448724158": {
+      "message": "Säveltäjä"
+   },
+   "4930506384627295710": {
+      "message": "Asetukset"
+   },
+   "4945228064546795686": {
+      "message": "Näytä kaikki haun albumitulokset."
+   },
+   "4962022175989879342": {
+      "message": "Vain aikuisille"
+   },
+   "4972659496812307928": {
+      "message": "Musiikin lataaminen on keskeytetty"
+   },
+   "4980580439123922024": {
+      "message": "Artistit"
+   },
+   "4982958189718922051": {
+      "message": "Google Play Musiikin etusivu"
+   },
+   "4998030835388374541": {
+      "message": "Vaihda kansikuva"
+   },
+   "5003850562831597565": {
+      "message": "Tilattu äskettäin"
+   },
+   "5004312405043027351": {
+      "message": "Valmis"
+   },
+   "5029496897209707807": {
+      "message": "Chromen Google Play Musiikki täytyy päivittää. Tämän pitäisi tapahtua automaattisesti."
+   },
+   "5043933900720743682": {
+      "message": "Albumit"
+   },
+   "504907426029176372": {
+      "message": "Viimeksi käytetty:"
+   },
+   "5049432650728491454": {
+      "message": "Selaa uutuuksia, suosituimpia kappaleita, soittolistoja ja lajityyppejä"
+   },
+   "5067818727161314391": {
+      "message": "Jaa Google+:ssa"
+   },
+   "5080822706931608370": {
+      "message": "{NUM_ALBUMS,plural, =0{0 albumia}=1{1 albumi}other{# albumia}}"
+   },
+   "5085509606319320198": {
+      "message": "Sulje jono"
+   },
+   "5117284791649421953": {
+      "message": "Play Musiikki ‑historia"
+   },
+   "5119663120731608161": {
+      "message": "Näet viimeisimmät kappaleesi $START_LINK$Viimeksi lisätyt$END_LINK$ -soittolistassa.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "5125947296792815314": {
+      "message": "{NUM_SKIPS,plural, =1{1 ohitus jäljellä}other{# ohitusta jäljellä}}"
+   },
+   "5128240607770067472": {
+      "message": "Tietoja…"
+   },
+   "5141725357376719861": {
+      "message": "$START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$/$NUM_TOTAL_TRACKS$ ladattu",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TOTAL_TRACKS": {
+            "content": "$2"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$3"
+         },
+         "START_SPAN": {
+            "content": "$4"
+         }
+      }
+   },
+   "5143432838919500349": {
+      "message": "Etsitään…"
+   },
+   "5154374028369457456": {
+      "message": "Navigointipalkki"
+   },
+   "5161411570094992408": {
+      "message": "Ei nyt"
+   },
+   "5188231675115376764": {
+      "message": "Siirry omiin radiokanaviin"
+   },
+   "5237204164514638395": {
+      "message": "Lähetä lahja"
+   },
+   "5274506773583039432": {
+      "message": "Oletko varma, että haluat $START_SPAN$pysyvästi poistaa$END_SPAN$ valitun soittolistan?",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "5302287499843369186": {
+      "message": "Google Play Musiikkia asennetaan"
+   },
+   "5316998074277327666": {
+      "message": "Osia sisällön tekijänoikeuksista &copy; omistaa Gracenote tai sen sisällöntarjoajat."
+   },
+   "5324332666649007562": {
+      "message": "{NUM_SONGS_TO_EXPUNGE,plural, =1{Oletko varma, että haluat {START_SPAN_1}poistaa pysyvästi{END_SPAN} valitun kappaleen?}other{Oletko varma, että haluat {START_SPAN_2}poistaa pysyvästi{END_SPAN} valitut kappaleet?}}"
+   },
+   "5326351540290142036": {
+      "message": "Edellinen kappale"
+   },
+   "5346889542079298595": {
+      "message": "Radiokanavia kaikkiin tilanteisiin maksutta. Tallenna palveluun $FORMATTED_LOCKER_SIZE$ kappaletta omasta kokoelmastasi. Tilaajana voit kuunnella $FORMATTED_MUSIC_CATALOG_SIZE$ kappaleen valikoimaa milloin tahansa – myös offline-tilassa.",
+      "placeholders": {
+         "FORMATTED_LOCKER_SIZE": {
+            "content": "$1"
+         },
+         "FORMATTED_MUSIC_CATALOG_SIZE": {
+            "content": "$2"
+         }
+      }
+   },
+   "5348600594194881699": {
+      "message": "Rentoudu ja nauti, sinulla on jo Google Play Musiikin tilaus!"
+   },
+   "5350246280596757721": {
+      "message": "Samankaltaiset esittäjät"
+   },
+   "5370332239555585516": {
+      "message": "Musiikkia ilman mainoksia"
+   },
+   "5379453108698089622": {
+      "message": "Siirry Kuuntele nyt -osioon"
+   },
+   "5393158295657392839": {
+      "message": "Kappaleet on merkitty virheellisesti yhdistetyiksi."
+   },
+   "5395035563228151731": {
+      "message": "Tilin tila:"
+   },
+   "5407092932504462689": {
+      "message": "Näytä kaikki haun radioasematulokset."
+   },
+   "5410695385284979104": {
+      "message": "$TITLE$ Sekoitus",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "541213310813871561": {
+      "message": "Perheasetukset"
+   },
+   "5432330868773114140": {
+      "message": "Aloita radio"
+   },
+   "5444318821310889944": {
+      "message": "{COUNT_1,plural, =0{0 jaksoa}=1{1 jakso}other{{COUNT_2} jaksoa}}"
+   },
+   "545173546103184657": {
+      "message": "Google-tili:"
+   },
+   "5452218284042451605": {
+      "message": "Lunasta kuponki käyttäjänä $START_SPAN$$USER_EMAIL$$END_SPAN$ antamalla koodisi alla",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "USER_EMAIL": {
+            "content": "$3"
+         }
+      }
+   },
+   "5464364716831469679": {
+      "message": "Tuntematon albumi"
+   },
+   "5480320305561124595": {
+      "message": "Oma kirjasto"
+   },
+   "548629550059508920": {
+      "message": "Lähetys epäonnistui, koska käynnissä on jo lähetys kahdesta tilistä."
+   },
+   "5492320356892382782": {
+      "message": "Poista pysyvästi"
+   },
+   "5497512316841934820": {
+      "message": "Kokeilen onneani -mix"
+   },
+   "5497627646066282315": {
+      "message": "Yhdistetään"
+   },
+   "550380163414655031": {
+      "message": "Kerro seuraavaksi hieman musiikkimaustasi, jotta voimme auttaa sinua löytämään kiinnostavia kappaleita."
+   },
+   "5518817744725858296": {
+      "message": "Esittäjä esiintyy lähellä sijaintiasi"
+   },
+   "5535160370665610524": {
+      "message": "Kelaa nykyistä kappaletta taaksepäin"
+   },
+   "5578390534357178026": {
+      "message": "Varmista, että olet kirjautunut Chromeen samalla Google-tilillä."
+   },
+   "5584189341216439776": {
+      "message": "Lisää musiikkisi"
+   },
+   "5586233271963962252": {
+      "message": "Seuraava kappale"
+   },
+   "5593848105713936399": {
+      "message": "Jono"
+   },
+   "5594762259680838005": {
+      "message": "Ostettu äskettäin"
+   },
+   "5605692130698677333": {
+      "message": "Tarvitsetko ohjeita musiikin lisäämiseen tietokoneelta, jolle olet jo asentanut Google Play Music Managerin?"
+   },
+   "560627050344405345": {
+      "message": "Kelaa 30 sekuntia eteenpäin"
+   },
+   "5607000992339442129": {
+      "message": "Voit aloittaa musiikkikokoelmasi lähettämisen Google Playhin jo muutaman minuutin kuluttua"
+   },
+   "5631364725702248876": {
+      "message": "Selaa kanavia"
+   },
+   "5635270894887625192": {
+      "message": "$START_UNORDERED_LIST$$START_ITEM$$START_DIV_1$$END_DIV$$START_SPAN$Tallenna Google Playhin maksutta jopa $FORMATTED_LOCKER_SIZE$ kappaletta.$END_SPAN$$END_ITEM$$START_ITEM$$START_DIV_2$$END_DIV$$START_SPAN$Lisää oma kokoelmasi iTunesista, Windows Media Playerista tai tallennuskansioista.$END_SPAN$$END_ITEM$$START_ITEM$$START_DIV_3$$END_DIV$$START_SPAN$Kuuntele sisältöä verkossa tai mobiililaitteella kätevästi ilman johtoja tai synkronointia.$END_SPAN$$END_ITEM$$END_UNORDERED_LIST$",
+      "placeholders": {
+         "END_DIV": {
+            "content": "$1"
+         },
+         "END_ITEM": {
+            "content": "$2"
+         },
+         "END_SPAN": {
+            "content": "$3"
+         },
+         "END_UNORDERED_LIST": {
+            "content": "$4"
+         },
+         "FORMATTED_LOCKER_SIZE": {
+            "content": "$5"
+         },
+         "START_DIV_1": {
+            "content": "$6"
+         },
+         "START_DIV_2": {
+            "content": "$7"
+         },
+         "START_DIV_3": {
+            "content": "$8"
+         },
+         "START_ITEM": {
+            "content": "$9"
+         },
+         "START_SPAN": {
+            "content": "$10"
+         },
+         "START_UNORDERED_LIST": {
+            "content": "$11"
+         }
+      }
+   },
+   "5671499827182863671": {
+      "message": "Et ole enää kirjautuneena tiliisi. Klikkaa alapuoleista painiketta, jotta voit jatkaa musiikin kuuntelua."
+   },
+   "5729733224544981434": {
+      "message": "Lisää Google Play Musiikki Chrome-selaimelle, jos haluat ottaa käyttöön vetämis- ja pudotustoiminnon"
+   },
+   "5769804815976568558": {
+      "message": "Valitse lataussijainti"
+   },
+   "5827343664961087180": {
+      "message": "Tilaa"
+   },
+   "5832435837238304779": {
+      "message": "Toista $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "585739095777961817": {
+      "message": "–"
+   },
+   "5862309805277852777": {
+      "message": "Nimi"
+   },
+   "5863523793538309428": {
+      "message": "Musiikkia poistetaan. Poistaminen voi kestää muutaman tunnin."
+   },
+   "5888141336325862688": {
+      "message": "Siirry kanavien selaukseen"
+   },
+   "5889126665299129466": {
+      "message": "Minisoittimen käyttö edellyttää Chromeen kirjautumista."
+   },
+   "5889904821719049150": {
+      "message": "Kuuntele musiikkiasi millä tahansa tietokoneella ja jopa kymmenellä laitteella. Musiikin lähettäminen tai lataaminen Music Managerin tai Google Play Musiikki Chrome-selaimelle -sovelluksen kautta lasketaan mukaan laiterajaan."
+   },
+   "5891064527381218201": {
+      "message": "Ilmainen"
+   },
+   "5923830678189377717": {
+      "message": "Hmmm…"
+   },
+   "5946473117506990177": {
+      "message": "Anna lahjaksi Google Play Musiikki -tilaus"
+   },
+   "5971001229987621398": {
+      "message": "Ehdotettu uusi julkaisu"
+   },
+   "5987565417212088924": {
+      "message": "Sound Search -soittolista"
+   },
+   "5990212441459592050": {
+      "message": "Aseta julkiseksi"
+   },
+   "599493319699637812": {
+      "message": "Sekoita kappaleet"
+   },
+   "6028312506269896318": {
+      "message": "Haluatko varmasti poistaa musiikin toisto-oikeuden seuraavalta laitteelta:"
+   },
+   "60369026765465265": {
+      "message": "Päivitä kanava"
+   },
+   "6037216776738907588": {
+      "message": "Siirry omiin lajityyppeihin"
+   },
+   "6062704261604405084": {
+      "message": "Kun määrität Google Play Musiikin Chromelle, voit lisätä musiikkikokoelmasi ja käyttää sitä puhelimella, tabletilla tai tietokoneella."
+   },
+   "6062911693359625717": {
+      "message": "Siirtonopeus: $BITRATE$",
+      "placeholders": {
+         "BITRATE": {
+            "content": "$1"
+         }
+      }
+   },
+   "6068863249628617875": {
+      "message": "Kokeile nyt"
+   },
+   "607779708716020188": {
+      "message": "…"
+   },
+   "6080972150136904755": {
+      "message": "Tämä soittolista on tyhjä"
+   },
+   "6082171864197428613": {
+      "message": "Asenna"
+   },
+   "609463966491943885": {
+      "message": "Valitse kansiot"
+   },
+   "6097429778714195840": {
+      "message": "Siirry uusiin julkaisuihin"
+   },
+   "6104044107385556653": {
+      "message": "Kuponkikoodien kirjainkoolla on merkitystä"
+   },
+   "6115840172404094036": {
+      "message": "Siirry seuraavaan kappaleeseen"
+   },
+   "6134905866550808378": {
+      "message": "Kaikki omat kappaleet – $GENRE_NAME$",
+      "placeholders": {
+         "GENRE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "6176916746057281482": {
+      "message": "Katso jakson tiedot"
+   },
+   "6182267200530067545": {
+      "message": "Hanki toistuva tilaus nyt, jotta voit jatkaa musiikin kuuntelua."
+   },
+   "6202991870072245705": {
+      "message": "Peruuta tilaus"
+   },
+   "6214362172197372800": {
+      "message": "Varmista, että olet ladannut tietokoneellesi kopion kaikista Google Play -ostoksistasi ennen kuin jatkat."
+   },
+   "6227307047241266902": {
+      "message": "lisäasetusvalikko"
+   },
+   "6233107584508657559": {
+      "message": "Yhteyden muodostaminen Googleen epäonnistui"
+   },
+   "6233799104785293347": {
+      "message": "Päivitä"
+   },
+   "6242354668932209396": {
+      "message": "Kaikkien kappaleiden jatkuva toisto. Vaihda jatkuvan toiston tilaa klikkaamalla."
+   },
+   "624560585652958729": {
+      "message": "Poista oikeudet"
+   },
+   "6254019915482435769": {
+      "message": "Levyt"
+   },
+   "6263911096488435737": {
+      "message": "Päivitä mix"
+   },
+   "6266962164598137510": {
+      "message": "En tykkää"
+   },
+   "6295780096198935300": {
+      "message": "Näytä kaikki haun kappaletulokset."
+   },
+   "6321629750851370838": {
+      "message": "Toisto"
+   },
+   "6334800505555910746": {
+      "message": "Lähde: $XXX_1$, käyttölupa: $XXX_2$",
+      "placeholders": {
+         "XXX_1": {
+            "content": "$1"
+         },
+         "XXX_2": {
+            "content": "$2"
+         }
+      }
+   },
+   "6338543385295715171": {
+      "message": "Lähetysvirhe"
+   },
+   "6348993545995904615": {
+      "message": "Satunnaistoisto"
+   },
+   "6360340926892934518": {
+      "message": "Lisää kansio"
+   },
+   "6385838952512467617": {
+      "message": "{NUM,plural, =0{Yhdelläkään kappaleella ei ole vain yhtä latausta jäljellä.}=1{Kappaleella {XXX_1} on vain yksi lataus jäljellä.}=2{Kappaleilla {XXX_1} ja {XXX_2} on vain yksi lataus jäljellä.}=3{Kappaleilla {XXX_1}, {XXX_2} ja {XXX_3} on vain yksi lataus jäljellä.}=4{Kappaleilla {XXX_1}, {XXX_2}, {XXX_3} ja yhdellä muulla valitulla kappaleella on vain yksi lataus jäljellä.}other{Kappaleilla {XXX_1}, {XXX_2} ja {XXX_3} sekä {XXX_4} muulla valitulla kappaleella on vain yksi lataus jäljellä.}}"
+   },
+   "6386884903976634321": {
+      "message": "Päivitä asetukset"
+   },
+   "6392918669949841614": {
+      "message": "Lisätty"
+   },
+   "6401620758535187625": {
+      "message": "Päivitä maksutiedot"
+   },
+   "6426880811380367028": {
+      "message": "Keskeytä $TARGET$",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "6439365426343089851": {
+      "message": "Yleistä"
+   },
+   "6453809956732788630": {
+      "message": "$START_SPAN$Tutustu musiikkifanien luomiin soittolistoihin$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "6455589326534311330": {
+      "message": "Rajoitus ei ole voimassa ladatessasi koko kirjaston tietokoneellesi $START_SPAN$Music Managerin$END_SPAN$ avulla.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "6463864371052292453": {
+      "message": "Seksuaalista sisältöä, ei lapsille"
+   },
+   "6473040876350306456": {
+      "message": "Sijaintihistoria"
+   },
+   "6482036697464831271": {
+      "message": "Google Play nopeuttaa musiikin lähettämistä etsimällä vastaavuuksia omien musiikkitiedostojesi ja palvelimillamme olevien kopioiden välillä. Toisinaan vastaavuuksissa voi olla virheitä. Ilmoita ongelmasta täällä, niin yhdistämme valitsemasi kappaleet omiin kopioihisi palvelimen kopioiden sijaan."
+   },
+   "6482522612734635310": {
+      "message": "Musiikin toisto keskeytettiin, koska kuuntelet ilmeisesti toisella laitteella."
+   },
+   "6482815137654580311": {
+      "message": "Muokkaa tietoja"
+   },
+   "6485379744416240146": {
+      "message": "Tykätyt"
+   },
+   "6488707262592852720": {
+      "message": "2. Vedä Music Manager -kuvake asennusikkunassa Sovellukset-kansion päälle."
+   },
+   "6502885021177224543": {
+      "message": "Google Play Musiikki: valitse latauskansio"
+   },
+   "6504449653938065974": {
+      "message": "Suositeltu soittolista"
+   },
+   "6513265996872955028": {
+      "message": "Lisää kirjastoon"
+   },
+   "6523257069333866790": {
+      "message": "Musiikkikirjasto"
+   },
+   "6531109671848395983": {
+      "message": "Jos haluat lisätä musiikkiasi, asenna Google Play Musiikki Chrome-selaimelle."
+   },
+   "6531471505721570155": {
+      "message": "Hae lisää"
+   },
+   "6555053572817998410": {
+      "message": "Keskeytä"
+   },
+   "6562996658473327600": {
+      "message": "Soitetaan kanavalta:"
+   },
+   "6568036879894576496": {
+      "message": "Seuraavien kansioiden musiikki lisätään Google Play Musiikkiin"
+   },
+   "6576943715351613839": {
+      "message": "{DOWNLOAD_COUNT_MAX_1,plural, =1{ Voit ladata kunkin kappaleen verkosta kerran.}other{ Voit ladata kunkin kappaleen verkosta {DOWNLOAD_COUNT_MAX_2} kertaa.}}"
+   },
+   "65984904390749158": {
+      "message": "Valmis"
+   },
+   "66116513409922755": {
+      "message": "Ei"
+   },
+   "6612332818623520965": {
+      "message": "Valitettavasti jokin meni vikaan. Yritä uudelleen."
+   },
+   "6634231960955145278": {
+      "message": "Kappale"
+   },
+   "6638274938129779637": {
+      "message": "Kumoa tykkäys"
+   },
+   "6650633628037596693": {
+      "message": "Yritä uudelleen"
+   },
+   "6650888720096194474": {
+      "message": "Ota Google Play Musiikki käyttöön tilillä $START_SPAN$$EMAIL$$END_SPAN$, jos haluat käyttää minisoitinta",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         },
+         "END_SPAN": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "6652649548557498169": {
+      "message": "Normaali"
+   },
+   "6652787256443519035": {
+      "message": "Merkitsemättömät"
+   },
+   "6674940684074453217": {
+      "message": "iOS"
+   },
+   "6703444928647322448": {
+      "message": "Nimi"
+   },
+   "6704452266937792847": {
+      "message": "Lisää kirjastoon"
+   },
+   "6706494172112196654": {
+      "message": "Päivitä perhepaketiksi jopa kuudelle perheenjäsenelle"
+   },
+   "6716575470159796252": {
+      "message": "Chrome-käyttöjärjestelmä"
+   },
+   "6718773735728815040": {
+      "message": "Sinulle suositellut"
+   },
+   "6719382961812623394": {
+      "message": "Asennuksessa oli ongelma"
+   },
+   "6724866564770579816": {
+      "message": "Toistotavat"
+   },
+   "6742017901699269182": {
+      "message": "Siirry omiin albumeihin"
+   },
+   "6747414430222084644": {
+      "message": "Kappaleen pituus: $TRACK_LENGTH$",
+      "placeholders": {
+         "TRACK_LENGTH": {
+            "content": "$1"
+         }
+      }
+   },
+   "6790172339432877080": {
+      "message": "L-merkki on rekisteröity tavaramerkki, joka kertoo, että sisältö on levy-yhtiöiden ja videotuotantoyhtiöiden tarjoamaa."
+   },
+   "6814976743136440069": {
+      "message": "OK"
+   },
+   "6820635381009519748": {
+      "message": "Poista jonosta"
+   },
+   "6830152735949448199": {
+      "message": "Google Play Musiikki -laboratorioissa testataan kokeellisia ominaisuuksia, jotka eivät ole vielä valmiita julkaistaviksi. Ne voivat muuttua, hajota tai kadota milloin tahansa. Pidä hauskaa!"
+   },
+   "6839273670547667172": {
+      "message": "Eri esittäjiä"
+   },
+   "6840919594921167668": {
+      "message": "Näet lataamasi kappaleet tietokoneesi Lataukset-kansiossa."
+   },
+   "6852978731943767591": {
+      "message": "3. Kun asennusohjelma avautuu, tee Music Managerin asetukset annettujen ohjeiden mukaan."
+   },
+   "6857227272497365704": {
+      "message": "Siirry kappaleen tiettyyn kohtaan (7 siirtää kohtaan, jossa kappaleesta on mennyt 70 %)"
+   },
+   "6875485529840056179": {
+      "message": "Kuuntele yli $FORMATTED_MUSIC_CATALOG_SIZE$ kappaletta ja rajattomasti radiota.",
+      "placeholders": {
+         "FORMATTED_MUSIC_CATALOG_SIZE": {
+            "content": "$1"
+         }
+      }
+   },
+   "6887831882226099905": {
+      "message": "Haluatko varmasti poistaa musiikinlisäysoikeuden seuraavalta laitteelta:"
+   },
+   "6932671848756303275": {
+      "message": "Matala"
+   },
+   "6940170973585783277": {
+      "message": "Päivitä perhepaketiksi"
+   },
+   "6941609127174167431": {
+      "message": "Kelaa 10 sekuntia taaksepäin"
+   },
+   "6943941659433003765": {
+      "message": "Aloita pikasekoitus"
+   },
+   "6962699013778688473": {
+      "message": "Jatka"
+   },
+   "6990699195498598876": {
+      "message": "Aloita lataamalla Music Manager alapuolelta. Music Manager on yksinkertainen sovellus, jonka avulla voit lisätä tietokoneellasi olevia musiikkitiedostoja Google Play -palveluun."
+   },
+   "699971906528455934": {
+      "message": "Tuntematon esittäjä"
+   },
+   "7009828133009731416": {
+      "message": "Ilmaiseksi Googlelta"
+   },
+   "7022070615528435141": {
+      "message": "Poista"
+   },
+   "7035822615949880851": {
+      "message": "Tämän laitteen musiikki on väliaikaisesti pois käytöstä. Yritä myöhemmin uudelleen. Virhe 442."
+   },
+   "7043080825985118397": {
+      "message": "Palauta"
+   },
+   "7054091192371222228": {
+      "message": " / "
+   },
+   "7062695654404914711": {
+      "message": "Pikasekoitukset"
+   },
+   "7067908984080925888": {
+      "message": "Lisätietoja"
+   },
+   "7071666053441099517": {
+      "message": "1. Avaa MusicManager.dmg selainikkunasi vasemmasta alalaidasta."
+   },
+   "7080245643233785574": {
+      "message": "Chromen Google Play Musiikki -sovelluksessa tapahtui virhe, ja sinun täytyy kirjautua sisään uudelleen."
+   },
+   "7090368974279082159": {
+      "message": "Hups"
+   },
+   "709740537382334098": {
+      "message": "Poista koko kirjasto, mukaan lukien ostettu musiikki ($TOTAL_SONGS$)",
+      "placeholders": {
+         "TOTAL_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7105416082849293719": {
+      "message": "Viimeisimmät toiminnot"
+   },
+   "7110393208916703749": {
+      "message": "Videot"
+   },
+   "7116872031464114568": {
+      "message": "Tunnistettiin Sound Searchissä"
+   },
+   "7136816542440442290": {
+      "message": "Radiokanavaa ladattaessa tapahtui virhe."
+   },
+   "7182974689040833178": {
+      "message": "Jatka"
+   },
+   "7192513315706728552": {
+      "message": "Palvelinvirhe. Yritä myöhemmin uudelleen."
+   },
+   "7194376132387780145": {
+      "message": "Tietokonetta ei voi valtuuttaa, koska olet jo lisännyt kymmenen laitetta."
+   },
+   "7212676589977202933": {
+      "message": "$NUM_TRANSFERRED_TRACKS$ kappaletta lisättiin",
+      "placeholders": {
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7224832103566723854": {
+      "message": "Soittolistan avaaminen epäonnistui. Yritä uudelleen."
+   },
+   "7225854335198901823": {
+      "message": "Heikompi laatu käyttää vähemmän dataa."
+   },
+   "7249560357803023328": {
+      "message": "Latauskirjasto"
+   },
+   "7262284142845767114": {
+      "message": "Tykätyt"
+   },
+   "7277602889799602415": {
+      "message": "Poista oma kirjasto"
+   },
+   "7283215568776397157": {
+      "message": "Lähetetyt kappaleet:"
+   },
+   "7287006426755387074": {
+      "message": "Nosta soittimen äänenvoimakkuutta"
+   },
+   "7292878672940239832": {
+      "message": "{NUM_MINUTES,plural, =0{0 minuuttia}=1{1 minuutti}other{# minuuttia}}"
+   },
+   "7292902857194439444": {
+      "message": "Laite"
+   },
+   "7293925053370285812": {
+      "message": "Nykyisen kappaleen jatkuva toisto. Vaihda jatkuvan toiston tilaa klikkaamalla."
+   },
+   "729714018676926076": {
+      "message": "Ennakkotilaa Google Play Musiikista"
+   },
+   "7299356918464630268": {
+      "message": "Korkeampi laatu käyttää enemmän dataa."
+   },
+   "730022297859142476": {
+      "message": "Pikasekoitus"
+   },
+   "731429515932674572": {
+      "message": "Mykistä äänet"
+   },
+   "7320133162875658022": {
+      "message": "Lähetä uusia kappaleita ($NUM_NEW_SONGS$)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7354536653016090160": {
+      "message": "Suosituimmat"
+   },
+   "7354691783317064273": {
+      "message": "Chrome-sovellus muodostaa yhteyttä."
+   },
+   "7376787658603979700": {
+      "message": "Osta miljoonia kappaleita ja lataa satoja ilmaisia kappaleita."
+   },
+   "7410432243549869948": {
+      "message": "Kesto"
+   },
+   "7411932913365107274": {
+      "message": "Voit poistaa neljä laitetta vuodessa."
+   },
+   "741454111929523251": {
+      "message": "Tarkoititko: $START_LINK$$SUGGESTED_QUERY$$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         },
+         "SUGGESTED_QUERY": {
+            "content": "$3"
+         }
+      }
+   },
+   "7417635001613679430": {
+      "message": "Valitse kansiot…"
+   },
+   "7422152161839392092": {
+      "message": "Anna lahjaksi Google Play Musiikki -tilaus"
+   },
+   "7467710920158412786": {
+      "message": "Yksityinen soittolista vain sinua varten."
+   },
+   "7501747046724259714": {
+      "message": "Käyttäjän soittolistojen hakeminen epäonnistui. Yritä uudelleen."
+   },
+   "7502695447103329189": {
+      "message": "Shift &#8594;"
+   },
+   "7512291922236002631": {
+      "message": "Jaa $START_SPAN$$TITLE$$END_SPAN$ kopioimalla ja liittämällä tämä linkki",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "7515033107202878673": {
+      "message": "Valitse artistit, joista pidät"
+   },
+   "7535122927261158198": {
+      "message": "Viimeksi lisätyt"
+   },
+   "7546873952682838388": {
+      "message": "Tämän tietokoneen musiikki"
+   },
+   "756024699361489239": {
+      "message": "Toista satunnaisesti"
+   },
+   "756532847162987514": {
+      "message": "($XXX$)",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "7569000733095186860": {
+      "message": "Virhe päivitettäessä sisältöä"
+   },
+   "7572946295452220765": {
+      "message": "Asennusohjeet"
+   },
+   "7587796626090923635": {
+      "message": "{COUNT_1,plural, =0{0 soittokertaa}=1{1 soittokerta}other{{COUNT_2} soittokertaa}}"
+   },
+   "7592349062857393820": {
+      "message": "g ja sitten t"
+   },
+   "7599424290971072767": {
+      "message": "Lajityyppi"
+   },
+   "7604883230326131491": {
+      "message": "Soittolista: $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7605394550777137111": {
+      "message": "Latauksen pitäisi alkaa pian. Jos lataus ei ala, $START_LINK$klikkaa tätä$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "7619560701830330401": {
+      "message": "Ladataan"
+   },
+   "762389150316771008": {
+      "message": "Kokeilen onneani -radio"
+   },
+   "7625459160681249394": {
+      "message": "{NUM_SONGS,plural, =0{Et ole valinnut yhtään kappaletta tietokoneelle ladattavaksi.}=1{Valittua kappaletta on jo ladattu suurin mahdollinen määrä.}other{Valittuja kappaleita on jo ladattu suurin mahdollinen määrä.}}"
+   },
+   "763998168115480566": {
+      "message": "Et voi enää ohittaa kappaleita. Hanki käyttöösi miljoonia kappaleita, joita voit kuunnella milloin haluat (myös offline-tilassa)."
+   },
+   "7664246845088850317": {
+      "message": "Yhteyden muodostaminen palvelimeen epäonnistui. Virhekoodi: VALUE. "
+   },
+   "7669291472367464463": {
+      "message": "Anna @google.com-sähköpostiosoitteesi."
+   },
+   "7677669941581940117": {
+      "message": "Google+"
+   },
+   "7743528314734813641": {
+      "message": "Pikasekoitusta ladattaessa tapahtui virhe."
+   },
+   "7756401573104983978": {
+      "message": "Tietokonesovellus"
+   },
+   "776736242214904151": {
+      "message": "Kuuntele uudelleen tämä kappale ja miljoonia muita milloin haluat."
+   },
+   "7772875668912229569": {
+      "message": "{NUM_SONGS,plural, =0{0 kappaletta}=1{1 kappale}other{# kappaletta}}"
+   },
+   "7774266771623079214": {
+      "message": "Play Musiikki"
+   },
+   "7783345534551124847": {
+      "message": "Kappaleet"
+   },
+   "7801884781403562273": {
+      "message": "Lunasta"
+   },
+   "7819314041543176992": {
+      "message": "Sulje"
+   },
+   "7832954852370077811": {
+      "message": "Lisää kuunneltavaa jonoon aloittamalla musiikin toisto tai klikkaamalla kuvaketta $MENU_ICON$ albumin, kappaleen tai soittolistan kohdalla.",
+      "placeholders": {
+         "MENU_ICON": {
+            "content": "$1"
+         }
+      }
+   },
+   "7834872082445723495": {
+      "message": "Peruutetaan musiikin lisääminen"
+   },
+   "7873745865358968651": {
+      "message": "{NUM_HOURS,plural, =0{0 tuntia}=1{1 tunti}other{# tuntia}}"
+   },
+   "7941094066137301803": {
+      "message": "Päivitä Google+:aan, jotta voit aloittaa kavereiden kanssa jakamisen."
+   },
+   "7943877664425892318": {
+      "message": "Avaa soittolistavetopaneeli"
+   },
+   "7947294997516635657": {
+      "message": "Kaikki on ajan tasalla"
+   },
+   "7978348005042781826": {
+      "message": "{VALUE,plural, =0{0 kansiota}=1{1 kansio}other{# kansiota}}"
+   },
+   "7980428538910137664": {
+      "message": "Ilmaiset ja ostetut"
+   },
+   "7985393396166342590": {
+      "message": "Jatketaan musiikin lisäämistä"
+   },
+   "7996265599642887416": {
+      "message": "Poista kirjastosta"
+   },
+   "8041472556355834197": {
+      "message": "Soittimen säätimet"
+   },
+   "8058956869215275454": {
+      "message": "Jaa Facebookissa"
+   },
+   "8110367050267853536": {
+      "message": "Lisää vaihtoehtoja"
+   },
+   "8110717721846730575": {
+      "message": "Poista äänten mykistys"
+   },
+   "8117873518116417445": {
+      "message": "{NUM,plural, =0{Yksikään kappale ei ole ylittänyt latausrajaa.}=1{{XXX_1} on jo ladattu {DOWNLOAD_COUNT_MAX} kertaa eikä sitä voi ladata.}=2{{XXX_1} ja {XXX_2} on jo ladattu {DOWNLOAD_COUNT_MAX} kertaa eikä niitä voi ladata.}=3{{XXX_1}, {XXX_2} ja {XXX_3} on jo ladattu {DOWNLOAD_COUNT_MAX} kertaa eikä niitä voi ladata.}=4{{XXX_1}, {XXX_2}, {XXX_3} ja yksi muu valittu kappale on jo ladattu {DOWNLOAD_COUNT_MAX} kertaa eikä niitä voi ladata.}other{{XXX_1}, {XXX_2}, {XXX_3} ja {XXX_4} muuta valittua kappaletta on jo ladattu {DOWNLOAD_COUNT_MAX} kertaa eikä niitä voi ladata.}}"
+   },
+   "8140841959031615975": {
+      "message": "Haluan saada tietoa ja tarjouksia Google Play Musiikista"
+   },
+   "8144474297019493415": {
+      "message": "Viimeksi lisätyt"
+   },
+   "8167254435928832023": {
+      "message": "Kokeilen onneani"
+   },
+   "8174689178967388837": {
+      "message": "Kappale"
+   },
+   "8184838044774375710": {
+      "message": "Musiikkia ei voi toistaa kahdella laitteella yhtä aikaa"
+   },
+   "819996403327805209": {
+      "message": "Lisätietoja"
+   },
+   "8202537648978392187": {
+      "message": "{DOWNLOAD_COUNT_MAX_1,plural, =1{ Voit myös {START_SPAN_1}ladata kappaleita suoraan{END_SPAN}, mutta kunkin kappaleen {START_SPAN_2}voi ladata vain kerran{END_SPAN}.}other{ Voit myös {START_SPAN_1}ladata kappaleita suoraan{END_SPAN}, mutta kunkin kappaleen {START_SPAN_3}voi ladata vain {DOWNLOAD_COUNT_MAX_2} kertaa{END_SPAN}.}}"
+   },
+   "8216772648076666728": {
+      "message": "Salli voimakasta kielenkäyttöä sisältävät kappaleet"
+   },
+   "8233851949641842866": {
+      "message": "{NUM_FAILURES_1,plural, =1{ 1 kappaleen lisääminen epäonnistui.}other{ {NUM_FAILURES_2} kappaleen lisääminen epäonnistui.}}"
+   },
+   "8235345176344531979": {
+      "message": "g ja sitten a"
+   },
+   "828333935216451744": {
+      "message": "Google Play Musiikki ‑tilauksella voit kuunnella musiikkia yli $FORMATTED_MUSIC_CATALOG_SIZE$ kappaleen valikoimasta ja radiokanavia rajattomasti.",
+      "placeholders": {
+         "FORMATTED_MUSIC_CATALOG_SIZE": {
+            "content": "$1"
+         }
+      }
+   },
+   "828700836558117968": {
+      "message": "Google Play Musiikki"
+   },
+   "8300572760144032022": {
+      "message": "Luo uusi radioasema valitusta kappaleesta"
+   },
+   "8302804816588048941": {
+      "message": "Tämä toiminto poistaa myös soittolistat, pikasekoitukset, arviot ja mahdolliset toistokertatiedot."
+   },
+   "8325100368677049569": {
+      "message": "Tutustu uuteen musiikkiin"
+   },
+   "8385464685117997940": {
+      "message": "Viimeksi soitetut"
+   },
+   "8395180429531273524": {
+      "message": "Miksi laitteeni ei kelpaa?"
+   },
+   "8396767881870375563": {
+      "message": "Näytä kaikki haun toimintatulokset."
+   },
+   "8405156617531647050": {
+      "message": "Olet ilmeisesti jo kokeillut Google Play Musiikkia."
+   },
+   "840664911413405433": {
+      "message": "Windows"
+   },
+   "840692109692540367": {
+      "message": "Kirjaudu sisään"
+   },
+   "8421838551605999158": {
+      "message": "1. Tallenna tiedosto musicmanagerinstaller.exe"
+   },
+   "8424326418312855409": {
+      "message": "Google Play Musiikin asentamisessa oli ongelma."
+   },
+   "8439955599488894226": {
+      "message": "Tietosuojakäytäntö"
+   },
+   "8440128775129354214": {
+      "message": "Tietosuoja"
+   },
+   "8455196866871985315": {
+      "message": "Näytä kaikki suositut albumit."
+   },
+   "8455204924704616723": {
+      "message": "Tiedosto"
+   },
+   "8477224362193738096": {
+      "message": "Artisti: $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "848933194605193751": {
+      "message": "Äskettäin katselemasi YouTube-sisältö"
+   },
+   "851623407011365974": {
+      "message": "Musiikin toisto jatkuu pian."
+   },
+   "8534560073330554352": {
+      "message": "Soittolaskuri"
+   },
+   "8542907888351533629": {
+      "message": "…"
+   },
+   "8559735404345611808": {
+      "message": "$FORMATTED_MUSIC_CATALOG_SIZE$ kappaletta kuunneltavissa milloin tahansa ilman mainoksia. Lataa haluamasi kappaleet offline-kuuntelua varten. Voit lisätä $FORMATTED_LOCKER_SIZE$ omaa kappalettasi ja kuunnella niitä missä tahansa.",
+      "placeholders": {
+         "FORMATTED_LOCKER_SIZE": {
+            "content": "$1"
+         },
+         "FORMATTED_MUSIC_CATALOG_SIZE": {
+            "content": "$2"
+         }
+      }
+   },
+   "8564202903947049539": {
+      "message": "Toista"
+   },
+   "8574053857298592408": {
+      "message": "Avaa navigointipaneeli."
+   },
+   "8602981985283490607": {
+      "message": "$START_LINK$Ohjeita Music Managerin poistamiseen$END_LINK$ tietokoneesta.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "8604571003772710870": {
+      "message": "Toista painamalla Vaihto + Enter."
+   },
+   "8606325754052632992": {
+      "message": "Nopeuttaakseen musiikin lähettämistä Google Play yhdistää musiikkitiedostosi palvelimellamme oleviin kopioihin. Joskus saatamme kuitenkin yhdistää väärän kappaleen. Ilmoita ongelmasta tässä, niin kappaleet lähetetään uudelleen."
+   },
+   "8608281335099046628": {
+      "message": "Musiikkia käsitellään…"
+   },
+   "8619410898472620495": {
+      "message": "Jatka toistoa siirtymällä Google Play Musiikin verkkoversioon."
+   },
+   "862440714280873951": {
+      "message": "Sisältää podcasteja"
+   },
+   "8624490471677691415": {
+      "message": "Musiikin lajittelujärjestys"
+   },
+   "8624618794349836904": {
+      "message": "Poista historia, jonka avulla sinulle tarjotaan räätälöityjä suosituksia ja muokattuja radiokanavia. Arvioita ja yksittäisten kappaleiden toistokertoja ei poisteta."
+   },
+   "8639048757911329468": {
+      "message": "NaCl-versio: $START_SPAN$$NACL_VERSION$$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NACL_VERSION": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "8642779049394824811": {
+      "message": "Kelaaminen ei onnistu radiokuuntelun aikana."
+   },
+   "8679806927601731663": {
+      "message": "Yritä uudelleen"
+   },
+   "8692453200617588996": {
+      "message": "Valitse lajityypit, joista pidät"
+   },
+   "8700121026680200191": {
+      "message": "Tyhjennä"
+   },
+   "8733921970136713647": {
+      "message": "Peruuta tilaus"
+   },
+   "8764339661945610128": {
+      "message": "Näytä lisää esittäjiä"
+   },
+   "8790918354594417962": {
+      "message": "Facebook"
+   },
+   "8799945990693183114": {
+      "message": "Laboratoriot"
+   },
+   "880592275679936810": {
+      "message": "$START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$ lisätty",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "8825531460389729800": {
+      "message": "{NUM_PLAYLISTS,plural, =0{0 soittolistaa}=1{1 soittolista}other{# soittolistaa}}"
+   },
+   "8841049363660529484": {
+      "message": "$ITEM_NAME$ valittiin. Poista valinta klikkaamalla.",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "886941024758881610": {
+      "message": "Lisää kappaleita"
+   },
+   "8871219022895015530": {
+      "message": "Lisää valitut kappaleet jonoon"
+   },
+   "88781093248476711": {
+      "message": "nimetön"
+   },
+   "8890553633144307762": {
+      "message": "Edellinen"
+   },
+   "8892908795692466458": {
+      "message": "Jaa"
+   },
+   "8910998670732377227": {
+      "message": "Yritä uudelleen"
+   },
+   "8920100935192456970": {
+      "message": "Näytä kaikki haun lajityyppitulokset."
+   },
+   "8928816882866356838": {
+      "message": "Julkinen"
+   },
+   "8931700495296520714": {
+      "message": "Sulje minisoitin"
+   },
+   "8936704404804793618": {
+      "message": "Videot"
+   },
+   "8949306858344607697": {
+      "message": "Soittolistat, jotka $USER_FULL_NAME$ asetti julkiseen käyttöön",
+      "placeholders": {
+         "USER_FULL_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8953033926734869941": {
+      "message": "Nimi"
+   },
+   "8961985815150856927": {
+      "message": "Luotu äskettäin"
+   },
+   "8969179774064404960": {
+      "message": "Äänenvoimakkuus"
+   },
+   "8971282019539581965": {
+      "message": "Sulje Tietoja-valintaikkuna"
+   },
+   "8982807952821993986": {
+      "message": "{NUM_TRANSFERRED_TRACKS_1,plural, =1{ 1 kappale ladattiin}other{ {NUM_TRANSFERRED_TRACKS_2} kappaletta ladattiin}}"
+   },
+   "9000028459946302905": {
+      "message": "Poista kaikki omaan kirjastoon lähettämäni musiikki ($UPLOADED_SONGS$)",
+      "placeholders": {
+         "UPLOADED_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "902263003582497446": {
+      "message": "Sisältö toistetaan korkealaatuisena kaikissa verkko-olosuhteissa. Jos verkko on hidas, toisto voi edellyttää puskurointia."
+   },
+   "9024489874326845912": {
+      "message": "Suositeltu albumi"
+   },
+   "9042260521669277115": {
+      "message": "Keskeytä"
+   },
+   "9049377337845973204": {
+      "message": "Toista: $SONG_NAME$",
+      "placeholders": {
+         "SONG_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "9059560719840598868": {
+      "message": "Anna palautetta"
+   },
+   "9084816336314899019": {
+      "message": "Jatka"
+   },
+   "9128859482251917046": {
+      "message": "Avaa tai sulje jono"
+   },
+   "9138683078793837147": {
+      "message": "Kumoa ei-tykkäys"
+   },
+   "9143597363285105250": {
+      "message": "Albumin esittäjä"
+   },
+   "9166842143674355091": {
+      "message": "Viimeaikaiset"
+   },
+   "9179661003472285430": {
+      "message": "Lataa Music Manager"
+   },
+   "9193901371937110673": {
+      "message": "Ei oikeutettuja laitteita"
+   },
+   "9205544184671349450": {
+      "message": "Vaikuttaa siltä, että tälle tietokoneelle on tallennettu musiikkia."
+   },
+   "9214517335069385090": {
+      "message": "Tai jos haluat…"
+   },
+   "933914956414602837": {
+      "message": "Google Play nopeuttaa musiikin lähettämistä etsimällä vastaavuuksia omien musiikkitiedostojesi ja palvelimillamme olevien kopioiden välillä. Toisinaan vastaavuuksissa voi olla virheitä. Ilmoita ongelmasta täällä, niin yhdistämme valitsemasi kappaleen omaan kopioosi palvelimen kopion sijaan."
+   },
+   "935985887697278449": {
+      "message": "Olet jo tilaaja"
+   },
+   "949327761578931377": {
+      "message": "Voit jatkaa kuuntelua hintaan $OFFER_PRICE$ kuukaudessa.",
+      "placeholders": {
+         "OFFER_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "953268105555355822": {
+      "message": "Näytä kaikki"
+   },
+   "95869773684474447": {
+      "message": "Toistovirhe"
+   },
+   "963232722931839477": {
+      "message": "Jono on tyhjä."
+   },
+   "993762601773196496": {
+      "message": "Suoratoista"
+   },
+   "997890303689941626": {
+      "message": "Näytä kaikki haun videotulokset."
+   }
+}

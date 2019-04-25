@@ -1,0 +1,19 @@
+[Data Source]
+DisplayName=T-Online Mail
+Enabled=true
+Parent=549b3d65caf70d97314d7c0e0b5f2a4a9e088344
+
+[Mail Transport]
+BackendName=smtp
+
+[Authentication]
+Host=securesmtp.t-online.de
+Method=LOGIN
+Port=25
+ProxyUid=system-proxy
+RememberPassword=true
+User=schmidts.tom@t-online.de
+CredentialName=
+
+[Security]
+Method=starttls-on-standard-port

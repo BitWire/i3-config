@@ -1,0 +1,58 @@
+{
+   "browser_action_hover": {
+      "description": "",
+      "message": "Recherche Ecosia"
+   },
+   "context_menu_search": {
+      "description": "",
+      "message": "Sélection de recherche avec Ecosia"
+   },
+   "info_popup_CTA": {
+      "description": "",
+      "message": "En savoir plus"
+   },
+   "info_popup_body": {
+      "description": "info button pop up hover",
+      "message": "Ce n'est pas la page que tu t'attendais à voir s'afficher ? Découvre comment restaurer les signets et paramétrer ta page \"Nouvel onglet\""
+   },
+   "new_tab_restore_all": {
+      "description": "",
+      "message": "Rétablir"
+   },
+   "new_tab_thumbnail_removed": {
+      "description": "",
+      "message": "Vignette supprimée"
+   },
+   "new_tab_title": {
+      "description": "",
+      "message": "Nouvel onglet"
+   },
+   "new_tab_undo": {
+      "description": "",
+      "message": "Annuler"
+   },
+   "searchinput_placeholder": {
+      "description": "",
+      "message": "Lance une recherche pour planter des arbres..."
+   },
+   "store_shortdesc_firefox": {
+      "description": "",
+      "message": "Cette extension permet de faire d'Ecosia votre moteur de recherche afin de planter des arbres à chaque recherche."
+   },
+   "store_shortdesc_new": {
+      "description": "",
+      "message": "Cette extension permet de faire d'Ecosia votre moteur de recherche et de personnaliser la page « Nouvel onglet » de votre navigateur afin de planter des arbres à chaque recherche."
+   },
+   "store_shortdesc_old": {
+      "description": "",
+      "message": "Cette extension permet de rediriger vos recherches de l'omnibox vers Ecosia Search."
+   },
+   "store_title_new": {
+      "description": "",
+      "message": "Ecosia – Le moteur de recherche qui plante des arbres"
+   },
+   "store_title_old": {
+      "description": "",
+      "message": "Redirection de l'omnibox vers Ecosia (ancienne version)"
+   }
+}

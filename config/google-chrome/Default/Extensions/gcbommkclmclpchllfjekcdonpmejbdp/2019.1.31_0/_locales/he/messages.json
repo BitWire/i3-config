@@ -1,0 +1,149 @@
+{
+   "about_add_new_rule": {
+      "message": "הוסף כלל חדש"
+   },
+   "about_ext_description": {
+      "message": "הצפן את הרשת! השתמש באבטחת HTTPS באופן אוטומטי באתרים רבים."
+   },
+   "about_ext_name": {
+      "message": "HTTPS Everywhere"
+   },
+   "about_rulesets_version": {
+      "message": "גרסת מערכות כללים עבור"
+   },
+   "about_title": {
+      "message": "HTTPS Everywhere אודות"
+   },
+   "about_version": {
+      "message": "גרסה"
+   },
+   "cancel_he_blocking_explainer": {
+      "message": "HTTPS Everywhere הבחין שניווטת אל עמוד בלתי HTTPS, וניסה לשלוח אליך גרסת HTTPS במקום. גרסת HTTPS בלתי זמינה. קרוב לוודאי שאתר זה אינו תומך ב־HTTPS, אבל ייתכן שתוקף חוסם את גרסת ה־HTTPS. אם אתה רוצה לראות את הגרסה הבלתי מוצפנת של עמוד זה, אתה יכול עדין לעשות זאת ע&quot;י השבתת האפשרות 'חסום את כל הבקשות הבלתי מוצפנות' בהרחבה HTTPS Everywhere שלך. הייה מודע שהשבתת אפשרות זו עשויה להפוך את הדפדפן שלך לפגיע אל התקפות שנמוך מבוססות־רשת באתרים בהם אתה מבקר."
+   },
+   "cancel_he_blocking_network": {
+      "message": "מתקפות שנמוך מבוססות־רשת"
+   },
+   "chrome_add_new_rule": {
+      "message": "הוסף כלל חדש עבור אתר זה"
+   },
+   "chrome_add_rule": {
+      "message": "הוסף כלל עבור אתר זה"
+   },
+   "chrome_always_https_for_host": {
+      "message": "עבור מארח זה https-השתמש תמיד ב"
+   },
+   "chrome_disable_on_this_site": {
+      "message": "באתר זה HTTPS Everywhere השבת את"
+   },
+   "chrome_enable_on_this_site": {
+      "message": "באתר זה HTTPS Everywhere אפשר את"
+   },
+   "chrome_experimental_rules": {
+      "message": "כללים ניסיוניים"
+   },
+   "chrome_experimental_rules_description": {
+      "message": "עשוי לגרום לאזהרות או לשבירה. מושבת כברירת מחדל."
+   },
+   "chrome_hide_advanced": {
+      "message": "הסתר מתקדם"
+   },
+   "chrome_host": {
+      "message": "מארח:"
+   },
+   "chrome_redirect_to": {
+      "message": "הפנה אל"
+   },
+   "chrome_regex": {
+      "message": "regex תואם"
+   },
+   "chrome_rule_name": {
+      "message": "שם כלל"
+   },
+   "chrome_show_advanced": {
+      "message": "הראה מתקדם"
+   },
+   "chrome_stable_rules": {
+      "message": "כללים יציבים"
+   },
+   "chrome_stable_rules_description": {
+      "message": ":אלץ חיבורים מוצפנים אל אתרים אלו"
+   },
+   "chrome_status_cancel_button": {
+      "message": "ביטול"
+   },
+   "menu_donate_eff_imperative": {
+      "message": "EFF תרום אל"
+   },
+   "menu_encryptAllSitesEligible": {
+      "message": "(EASE) הצפן את כל האתרים הזכאיים"
+   },
+   "menu_globalEnable": {
+      "message": "HTTPS Everywhere אפשר את"
+   },
+   "menu_observatory": {
+      "message": "העדפות מיצפה SSL"
+   },
+   "menu_showCounter": {
+      "message": "הראה מונה"
+   },
+   "menu_viewAllRules": {
+      "message": "הצג את כל הכללים"
+   },
+   "options_addUpdateChannel": {
+      "message": "הוסף ערוץ עדכונים"
+   },
+   "options_advancedSettings": {
+      "message": "הגדרות מתקדמות"
+   },
+   "options_autoUpdateRulesets": {
+      "message": "עדכן באופן אוטומטי מערכות כללים"
+   },
+   "options_delete": {
+      "message": "מחק"
+   },
+   "options_disabledUrlsListed": {
+      "message": "מושבתים HTTPS Everywhere אתרי"
+   },
+   "options_enableMixedRulesets": {
+      "message": "אפשר מערכות כללים של תכנים מעורבבים"
+   },
+   "options_enterUpdateChannelName": {
+      "message": "הכנס שם ערוץ עדכונים"
+   },
+   "options_generalSettings": {
+      "message": "הגדרות כלליות"
+   },
+   "options_showDevtoolsTab": {
+      "message": "הראה לשונית כליי מפתחים"
+   },
+   "options_storedRulesetsVersion": {
+      "message": "גרסת מערכות כללים מאוחסנות:"
+   },
+   "options_update": {
+      "message": "עדכן"
+   },
+   "options_updateChannels": {
+      "message": "ערוצי עדכונים"
+   },
+   "options_updateChannelsWarning": {
+      "message": "אזהרה: הוספת ערוצי עדכונים יכולה לגרום לתוקפים לחטוף את הדפדפן שלך. ערוך קטע זה רק אם אתה יודע מה אתה עושה!"
+   },
+   "options_updatesLastChecked": {
+      "message": "עדכונים נבדקו לאחרונה:"
+   },
+   "options_updatesLastCheckedNever": {
+      "message": "לעולם לא"
+   },
+   "options_userRulesListed": {
+      "message": "HTTPS Everywhere כללי משתמש של"
+   },
+   "prefs_export_settings": {
+      "message": "ייצא הגדרות"
+   },
+   "prefs_reset_defaults": {
+      "message": "אפס לברירות מחדל"
+   },
+   "prefs_reset_defaults_message": {
+      "message": "זה יאפס על מערכת כללים למצב ברירת המחדל שלה. להמשיך?"
+   }
+}

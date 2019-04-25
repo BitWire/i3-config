@@ -1,0 +1,149 @@
+{
+   "about_add_new_rule": {
+      "message": "Kural Ekle"
+   },
+   "about_ext_description": {
+      "message": "Web iletişiminizi şifreleyin! Birçok sitede otomatik olarak HTTPS güvenliğini kullanın."
+   },
+   "about_ext_name": {
+      "message": "HTTPS Everywhere"
+   },
+   "about_rulesets_version": {
+      "message": "Kural Kümesi Sürümü"
+   },
+   "about_title": {
+      "message": "HTTPS Everywhere Hakkında"
+   },
+   "about_version": {
+      "message": "Sürüm"
+   },
+   "cancel_he_blocking_explainer": {
+      "message": "HTTPS Everywhere, HTTPS kullanmadan baktığınız bir sayfanın size HTTPS sürümünü göndermeye çalıştığını algıladı. HTTPS sürüm kullanılamıyor. Genellikle bu durum sitenin HTTPS desteklemediği anlamına gelir ancak bir saldırgan sitenin HTTPS sürümünü engelliyor da olabilir. Bu sayfanın şifrelenmemiş sürümünü görüntülemek istiyorsanız, HTTPS Everywhere eklentisinin ayarlarından 'Şifrelenmemiş istekler engellensin' seçeneğini devre dışı bırakabilirsiniz. Bu seçeneği devre dışı bıraktığınızda web tarayıcınızın ziyaret ettiğiniz web sitelerinden gelebilecek ağ temelli düşürme saldırılarına karşı açık olabileceğini unutmayın."
+   },
+   "cancel_he_blocking_network": {
+      "message": "ağ temelli düşürme saldırıları"
+   },
+   "chrome_add_new_rule": {
+      "message": "Bu Site İçin Yeni Kuralı Ekle"
+   },
+   "chrome_add_rule": {
+      "message": "Bu Site İçin Kural Ekle"
+   },
+   "chrome_always_https_for_host": {
+      "message": "Bu sunucu için her zaman HTTPS kullanılsın"
+   },
+   "chrome_disable_on_this_site": {
+      "message": "Bu site için HTTPS Everywhere kullanılmasın"
+   },
+   "chrome_enable_on_this_site": {
+      "message": "Bu site için HTTPS Everywhere kullanılsın"
+   },
+   "chrome_experimental_rules": {
+      "message": "Deneysel Kurallar"
+   },
+   "chrome_experimental_rules_description": {
+      "message": "Uyarı ve sorunlara yol açabilir. Varsayılan olarak devre dışıdır."
+   },
+   "chrome_hide_advanced": {
+      "message": "Gelişmiş Ayarları Gizle"
+   },
+   "chrome_host": {
+      "message": "Sunucu:"
+   },
+   "chrome_redirect_to": {
+      "message": "Yönlendirilecek Adres"
+   },
+   "chrome_regex": {
+      "message": "Kurallı İfade"
+   },
+   "chrome_rule_name": {
+      "message": "Kural Adı"
+   },
+   "chrome_show_advanced": {
+      "message": "Gelişmiş Ayarları Görüntüle"
+   },
+   "chrome_stable_rules": {
+      "message": "Kararlı Kurallar"
+   },
+   "chrome_stable_rules_description": {
+      "message": "Şu web sitelerine şifreli bağlantı dayatılsın:"
+   },
+   "chrome_status_cancel_button": {
+      "message": "İptal"
+   },
+   "menu_donate_eff_imperative": {
+      "message": "EFF Projesine Bağış Yapın"
+   },
+   "menu_encryptAllSitesEligible": {
+      "message": "Uygun Tüm Siteler Şifrelensin (EASE)"
+   },
+   "menu_globalEnable": {
+      "message": "HTTPS Everywhere Kullanılsın"
+   },
+   "menu_observatory": {
+      "message": "SSL Gözlemcisi Ayarları"
+   },
+   "menu_showCounter": {
+      "message": "Sayaç Görüntülensin"
+   },
+   "menu_viewAllRules": {
+      "message": "Tüm Kuralları Görüntüle"
+   },
+   "options_addUpdateChannel": {
+      "message": "Güncelleme Kanalı Ekle"
+   },
+   "options_advancedSettings": {
+      "message": "Gelişmiş Ayarlar"
+   },
+   "options_autoUpdateRulesets": {
+      "message": "Kural Kümeleri Otomatik Güncellensin"
+   },
+   "options_delete": {
+      "message": "Sil"
+   },
+   "options_disabledUrlsListed": {
+      "message": "HTTPS Everywhere Siteleri Devre Dışı Bırakıldı"
+   },
+   "options_enableMixedRulesets": {
+      "message": "Karma İçerik Kural Kümeleri Kullanılabilsin"
+   },
+   "options_enterUpdateChannelName": {
+      "message": "Güncelleme kanalının adını yazın"
+   },
+   "options_generalSettings": {
+      "message": "Genel Ayarlar"
+   },
+   "options_showDevtoolsTab": {
+      "message": "Geliştirici Araçları Sekmesi Görüntülensin"
+   },
+   "options_storedRulesetsVersion": {
+      "message": "Kaydedilmiş kural kümesi sürümü:"
+   },
+   "options_update": {
+      "message": "Güncelle"
+   },
+   "options_updateChannels": {
+      "message": "Kanalları Güncelle"
+   },
+   "options_updateChannelsWarning": {
+      "message": "Uyarı: Güncelleme kanalı eklemek saldırganların web tarayıcınıza sızmasına neden olabilir. Bu bölümü yalnız ne yaptığınızı biliyorsanız düzenleyin!"
+   },
+   "options_updatesLastChecked": {
+      "message": "Son güncelleme denetimi:"
+   },
+   "options_updatesLastCheckedNever": {
+      "message": "asla"
+   },
+   "options_userRulesListed": {
+      "message": "HTTPS Everywhere Kullanıcı Kuralları"
+   },
+   "prefs_export_settings": {
+      "message": "Ayarları Dışa Aktar"
+   },
+   "prefs_reset_defaults": {
+      "message": "Varsayılanları Yükle"
+   },
+   "prefs_reset_defaults_message": {
+      "message": "Bu işlem tüm kural kümelerini varsayılan duruma sıfırlar. Devam edilsin mi?"
+   }
+}

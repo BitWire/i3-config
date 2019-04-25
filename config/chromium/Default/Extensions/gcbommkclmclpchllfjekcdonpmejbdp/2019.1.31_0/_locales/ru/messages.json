@@ -1,0 +1,149 @@
+{
+   "about_add_new_rule": {
+      "message": "Добавить новое правило"
+   },
+   "about_ext_description": {
+      "message": "Зашифруйте сеть! Автоматически переключайтесь на безопасный протокол HTTPS там, где это возможно."
+   },
+   "about_ext_name": {
+      "message": "HTTPS Everywhere"
+   },
+   "about_rulesets_version": {
+      "message": "Версия наборов правил для"
+   },
+   "about_title": {
+      "message": "О HTTPS Everywhere"
+   },
+   "about_version": {
+      "message": "Версия"
+   },
+   "cancel_he_blocking_explainer": {
+      "message": "HTTPS Everywhere заметила, что вы перешли на страницу, отличную от HTTPS, и попытались отправить вам версию HTTPS. Версия HTTPS недоступна. Скорее всего, этот сайт не поддерживает HTTPS, но также возможно, что злоумышленник блокирует версию HTTPS. Если вы хотите просмотреть незашифрованную версию этой страницы, вы все равно можете сделать это, отключив параметр «Блокировать все незашифрованные запросы» в своем расширении HTTPS Everywhere. Имейте в виду, что отключение этой опции может сделать ваш браузер уязвимым для сетевых атак на веб-сайтах, которые вы посещаете."
+   },
+   "cancel_he_blocking_network": {
+      "message": "атака понижения уровня безопасности сети"
+   },
+   "chrome_add_new_rule": {
+      "message": "Добавить новое правило для этого сайта"
+   },
+   "chrome_add_rule": {
+      "message": "Добавить правило для этого сайта"
+   },
+   "chrome_always_https_for_host": {
+      "message": "Всегда использовать https для этого хоста"
+   },
+   "chrome_disable_on_this_site": {
+      "message": "Отключить HTTPS Everywhere для этого сайта"
+   },
+   "chrome_enable_on_this_site": {
+      "message": "Включить HTTPS Everywhere для этого сайта"
+   },
+   "chrome_experimental_rules": {
+      "message": "Экспериментальные правила"
+   },
+   "chrome_experimental_rules_description": {
+      "message": "Может вызвать предупреждения или поломку. Отключено по умолчанию."
+   },
+   "chrome_hide_advanced": {
+      "message": "Скрыть расширенные"
+   },
+   "chrome_host": {
+      "message": "Хост:"
+   },
+   "chrome_redirect_to": {
+      "message": "Перенаправление на"
+   },
+   "chrome_regex": {
+      "message": "Соответствие regex"
+   },
+   "chrome_rule_name": {
+      "message": "Имя правила"
+   },
+   "chrome_show_advanced": {
+      "message": "Показать расширенные"
+   },
+   "chrome_stable_rules": {
+      "message": "Стабильные правила"
+   },
+   "chrome_stable_rules_description": {
+      "message": "Принудительное шифрование на этих сайтах:"
+   },
+   "chrome_status_cancel_button": {
+      "message": "Отмена"
+   },
+   "menu_donate_eff_imperative": {
+      "message": "Поддержать EFF"
+   },
+   "menu_encryptAllSitesEligible": {
+      "message": "Шифровать все подходящие сайты (EASE)"
+   },
+   "menu_globalEnable": {
+      "message": "Включить HTTPS Everywhere"
+   },
+   "menu_observatory": {
+      "message": "Настройки SSL Observatory"
+   },
+   "menu_showCounter": {
+      "message": "Показывать счетчик"
+   },
+   "menu_viewAllRules": {
+      "message": "Посмотреть все правила"
+   },
+   "options_addUpdateChannel": {
+      "message": "Добавить канал обновления"
+   },
+   "options_advancedSettings": {
+      "message": "Дополнительные настройки"
+   },
+   "options_autoUpdateRulesets": {
+      "message": "Автоматическое обновление наборов правил"
+   },
+   "options_delete": {
+      "message": "Удалить"
+   },
+   "options_disabledUrlsListed": {
+      "message": "Сайты с отключенным HTTPS Everywhere"
+   },
+   "options_enableMixedRulesets": {
+      "message": "Включить наборы правил для смешанного содержимого"
+   },
+   "options_enterUpdateChannelName": {
+      "message": "Введите имя канала обновления"
+   },
+   "options_generalSettings": {
+      "message": "Общие настройки"
+   },
+   "options_showDevtoolsTab": {
+      "message": "Показывать вкладку инструментов разработчика"
+   },
+   "options_storedRulesetsVersion": {
+      "message": "Сохраненная версия набора правил:"
+   },
+   "options_update": {
+      "message": "Обновление"
+   },
+   "options_updateChannels": {
+      "message": "Каналы обновления"
+   },
+   "options_updateChannelsWarning": {
+      "message": "Предупреждение: добавление каналов обновления может привести к атакам злоумышленников на ваш браузер. Редактируйте этот раздел, только если знаете, что делаете!"
+   },
+   "options_updatesLastChecked": {
+      "message": "Последняя проверка обновлений:"
+   },
+   "options_updatesLastCheckedNever": {
+      "message": "никогда"
+   },
+   "options_userRulesListed": {
+      "message": "Пользовательские правила HTTPS Everywhere"
+   },
+   "prefs_export_settings": {
+      "message": "Экспорт настроек"
+   },
+   "prefs_reset_defaults": {
+      "message": "По умолчанию"
+   },
+   "prefs_reset_defaults_message": {
+      "message": "Это действие сбросит каждый набор правил в состояние по умолчанию. Продолжить?"
+   }
+}

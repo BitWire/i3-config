@@ -1,0 +1,47 @@
+{
+   "app": {
+      "icon_color": "#11C246",
+      "launch": {
+         "web_url": "https://web.whatsapp.com/"
+      },
+      "linked_icons": [ {
+         "size": 16,
+         "url": "https://web.whatsapp.com/img/c5088e888c97ad440a61d247596f88e5.png"
+      }, {
+         "size": 32,
+         "url": "https://web.whatsapp.com/apple-touch-icon.png"
+      }, {
+         "size": 48,
+         "url": "https://web.whatsapp.com/apple-touch-icon.png"
+      }, {
+         "size": 64,
+         "url": "https://web.whatsapp.com/apple-touch-icon.png"
+      }, {
+         "size": 96,
+         "url": "https://web.whatsapp.com/apple-touch-icon.png"
+      }, {
+         "size": 128,
+         "url": "https://web.whatsapp.com/apple-touch-icon.png"
+      }, {
+         "size": 194,
+         "url": "https://web.whatsapp.com/apple-touch-icon.png"
+      }, {
+         "size": 256,
+         "url": "https://web.whatsapp.com/apple-touch-icon.png"
+      } ]
+   },
+   "description": "Quickly send and receive WhatsApp messages right from your computer.",
+   "icons": {
+      "128": "icons/128.png",
+      "16": "icons/16.png",
+      "194": "icons/194.png",
+      "256": "icons/256.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "64": "icons/64.png",
+      "96": "icons/96.png"
+   },
+   "key": "MxDMmlTjt/jNrwzZU0v3C62AuxUTbgmpfzS/h7rF2M8=",
+   "name": "WhatsApp",
+   "version": "2019.4.8.38428"
+}

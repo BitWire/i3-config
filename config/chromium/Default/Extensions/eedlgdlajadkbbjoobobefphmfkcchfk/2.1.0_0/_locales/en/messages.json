@@ -1,0 +1,58 @@
+{
+   "browser_action_hover": {
+      "description": "",
+      "message": "Ecosia Search"
+   },
+   "context_menu_search": {
+      "description": "",
+      "message": "Search selection with Ecosia"
+   },
+   "info_popup_CTA": {
+      "description": "",
+      "message": "Learn more"
+   },
+   "info_popup_body": {
+      "description": "info button pop up hover",
+      "message": "Not the page you expected? Learn more about how to restore Bookmarks and set your New Tab page."
+   },
+   "new_tab_restore_all": {
+      "description": "",
+      "message": "Restore all"
+   },
+   "new_tab_thumbnail_removed": {
+      "description": "",
+      "message": "Thumbnail removed"
+   },
+   "new_tab_title": {
+      "description": "",
+      "message": "New Tab"
+   },
+   "new_tab_undo": {
+      "description": "",
+      "message": "Undo"
+   },
+   "searchinput_placeholder": {
+      "description": "",
+      "message": "Search the web to plant trees..."
+   },
+   "store_shortdesc_firefox": {
+      "description": "",
+      "message": "This extension sets your search engine to Ecosia so you can plant trees with every search."
+   },
+   "store_shortdesc_new": {
+      "description": "",
+      "message": "This extension sets your search engine to Ecosia and customizes your new tab page so you can plant trees with every search."
+   },
+   "store_shortdesc_old": {
+      "description": "",
+      "message": "This extension redirects your searches from the omnibar to Ecosia Search."
+   },
+   "store_title_new": {
+      "description": "",
+      "message": "Ecosia - The search engine that plants trees"
+   },
+   "store_title_old": {
+      "description": "",
+      "message": "Ecosia Omnibar Redirect (Legacy)"
+   }
+}

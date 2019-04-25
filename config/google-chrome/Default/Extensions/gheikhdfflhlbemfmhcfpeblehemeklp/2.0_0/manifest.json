@@ -1,0 +1,22 @@
+{
+   "app": {
+      "launch": {
+         "container": "tab",
+         "web_url": "https://staratlas.com/"
+      },
+      "urls": [ "https://staratlas.com/" ]
+   },
+   "description": "Interactive star map of the night sky",
+   "icons": {
+      "128": "icon-128.png",
+      "16": "icon-16.png",
+      "192": "icon-192.png",
+      "256": "icon-256.png",
+      "48": "icon-48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC/Tqh2k3iiwsO0szVVY4KAf6LTbWbfTJvp5Nu8zvkbd5WjSf6GTHSJndOr2rnrWBJKHgH1QFDc36NEhaPtr/L1PNitKx8cTIJ/LuJwFtd4x6qT5/EQqDk8/6rFeE5Z/kk/sn8uslx1MzzxluyhBVcZzBRUxlBgqwnbCItFG+1hEQIDAQAB",
+   "manifest_version": 2,
+   "name": "Star Atlas",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0"
+}

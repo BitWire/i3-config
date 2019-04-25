@@ -1,0 +1,2761 @@
+{
+   "1001360787461904844": {
+      "message": "Opsi lainnya untuk $TARGET$",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "1026450251988549367": {
+      "message": "Baru diubah"
+   },
+   "1035476379650787996": {
+      "message": "Tidak dapat menyelesaikan permintaan Anda"
+   },
+   "1035734413919296": {
+      "message": "Tambahkan musik"
+   },
+   "1044946868924904798": {
+      "message": "Tidak ada sambungan internet"
+   },
+   "1046700819368184074": {
+      "message": "Folder unduhan"
+   },
+   "1047094450854611275": {
+      "message": "Dengan pemutar mini, Anda dapat mengontrol pemutaran musik di luar jendela browser, menyukai lagu, dan memutar stasiun radio Saya Lagi Beruntung."
+   },
+   "10524368647766690": {
+      "message": "#"
+   },
+   "1065557748112539713": {
+      "message": "Menjeda pengunduhan musik"
+   },
+   "1091846413708174942": {
+      "message": "Podcast Anda"
+   },
+   "1099947980448260765": {
+      "message": "Buka paling populer"
+   },
+   "1105024870503318889": {
+      "message": "Tambahkan musik saya"
+   },
+   "1141501935253936315": {
+      "message": "Podcast"
+   },
+   "1144407473317535723": {
+      "message": "Langganan"
+   },
+   "1144614654642966892": {
+      "message": "Membatalkan sebelum tagihan berikutnya.  Terus mendengarkan sampai saat itu."
+   },
+   "1145877575671354635": {
+      "message": "Segarkan pustaka"
+   },
+   "1147358182484006761": {
+      "message": "Toko"
+   },
+   "1150285978886683433": {
+      "message": "Beralih berulang kali antara satu, semua, dan mati"
+   },
+   "1152313922995021532": {
+      "message": "64 bit .rpm (Untuk Fedora/openSUSE)"
+   },
+   "1165829070116929673": {
+      "message": "{NUM_TRANSFERRED_TRACKS_1,plural, =1{ 1 lagu ditambahkan}other{ {NUM_TRANSFERRED_TRACKS_2} lagu ditambahkan}}"
+   },
+   "1181311234668957012": {
+      "message": "Playlist otomatis"
+   },
+   "1182611188595867762": {
+      "message": "2. Ketika pemasang terbuka, ikuti petunjuknya untuk menyiapkan Pengelola Musik."
+   },
+   "1189933439482480473": {
+      "message": "Telah mencapai batas lagu maksimum."
+   },
+   "1218504303426384579": {
+      "message": "Album"
+   },
+   "1220984280262077870": {
+      "message": "Gratis dan dibeli"
+   },
+   "1227051853106034748": {
+      "message": "Tidak dapat mencari pratinjau"
+   },
+   "1238358838717941284": {
+      "message": "Sampel"
+   },
+   "1249846405947826980": {
+      "message": "Episode sebelumnya"
+   },
+   "1257583932123379891": {
+      "message": "Lihat podcast menurut"
+   },
+   "1280952737124946671": {
+      "message": "{NUM_PODCASTS,plural, =0{0 podcast}=1{1 podcast}other{# podcast}}"
+   },
+   "1288885129710503327": {
+      "message": "3. Buka folder Aplikasi dan klik dua kali Pengelola Musik."
+   },
+   "1291021741111868686": {
+      "message": "64 bit .deb (Untuk Debian/Ubuntu)"
+   },
+   "1291623607736913474": {
+      "message": "Jelajahi stasiun menurut"
+   },
+   "1294292881529533213": {
+      "message": "Logo Google Play Musik"
+   },
+   "129923171865835166": {
+      "message": "Radio Saya Lagi Beruntung"
+   },
+   "1303647473723340887": {
+      "message": "Pilih item di atas pilihan saat ini"
+   },
+   "131636849522359023": {
+      "message": "Diberikan di bawah $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "1341185708905265042": {
+      "message": "Disk #"
+   },
+   "1348774649041038169": {
+      "message": "Navigasi"
+   },
+   "1370021378292702047": {
+      "message": "\"$SONG_TITLE$\" ditandai sebagai yang dicocokkan dengan salah.",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "1372720741032795625": {
+      "message": "Menghidupkan/mematikan kocok"
+   },
+   "1372788343021542418": {
+      "message": "Untuk menggunakan pemutar mini, masuk ke Google Play Musik di web."
+   },
+   "1393837337557373364": {
+      "message": "Album"
+   },
+   "1404225614691686373": {
+      "message": "Musik Tanpa Batas$START_BREAK$dari Google Play",
+      "placeholders": {
+         "START_BREAK": {
+            "content": "$1"
+         }
+      }
+   },
+   "1411257156168420592": {
+      "message": "$ITEM_NAME$, klik untuk memilihnya.",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1429336442713571177": {
+      "message": "Daftar lagu"
+   },
+   "1435809990540516997": {
+      "message": "Menambahkan musik"
+   },
+   "1464072562214937907": {
+      "message": "Tahun"
+   },
+   "147527058386222778": {
+      "message": "Kualitas Streaming"
+   },
+   "1490665788833937521": {
+      "message": "Dapatkan pemutar mini"
+   },
+   "1501458973427096787": {
+      "message": "Dengarkan apa saja secara offline"
+   },
+   "1504214836895903832": {
+      "message": "Tidak dapat menghubungkan"
+   },
+   "1517865562673472241": {
+      "message": "1. Tunggu pemasang hingga selesai."
+   },
+   "1529406134757733750": {
+      "message": "{NUM_FAILURES_1,plural, =1{ Tidak dapat mengunduh 1 lagu}other{ Tidak dapat mengunduh {NUM_FAILURES_2} lagu}}"
+   },
+   "1573657685592390905": {
+      "message": "Pilih folder..."
+   },
+   "1575810254412583888": {
+      "message": "Lagu"
+   },
+   "1595478688335662057": {
+      "message": "Pengguna Google"
+   },
+   "1598061158801514509": {
+      "message": "Melanjutkan pengunduhan musik"
+   },
+   "1607904075839741217": {
+      "message": "Pilih dari komputer Anda"
+   },
+   "1664100143082435029": {
+      "message": "Batalkan"
+   },
+   "1666765550993208796": {
+      "message": "Apakah pencocokan lagu ini salah?"
+   },
+   "1673135862760647009": {
+      "message": "Radio bebas iklan yang lagunya dapat dilewati tanpa batas"
+   },
+   "1676480944844752785": {
+      "message": "Playlist otomatis"
+   },
+   "1686917835491599951": {
+      "message": "Baru ditambahkan ke Koleksiku"
+   },
+   "1688117822806275177": {
+      "message": "Hapus dari koleksi"
+   },
+   "1689044830718067443": {
+      "message": "Pemasangan akan dimulai secara otomatis dalam beberapa detik. Butuh $START_LINK$bantuan$END_LINK$?",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "1700078784075267898": {
+      "message": "Google Play Musik"
+   },
+   "1712333098917352630": {
+      "message": "Radio"
+   },
+   "1715373473261069991": {
+      "message": "Twitter"
+   },
+   "1721299725717238391": {
+      "message": "Anda sudah menjadi pelanggan. Saat ini kupon hanya tersedia bagi pengguna baru."
+   },
+   "1722592106949807025": {
+      "message": "Simpan Log Debug"
+   },
+   "1726363342938046830": {
+      "message": "Tentang"
+   },
+   "1729815731089690989": {
+      "message": "Pastikan Anda tersambung ke internet"
+   },
+   "174952015183967014": {
+      "message": "$TITLE$ - Ada podcast",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "1765521785433616250": {
+      "message": "Unduhan Anda akan segera dimulai. Jika tidak, $START_SPAN$klik di sini$END_SPAN$.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "1781759902625939771": {
+      "message": "Artis Tidak Dikenal"
+   },
+   "1790640569414740156": {
+      "message": "Genre"
+   },
+   "1803865475179910876": {
+      "message": "Google Play Musik untuk Chrome di $PLATFORM$",
+      "placeholders": {
+         "PLATFORM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1823843876735462104": {
+      "message": "Playlist"
+   },
+   "1831178715211281116": {
+      "message": "Maaf, hanya perangkat Chrome OS pilihan yang memenuhi syarat untuk promosi ini. Masih menginginkan musik tanpa batas?"
+   },
+   "1838639948466909028": {
+      "message": "Halaman ini tidak kompatibel dengan browser. Gunakan salah satu $START_LINK$browser yang didukung$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "1850859858333664648": {
+      "message": "Semua musik"
+   },
+   "1857207760765836958": {
+      "message": "$START_SPAN$Dengarkan radio dengan lompatan tak terbatas$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "1865818889600889051": {
+      "message": "Akun Anda telah diubah. Segarkan halaman untuk melanjutkan."
+   },
+   "1869199094024141188": {
+      "message": "{NUM_MIXES,plural, =0{0 mix}=1{1 mix}other{# mix}}"
+   },
+   "1869588215425319728": {
+      "message": "Tutup panel samping navigasi."
+   },
+   "1872101028863972302": {
+      "message": "$NUM_TRANSFERRED_TRACKS$ lagu sudah diunduh",
+      "placeholders": {
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$1"
+         }
+      }
+   },
+   "1873654242780262831": {
+      "message": "Pilih item di bawah pilihan saat ini"
+   },
+   "192481666606780833": {
+      "message": "Tidak dapat memutar musik"
+   },
+   "193503854366151748": {
+      "message": "Menilai lagu ini jelek"
+   },
+   "197153323825255063": {
+      "message": "Pusat bantuan privasi"
+   },
+   "1980398532913758377": {
+      "message": "$NUM_COMPUTERS$ komputer",
+      "placeholders": {
+         "NUM_COMPUTERS": {
+            "content": "$1"
+         }
+      }
+   },
+   "1984987229407697795": {
+      "message": "Podcast"
+   },
+   "1993805115277775762": {
+      "message": "$FORMATTED_MUSIC_CATALOG_SIZE$ lagu sesuai permintaan",
+      "placeholders": {
+         "FORMATTED_MUSIC_CATALOG_SIZE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2006786763920466492": {
+      "message": "Tanggal dihapus"
+   },
+   "2029980907058777630": {
+      "message": "Persyaratan Layanan"
+   },
+   "2032972931560484213": {
+      "message": "Oleh $CREATOR$",
+      "placeholders": {
+         "CREATOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "2038618429165152799": {
+      "message": "Tanpa judul"
+   },
+   "2085941577249285555": {
+      "message": "Langganan"
+   },
+   "2093026227428526289": {
+      "message": "Penawaran ini hanya tersedia di Chromebook baru tertentu di negara tempat layanan langganan Google Play Musik$START_LINK$ tersedia.$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2101525118384454593": {
+      "message": "Nonaktifkan pengacakan lagu"
+   },
+   "2102825898069375693": {
+      "message": "Menu"
+   },
+   "2139100152161431685": {
+      "message": "Untuk sementara musik Anda tidak tersedia pada perangkat ini. Coba lagi nanti. $START_LINK$Bantuan$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2139683490477275175": {
+      "message": "Tutup"
+   },
+   "2145060893030204211": {
+      "message": "Kami tidak dapat memberi Anda informasi selengkapnya. Coba lagi nanti."
+   },
+   "2149165958319691680": {
+      "message": "Beli"
+   },
+   "2149839604112465314": {
+      "message": "{NUM_SONGS_1,plural, =0{0 lagu}=1{1 lagu}other{{NUM_SONGS_2} lagu}}"
+   },
+   "2152998011161774228": {
+      "message": "g kemudian h"
+   },
+   "2158830056128036057": {
+      "message": "Memproses file musik Anda..."
+   },
+   "2159130950882492111": {
+      "message": "Batal"
+   },
+   "2187022653493279712": {
+      "message": "g kemudian e"
+   },
+   "2214224657661107347": {
+      "message": "Kirim hadiah"
+   },
+   "2220879710364134067": {
+      "message": "Mengedit lagu yang baru saja dipilih"
+   },
+   "2239551688895104696": {
+      "message": "Mengaktifkan menu playlist"
+   },
+   "2244547550956716142": {
+      "message": "Paling populer"
+   },
+   "2246437904181111020": {
+      "message": "Google Play Musik: Pilih Folder Media"
+   },
+   "2256597604224604671": {
+      "message": "Jeda $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2270666830264677427": {
+      "message": "Maksimum $MAX_TRACKS_IN_ZIP$ lagu dapat diunduh sekaligus. Pilih lebih sedikit lagu dan coba lagi.",
+      "placeholders": {
+         "MAX_TRACKS_IN_ZIP": {
+            "content": "$1"
+         }
+      }
+   },
+   "2277837732287051413": {
+      "message": "Menilai lagu ini bagus"
+   },
+   "2280774384387096759": {
+      "message": "Geser lagu atau folder ke sini untuk menambahkan musik ke pustaka Anda."
+   },
+   "2296431514706414883": {
+      "message": "1. Di jendela Unduhan, klik dua kali MusicManager.dmg."
+   },
+   "229748758179155728": {
+      "message": "Maaf, Google Play Musik tidak tersedia di negara Anda."
+   },
+   "2303154715443443305": {
+      "message": "Pengelola Musik sedang mengunduh..."
+   },
+   "2303727423829841771": {
+      "message": "Ups, tampaknya JavaScript dinonaktifkan di browser Anda. Google Play memerlukan pengaktifan JavaScript agar bekerja dengan semestinya."
+   },
+   "2309808536212982229": {
+      "message": "Aktivitas"
+   },
+   "2311151671924532713": {
+      "message": "Hapus dari playlist"
+   },
+   "2312110731653597036": {
+      "message": "$PERCENTAGE_COMPLETE$%",
+      "placeholders": {
+         "PERCENTAGE_COMPLETE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2329070756809480856": {
+      "message": "Album: $ALBUM_NAME$",
+      "placeholders": {
+         "ALBUM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "2357805327369816634": {
+      "message": "Berlangganan semua musik, tanpa iklan"
+   },
+   "2359922567074115383": {
+      "message": "Hapus hiasan album"
+   },
+   "2372448112806402757": {
+      "message": "Episode berikutnya"
+   },
+   "2383360664777254925": {
+      "message": "Alihkan menu navigasi"
+   },
+   "2407755817901433243": {
+      "message": "Tukarkan kode kupon untuk langganan Google Play Musik."
+   },
+   "2443885011055165607": {
+      "message": "Pilih paket unduhan Anda:"
+   },
+   "2447745837421769983": {
+      "message": "Untuk pengalaman unduhan terbaik, dapatkan Google Play Musik untuk Chrome."
+   },
+   "2461177781520343478": {
+      "message": "Lagu tidak dikenal"
+   },
+   "2474664417751811820": {
+      "message": "(CENTANG HANYA JIKA ANDA MENGALAMI MASALAH SAAT MEMUTAR AUDIO) Apa kami diizinkan untuk mengambil log pemutaran dan melakukan debug akun Anda?"
+   },
+   "2483680006830369490": {
+      "message": "g lalu p"
+   },
+   "2492300395471245755": {
+      "message": "Artis"
+   },
+   "250478839881665936": {
+      "message": "g kemudian s"
+   },
+   "2537475974842549685": {
+      "message": "Tutup Iklan"
+   },
+   "2540334409214949805": {
+      "message": "$START_LINK$Masuk$END_LINK$ untuk mencari tahu apakah ada Barang Chrome yang sedang menunggu Anda.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2544569632476723854": {
+      "message": "Persyaratan"
+   },
+   "2567679469483426925": {
+      "message": "Konten digital ini tidak tersedia untuk saat ini."
+   },
+   "2597193119810674616": {
+      "message": "Berlangganan Google Play Musik dan dapatkan $OFFER_LENGTH_DAYS$ hari gratis.",
+      "placeholders": {
+         "OFFER_LENGTH_DAYS": {
+            "content": "$1"
+         }
+      }
+   },
+   "259918799497504180": {
+      "message": "Disarankan: $FIRST$ dari $SECOND$",
+      "placeholders": {
+         "FIRST": {
+            "content": "$1"
+         },
+         "SECOND": {
+            "content": "$2"
+         }
+      }
+   },
+   "2605658322936929408": {
+      "message": "Podcast"
+   },
+   "2626751888211361777": {
+      "message": "Lihat lagu terpopuler lainnya"
+   },
+   "2634703826856398600": {
+      "message": "($NUM_NEW_SONGS$ baru)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "2635933238308036768": {
+      "message": "Pengelola Musik hanya tersedia untuk Windows, Mac, dan Linux."
+   },
+   "2655732800763953732": {
+      "message": "Mix Instan $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2662644497259948010": {
+      "message": "Komentar"
+   },
+   "2665785172586453916": {
+      "message": "Gambar iklan yang berkaitan dengan iklan audio saat ini"
+   },
+   "2673412443855817873": {
+      "message": "Jelek"
+   },
+   "2687424427940533491": {
+      "message": "Kontrol Aktivitas"
+   },
+   "2707074873770010705": {
+      "message": "Perangkat Anda tidak memenuhi syarat untuk promosi ini. Namun jangan khawatir, Anda tetap bisa mendapatkan musik tak terbatas dengan mencoba Google Play Musik. Gratis selama 30 hari."
+   },
+   "2714752802779336020": {
+      "message": "Google Play Musik"
+   },
+   "2721786517672194900": {
+      "message": "Batasan ini tidak berlaku jika Anda menggunakan $START_SPAN$Google Play Musik untuk Chrome$END_SPAN$ untuk mengunduh lagu.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "2728721019095728485": {
+      "message": "Tinggi"
+   },
+   "2731202671625726225": {
+      "message": "Mengelola setelan keluarga Anda."
+   },
+   "2777498733015254880": {
+      "message": "Bantuan & masukan"
+   },
+   "2787148143326073325": {
+      "message": "Penelusuran Suara"
+   },
+   "280973959199634338": {
+      "message": "Tampilkan video YouTube"
+   },
+   "2826705908408853328": {
+      "message": "Kami harus mengarahkan Anda ke Google Play untuk menyelesaikan penyiapan. Kami akan membawa Anda kembali ke Play Musik jika telah selesai."
+   },
+   "2834324594183341424": {
+      "message": "Tambahkan koleksi musik Anda yang sudah ada ke Google Play"
+   },
+   "2840006222747077107": {
+      "message": "Koleksiku kosong"
+   },
+   "2856670286248433202": {
+      "message": "Iklan"
+   },
+   "2857356182021649243": {
+      "message": "Buka laguku"
+   },
+   "2881621988818346391": {
+      "message": "Ya"
+   },
+   "2881776379326317082": {
+      "message": "Selalu gunakan lokasi ini"
+   },
+   "2896640427519622010": {
+      "message": "Tautan Navigasi Cepat"
+   },
+   "29046698705387751": {
+      "message": "{NUM_STATIONS,plural, =0{0 stasiun}=1{1 stasiun}other{# stasiun}}"
+   },
+   "2924201210722864904": {
+      "message": "Beli"
+   },
+   "2933981780439742153": {
+      "message": "Tampilkan pemutar mini"
+   },
+   "2941843189430218247": {
+      "message": "Shift q"
+   },
+   "2982463607788408741": {
+      "message": "Anda telah keluar dari akun Google Anda. Segarkan untuk masuk kembali."
+   },
+   "2983216790003568156": {
+      "message": "Tidak dapat membuat sambungan aman"
+   },
+   "3010015422095710725": {
+      "message": "Hapus seluruh pustaka saya termasuk musik yang dibeli dan musik yang ditambahkan melalui langganan Google Play Musik ($TOTAL_SONGS$)",
+      "placeholders": {
+         "TOTAL_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "302056167930397366": {
+      "message": "Tukarkan penawaran"
+   },
+   "3066644656941512863": {
+      "message": "Ada masalah saat menghapus musik Anda."
+   },
+   "309901418176428732": {
+      "message": "Podcast"
+   },
+   "3099741642167775297": {
+      "message": "Download"
+   },
+   "310152014457055522": {
+      "message": "Berlanggananlah untuk memutar lagu atau album apa pun"
+   },
+   "311252408333124913": {
+      "message": "Perbarui Setelan"
+   },
+   "3117706868107348105": {
+      "message": "Atau salin dan tempel link ini:"
+   },
+   "3120374312076174169": {
+      "message": "{NUM_EPISODES,plural, =0{0 episode}=1{1 episode}other{# episode}}"
+   },
+   "3125342991297920614": {
+      "message": "Tidak dapat membuka album. Cobalah lagi."
+   },
+   "3150614832204809552": {
+      "message": "Podcast: $SERIES_NAME$",
+      "placeholders": {
+         "SERIES_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "315237578086020945": {
+      "message": "Buka artisku"
+   },
+   "31530890844887887": {
+      "message": "Kemajuan trek"
+   },
+   "3154951825194528737": {
+      "message": "Membatalkan pengunduhan musik"
+   },
+   "3163044740176820503": {
+      "message": "Memulai"
+   },
+   "3164162886883870754": {
+      "message": "{NUM_SONGS_TO_DELETE,plural, =1{Yakin ingin menghapus lagu yang dipilih?}other{Yakin ingin menghapus lagu yang dipilih?}}"
+   },
+   "3185279424082070029": {
+      "message": "Pastikan komputer yang Anda gunakan untuk menyimpan lagu ini menjalankan Pengelola Musik dan tersambung dengan internet. Lagu akan diunggah lagi di hari berikutnya."
+   },
+   "3187115322095111816": {
+      "message": "{VALUE,plural, =0{tidak ada lagu}=1{1 lagu}other{# lagu}}"
+   },
+   "3198123723060667787": {
+      "message": "Tanggal"
+   },
+   "3213972439514824911": {
+      "message": "Suka"
+   },
+   "3225804441370198247": {
+      "message": "Semua lagu saya - $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3229693790499517570": {
+      "message": "Rilis baru"
+   },
+   "3244003434432113241": {
+      "message": "Putar"
+   },
+   "3248575677000760820": {
+      "message": "{NUM_SONGS,plural, =0{Anda belum memilih lagu apa pun untuk diunduh ke komputer.}=1{Yakin ingin mengunduh lagu yang dipilih ke komputer Anda?}other{Yakin ingin mengunduh lagu yang dipilih ke komputer Anda?}}"
+   },
+   "3277700190370010726": {
+      "message": "Promosi Google Play musik untuk $START_BOLD$$USER_EMAIL$$END_BOLD$ tidak tersedia untuk sementara. Coba lagi nanti.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "START_BOLD": {
+            "content": "$2"
+         },
+         "USER_EMAIL": {
+            "content": "$3"
+         }
+      }
+   },
+   "3307635842875172003": {
+      "message": "Buka mix saya"
+   },
+   "3310099093781584673": {
+      "message": "g lalu m"
+   },
+   "3311269073804742952": {
+      "message": "Dengarkan Sekarang"
+   },
+   "3323193679372503780": {
+      "message": "Tidak, terima kasih"
+   },
+   "3326102734049980036": {
+      "message": "Tersisa $DURATION$",
+      "placeholders": {
+         "DURATION": {
+            "content": "$1"
+         }
+      }
+   },
+   "3334073701901432746": {
+      "message": "Lihat semua hasil penelusuran playlist"
+   },
+   "3335728816495350082": {
+      "message": "Lagu teratas- $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3339989424930162325": {
+      "message": "Tampilkan pemain utama"
+   },
+   "3342201181237345414": {
+      "message": "Tidak Eksplisit"
+   },
+   "3377006691156456363": {
+      "message": "Tautan yang dapat dibagikan"
+   },
+   "3381844160250536550": {
+      "message": "Masuk ke Chrome"
+   },
+   "3410315382362912156": {
+      "message": "$START_SPAN$$TITLE$$END_SPAN$ saat ini pribadi. Jadikan publik untuk membagikannya.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "3418677553313974490": {
+      "message": "Sampah"
+   },
+   "3419681791450150574": {
+      "message": "Dalam proses"
+   },
+   "342127282404571667": {
+      "message": "Google Play Musik untuk Chrome OS"
+   },
+   "3430836318571306097": {
+      "message": "Mengubah bentuk pembayaran Anda -"
+   },
+   "3431116501598202644": {
+      "message": "Album tidak dikenal"
+   },
+   "3462291720620021793": {
+      "message": "Oleh $OWNER_NAME$",
+      "placeholders": {
+         "OWNER_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "346461448125635284": {
+      "message": "Dengarkan semua musik Anda. Di mana saja. Cukup tambahkan musik dari Komputer Anda ke Google Play."
+   },
+   "3491417595697100862": {
+      "message": "Disediakan oleh $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "3503286865266511120": {
+      "message": "Mengurangi volume pemutar"
+   },
+   "3519190023725081398": {
+      "message": "g kemudian b"
+   },
+   "352192086869301337": {
+      "message": "Menambahkan $START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$ dari $NUM_TOTAL_TRACKS$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TOTAL_TRACKS": {
+            "content": "$2"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$3"
+         },
+         "START_SPAN": {
+            "content": "$4"
+         }
+      }
+   },
+   "3530801739313410091": {
+      "message": "Tukarkan kupon Google Play Musik"
+   },
+   "3545785371861413299": {
+      "message": "Mulai Uji Coba Gratis"
+   },
+   "3545929198870894557": {
+      "message": "Buka playlist saya"
+   },
+   "3565714850919973591": {
+      "message": "/"
+   },
+   "3583962010571084681": {
+      "message": "Selalu Tinggi"
+   },
+   "3605470624800934973": {
+      "message": "Yakin ingin menghapus album yang dipilih?"
+   },
+   "3629941396858927174": {
+      "message": "Tutup opsi lainnya"
+   },
+   "3638177113998814964": {
+      "message": "Memuat $TARGET$",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "3643866539136239218": {
+      "message": "Hapus penelusuran"
+   },
+   "3650356879337858878": {
+      "message": "Privasi & Lokasi"
+   },
+   "3693467228074689327": {
+      "message": "Lanjutkan"
+   },
+   "370216116393129031": {
+      "message": "Buka antrean"
+   },
+   "3748893353086104812": {
+      "message": "Kosongkan cache lokal dan segarkan semua informasi lagu dan playlist."
+   },
+   "3768927257183755959": {
+      "message": "Simpan"
+   },
+   "3782346097595894324": {
+      "message": "Sambungan ke server gagal. Coba lagi nanti."
+   },
+   "3789779144889291801": {
+      "message": "Mudah mengunduh musik yang telah dibeli atau diunggah ke Google Play."
+   },
+   "3795262960327716692": {
+      "message": "Untuk menambahkan lagu, tarik lagu ke nama playlist di bilah sisi"
+   },
+   "3839679337223320857": {
+      "message": "Masuk sebagai $EMAIL$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "3847468592740504132": {
+      "message": "Radio $ITEM_NAME$",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3849149261610050417": {
+      "message": "Kunjungi Google Play Musik"
+   },
+   "3861583677596279097": {
+      "message": "Laporan memerlukan perhatian teknis dalam hari kerja berikutnya"
+   },
+   "3865248559890962003": {
+      "message": "Disarankan: $SUGGESTION$",
+      "placeholders": {
+         "SUGGESTION": {
+            "content": "$1"
+         }
+      }
+   },
+   "3866082057646051822": {
+      "message": "Tukarkan kupon Google Play Musik"
+   },
+   "3868119883080041455": {
+      "message": "Radio $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "3872632959071287956": {
+      "message": "Masuk ke Google Play Musik di web sebelum menggunakan aplikasi Chrome."
+   },
+   "3885497195825665706": {
+      "message": "Berikutnya"
+   },
+   "3890078112831612818": {
+      "message": "Pastikan komputer tempat Anda menyimpan lagu ini menjalankan Pengelola Musik dan tersambung dengan internet. Lagu akan diunggah lagi pada hari berikutnya."
+   },
+   "3897348120591552265": {
+      "message": "Kelola"
+   },
+   "3904027274600624417": {
+      "message": "Siapa saja dapat menemukan dan mendengarkan. Sempurna untuk berbagi."
+   },
+   "3905289916217023036": {
+      "message": "Menghapus semua musik yang dibeli dan diunggah secara permanen."
+   },
+   "392008683752499246": {
+      "message": "Tambahkan maksimal $FORMATTED_LOCKER_SIZE$ lagu dari koleksi Anda ke Google Play secara gratis.",
+      "placeholders": {
+         "FORMATTED_LOCKER_SIZE": {
+            "content": "$1"
+         }
+      }
+   },
+   "3936240281193464170": {
+      "message": "Segarkan"
+   },
+   "3941019069704400974": {
+      "message": "Yakin ingin menghapus permanen histori yang digunakan untuk memberikan saran hasil personalisasi? Tindakan ini tidak akan menghapus rating atau jumlah pemutaran tiap lagu."
+   },
+   "3949911572988594237": {
+      "message": "Buat playlist"
+   },
+   "3973260061047030021": {
+      "message": "Putar atau jeda musik"
+   },
+   "3973931101896534797": {
+      "message": "Tanggal"
+   },
+   "3981724709755713539": {
+      "message": "Playlist Terbaru"
+   },
+   "3982112843644394207": {
+      "message": "2. Dalam Unduhan browser Anda, klik dua kali musicmanagerinstaller.exe untuk membukanya."
+   },
+   "3993484408454658640": {
+      "message": "Kontrol orang tua:"
+   },
+   "4018574576796390012": {
+      "message": "Yakin ingin menghapus playlist \"$PLAYLIST_NAME$\" $START_SPAN$secara permanen$END_SPAN$?",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "PLAYLIST_NAME": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "4021376741882293501": {
+      "message": "Linux"
+   },
+   "4052021127566304266": {
+      "message": "Edit"
+   },
+   "405696346909038516": {
+      "message": "Lihat semua hasil penelusuran podcast"
+   },
+   "4063027937991598166": {
+      "message": "Hapus pilihan saat ini"
+   },
+   "4071581399160046214": {
+      "message": "Beranda"
+   },
+   "4075286221500750156": {
+      "message": "Versi: $VERSION$ $BUILD_MODE$",
+      "placeholders": {
+         "BUILD_MODE": {
+            "content": "$1"
+         },
+         "VERSION": {
+            "content": "$2"
+         }
+      }
+   },
+   "4082846773463542695": {
+      "message": "Tidak dapat mengidentifikasi komputer Anda."
+   },
+   "4086606389696938932": {
+      "message": "Akun"
+   },
+   "4091426921184034649": {
+      "message": "Tingkatkan versi langganan"
+   },
+   "4110926661719376304": {
+      "message": "Pelajari cara menghidupkan JavaScript"
+   },
+   "4117886182866316912": {
+      "message": "Memutar maju-cepat pada lagu ini"
+   },
+   "4136239927282562599": {
+      "message": "Dengarkan radio dengan musik yang mirip dengan $START_SPAN$$TITLE$$END_SPAN$.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "4139665515290249483": {
+      "message": "Playlist ini kosong"
+   },
+   "4141582858389779168": {
+      "message": "Daftar musik tak terbatas hanya seharga $OFFER_PRICE$/bulan dan mainkan jutaan lagu, langsung dan tanpa iklan.",
+      "placeholders": {
+         "OFFER_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4158639452472568044": {
+      "message": "Lagu ini telah ditandai sebagai salah dicocokkan."
+   },
+   "4170852783933160433": {
+      "message": "{SONG_COUNT,plural, =1{Lagu terpilih akan menggunakan salinan Anda, bukan salinan yang cocok.}other{Lagu terpilih akan menggunakan salinan Anda, bukan salinan yang cocok.}}"
+   },
+   "4183640380235728062": {
+      "message": "Ulangi Nonaktif. Klik untuk mengubah mode Ulangi."
+   },
+   "4207298621447602833": {
+      "message": "Paling cocok"
+   },
+   "4210934092144627539": {
+      "message": "Baru diputar atau ditambahkan"
+   },
+   "4214349520294814506": {
+      "message": "$LABEL$, dipilih",
+      "placeholders": {
+         "LABEL": {
+            "content": "$1"
+         }
+      }
+   },
+   "4223772395954115656": {
+      "message": "$START_SPAN$Putar jutaan lagu kapan pun Anda suka$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "4250881018175851283": {
+      "message": "Tampilkan paling baru"
+   },
+   "4260036130369028456": {
+      "message": "g kemudian g"
+   },
+   "4263959392548297550": {
+      "message": "Batalkan"
+   },
+   "4267092206833736997": {
+      "message": "Stasiun Radio"
+   },
+   "4272173055918340921": {
+      "message": "Memuat Perpustakaan Musik&hellip;"
+   },
+   "4275466320467620600": {
+      "message": "Selalu di atas"
+   },
+   "4285216590250755577": {
+      "message": "Perangkat Anda perlu diperbarui sebelum kami dapat memeriksa apakah perangkat memenuhi syarat untuk promosi ini."
+   },
+   "4307428996576001111": {
+      "message": "Tuju lagu sebelumnya"
+   },
+   "4323912651038951928": {
+      "message": "Tindakan ini juga menghapus playlist, stasiun radio, nilai, dan informasi jumlah pemutaran Anda."
+   },
+   "4330683855002842723": {
+      "message": "Tampilkan opsi lainnya"
+   },
+   "4340616150909089613": {
+      "message": "Apakah \"$SONG_TITLE$\" cocok dengan lagu lain?",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4357737589458300153": {
+      "message": "Teknologi pengkodean audio MPEG Layer-3 mendapatkan lisensi dari Fraunhofer IIS dan Thomson. Advanced Audio Coding (AAC - Pengkodean Audio Canggih) digunakan berdasarkan lisensi yang diberikan oleh Via Licensing Corporation. Google Play berisi software pihak ketiga tertentu yang memerlukan pemberitahuan dan/atau persyaratan dan ketentuan tambahan. Notifikasi dan/atau persyaratan dan ketentuan tambahan software pihak ketiga yang dibutuhkan ini ada di $START_LINK$halaman pengungkapan pihak ketiga$END_LINK$ kami.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "4373763311924773906": {
+      "message": "Tambahkan musik dari $SOURCE_LIST$",
+      "placeholders": {
+         "SOURCE_LIST": {
+            "content": "$1"
+         }
+      }
+   },
+   "4374547022638899908": {
+      "message": "Blokir musik yang ditandai sebagai eksplisit oleh penyedia konten."
+   },
+   "437655423845564400": {
+      "message": "Telah mencapai batas lagu maksimum. Anda hanya dapat mengunggah maksimum $TRACK_LIMIT$ lagu.",
+      "placeholders": {
+         "TRACK_LIMIT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4383725505132456525": {
+      "message": "Menjeda penambahan musik"
+   },
+   "4386455913448027147": {
+      "message": "$ITEM_NAME$",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4387704382811204091": {
+      "message": "Buat playlist Anda sendiri"
+   },
+   "4396890764725725469": {
+      "message": "Simpan"
+   },
+   "4432809939941276493": {
+      "message": "Google Play Musik saat ini tersedia di wilayah tertentu dan untuk jenis akun tertentu."
+   },
+   "4448959744786615285": {
+      "message": "{COUNT_1,plural, =0{0 lagu}=1{1 lagu}other{{COUNT_2} lagu}}"
+   },
+   "445149490695787423": {
+      "message": "Masuk lagi"
+   },
+   "4452427314943113135": {
+      "message": "Sebelumnya"
+   },
+   "4461486069850736796": {
+      "message": "{NUM_SECONDS,plural, =0{0 detik}=1{1 detik}other{# detik}}"
+   },
+   "4462494623248108758": {
+      "message": "Playlist"
+   },
+   "4476647413225813774": {
+      "message": "Setelah $OFFER_LENGTH_DAYS$ hari, terus dengarkan musik hanya dengan $OFFER_PRICE$ per bulan.",
+      "placeholders": {
+         "OFFER_LENGTH_DAYS": {
+            "content": "$1"
+         },
+         "OFFER_PRICE": {
+            "content": "$2"
+         }
+      }
+   },
+   "4479370175321248159": {
+      "message": "Mac OS X"
+   },
+   "4481282928945235645": {
+      "message": "Beberapa lagu Anda perlu diunggah lagi."
+   },
+   "4523347413979510028": {
+      "message": "Video YouTube"
+   },
+   "4537375385198577563": {
+      "message": "Pelajari lebih lanjut."
+   },
+   "4539806158142214585": {
+      "message": "g lalu n"
+   },
+   "4548136982356342217": {
+      "message": "Shift &#8592;"
+   },
+   "4554520729383911291": {
+      "message": "Membuat campuran instan yang baru dari lagu terpilih"
+   },
+   "4580988005648117665": {
+      "message": "Telusuri"
+   },
+   "4601938511613873712": {
+      "message": "Perangkat saya"
+   },
+   "46135825491334308": {
+      "message": "Menghapus musik Anda bersifat permanen."
+   },
+   "4624704164651982020": {
+      "message": "Menyiapkan Google Play Musik untuk Chrome..."
+   },
+   "4629398054050196678": {
+      "message": "Unduh musik ke lokasi berikut:"
+   },
+   "4645609569705949286": {
+      "message": "Hanya saya"
+   },
+   "4648993989034133051": {
+      "message": "Tampilkan menu untuk lagu yang dipilih saat ini"
+   },
+   "4658362967039953209": {
+      "message": "Unggah musik"
+   },
+   "4662613464573260354": {
+      "message": "Disarankan"
+   },
+   "4687189636655044066": {
+      "message": "Bilah spasi"
+   },
+   "4709553525160465770": {
+      "message": "Untuk mengunggah musik Anda dengan cepat, Google Play mencocokkan file musik Anda dengan salinan di server kami. Terkadang kami mungkin mencocokkan dengan lagu yang salah. Laporkan masalah Anda di sini dan lagu tersebut akan diunggah kembali."
+   },
+   "4718177503702130030": {
+      "message": "Waktu trek saat ini: $CURRENT_TIME$",
+      "placeholders": {
+         "CURRENT_TIME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4724245563419948725": {
+      "message": "Jaga agar versi Google Play tetap yang terbaru saat saya menambahkan musik baru ke lokasi ini"
+   },
+   "472845696068673335": {
+      "message": "Konten yang diperbarui berhasil dimuat"
+   },
+   "4742770396342457517": {
+      "message": "Dengarkan di Google Play Musik"
+   },
+   "4743341466695708276": {
+      "message": "Android"
+   },
+   "4769480851867061848": {
+      "message": "Putar $TARGET$",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "4775550080689015987": {
+      "message": "Alasan"
+   },
+   "477988155866276940": {
+      "message": "{NUM_GENRES,plural, =0{0 genre}=1{1 genre}other{# genre}}"
+   },
+   "4782493710939339680": {
+      "message": "Bagikan ke Twitter"
+   },
+   "4846792506513649213": {
+      "message": "Stasiun"
+   },
+   "4862902902120611556": {
+      "message": "Lihat semua hasil penelusuran artis"
+   },
+   "4867246087786788222": {
+      "message": "Jenis akun:"
+   },
+   "4874337908897060929": {
+      "message": "Menambahkan musik dijeda"
+   },
+   "4875592400807861759": {
+      "message": "{NUM_SONGS_TO_DELETE,plural, =1{Yakin ingin {START_SPAN_1}menghapus secara permanen{END_SPAN} lagu yang dipilih?}other{Yakin ingin {START_SPAN_2}menghapus secara permanen{END_SPAN} lagu yang dipilih?}}"
+   },
+   "4886126295094352182": {
+      "message": "Google Play Musik untuk Chrome"
+   },
+   "4902817035128594900": {
+      "message": "Deskripsi"
+   },
+   "4916816672463415688": {
+      "message": "Coba Google Play Musik"
+   },
+   "4920946997448724158": {
+      "message": "Komposer"
+   },
+   "4930506384627295710": {
+      "message": "Setelan"
+   },
+   "4945228064546795686": {
+      "message": "Lihat semua hasil penelusuran album"
+   },
+   "4962022175989879342": {
+      "message": "Eksplisit"
+   },
+   "4972659496812307928": {
+      "message": "Mengunduh musik dijeda"
+   },
+   "4980580439123922024": {
+      "message": "Artis"
+   },
+   "4982958189718922051": {
+      "message": "Beranda Google Play Musik"
+   },
+   "4998030835388374541": {
+      "message": "Ganti hiasan album"
+   },
+   "5003850562831597565": {
+      "message": "Baru berlangganan"
+   },
+   "5004312405043027351": {
+      "message": "Selesai"
+   },
+   "5029496897209707807": {
+      "message": "Google Play Musik untuk Chrome perlu diperbarui. Ini akan dilakukan secara otomatis."
+   },
+   "5043933900720743682": {
+      "message": "Album"
+   },
+   "504907426029176372": {
+      "message": "Terakhir diakses:"
+   },
+   "5049432650728491454": {
+      "message": "Telusuri rilis baru, tangga lagu teratas, playlist, dan genre"
+   },
+   "5067818727161314391": {
+      "message": "Bagikan ke Google+"
+   },
+   "5080822706931608370": {
+      "message": "{NUM_ALBUMS,plural, =0{0 album}=1{1 album}other{# album}}"
+   },
+   "5085509606319320198": {
+      "message": "Tutup antrean"
+   },
+   "5117284791649421953": {
+      "message": "Histori Play Musik"
+   },
+   "5119663120731608161": {
+      "message": "Periksa playlist $START_LINK$Tambahan terbaru$END_LINK$ untuk melihat lagu terbaru Anda.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "5125947296792815314": {
+      "message": "{NUM_SKIPS,plural, =1{sisa 1 lompatan}other{sisa # lompatan}}"
+   },
+   "5128240607770067472": {
+      "message": "Tentang..."
+   },
+   "5141725357376719861": {
+      "message": "Mengunduh $START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$ dari $NUM_TOTAL_TRACKS$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TOTAL_TRACKS": {
+            "content": "$2"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$3"
+         },
+         "START_SPAN": {
+            "content": "$4"
+         }
+      }
+   },
+   "5143432838919500349": {
+      "message": "Memindai..."
+   },
+   "5154374028369457456": {
+      "message": "Bilah alat navigasi"
+   },
+   "5161411570094992408": {
+      "message": "Jangan sekarang"
+   },
+   "5188231675115376764": {
+      "message": "Buka stasiun radioku"
+   },
+   "5237204164514638395": {
+      "message": "Kirim hadiah"
+   },
+   "5274506773583039432": {
+      "message": "Yakin ingin $START_SPAN$menghapus secara permanen$END_SPAN$ playlist yang dipilih?",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "5302287499843369186": {
+      "message": "Menyiapkan Google Play Musik"
+   },
+   "5316998074277327666": {
+      "message": "Sebagian konten adalah hak cipta &copy; Gracenote atau penyedianya."
+   },
+   "5324332666649007562": {
+      "message": "{NUM_SONGS_TO_EXPUNGE,plural, =1{Yakin ingin {START_SPAN_1}menghapus secara permanen{END_SPAN} lagu yang dipilih?}other{Yakin ingin {START_SPAN_2}menghapus secara permanen{END_SPAN} lagu yang dipilih?}}"
+   },
+   "5326351540290142036": {
+      "message": "Lagu sebelumnya"
+   },
+   "5346889542079298595": {
+      "message": "Radio gratis untuk menemani hari Anda. Simpan $FORMATTED_LOCKER_SIZE$ lagu dari koleksi pribadi. Berlanggananlah untuk mengakses $FORMATTED_MUSIC_CATALOG_SIZE$ lagu sesuai permintaan, dan mendengarkan saat offline.",
+      "placeholders": {
+         "FORMATTED_LOCKER_SIZE": {
+            "content": "$1"
+         },
+         "FORMATTED_MUSIC_CATALOG_SIZE": {
+            "content": "$2"
+         }
+      }
+   },
+   "5348600594194881699": {
+      "message": "Bersantailah, Anda sudah menjadi pelanggan Google Play Musik!"
+   },
+   "5350246280596757721": {
+      "message": "Artis terkait"
+   },
+   "5370332239555585516": {
+      "message": "Musik nonstop, tanpa iklan"
+   },
+   "5379453108698089622": {
+      "message": "Buka Dengarkan Sekarang"
+   },
+   "5393158295657392839": {
+      "message": "Lagu ditandai sebagai pencocokan yang salah."
+   },
+   "5395035563228151731": {
+      "message": "Status akun:"
+   },
+   "5407092932504462689": {
+      "message": "Lihat semua hasil penelusuran stasiun radio"
+   },
+   "5410695385284979104": {
+      "message": "$TITLE$ Campuran",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "541213310813871561": {
+      "message": "Setelan Keluarga"
+   },
+   "5432330868773114140": {
+      "message": "Mulai radio"
+   },
+   "5444318821310889944": {
+      "message": "{COUNT_1,plural, =0{0 episode}=1{1 episode}other{{COUNT_2} episode}}"
+   },
+   "545173546103184657": {
+      "message": "Akun Google:"
+   },
+   "5452218284042451605": {
+      "message": "Untuk menerapkan kupon ke $START_SPAN$$USER_EMAIL$$END_SPAN$, masukkan kode Anda di bawah",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "USER_EMAIL": {
+            "content": "$3"
+         }
+      }
+   },
+   "5464364716831469679": {
+      "message": "Album Tidak Diketahui"
+   },
+   "5480320305561124595": {
+      "message": "Koleksiku"
+   },
+   "548629550059508920": {
+      "message": "Tidak dapat mengunggah karena Anda telah mengunggah dari dua akun."
+   },
+   "5492320356892382782": {
+      "message": "Hapus secara permanen"
+   },
+   "5497512316841934820": {
+      "message": "Mix saya lagi berhoki"
+   },
+   "5497627646066282315": {
+      "message": "Menghubungkan"
+   },
+   "550380163414655031": {
+      "message": "Selanjutnya, kami akan mengajukan pertanyaan tentang selera Anda untuk membatu menemukan musik yang tepat."
+   },
+   "5518817744725858296": {
+      "message": "Artis ini akan mengadakan pertunjukan langsung di dekat lokasi Anda"
+   },
+   "5535160370665610524": {
+      "message": "Memutar mundur-cepat pada lagu ini"
+   },
+   "5578390534357178026": {
+      "message": "Pastikan Anda masuk ke Chrome dengan akun Google yang sama."
+   },
+   "5584189341216439776": {
+      "message": "Tambahkan musik Anda"
+   },
+   "5586233271963962252": {
+      "message": "Lagu berikutnya"
+   },
+   "5593848105713936399": {
+      "message": "Antrean"
+   },
+   "5594762259680838005": {
+      "message": "Baru dibeli"
+   },
+   "5605692130698677333": {
+      "message": "Perlu bantuan untuk menambahkan musik dari komputer yang sudah Anda pasangi Pengelola Musik Google Play?"
+   },
+   "560627050344405345": {
+      "message": "Lewati maju 30 detik"
+   },
+   "5607000992339442129": {
+      "message": "Hanya butuh beberapa menit untuk mulai mengunggah koleksi musik Anda ke Google Play."
+   },
+   "5631364725702248876": {
+      "message": "Cari stasiun"
+   },
+   "5635270894887625192": {
+      "message": "$START_UNORDERED_LIST$$START_ITEM$$START_DIV_1$$END_DIV$$START_SPAN$Simpan maksimal $FORMATTED_LOCKER_SIZE$ lagu di Google Play gratis.$END_SPAN$$END_ITEM$$START_ITEM$$START_DIV_2$$END_DIV$$START_SPAN$Tambahkan koleksi dari iTunes, Windows Media Player, atau folder.$END_SPAN$$END_ITEM$$START_ITEM$$START_DIV_3$$END_DIV$$START_SPAN$Dengarkan di web atau perangkat seluler tanpa perlu repot menyinkronkan.$END_SPAN$$END_ITEM$$END_UNORDERED_LIST$",
+      "placeholders": {
+         "END_DIV": {
+            "content": "$1"
+         },
+         "END_ITEM": {
+            "content": "$2"
+         },
+         "END_SPAN": {
+            "content": "$3"
+         },
+         "END_UNORDERED_LIST": {
+            "content": "$4"
+         },
+         "FORMATTED_LOCKER_SIZE": {
+            "content": "$5"
+         },
+         "START_DIV_1": {
+            "content": "$6"
+         },
+         "START_DIV_2": {
+            "content": "$7"
+         },
+         "START_DIV_3": {
+            "content": "$8"
+         },
+         "START_ITEM": {
+            "content": "$9"
+         },
+         "START_SPAN": {
+            "content": "$10"
+         },
+         "START_UNORDERED_LIST": {
+            "content": "$11"
+         }
+      }
+   },
+   "5671499827182863671": {
+      "message": "Anda telah keluar dari akun ini. Klik tombol di bawah untuk kembali mendengarkan musik."
+   },
+   "5729733224544981434": {
+      "message": "Tambahkan Google Play Musik untuk Chrome guna mengaktifkan fitur tarik dan lepas"
+   },
+   "5769804815976568558": {
+      "message": "Pilih lokasi unduhan"
+   },
+   "5827343664961087180": {
+      "message": "Langganan"
+   },
+   "5832435837238304779": {
+      "message": "Putar $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "585739095777961817": {
+      "message": "oleh"
+   },
+   "5862309805277852777": {
+      "message": "Nama"
+   },
+   "5863523793538309428": {
+      "message": "Musik Anda sedang dihapus. Tunggulah beberapa jam hingga semua musik Anda selesai dihapus."
+   },
+   "5888141336325862688": {
+      "message": "Buka jelajahi stasiun"
+   },
+   "5889126665299129466": {
+      "message": "Untuk menggunakan pemutar mini, Anda perlu masuk ke Chrome."
+   },
+   "5889904821719049150": {
+      "message": "Dengarkan musik Anda dari komputer mana pun dan maksimal di sepuluh perangkat. Mengunggah atau mengunduh musik menggunakan Pengelola Musik atau Google Play Musik untuk Chrome memengaruhi penghitungan terhadap batas perangkat."
+   },
+   "5891064527381218201": {
+      "message": "Gratis"
+   },
+   "5923830678189377717": {
+      "message": "Hmmm..."
+   },
+   "5946473117506990177": {
+      "message": "Berikan langganan Google Play Musik"
+   },
+   "5971001229987621398": {
+      "message": "Rilis baru yang disarankan"
+   },
+   "5987565417212088924": {
+      "message": "Playlist penelusuran suara"
+   },
+   "5990212441459592050": {
+      "message": "Jadikan publik"
+   },
+   "599493319699637812": {
+      "message": "Acak lagu"
+   },
+   "6028312506269896318": {
+      "message": "Yakin ingin membatalkan otorisasi perangkat berikut untuk memutar musik:"
+   },
+   "60369026765465265": {
+      "message": "Segarkan stasiun"
+   },
+   "6037216776738907588": {
+      "message": "Buka genreku"
+   },
+   "6062704261604405084": {
+      "message": "Siapkan Google Play Musik untuk Chrome guna menambah koleksi musik sehingga Anda dapat menikmati musik di ponsel, tablet, dan komputer."
+   },
+   "6062911693359625717": {
+      "message": "Kecepatan bit: $BITRATE$",
+      "placeholders": {
+         "BITRATE": {
+            "content": "$1"
+         }
+      }
+   },
+   "6068863249628617875": {
+      "message": "Coba sekarang"
+   },
+   "607779708716020188": {
+      "message": "…"
+   },
+   "6080972150136904755": {
+      "message": "Saat ini playlist kosong"
+   },
+   "6082171864197428613": {
+      "message": "Instal"
+   },
+   "609463966491943885": {
+      "message": "Pilih folder"
+   },
+   "6097429778714195840": {
+      "message": "Buka rilis baru"
+   },
+   "6104044107385556653": {
+      "message": "Kode kupon peka huruf besar/kecil"
+   },
+   "6115840172404094036": {
+      "message": "Tuju lagu berikutnya"
+   },
+   "6134905866550808378": {
+      "message": "Semua lagu saya - $GENRE_NAME$",
+      "placeholders": {
+         "GENRE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "6176916746057281482": {
+      "message": "Lihat detail episode"
+   },
+   "6182267200530067545": {
+      "message": "Siapkan langganan rutin Anda sekarang untuk terus mendengarkan musik."
+   },
+   "6202991870072245705": {
+      "message": "Berhenti berlangganan"
+   },
+   "6214362172197372800": {
+      "message": "Pastikan Anda telah mengunduh salinan pembelian apa pun dari Google Play ke komputer sebelum melanjutkan."
+   },
+   "6227307047241266902": {
+      "message": "menu opsi lainnya"
+   },
+   "6233107584508657559": {
+      "message": "Tidak dapat tersambung ke Google"
+   },
+   "6233799104785293347": {
+      "message": "Tingkatkan versi"
+   },
+   "6242354668932209396": {
+      "message": "Mengulangi Semua Lagu. Klik untuk mengubah mode Ulangi."
+   },
+   "624560585652958729": {
+      "message": "Batalkan otorisasi"
+   },
+   "6254019915482435769": {
+      "message": "Disk"
+   },
+   "6263911096488435737": {
+      "message": "Segarkan campuran"
+   },
+   "6266962164598137510": {
+      "message": "Tidak Suka"
+   },
+   "6295780096198935300": {
+      "message": "Lihat semua hasil penelusuran lagu"
+   },
+   "6321629750851370838": {
+      "message": "Pemutaran"
+   },
+   "6334800505555910746": {
+      "message": "Disediakan oleh $XXX_1$ di bawah $XXX_2$",
+      "placeholders": {
+         "XXX_1": {
+            "content": "$1"
+         },
+         "XXX_2": {
+            "content": "$2"
+         }
+      }
+   },
+   "6338543385295715171": {
+      "message": "Kesalahan unggahan!"
+   },
+   "6348993545995904615": {
+      "message": "Acak"
+   },
+   "6360340926892934518": {
+      "message": "Menambahkan folder"
+   },
+   "6385838952512467617": {
+      "message": "{NUM,plural, =0{Tidak ada lagu yang tinggal 1 unduhan lagi.}=1{\"{XXX_1}\" tinggal 1 unduhan lagi.}=2{\"{XXX_1}\" dan \"{XXX_2}\" tinggal 1 unduhan lagi.}=3{\"{XXX_1}\", \"{XXX_2}\", dan \"{XXX_3}\" tinggal 1 unduhan lagi.}=4{\"{XXX_1}\", \"{XXX_2}\", \"{XXX_3}\", dan 1 lagu terpilih lainnya tinggal 1 unduhan lagi.}other{\"{XXX_1}\", \"{XXX_2},\" \"{XXX_3}\", dan {XXX_4} lagu terpilih lainnya tinggal 1 unduhan lagi.}}"
+   },
+   "6386884903976634321": {
+      "message": "Update Setelan"
+   },
+   "6392918669949841614": {
+      "message": "Tanggal ditambahkan"
+   },
+   "6401620758535187625": {
+      "message": "Perbarui info pembayaran"
+   },
+   "6426880811380367028": {
+      "message": "Jeda $TARGET$",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "6439365426343089851": {
+      "message": "Umum"
+   },
+   "6453809956732788630": {
+      "message": "$START_SPAN$Nikmati playlist dari para penggila musik kami$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "6455589326534311330": {
+      "message": "Batasan ini tidak berlaku jika Anda menggunakan $START_SPAN$Pengelola Musik$END_SPAN$ untuk mengunduh seluruh pustaka ke komputer.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "6463864371052292453": {
+      "message": "Eksplisit: Berisi konten yang mungkin tidak sesuai untuk anak-anak"
+   },
+   "6473040876350306456": {
+      "message": "Histori Lokasi"
+   },
+   "6482036697464831271": {
+      "message": "Untuk mengunggah musik Anda dengan cepat, Google Play mencocokkan file musik Anda dengan salinan di server kami. Terkadang kami mungkin mencocokkan dengan lagu yang salah. Laporkan masalah di sini dan lagu akan dikoreksi sehingga menggunakan salinan Anda, bukan salinan yang cocok."
+   },
+   "6482522612734635310": {
+      "message": "Musik dijeda di sini karena sepertinya Anda mendengarkan di perangkat lain."
+   },
+   "6482815137654580311": {
+      "message": "Edit info"
+   },
+   "6485379744416240146": {
+      "message": "Bagus"
+   },
+   "6488707262592852720": {
+      "message": "2. Di jendela pemasang, tarik ikon Pengelola Musik ke ikon folder Aplikasi."
+   },
+   "6502885021177224543": {
+      "message": "Google Play Musik: Pilih Folder Unduhan"
+   },
+   "6504449653938065974": {
+      "message": "Playlist yang disarankan"
+   },
+   "6513265996872955028": {
+      "message": "Tambahkan ke pustaka"
+   },
+   "6523257069333866790": {
+      "message": "Pustaka musik"
+   },
+   "6531109671848395983": {
+      "message": "Untuk menambahkan musik Anda, instal Google Play Musik untuk Chrome."
+   },
+   "6531471505721570155": {
+      "message": "Dapatkan lainnya"
+   },
+   "6555053572817998410": {
+      "message": "Jeda"
+   },
+   "6562996658473327600": {
+      "message": "Diputar dari:"
+   },
+   "6568036879894576496": {
+      "message": "Musik dari folder berikut akan ditambahkan ke Google Play Musik"
+   },
+   "6576943715351613839": {
+      "message": "{DOWNLOAD_COUNT_MAX_1,plural, =1{ Setiap lagu dapat diunduh satu kali di web.}other{ Setiap lagu dapat diunduh {DOWNLOAD_COUNT_MAX_2} kali di web.}}"
+   },
+   "65984904390749158": {
+      "message": "Selesaikan"
+   },
+   "66116513409922755": {
+      "message": "Tidak"
+   },
+   "6612332818623520965": {
+      "message": "Maaf, ada yang tidak beres. Coba lagi."
+   },
+   "6634231960955145278": {
+      "message": "Lagu"
+   },
+   "6638274938129779637": {
+      "message": "Urungkan pemberian suka"
+   },
+   "6650633628037596693": {
+      "message": "Coba lagi"
+   },
+   "6650888720096194474": {
+      "message": "Untuk menggunakan pemutar mini, Anda perlu menyiapkan Google Play Musik untuk $START_SPAN$$EMAIL$$END_SPAN$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         },
+         "END_SPAN": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "6652649548557498169": {
+      "message": "Biasa"
+   },
+   "6652787256443519035": {
+      "message": "Tidak ditag"
+   },
+   "6674940684074453217": {
+      "message": "iOS"
+   },
+   "6703444928647322448": {
+      "message": "Nama"
+   },
+   "6704452266937792847": {
+      "message": "Tambahkan ke pustaka"
+   },
+   "6706494172112196654": {
+      "message": "Upgrade ke paket keluarga, maksimal 6 anggota keluarga"
+   },
+   "6716575470159796252": {
+      "message": "Chrome OS"
+   },
+   "6718773735728815040": {
+      "message": "Direkomendasikan untuk Anda"
+   },
+   "6719382961812623394": {
+      "message": "Ada masalah dengan penyiapan"
+   },
+   "6724866564770579816": {
+      "message": "Cara memutar"
+   },
+   "6742017901699269182": {
+      "message": "Buka albumku"
+   },
+   "6747414430222084644": {
+      "message": "Panjang trek: $TRACK_LENGTH$",
+      "placeholders": {
+         "TRACK_LENGTH": {
+            "content": "$1"
+         }
+      }
+   },
+   "6790172339432877080": {
+      "message": "L-mark ini adalah merek dagang terdaftar yang menandakan bahwa konten di sini disediakan oleh perusahaan rekaman dan perusahaan produksi video."
+   },
+   "6814976743136440069": {
+      "message": "Oke"
+   },
+   "6820635381009519748": {
+      "message": "Hapus dari antrean"
+   },
+   "6830152735949448199": {
+      "message": "Lab Google Play Musik adalah tempat pengujian fitur eksperimental yang belum siap untuk diluncurkan sepenuhnya. Sewaktu-waktu fitur dapat berubah, rusak, atau hilang. Nikmatilah!"
+   },
+   "6839273670547667172": {
+      "message": "Beraneka"
+   },
+   "6840919594921167668": {
+      "message": "Periksa folder Unduhan komputer Anda untuk melihat lagu yang diunduh."
+   },
+   "6852978731943767591": {
+      "message": "3. Ketika pemasang terbuka, ikuti petunjuknya untuk menyiapkan Pengelola Musik."
+   },
+   "6857227272497365704": {
+      "message": "Melompat ke bagian tertentu pada lagu (7 berarti melompat ke 70% durasi)"
+   },
+   "6875485529840056179": {
+      "message": "Dapatkan akses ke lebih dari $FORMATTED_MUSIC_CATALOG_SIZE$ lagu dan radio tidak terbatas.",
+      "placeholders": {
+         "FORMATTED_MUSIC_CATALOG_SIZE": {
+            "content": "$1"
+         }
+      }
+   },
+   "6887831882226099905": {
+      "message": "Yakin ingin membatalkan otorisasi perangkat berikut untuk menambahkan musik:"
+   },
+   "6932671848756303275": {
+      "message": "Rendah"
+   },
+   "6940170973585783277": {
+      "message": "Upgrade ke paket keluarga"
+   },
+   "6941609127174167431": {
+      "message": "Lewati mundur 10 detik"
+   },
+   "6943941659433003765": {
+      "message": "Mulai mix instan"
+   },
+   "6962699013778688473": {
+      "message": "Lanjutkan"
+   },
+   "6990699195498598876": {
+      "message": "Untuk memulai, unduh Pengelola Musik di bawah. Pengelola Musik adalah aplikasi sederhana untuk menambahkan file musik di komputer Anda ke Google Play."
+   },
+   "699971906528455934": {
+      "message": "Artis tidak dikenal"
+   },
+   "7009828133009731416": {
+      "message": "Gratis dari Google"
+   },
+   "7022070615528435141": {
+      "message": "Hapus"
+   },
+   "7035822615949880851": {
+      "message": "Musik Anda sementara tidak tersedia dari perangkat ini. Coba lagi nanti. Kesalahan 442."
+   },
+   "7043080825985118397": {
+      "message": "Batalkan penghapusan"
+   },
+   "7054091192371222228": {
+      "message": " dari "
+   },
+   "7062695654404914711": {
+      "message": "Mix Instan"
+   },
+   "7067908984080925888": {
+      "message": "Baca selengkapnya"
+   },
+   "7071666053441099517": {
+      "message": "1. Buka MusicManager.dmg di kiri bawah jendela browser."
+   },
+   "7080245643233785574": {
+      "message": "Google Play Musik untuk Chrome mengalami masalah. Anda perlu masuk kembali."
+   },
+   "7090368974279082159": {
+      "message": "Ups"
+   },
+   "709740537382334098": {
+      "message": "Hapus seluruh pustaka saya termasuk musik yang dibeli ($TOTAL_SONGS$)",
+      "placeholders": {
+         "TOTAL_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7105416082849293719": {
+      "message": "Aktivitas Terbaru"
+   },
+   "7110393208916703749": {
+      "message": "Video"
+   },
+   "7116872031464114568": {
+      "message": "Diidentifikasi di Penelusuran Suara"
+   },
+   "7136816542440442290": {
+      "message": "Terjadi masalah saat memuat stasiun radio Anda."
+   },
+   "7182974689040833178": {
+      "message": "Lanjutkan"
+   },
+   "7192513315706728552": {
+      "message": "Kesalahan Server: Coba lagi nanti."
+   },
+   "7194376132387780145": {
+      "message": "Tidak dapat mengotorisasi komputer ini karena Anda sudah memiliki sepuluh perangkat."
+   },
+   "7212676589977202933": {
+      "message": "$NUM_TRANSFERRED_TRACKS$ lagu telah ditambahkan",
+      "placeholders": {
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7224832103566723854": {
+      "message": "Tidak dapat membuka playlist. Cobalah lagi."
+   },
+   "7225854335198901823": {
+      "message": "Kualitas lebih rendah menggunakan lebih sedikit data"
+   },
+   "7249560357803023328": {
+      "message": "Pustaka unduhan"
+   },
+   "7262284142845767114": {
+      "message": "Bagus"
+   },
+   "7277602889799602415": {
+      "message": "Hapus Koleksiku"
+   },
+   "7283215568776397157": {
+      "message": "Lagu unggahan:"
+   },
+   "7287006426755387074": {
+      "message": "Meningkatkan volume pemutar"
+   },
+   "7292878672940239832": {
+      "message": "{NUM_MINUTES,plural, =0{0 menit}=1{1 menit}other{# menit}}"
+   },
+   "7292902857194439444": {
+      "message": "Perangkat"
+   },
+   "7293925053370285812": {
+      "message": "Mengulangi Lagu yang Sedang Diputar. Klik untuk mengubah mode Ulangi."
+   },
+   "729714018676926076": {
+      "message": "Pra-order di Google Play Musik"
+   },
+   "7299356918464630268": {
+      "message": "Kualitas lebih tinggi menggunakan lebih banyak data"
+   },
+   "730022297859142476": {
+      "message": "Mix instan"
+   },
+   "731429515932674572": {
+      "message": "Bisukan volume"
+   },
+   "7320133162875658022": {
+      "message": "Unggah lagu baru ($NUM_NEW_SONGS$)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7354536653016090160": {
+      "message": "Paling Populer"
+   },
+   "7354691783317064273": {
+      "message": "Aplikasi Chrome sedang menghubungkan."
+   },
+   "7376787658603979700": {
+      "message": "Belanja jutaan lagu, termasuk ratusan lagu gratis."
+   },
+   "7410432243549869948": {
+      "message": "Durasi"
+   },
+   "7411932913365107274": {
+      "message": "Anda dapat mencabut otorisasi empat perangkat per tahun."
+   },
+   "741454111929523251": {
+      "message": "Apakah maksud Anda: $START_LINK$$SUGGESTED_QUERY$$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         },
+         "SUGGESTED_QUERY": {
+            "content": "$3"
+         }
+      }
+   },
+   "7417635001613679430": {
+      "message": "Pilih folder..."
+   },
+   "7422152161839392092": {
+      "message": "Beri hadiah berupa langganan Google Play Musik"
+   },
+   "7467710920158412786": {
+      "message": "Playlist pribadi hanya untuk Anda."
+   },
+   "7501747046724259714": {
+      "message": "Tidak dapat mengambil playlist pengguna. Coba lagi."
+   },
+   "7502695447103329189": {
+      "message": "Shift &#8594;"
+   },
+   "7512291922236002631": {
+      "message": "Salin dan tempel link ini untuk berbagi $START_SPAN$$TITLE$$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "7515033107202878673": {
+      "message": "Pilih artis yang Anda sukai"
+   },
+   "7535122927261158198": {
+      "message": "Terakhir ditambahkan"
+   },
+   "7546873952682838388": {
+      "message": "Musik dari komputer ini"
+   },
+   "756024699361489239": {
+      "message": "Acak"
+   },
+   "756532847162987514": {
+      "message": "($XXX$)",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "7569000733095186860": {
+      "message": "Ada kesalahan saat memperbarui konten"
+   },
+   "7572946295452220765": {
+      "message": "Petunjuk pemasangan"
+   },
+   "7587796626090923635": {
+      "message": "{COUNT_1,plural, =0{0 pemutaran}=1{1 pemutaran}other{{COUNT_2} pemutaran}}"
+   },
+   "7592349062857393820": {
+      "message": "g lalu t"
+   },
+   "7599424290971072767": {
+      "message": "Genre"
+   },
+   "7604883230326131491": {
+      "message": "Playlist $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7605394550777137111": {
+      "message": "Unduhan Anda seharusnya segera dimulai. Jika belum dimulai, $START_LINK$klik di sini$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "7619560701830330401": {
+      "message": "Memuat"
+   },
+   "762389150316771008": {
+      "message": "Radio saya lagi berhoki"
+   },
+   "7625459160681249394": {
+      "message": "{NUM_SONGS,plural, =0{Anda belum memilih lagu apa pun untuk diunduh ke komputer.}=1{Lagu yang dipilih sudah diunduh dalam jumlah maksimum.}other{Lagu yang dipilih sudah diunduh dalam jumlah maksimum.}}"
+   },
+   "763998168115480566": {
+      "message": "Kuota lompatan habis. Dapatkan akses offline dan sesuai permintaan ke jutaan lagu."
+   },
+   "7664246845088850317": {
+      "message": "Sambungan ke server gagal dengan kode kesalahan: "
+   },
+   "7669291472367464463": {
+      "message": "Masukkan alamat email @google.com Anda"
+   },
+   "7677669941581940117": {
+      "message": "Google+"
+   },
+   "7743528314734813641": {
+      "message": "Terjadi masalah saat memuat mix instan Anda."
+   },
+   "7756401573104983978": {
+      "message": "Apl Komputer"
+   },
+   "776736242214904151": {
+      "message": "Putar lagi lagu ini dan jutaan lagu lainnya kapan saja"
+   },
+   "7772875668912229569": {
+      "message": "{NUM_SONGS,plural, =0{0 lagu}=1{1 lagu}other{# lagu}}"
+   },
+   "7774266771623079214": {
+      "message": "Google Play Musik"
+   },
+   "7783345534551124847": {
+      "message": "Lagu"
+   },
+   "7801884781403562273": {
+      "message": "Tukarkan"
+   },
+   "7819314041543176992": {
+      "message": "Tutup"
+   },
+   "7832954852370077811": {
+      "message": "Putar beberapa musik atau klik ikon $MENU_ICON$ di album, lagu, atau playlist untuk menambahkannya ke antrean.",
+      "placeholders": {
+         "MENU_ICON": {
+            "content": "$1"
+         }
+      }
+   },
+   "7834872082445723495": {
+      "message": "Membatalkan penambahan musik"
+   },
+   "7873745865358968651": {
+      "message": "{NUM_HOURS,plural, =0{0 jam}=1{1 jam}other{# jam}}"
+   },
+   "7941094066137301803": {
+      "message": "Tingkatkan versi ke Google+ untuk mulai berbagi dengan teman."
+   },
+   "7943877664425892318": {
+      "message": "Buka panel samping playlist"
+   },
+   "7947294997516635657": {
+      "message": "Semuanya terbaru"
+   },
+   "7978348005042781826": {
+      "message": "{VALUE,plural, =0{0 folder}=1{1 folder}other{# folder}}"
+   },
+   "7980428538910137664": {
+      "message": "Gratis dan dibeli"
+   },
+   "7985393396166342590": {
+      "message": "Melanjutkan penambahan musik"
+   },
+   "7996265599642887416": {
+      "message": "Hapus dari pustaka"
+   },
+   "8041472556355834197": {
+      "message": "Kontrol pemutar"
+   },
+   "8058956869215275454": {
+      "message": "Bagikan ke Facebook"
+   },
+   "8110367050267853536": {
+      "message": "Opsi lainnya"
+   },
+   "8110717721846730575": {
+      "message": "Suarakan volume"
+   },
+   "8117873518116417445": {
+      "message": "{NUM,plural, =0{Tidak ada lagu yang melampaui batas unduhan.}=1{\"{XXX_1}\" telah diunduh {DOWNLOAD_COUNT_MAX} kali dan tidak akan diunduh.}=2{\"{XXX_1}\" dan \"{XXX_2}\" telah diunduh {DOWNLOAD_COUNT_MAX} kali dan tidak akan diunduh.}=3{\"{XXX_1}\", \"{XXX_2}\", dan \"{XXX_3}\" telah diunduh {DOWNLOAD_COUNT_MAX} kali dan tidak akan diunduh.}=4{\"{XXX_1}\", \"{XXX_2}\", \"{XXX_3}\", dan 1 lagu terpilih lainnya telah diunduh {DOWNLOAD_COUNT_MAX} kali dan tidak akan diunduh.}other{\"{XXX_1}\", \"{XXX_2}\", \"{XXX_3}\", dan {XXX_4} lagu terpilih lainnya telah diunduh {DOWNLOAD_COUNT_MAX} kali dan tidak akan diunduh.}}"
+   },
+   "8140841959031615975": {
+      "message": "Terus berikan kabar dan penawaran terbaru dari Google Play Musik"
+   },
+   "8144474297019493415": {
+      "message": "Tambahan terbaru"
+   },
+   "8167254435928832023": {
+      "message": "Saya Lagi Beruntung"
+   },
+   "8174689178967388837": {
+      "message": "Lagu #"
+   },
+   "8184838044774375710": {
+      "message": "TIdak dapat memutar musik di dua perangkat sekaligus"
+   },
+   "819996403327805209": {
+      "message": "Pelajari selengkapnya"
+   },
+   "8202537648978392187": {
+      "message": "{DOWNLOAD_COUNT_MAX_1,plural, =1{ Anda juga dapat {START_SPAN_1}mengunduh secara langsung{END_SPAN}, tetapi hanya {START_SPAN_2}satu kali per lagu{END_SPAN}.}other{ Anda juga dapat {START_SPAN_1}mengunduh secara langsung{END_SPAN}, tetapi hanya {START_SPAN_3}{DOWNLOAD_COUNT_MAX_2} kali per lagu{END_SPAN}.}}"
+   },
+   "8216772648076666728": {
+      "message": "Izinkan lagu eksplisit."
+   },
+   "8233851949641842866": {
+      "message": "{NUM_FAILURES_1,plural, =1{ Tidak dapat menambahkan 1 lagu}other{ Tidak dapat menambahkan {NUM_FAILURES_2} lagu}}"
+   },
+   "8235345176344531979": {
+      "message": "g kemudian a"
+   },
+   "828333935216451744": {
+      "message": "Dengan langganan Google Play Musik, Anda dapat mengakses lebih dari $FORMATTED_MUSIC_CATALOG_SIZE$ lagu dan radio tanpa batas.",
+      "placeholders": {
+         "FORMATTED_MUSIC_CATALOG_SIZE": {
+            "content": "$1"
+         }
+      }
+   },
+   "828700836558117968": {
+      "message": "Google Play Musik"
+   },
+   "8300572760144032022": {
+      "message": "Membuat stasiun radio baru dari lagu yang dipilih"
+   },
+   "8302804816588048941": {
+      "message": "Tindakan ini juga menghapus playlist, mix instan, nilai, dan informasi jumlah pemutaran Anda."
+   },
+   "8325100368677049569": {
+      "message": "Jelajahi musik baru"
+   },
+   "8385464685117997940": {
+      "message": "Baru dimainkan"
+   },
+   "8395180429531273524": {
+      "message": "Mengapa perangkat saya tidak memenuhi syarat?"
+   },
+   "8396767881870375563": {
+      "message": "Lihat semua hasil penelusuran aktivitas"
+   },
+   "8405156617531647050": {
+      "message": "Tampaknya Anda telah mencoba Google Play Musik."
+   },
+   "840664911413405433": {
+      "message": "Windows"
+   },
+   "840692109692540367": {
+      "message": "Masuk"
+   },
+   "8421838551605999158": {
+      "message": "1. Simpan musicmanagerinstaller.exe"
+   },
+   "8424326418312855409": {
+      "message": "Terjadi masalah saat menyiapkan Google Play Musik."
+   },
+   "8439955599488894226": {
+      "message": "Kebijakan Privasi"
+   },
+   "8440128775129354214": {
+      "message": "Privasi"
+   },
+   "8455196866871985315": {
+      "message": "Lihat semua album terpopuler"
+   },
+   "8455204924704616723": {
+      "message": "File"
+   },
+   "8477224362193738096": {
+      "message": "Artis: $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "848933194605193751": {
+      "message": "Baru ditonton di YouTube"
+   },
+   "851623407011365974": {
+      "message": "Musik akan segera dilanjutkan"
+   },
+   "8534560073330554352": {
+      "message": "Jumlah pemutaran"
+   },
+   "8542907888351533629": {
+      "message": "..."
+   },
+   "8559735404345611808": {
+      "message": "Akses $FORMATTED_MUSIC_CATALOG_SIZE$ lagu sesuai permintaan, tanpa iklan. Download lagu untuk didengarkan saat tidak ada akses internet. Tambahkan $FORMATTED_LOCKER_SIZE$ lagu dan dengarkan di mana saja.",
+      "placeholders": {
+         "FORMATTED_LOCKER_SIZE": {
+            "content": "$1"
+         },
+         "FORMATTED_MUSIC_CATALOG_SIZE": {
+            "content": "$2"
+         }
+      }
+   },
+   "8564202903947049539": {
+      "message": "Putar"
+   },
+   "8574053857298592408": {
+      "message": "Buka panel samping navigasi."
+   },
+   "8602981985283490607": {
+      "message": "$START_LINK$Dapatkan bantuan untuk menghapus Pengelola Musik$END_LINK$ dari komputer Anda.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "8604571003772710870": {
+      "message": "Tekan shift + enter untuk memutar"
+   },
+   "8606325754052632992": {
+      "message": "Untuk mengunggah musik Anda dengan cepat, Google Play mencocokkan file musik Anda dengan salinan di server kami. Terkadang kami mungkin mencocokkan dengan lagu yang salah. Laporkan masalah di sini dan lagu tersebut akan diunggah kembali."
+   },
+   "8608281335099046628": {
+      "message": "Memproses musik..."
+   },
+   "8619410898472620495": {
+      "message": "Kunjungi Google Play Musik di web untuk melanjutkan pemutaran."
+   },
+   "862440714280873951": {
+      "message": "Ada podcast"
+   },
+   "8624490471677691415": {
+      "message": "Lihat musik menurut"
+   },
+   "8624618794349836904": {
+      "message": "Hapus histori yang digunakan untuk memberi saran hasil personalisasi dan menyesuaikan radio. Tindakan ini tidak menghapus rating dan jumlah pemutaran tiap lagu."
+   },
+   "8639048757911329468": {
+      "message": "Versi NaCl: $START_SPAN$$NACL_VERSION$$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NACL_VERSION": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "8642779049394824811": {
+      "message": "Tidak dapat mencari selama memutar radio"
+   },
+   "8679806927601731663": {
+      "message": "Coba Lagi"
+   },
+   "8692453200617588996": {
+      "message": "Pilih genre yang Anda sukai"
+   },
+   "8700121026680200191": {
+      "message": "Hapus"
+   },
+   "8733921970136713647": {
+      "message": "Batalkan langganan"
+   },
+   "8764339661945610128": {
+      "message": "Tampilkan artis lainnya"
+   },
+   "8790918354594417962": {
+      "message": "Facebook"
+   },
+   "8799945990693183114": {
+      "message": "Lab"
+   },
+   "880592275679936810": {
+      "message": "Menambahkan $START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "8825531460389729800": {
+      "message": "{NUM_PLAYLISTS,plural, =0{0 playlist}=1{1 playlist}other{# playlist}}"
+   },
+   "8841049363660529484": {
+      "message": "$ITEM_NAME$, dipilih. Klik untuk membatalkan pilihan.",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "886941024758881610": {
+      "message": "Lagu lainnya"
+   },
+   "8871219022895015530": {
+      "message": "Tambahkan lagu yang baru saja dipilih ke antrean"
+   },
+   "88781093248476711": {
+      "message": "tanpa nama"
+   },
+   "8890553633144307762": {
+      "message": "Kembali"
+   },
+   "8892908795692466458": {
+      "message": "Bagikan"
+   },
+   "8910998670732377227": {
+      "message": "Coba lagi"
+   },
+   "8920100935192456970": {
+      "message": "Lihat semua hasil penelusuran genre"
+   },
+   "8928816882866356838": {
+      "message": "Publik"
+   },
+   "8931700495296520714": {
+      "message": "Tutup Pemutar Mini"
+   },
+   "8936704404804793618": {
+      "message": "Video"
+   },
+   "8949306858344607697": {
+      "message": "Playlist publik $USER_FULL_NAME$",
+      "placeholders": {
+         "USER_FULL_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8953033926734869941": {
+      "message": "Nama"
+   },
+   "8961985815150856927": {
+      "message": "Baru dibuat"
+   },
+   "8969179774064404960": {
+      "message": "Volume"
+   },
+   "8971282019539581965": {
+      "message": "Tutup dialog Tentang"
+   },
+   "8982807952821993986": {
+      "message": "{NUM_TRANSFERRED_TRACKS_1,plural, =1{ 1 lagu diunduh}other{ {NUM_TRANSFERRED_TRACKS_2} lagu diunduh}}"
+   },
+   "9000028459946302905": {
+      "message": "Hapus semua musik yang telah saya unggah ke Koleksiku ($UPLOADED_SONGS$)",
+      "placeholders": {
+         "UPLOADED_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "902263003582497446": {
+      "message": "Kualitas tinggi, bagaimanapun kondisi jaringan. Mungkin buffering di jaringan yang lambat."
+   },
+   "9024489874326845912": {
+      "message": "Album yang disarankan"
+   },
+   "9042260521669277115": {
+      "message": "Jeda"
+   },
+   "9049377337845973204": {
+      "message": "Putar: $SONG_NAME$",
+      "placeholders": {
+         "SONG_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "9059560719840598868": {
+      "message": "Kirim Masukan"
+   },
+   "9084816336314899019": {
+      "message": "Lanjutkan"
+   },
+   "9128859482251917046": {
+      "message": "Membuka atau menutup antrean"
+   },
+   "9138683078793837147": {
+      "message": "Urungkan pemberian tidak suka"
+   },
+   "9143597363285105250": {
+      "message": "Artis Album"
+   },
+   "9166842143674355091": {
+      "message": "Baru-baru ini"
+   },
+   "9179661003472285430": {
+      "message": "Unduh Pengelola Musik"
+   },
+   "9193901371937110673": {
+      "message": "Tidak ada perangkat yang diotorisasikan"
+   },
+   "9205544184671349450": {
+      "message": "Sepertinya Anda sudah punya musik di komputer ini."
+   },
+   "9214517335069385090": {
+      "message": "Atau, jika Anda mau..."
+   },
+   "933914956414602837": {
+      "message": "Untuk mengunggah musik Anda dengan cepat, Google Play mencocokkan file musik Anda dengan salinan di server kami. Terkadang, kami mungkin mencocokkan dengan lagu yang salah. Laporkan masalah di sini dan lagu akan dikoreksi sehingga menggunakan salinan Anda, bukan salinan yang cocok."
+   },
+   "935985887697278449": {
+      "message": "Sudah berlangganan"
+   },
+   "949327761578931377": {
+      "message": "Terus dengarkan dengan $OFFER_PRICE$ per bulan.",
+      "placeholders": {
+         "OFFER_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "953268105555355822": {
+      "message": "Lihat semua"
+   },
+   "95869773684474447": {
+      "message": "Kesalahan pemutaran"
+   },
+   "963232722931839477": {
+      "message": "Tidak ada antrean"
+   },
+   "993762601773196496": {
+      "message": "Cast"
+   },
+   "997890303689941626": {
+      "message": "Lihat semua hasil penelusuran video"
+   }
+}

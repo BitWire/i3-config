@@ -1,0 +1,3 @@
+2019/04/24-08:39:31.629 5881 Reusing MANIFEST /home/tom/.config/chromium/Default/IndexedDB/https_www.google.de_0.indexeddb.leveldb/MANIFEST-000001
+2019/04/24-08:39:31.629 5881 Recovering log #3
+2019/04/24-08:39:31.634 5881 Reusing old log /home/tom/.config/chromium/Default/IndexedDB/https_www.google.de_0.indexeddb.leveldb/000003.log 

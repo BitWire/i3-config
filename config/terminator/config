@@ -1,0 +1,21 @@
+[global_config]
+  borderless = True
+  extra_styling = False
+  tab_position = bottom
+  title_hide_sizetext = True
+  title_inactive_bg_color = "#000000"
+  title_inactive_fg_color = "#ffffff"
+  title_transmit_bg_color = "#000000"
+[keybindings]
+[layouts]
+  [[default]]
+    [[[child1]]]
+      parent = window0
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      type = Window
+[plugins]
+[profiles]
+  [[default]]
+    cursor_color = "#aaaaaa"

@@ -1,0 +1,49 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "js/background.js" ]
+   },
+   "browser_action": {
+      "browser_style": false,
+      "default_icon": "img/icon19.png",
+      "default_title": "__MSG_browser_action_hover__"
+   },
+   "chrome_settings_overrides": {
+      "search_provider": {
+         "encoding": "UTF-8",
+         "favicon_url": "https://cdn.ecosia.org/assets/images/ico/favicon.ico",
+         "is_default": true,
+         "keyword": "ecosia",
+         "name": "Ecosia Search",
+         "search_url": "https://www.ecosia.org/search?q={searchTerms}&addon=chrome&addonversion=2.1.0",
+         "suggest_url": "https://ac.ecosia.org/?q={searchTerms}&type=list&mkt=__MSG_@@ui_locale__"
+      }
+   },
+   "chrome_url_overrides": {
+      "newtab": "newtab.html"
+   },
+   "content_scripts": [ {
+      "js": [ "js/funnel.js" ],
+      "matches": [ "*://*.ecosia.org/*" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_store_shortdesc_new__",
+   "externally_connectable": {
+      "matches": [ "*://*.ecosia.org/*" ]
+   },
+   "homepage_url": "https://www.ecosia.org",
+   "icons": {
+      "128": "img/logo_square_transparent128.png",
+      "16": "img/favicon16.png",
+      "48": "img/logo_square_transparent48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAta+PZi1OcMF/TXQLDlxvyt+N6mVWXSCPO+DwM8GrovCmbTd+x3ziMoNybAVUUcHnUI9fGVScJ6MU1HEiG5A4/Om28Zm2VIZzj58E/fUFKuiuLVXTQbwW91lioCtu2F2dBjcRNBX/eXEbJRGzzrHxvpIrSV3GxlnraEBtZGQ3eEv6FHplwSaZ3YI9THbVZJtVDm+w+4KXsknIR+Du7mAHQIADWobWhvRrNFyZ8zmpiIKKw+ksYQWPfF2kAPnHHv5ufMpH/BVdyui4ZbQq2vwRLJP3F6jfi/a1uTaXv7vmOBGJu1v2DHyy5mDVP8wbIVDsbw44alr/CTlKt6Oonfdh2wIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_store_title_new__",
+   "permissions": [ "*://*.ecosia.org/*", "activeTab", "contextMenus", "cookies", "storage", "topSites" ],
+   "target": "chrome",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.1.0",
+   "web_accessible_resources": [ "img/favicon16.png", "img/logo.png" ]
+}

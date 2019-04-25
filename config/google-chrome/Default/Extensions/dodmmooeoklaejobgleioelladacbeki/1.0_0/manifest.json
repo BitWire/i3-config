@@ -1,0 +1,17 @@
+{
+   "content_scripts": [ {
+      "js": [ "dist/gitpodify.bundle.js" ],
+      "matches": [ "*://*.github.com/*", "*://*.gitpod.io/*", "*://gitpod.io/*" ]
+   } ],
+   "description": "Gitpod - One-Click Online IDE for GitHub, GitLab and Bitbucket",
+   "icons": {
+      "128": "icons/gitpod-logo.png",
+      "16": "icons/gitpod-logo-16.png",
+      "48": "icons/gitpod-logo-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqYCdzSb1NERka7Pza7Wj4883oo8NO00R6iHjjvaID5NdNIMQtG1cMAuTEiv4jFQb4D15T9uHUwEo3xjfRR7ZXbKE0zKonFlHupkRXAG+eD+HglpeANiCVFHzz8g/I16qvaYZYensCj7PcGTIVGxuUv5lrN/uWd8xDYvRCeNtUSKkRzR5s0XZ0Lg5c8XlzRuxtnxXB6/9fa8OAi+y1+9N0GrYii6EU/JAstzJtpqxR177STufTbxJccc3fhrWES0Y9efLSSCH89WkSBlXQJjpNBWJEFxpUKtW2TYYCuXfpu/eXw33Gb96pYvB3qZSRqk9U3a2Q7ORoO8HDeEi+RopLwIDAQAB",
+   "manifest_version": 2,
+   "name": "Gitpod Online IDE",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}

@@ -1,0 +1,2761 @@
+{
+   "1001360787461904844": {
+      "message": "Flere valgmuligheder for $TARGET$",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "1026450251988549367": {
+      "message": "Ændret for nylig"
+   },
+   "1035476379650787996": {
+      "message": "Din anmodning kan ikke gennemføres."
+   },
+   "1035734413919296": {
+      "message": "Tilføj musik"
+   },
+   "1044946868924904798": {
+      "message": "Ingen forbindelse"
+   },
+   "1046700819368184074": {
+      "message": "Downloadmappe"
+   },
+   "1047094450854611275": {
+      "message": "Med miniafspilleren kan du styre musikafspilningen uden for browservinduet, synes godt om sange og høre radiokanalen \"Jeg prøver lykken\"."
+   },
+   "10524368647766690": {
+      "message": "Nr."
+   },
+   "1065557748112539713": {
+      "message": "Download af musik standses midlertidigt"
+   },
+   "1091846413708174942": {
+      "message": "Dine podcasts"
+   },
+   "1099947980448260765": {
+      "message": "Gå til Hitlister"
+   },
+   "1105024870503318889": {
+      "message": "Tilføj min musik"
+   },
+   "1141501935253936315": {
+      "message": "Podcasts"
+   },
+   "1144407473317535723": {
+      "message": "Abonner"
+   },
+   "1144614654642966892": {
+      "message": "Opsig før næste regning. Lyt videre indtil da."
+   },
+   "1145877575671354635": {
+      "message": "Opdater samlingen"
+   },
+   "1147358182484006761": {
+      "message": "Butik"
+   },
+   "1150285978886683433": {
+      "message": "Skift gentagelse mellem fra, alle og én"
+   },
+   "1152313922995021532": {
+      "message": "64-bit .rpm (til Fedora/openSUSE)"
+   },
+   "1165829070116929673": {
+      "message": "{NUM_TRANSFERRED_TRACKS_1,plural, =1{ Der blev tilføjet 1 sang}one{ Der blev tilføjet {NUM_TRANSFERRED_TRACKS_2} sange}other{ Der blev tilføjet {NUM_TRANSFERRED_TRACKS_2} sange}}"
+   },
+   "1181311234668957012": {
+      "message": "Automatisk playliste"
+   },
+   "1182611188595867762": {
+      "message": "2. Når installationsprogrammet åbner, skal du følge dets vejledning for at konfigurere Musikmanager."
+   },
+   "1189933439482480473": {
+      "message": "Grænse for antal sange er nået."
+   },
+   "1218504303426384579": {
+      "message": "Album"
+   },
+   "1220984280262077870": {
+      "message": "Gratis og købt"
+   },
+   "1227051853106034748": {
+      "message": "Det er ikke muligt at spole i eksempelvisninger"
+   },
+   "1238358838717941284": {
+      "message": "Uddrag"
+   },
+   "1249846405947826980": {
+      "message": "Forrige afsnit"
+   },
+   "1257583932123379891": {
+      "message": "Vis podcasts efter"
+   },
+   "1280952737124946671": {
+      "message": "{NUM_PODCASTS,plural, =0{0 podcasts}=1{1 podcast}one{# podcast}other{# podcasts}}"
+   },
+   "1288885129710503327": {
+      "message": "3. Åbn din programmappe, og dobbeltklik på Musikmanager."
+   },
+   "1291021741111868686": {
+      "message": "64-bit .deb (til Debian/Ubuntu)"
+   },
+   "1291623607736913474": {
+      "message": "Gennemse kanaler efter"
+   },
+   "1294292881529533213": {
+      "message": "Google Play Musik-logo"
+   },
+   "129923171865835166": {
+      "message": "Jeg prøver lykken-radio"
+   },
+   "1303647473723340887": {
+      "message": "Vælg elementet over det aktuelle valg"
+   },
+   "131636849522359023": {
+      "message": "Tilgængelig under $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "1341185708905265042": {
+      "message": "Disknr."
+   },
+   "1348774649041038169": {
+      "message": "Navigation"
+   },
+   "1370021378292702047": {
+      "message": "\"$SONG_TITLE$\" er markeret som forkert matchet.",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "1372720741032795625": {
+      "message": "Slå Bland til/fra"
+   },
+   "1372788343021542418": {
+      "message": "Hvis du vil bruge miniafspilleren, skal du logge ind på Google Play Musik på nettet."
+   },
+   "1393837337557373364": {
+      "message": "Album"
+   },
+   "1404225614691686373": {
+      "message": "Ubegrænset musik$START_BREAK$fra Google Play",
+      "placeholders": {
+         "START_BREAK": {
+            "content": "$1"
+         }
+      }
+   },
+   "1411257156168420592": {
+      "message": "$ITEM_NAME$ – klik for at markere.",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1429336442713571177": {
+      "message": "Sanglister"
+   },
+   "1435809990540516997": {
+      "message": "Tilføjer musik"
+   },
+   "1464072562214937907": {
+      "message": "År"
+   },
+   "147527058386222778": {
+      "message": "Streamingkvalitet"
+   },
+   "1490665788833937521": {
+      "message": "Få miniafspilleren"
+   },
+   "1501458973427096787": {
+      "message": "Lyt til alt offline"
+   },
+   "1504214836895903832": {
+      "message": "Der kunne ikke oprettes forbindelse"
+   },
+   "1517865562673472241": {
+      "message": "1. Vent, til installationsprogrammet er færdigt."
+   },
+   "1529406134757733750": {
+      "message": "{NUM_FAILURES_1,plural, =1{ Der var 1 sang, som ikke kunne downloades}one{ Der var {NUM_FAILURES_2} sange, som ikke kunne downloades}other{ Der var {NUM_FAILURES_2} sange, som ikke kunne downloades}}"
+   },
+   "1573657685592390905": {
+      "message": "Vælg mappe..."
+   },
+   "1575810254412583888": {
+      "message": "Numre"
+   },
+   "1595478688335662057": {
+      "message": "En Google-bruger"
+   },
+   "1598061158801514509": {
+      "message": "Download af musik genoptages"
+   },
+   "1607904075839741217": {
+      "message": "Vælg fra din computer"
+   },
+   "1664100143082435029": {
+      "message": "Annuller"
+   },
+   "1666765550993208796": {
+      "message": "Er disse sange matchet forkert?"
+   },
+   "1673135862760647009": {
+      "message": "Reklamefri radio, hvor du kan springe så mange sange over, du vil"
+   },
+   "1676480944844752785": {
+      "message": "Automatiske playlister"
+   },
+   "1686917835491599951": {
+      "message": "Føjet til Min samling for nylig"
+   },
+   "1688117822806275177": {
+      "message": "Fjern fra samling"
+   },
+   "1689044830718067443": {
+      "message": "Installation bør starte automatisk om få sekunder. Har du brug for $START_LINK$hjælp$END_LINK$?",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "1700078784075267898": {
+      "message": "Google Play Musik"
+   },
+   "1712333098917352630": {
+      "message": "Radio"
+   },
+   "1715373473261069991": {
+      "message": "Twitter"
+   },
+   "1721299725717238391": {
+      "message": "Du er allerede en abonnent. I øjeblikket er det kun nye brugere, der kan bruge kuponer."
+   },
+   "1722592106949807025": {
+      "message": "Gem logfiler for fejlretning"
+   },
+   "1726363342938046830": {
+      "message": "Om"
+   },
+   "1729815731089690989": {
+      "message": "Sørg for, at du har forbindelse til internettet"
+   },
+   "174952015183967014": {
+      "message": "$TITLE$ – indeholder podcasts",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "1765521785433616250": {
+      "message": "Downloadprocessen bør snart gå i gang. Hvis den ikke begynder, kan du $START_SPAN$klikke her$END_SPAN$.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "1781759902625939771": {
+      "message": "Ukendt kunstner"
+   },
+   "1790640569414740156": {
+      "message": "Genrer"
+   },
+   "1803865475179910876": {
+      "message": "Google Play Musik til Chrome på $PLATFORM$",
+      "placeholders": {
+         "PLATFORM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1823843876735462104": {
+      "message": "Playlister"
+   },
+   "1831178715211281116": {
+      "message": "Det er desværre kun udvalgte Chrome OS-enheder, der er berettiget til denne kampagne. Vil du stadig have ubegrænset musik?"
+   },
+   "1838639948466909028": {
+      "message": "Denne side er ikke kompatibel med din browser. Brug en af de $START_LINK$understøttede browsere$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "1850859858333664648": {
+      "message": "Al musik"
+   },
+   "1857207760765836958": {
+      "message": "$START_SPAN$Lyt til radio, og spring sange over$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "1865818889600889051": {
+      "message": "Din konto er ændret. Opdater siden for at fortsætte."
+   },
+   "1869199094024141188": {
+      "message": "{NUM_MIXES,plural, =0{0 mix}=1{1 mix}one{# mix}other{# mix}}"
+   },
+   "1869588215425319728": {
+      "message": "Luk sidemenuen."
+   },
+   "1872101028863972302": {
+      "message": "Der er downloadet $NUM_TRANSFERRED_TRACKS$ sange",
+      "placeholders": {
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$1"
+         }
+      }
+   },
+   "1873654242780262831": {
+      "message": "Vælg elementet under det aktuelle valg"
+   },
+   "192481666606780833": {
+      "message": "Musikken kan ikke afspilles"
+   },
+   "193503854366151748": {
+      "message": "Giv den aktuelle sang en negativ bedømmelse"
+   },
+   "197153323825255063": {
+      "message": "Hjælp til privatliv"
+   },
+   "1980398532913758377": {
+      "message": "$NUM_COMPUTERS$ computere",
+      "placeholders": {
+         "NUM_COMPUTERS": {
+            "content": "$1"
+         }
+      }
+   },
+   "1984987229407697795": {
+      "message": "Podcasts"
+   },
+   "1993805115277775762": {
+      "message": "$FORMATTED_MUSIC_CATALOG_SIZE$ sange on-demand",
+      "placeholders": {
+         "FORMATTED_MUSIC_CATALOG_SIZE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2006786763920466492": {
+      "message": "Dato for sletning"
+   },
+   "2029980907058777630": {
+      "message": "Servicevilkår"
+   },
+   "2032972931560484213": {
+      "message": "Af $CREATOR$",
+      "placeholders": {
+         "CREATOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "2038618429165152799": {
+      "message": "Unavngivet"
+   },
+   "2085941577249285555": {
+      "message": "Abonner"
+   },
+   "2093026227428526289": {
+      "message": "Dette tilbud gælder kun for visse nye Chromebooks i lande, hvor abonnementtjenesten for Google Play Musik$START_LINK$ er tilgængelig$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2101525118384454593": {
+      "message": "Deaktiver blanding af sange"
+   },
+   "2102825898069375693": {
+      "message": "Menu"
+   },
+   "2139100152161431685": {
+      "message": "Din musik er midlertidigt utilgængelig på denne enhed. Prøv igen senere. $START_LINK$Hjælp$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2139683490477275175": {
+      "message": "Luk"
+   },
+   "2145060893030204211": {
+      "message": "Vi kan ikke give dig flere oplysninger. Prøv igen senere."
+   },
+   "2149165958319691680": {
+      "message": "Køb"
+   },
+   "2149839604112465314": {
+      "message": "{NUM_SONGS_1,plural, =0{0 sange}=1{1 sang}one{{NUM_SONGS_2} songs}other{{NUM_SONGS_2} sange}}"
+   },
+   "2152998011161774228": {
+      "message": "g efterfulgt af h"
+   },
+   "2158830056128036057": {
+      "message": "Behandler dine musikfiler..."
+   },
+   "2159130950882492111": {
+      "message": "Annuller"
+   },
+   "2187022653493279712": {
+      "message": "g efterfulgt af e"
+   },
+   "2214224657661107347": {
+      "message": "Send gave"
+   },
+   "2220879710364134067": {
+      "message": "Redigerer de aktuelt valgte sange"
+   },
+   "2239551688895104696": {
+      "message": "Slå menuen for playlisten til/fra"
+   },
+   "2244547550956716142": {
+      "message": "Hitlister"
+   },
+   "2246437904181111020": {
+      "message": "Google Play Musik: Vælg mapper med mediefiler"
+   },
+   "2256597604224604671": {
+      "message": "Sæt $TITLE$ på pause",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2270666830264677427": {
+      "message": "Der kan højst downloades $MAX_TRACKS_IN_ZIP$ sange på én gang. Vælg færre sange, og prøv igen.",
+      "placeholders": {
+         "MAX_TRACKS_IN_ZIP": {
+            "content": "$1"
+         }
+      }
+   },
+   "2277837732287051413": {
+      "message": "Giv den aktuelle sang en positiv bedømmelse"
+   },
+   "2280774384387096759": {
+      "message": "Træk sange eller mapper hertil for at føje musik til din samling."
+   },
+   "2296431514706414883": {
+      "message": "1. Dobbeltklik på MusicManager.dmg i vinduet Downloads."
+   },
+   "229748758179155728": {
+      "message": "Google Play Musik er desværre ikke tilgængeligt i dit land."
+   },
+   "2303154715443443305": {
+      "message": "Musikmanager downloader..."
+   },
+   "2303727423829841771": {
+      "message": "Ups, det ser ud til, at JavaScript er deaktiveret i din browser. JavaScript skal være aktiveret, før Google Play kan fungere korrekt."
+   },
+   "2309808536212982229": {
+      "message": "Aktiviteter"
+   },
+   "2311151671924532713": {
+      "message": "Fjern fra playliste"
+   },
+   "2312110731653597036": {
+      "message": "$PERCENTAGE_COMPLETE$ %",
+      "placeholders": {
+         "PERCENTAGE_COMPLETE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2329070756809480856": {
+      "message": "Album: $ALBUM_NAME$",
+      "placeholders": {
+         "ALBUM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "2357805327369816634": {
+      "message": "Abonner, og få adgang til al musikken uden alle annoncerne"
+   },
+   "2359922567074115383": {
+      "message": "Ryd albumgrafik"
+   },
+   "2372448112806402757": {
+      "message": "Næste afsnit"
+   },
+   "2383360664777254925": {
+      "message": "Slå navigationsmenuen til/fra"
+   },
+   "2407755817901433243": {
+      "message": "Indløs en kuponkode til et abonnement på Google Play Musik."
+   },
+   "2443885011055165607": {
+      "message": "Vælg downloadpakken:"
+   },
+   "2447745837421769983": {
+      "message": "Hent Google Play Musik til Chrome for at få den bedste downloadoplevelse"
+   },
+   "2461177781520343478": {
+      "message": "Ukendt nummer"
+   },
+   "2474664417751811820": {
+      "message": "(TJEK KUN, HVIS DU HAR PROBLEMER MED AT AFSPILLE LYD) Har vi tilladelse til at hente logfiler vedrørende afspilning og rette fejl på din konto?"
+   },
+   "2483680006830369490": {
+      "message": "g efterfulgt af p"
+   },
+   "2492300395471245755": {
+      "message": "Kunstner"
+   },
+   "250478839881665936": {
+      "message": "g efterfulgt af s"
+   },
+   "2537475974842549685": {
+      "message": "Luk annoncen"
+   },
+   "2540334409214949805": {
+      "message": "$START_LINK$Log ind$END_LINK$ for at finde ud af, om du har nogle Chrome-godbidder, der venter på dig.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2544569632476723854": {
+      "message": "Vilkår"
+   },
+   "2567679469483426925": {
+      "message": "Denne goodie er ikke tilgængelig i øjeblikket."
+   },
+   "2597193119810674616": {
+      "message": "Abonner på Google Play Musik, og få $OFFER_LENGTH_DAYS$ dage gratis.",
+      "placeholders": {
+         "OFFER_LENGTH_DAYS": {
+            "content": "$1"
+         }
+      }
+   },
+   "259918799497504180": {
+      "message": "Foreslået: $FIRST$ af $SECOND$",
+      "placeholders": {
+         "FIRST": {
+            "content": "$1"
+         },
+         "SECOND": {
+            "content": "$2"
+         }
+      }
+   },
+   "2605658322936929408": {
+      "message": "Podcast"
+   },
+   "2626751888211361777": {
+      "message": "Se flere populære sange"
+   },
+   "2634703826856398600": {
+      "message": "($NUM_NEW_SONGS$ nye)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "2635933238308036768": {
+      "message": "Musikmanager fås kun til Windows, Mac og Linux."
+   },
+   "2655732800763953732": {
+      "message": "Direkte mix: $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2662644497259948010": {
+      "message": "Kommentar"
+   },
+   "2665785172586453916": {
+      "message": "Annoncebillede, der er relateret til den aktuelle lydannonce"
+   },
+   "2673412443855817873": {
+      "message": "Kan ikke lide"
+   },
+   "2687424427940533491": {
+      "message": "Aktivitetsadministration"
+   },
+   "2707074873770010705": {
+      "message": "Enheden er ikke berettiget til denne kampagne. Men bare rolig, du kan stadig få ubegrænset musik ved at prøve Google Play Musik gratis i 30 dage."
+   },
+   "2714752802779336020": {
+      "message": "Google Play Musik"
+   },
+   "2721786517672194900": {
+      "message": "Denne begrænsning gælder ikke, når du downloader med $START_SPAN$Google Play Musik til Chrome$END_SPAN$.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "2728721019095728485": {
+      "message": "Høj"
+   },
+   "2731202671625726225": {
+      "message": "Administrer dine familieindstillinger."
+   },
+   "2777498733015254880": {
+      "message": "Hjælp og feedback"
+   },
+   "2787148143326073325": {
+      "message": "Lydsøgning"
+   },
+   "280973959199634338": {
+      "message": "Vis YouTube-video"
+   },
+   "2826705908408853328": {
+      "message": "Du føres til Google Play, hvor du kan gennemføre oprettelsen. Vi fører dig tilbage til Play Music, når du er færdig."
+   },
+   "2834324594183341424": {
+      "message": "Føj din eksisterende musiksamling til Google Play"
+   },
+   "2840006222747077107": {
+      "message": "Min samling er tom"
+   },
+   "2856670286248433202": {
+      "message": "Annonce"
+   },
+   "2857356182021649243": {
+      "message": "Gå til Mine sange"
+   },
+   "2881621988818346391": {
+      "message": "Ja"
+   },
+   "2881776379326317082": {
+      "message": "Brug altid denne placering"
+   },
+   "2896640427519622010": {
+      "message": "Links til hurtig navigation"
+   },
+   "29046698705387751": {
+      "message": "{NUM_STATIONS,plural, =0{0 kanaler}=1{1 kanal}one{# kanaler}other{# kanaler}}"
+   },
+   "2924201210722864904": {
+      "message": "Køb"
+   },
+   "2933981780439742153": {
+      "message": "Vis miniafspiller"
+   },
+   "2941843189430218247": {
+      "message": "Shift q"
+   },
+   "2982463607788408741": {
+      "message": "Du er blevet logget af din Google-konto. Opdater siden for at logge ind igen."
+   },
+   "2983216790003568156": {
+      "message": "Der kunne ikke oprettes en sikker forbindelse"
+   },
+   "3010015422095710725": {
+      "message": "Slet hele min samling, herunder købt musik og musik, som er tilføjet via mit abonnement på Google Play Musik ($TOTAL_SONGS$)",
+      "placeholders": {
+         "TOTAL_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "302056167930397366": {
+      "message": "Indløs tilbud"
+   },
+   "3066644656941512863": {
+      "message": "Der opstod et problem i forbindelse med sletning af din musik."
+   },
+   "309901418176428732": {
+      "message": "Podcasts"
+   },
+   "3099741642167775297": {
+      "message": "Download"
+   },
+   "310152014457055522": {
+      "message": "Med et abonnement kan du frit afspille en sang eller et album"
+   },
+   "311252408333124913": {
+      "message": "Opdater indstillingen"
+   },
+   "3117706868107348105": {
+      "message": "Du kan også kopiere og indsætte dette link:"
+   },
+   "3120374312076174169": {
+      "message": "{NUM_EPISODES,plural, =0{0 afsnit}=1{1 afsnit}one{# afsnit}other{# afsnit}}"
+   },
+   "3125342991297920614": {
+      "message": "Albummet kunne ikke åbnes. Prøv igen."
+   },
+   "3150614832204809552": {
+      "message": "Podcast: $SERIES_NAME$",
+      "placeholders": {
+         "SERIES_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "315237578086020945": {
+      "message": "Gå til mine kunstnere"
+   },
+   "31530890844887887": {
+      "message": "Registrer fremskridt"
+   },
+   "3154951825194528737": {
+      "message": "Downloadet musik annulleres"
+   },
+   "3163044740176820503": {
+      "message": "Kom godt i gang"
+   },
+   "3164162886883870754": {
+      "message": "{NUM_SONGS_TO_DELETE,plural, =1{Er du sikker på, at du vil slette den valgte sang?}one{Are you sure you want to delete the selected songs?}other{Er du sikker på, at du vil slette de valgte sange?}}"
+   },
+   "3185279424082070029": {
+      "message": "Sørg for, at den computer, som denne sang ligger på, kører Musikmanager og har forbindelse til internettet. Sangen bliver uploadet igen inden for det næste døgn."
+   },
+   "3187115322095111816": {
+      "message": "{VALUE,plural, =0{0 sange}=1{1 sang}one{# songs}other{# sange}}"
+   },
+   "3198123723060667787": {
+      "message": "Hvornår"
+   },
+   "3213972439514824911": {
+      "message": "Kan lide"
+   },
+   "3225804441370198247": {
+      "message": "Alle mine sange – $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3229693790499517570": {
+      "message": "Nye udgivelser"
+   },
+   "3244003434432113241": {
+      "message": "Afspil"
+   },
+   "3248575677000760820": {
+      "message": "{NUM_SONGS,plural, =0{Du har ikke valgt nogen sange, som skal downloades til din computer.}=1{Er du sikker på, at du vil downloade den valgte sang til din computer?}one{Are you sure you want to download the selected songs to your computer?}other{Er du sikker på, at du vil downloade de valgte sange til din computer?}}"
+   },
+   "3277700190370010726": {
+      "message": "Google Play-musikkampagnen for $START_BOLD$$USER_EMAIL$$END_BOLD$ er midlertidigt utilgængelig. Prøv igen senere.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "START_BOLD": {
+            "content": "$2"
+         },
+         "USER_EMAIL": {
+            "content": "$3"
+         }
+      }
+   },
+   "3307635842875172003": {
+      "message": "Gå til Mine mix"
+   },
+   "3310099093781584673": {
+      "message": "g efterfulgt af m"
+   },
+   "3311269073804742952": {
+      "message": "Lyt nu"
+   },
+   "3323193679372503780": {
+      "message": "Nej tak"
+   },
+   "3326102734049980036": {
+      "message": "$DURATION$ tilbage",
+      "placeholders": {
+         "DURATION": {
+            "content": "$1"
+         }
+      }
+   },
+   "3334073701901432746": {
+      "message": "Se alle søgeresultaterne for playlister"
+   },
+   "3335728816495350082": {
+      "message": "Mest populære sange – $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3339989424930162325": {
+      "message": "Vis den primære afspiller"
+   },
+   "3342201181237345414": {
+      "message": "Ikke Explicit"
+   },
+   "3377006691156456363": {
+      "message": "Link til deling"
+   },
+   "3381844160250536550": {
+      "message": "Log ind i Chrome"
+   },
+   "3410315382362912156": {
+      "message": "$START_SPAN$$TITLE$$END_SPAN$ er i øjeblikket privat. Hvis du vil dele den, skal du gøre den offentlig.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "3418677553313974490": {
+      "message": "Papirkurv"
+   },
+   "3419681791450150574": {
+      "message": "Status"
+   },
+   "342127282404571667": {
+      "message": "Google Play Musik til Chrome OS"
+   },
+   "3430836318571306097": {
+      "message": "Rediger din betalingsform"
+   },
+   "3431116501598202644": {
+      "message": "Ukendt album"
+   },
+   "3462291720620021793": {
+      "message": "Af $OWNER_NAME$",
+      "placeholders": {
+         "OWNER_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "346461448125635284": {
+      "message": "Lyt til al din musik. Overalt. Du skal blot føje musik fra din computer til Google Play."
+   },
+   "3491417595697100862": {
+      "message": "Fra $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "3503286865266511120": {
+      "message": "Reducer lydstyrken for afspilleren"
+   },
+   "3519190023725081398": {
+      "message": "g efterfulgt af b"
+   },
+   "352192086869301337": {
+      "message": "$START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$ ud af $NUM_TOTAL_TRACKS$ er tilføjet",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TOTAL_TRACKS": {
+            "content": "$2"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$3"
+         },
+         "START_SPAN": {
+            "content": "$4"
+         }
+      }
+   },
+   "3530801739313410091": {
+      "message": "Indløs Google Play Musik-kupon"
+   },
+   "3545785371861413299": {
+      "message": "Start gratis prøveperiode"
+   },
+   "3545929198870894557": {
+      "message": "Gå til Mine playlister"
+   },
+   "3565714850919973591": {
+      "message": "/"
+   },
+   "3583962010571084681": {
+      "message": "Altid høj"
+   },
+   "3605470624800934973": {
+      "message": "Er du sikker på, at du vil slette det valgte album?"
+   },
+   "3629941396858927174": {
+      "message": "Luk flere valgmuligheder"
+   },
+   "3638177113998814964": {
+      "message": "Indlæser $TARGET$",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "3643866539136239218": {
+      "message": "Ryd søgning"
+   },
+   "3650356879337858878": {
+      "message": "Privatliv og placering"
+   },
+   "3693467228074689327": {
+      "message": "Fortsæt"
+   },
+   "370216116393129031": {
+      "message": "Åbn køen"
+   },
+   "3748893353086104812": {
+      "message": "Ryd den lokale cache, og opdater alle oplysninger om sange og playlister."
+   },
+   "3768927257183755959": {
+      "message": "Gem"
+   },
+   "3782346097595894324": {
+      "message": "Forbindelsen til serveren mislykkedes. Prøv igen senere."
+   },
+   "3789779144889291801": {
+      "message": "Download nemt musik, som du har købt eller uploadet til Google Play."
+   },
+   "3795262960327716692": {
+      "message": "Tilføj en sang ved at trække den til playlistens navn i sidebjælken"
+   },
+   "3839679337223320857": {
+      "message": "Logget ind som $EMAIL$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "3847468592740504132": {
+      "message": "Radio $ITEM_NAME$",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3849149261610050417": {
+      "message": "Gå til Google Play Musik"
+   },
+   "3861583677596279097": {
+      "message": "En tekniker skal se på rapporten inden for den næste hverdag"
+   },
+   "3865248559890962003": {
+      "message": "Foreslået: $SUGGESTION$",
+      "placeholders": {
+         "SUGGESTION": {
+            "content": "$1"
+         }
+      }
+   },
+   "3866082057646051822": {
+      "message": "Indløs din Google Play Musik-kupon"
+   },
+   "3868119883080041455": {
+      "message": "Radiokanal: $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "3872632959071287956": {
+      "message": "Log ind på Google Play Musik på nettet, før du bruger Chrome-appen."
+   },
+   "3885497195825665706": {
+      "message": "Næste"
+   },
+   "3890078112831612818": {
+      "message": "Sørg for, at den computer, som disse sange ligger på, kører Musikmanager og har forbindelse til internettet. Sangene bliver uploadet igen inden for det næste døgn."
+   },
+   "3897348120591552265": {
+      "message": "Administrer"
+   },
+   "3904027274600624417": {
+      "message": "Alle kan finde og lytte. Perfekt til deling."
+   },
+   "3905289916217023036": {
+      "message": "Slet al købt eller uploadet musik permanent."
+   },
+   "392008683752499246": {
+      "message": "Føj op til $FORMATTED_LOCKER_SIZE$ sange fra din samling til Google Play gratis.",
+      "placeholders": {
+         "FORMATTED_LOCKER_SIZE": {
+            "content": "$1"
+         }
+      }
+   },
+   "3936240281193464170": {
+      "message": "Opdater"
+   },
+   "3941019069704400974": {
+      "message": "Er du sikker på, at du vil slette den historik, der bruges til at give dig tilpassede anbefalinger? Dette fjerner ikke dine bedømmelser og afspilningstællere fra de enkelte numre."
+   },
+   "3949911572988594237": {
+      "message": "Opret en playliste"
+   },
+   "3973260061047030021": {
+      "message": "Afspil eller sæt musik på pause"
+   },
+   "3973931101896534797": {
+      "message": "Dato"
+   },
+   "3981724709755713539": {
+      "message": "Seneste playlister"
+   },
+   "3982112843644394207": {
+      "message": "2. I din browsers downloads skal du dobbeltklikke på musicmanagerinstaller.exe for at åbne den."
+   },
+   "3993484408454658640": {
+      "message": "Forældrekontrol"
+   },
+   "4018574576796390012": {
+      "message": "Er du sikker på, at du vil $START_SPAN$slette$END_SPAN$ playlisten \"$PLAYLIST_NAME$\" permanent?",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "PLAYLIST_NAME": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "4021376741882293501": {
+      "message": "Linux"
+   },
+   "4052021127566304266": {
+      "message": "Rediger"
+   },
+   "405696346909038516": {
+      "message": "Se alle søgeresultaterne for podcasts"
+   },
+   "4063027937991598166": {
+      "message": "Slet det aktuelle valg"
+   },
+   "4071581399160046214": {
+      "message": "Startside"
+   },
+   "4075286221500750156": {
+      "message": "Version: $VERSION$ $BUILD_MODE$",
+      "placeholders": {
+         "BUILD_MODE": {
+            "content": "$1"
+         },
+         "VERSION": {
+            "content": "$2"
+         }
+      }
+   },
+   "4082846773463542695": {
+      "message": "Din computer kunne ikke identificeres."
+   },
+   "4086606389696938932": {
+      "message": "Konto"
+   },
+   "4091426921184034649": {
+      "message": "Opgrader abonnementet"
+   },
+   "4110926661719376304": {
+      "message": "Lær, hvordan du slår JavaScript til"
+   },
+   "4117886182866316912": {
+      "message": "Spol frem i den aktuelle sang"
+   },
+   "4136239927282562599": {
+      "message": "Lyt til radio med musik, der minder om $END_SPAN$$TITLE$$START_SPAN$.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "4139665515290249483": {
+      "message": "Denne playliste er tom"
+   },
+   "4141582858389779168": {
+      "message": "Tilmeld dig ubegrænset musik for kun $OFFER_PRICE$ om måneden, og afspil millioner af sange øjeblikkeligt og uden reklamer.",
+      "placeholders": {
+         "OFFER_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4158639452472568044": {
+      "message": "Denne sang er blevet markeret som forkert matchet."
+   },
+   "4170852783933160433": {
+      "message": "{SONG_COUNT,plural, =1{Din kopi af den valgte sang vil blive brugt i stedet for den matchede kopi.}one{The selected songs will use your copies instead of the matched copies.}other{Dine kopier af de valgte sange vil blive brugt i stedet for de matchede kopier.}}"
+   },
+   "4183640380235728062": {
+      "message": "Gentag er slået fra. Klik for at ændre gentagelsestilstanden."
+   },
+   "4207298621447602833": {
+      "message": "Bedste match"
+   },
+   "4210934092144627539": {
+      "message": "Afspillet eller tilføjet for nylig"
+   },
+   "4214349520294814506": {
+      "message": "$LABEL$, valgt",
+      "placeholders": {
+         "LABEL": {
+            "content": "$1"
+         }
+      }
+   },
+   "4223772395954115656": {
+      "message": "$START_SPAN$Afspil millioner af sange, når du vil$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "4250881018175851283": {
+      "message": "Vis nyeste"
+   },
+   "4260036130369028456": {
+      "message": "g efterfulgt af g"
+   },
+   "4263959392548297550": {
+      "message": "Annuller"
+   },
+   "4267092206833736997": {
+      "message": "Radiokanaler"
+   },
+   "4272173055918340921": {
+      "message": "Indlæser musiksamling&hellip;"
+   },
+   "4275466320467620600": {
+      "message": "Altid øverst"
+   },
+   "4285216590250755577": {
+      "message": "Enheden skal opdateres, før vi kan kontrollere, om den er berettiget til denne kampagne."
+   },
+   "4307428996576001111": {
+      "message": "Gå til den forrige sang"
+   },
+   "4323912651038951928": {
+      "message": "Denne handling medfører også sletning af dine playlister, radiokanaler, bedømmelser og eventuelle oplysninger om antallet af afspilninger."
+   },
+   "4330683855002842723": {
+      "message": "Vis flere valgmuligheder"
+   },
+   "4340616150909089613": {
+      "message": "Er \"$SONG_TITLE$\" blevet matchet med en anden sang?",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4357737589458300153": {
+      "message": "Teknologien til kodning af MPEG Layer-3-lyd licenseres af Fraunhofer IIS og Thomson. Advanced Audio Coding (AAC) bruges og licenseres af Via Licensing Corporation. Google Play indeholder tredjepartssoftware, som indeholder påkrævede meddelelser og/eller yderligere vilkår og betingelser. Disse påkrævede meddelelser om tredjepartssoftware og/eller yderligere vilkår og betingelser kan findes på vores $START_LINK$side med offentliggørelser fra tredjeparter$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "4373763311924773906": {
+      "message": "Tilføj musik fra $SOURCE_LIST$",
+      "placeholders": {
+         "SOURCE_LIST": {
+            "content": "$1"
+         }
+      }
+   },
+   "4374547022638899908": {
+      "message": "Bloker musik, der er markeret som Explicit af indholdsudbydere."
+   },
+   "437655423845564400": {
+      "message": "Grænse for antal sange er nået. Du kan uploade op til $TRACK_LIMIT$ sange.",
+      "placeholders": {
+         "TRACK_LIMIT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4383725505132456525": {
+      "message": "Tilføjelse af musik standses midlertidigt"
+   },
+   "4386455913448027147": {
+      "message": "$ITEM_NAME$",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4387704382811204091": {
+      "message": "Opret dine egne playlister"
+   },
+   "4396890764725725469": {
+      "message": "Gem"
+   },
+   "4432809939941276493": {
+      "message": "Google Play Musik er i øjeblikket tilgængeligt i udvalgte områder og for udvalgte kontotyper."
+   },
+   "4448959744786615285": {
+      "message": "{COUNT_1,plural, =0{0 sange}=1{1 sang}one{{COUNT_2} sange}other{{COUNT_2} sange}}"
+   },
+   "445149490695787423": {
+      "message": "Log ind igen"
+   },
+   "4452427314943113135": {
+      "message": "Forrige"
+   },
+   "4461486069850736796": {
+      "message": "{NUM_SECONDS,plural, =0{0 sekunder}=1{1 sekund}one{# sekunder}other{# sekunder}}"
+   },
+   "4462494623248108758": {
+      "message": "Playliste"
+   },
+   "4476647413225813774": {
+      "message": "Efter de $OFFER_LENGTH_DAYS$ dage kan du fortsætte med at lytte for kun $OFFER_PRICE$ om måneden.",
+      "placeholders": {
+         "OFFER_LENGTH_DAYS": {
+            "content": "$1"
+         },
+         "OFFER_PRICE": {
+            "content": "$2"
+         }
+      }
+   },
+   "4479370175321248159": {
+      "message": "Mac OS X"
+   },
+   "4481282928945235645": {
+      "message": "Nogle af dine sange skal uploades igen."
+   },
+   "4523347413979510028": {
+      "message": "YouTube-video"
+   },
+   "4537375385198577563": {
+      "message": "Få flere oplysninger."
+   },
+   "4539806158142214585": {
+      "message": "g efterfulgt af n"
+   },
+   "4548136982356342217": {
+      "message": "Shift &#8592;"
+   },
+   "4554520729383911291": {
+      "message": "Opret et nyt miks fra den valgte sang"
+   },
+   "4580988005648117665": {
+      "message": "Søg"
+   },
+   "4601938511613873712": {
+      "message": "Mine enheder"
+   },
+   "46135825491334308": {
+      "message": "Sletning af din musik er permanent."
+   },
+   "4624704164651982020": {
+      "message": "Konfigurerer Google Play Musik til Chrome..."
+   },
+   "4629398054050196678": {
+      "message": "Download musik til følgende placering:"
+   },
+   "4645609569705949286": {
+      "message": "Kun mig"
+   },
+   "4648993989034133051": {
+      "message": "Viser menuen for den nuværende valgte sang"
+   },
+   "4658362967039953209": {
+      "message": "Upload musik"
+   },
+   "4662613464573260354": {
+      "message": "Foreslået"
+   },
+   "4687189636655044066": {
+      "message": "Mellemrum"
+   },
+   "4709553525160465770": {
+      "message": "For at uploade din musik hurtigt matcher Google Play dine musikfiler med kopier på vores server. Det hænder, at vi matcher med den forkerte sang. Hvis du rapporterer problemet her, bliver sangen uploadet igen."
+   },
+   "4718177503702130030": {
+      "message": "Aktuel sanglængde: $CURRENT_TIME$",
+      "placeholders": {
+         "CURRENT_TIME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4724245563419948725": {
+      "message": "Hold Google Play opdateret, når jeg føjer ny musik til disse placeringer"
+   },
+   "472845696068673335": {
+      "message": "Det opdaterede indhold blev indlæst"
+   },
+   "4742770396342457517": {
+      "message": "Lyt i Google Play Musik"
+   },
+   "4743341466695708276": {
+      "message": "Android"
+   },
+   "4769480851867061848": {
+      "message": "Afspil $TARGET$",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "4775550080689015987": {
+      "message": "Årsag"
+   },
+   "477988155866276940": {
+      "message": "{NUM_GENRES,plural, =0{0 genrer}=1{1 genre}one{# genres}other{# genrer}}"
+   },
+   "4782493710939339680": {
+      "message": "Del via Twitter"
+   },
+   "4846792506513649213": {
+      "message": "Kanaler"
+   },
+   "4862902902120611556": {
+      "message": "Se alle søgeresultaterne for musikere"
+   },
+   "4867246087786788222": {
+      "message": "Kontotype:"
+   },
+   "4874337908897060929": {
+      "message": "Tilføjelse af musik er sat på pause"
+   },
+   "4875592400807861759": {
+      "message": "{NUM_SONGS_TO_DELETE,plural, =1{Er du sikker på, at du vil {START_SPAN_1}slette den valgte sang permanent{END_SPAN}?}one{Er du sikker på, at du vil {START_SPAN_2}slette de valgte sange permanent{END_SPAN}?}other{Er du sikker på, at du vil {START_SPAN_2}slette de valgte sange permanent{END_SPAN}?}}"
+   },
+   "4886126295094352182": {
+      "message": "Google Play Musik til Chrome"
+   },
+   "4902817035128594900": {
+      "message": "Beskrivelse"
+   },
+   "4916816672463415688": {
+      "message": "Prøv Google Play Musik"
+   },
+   "4920946997448724158": {
+      "message": "Komponist"
+   },
+   "4930506384627295710": {
+      "message": "Indstillinger"
+   },
+   "4945228064546795686": {
+      "message": "Se alle søgeresultaterne for album"
+   },
+   "4962022175989879342": {
+      "message": "Explicit"
+   },
+   "4972659496812307928": {
+      "message": "Musikdownload er sat på pause"
+   },
+   "4980580439123922024": {
+      "message": "Kunstnere"
+   },
+   "4982958189718922051": {
+      "message": "Startside for Google Play Musik"
+   },
+   "4998030835388374541": {
+      "message": "Skift albumgrafik"
+   },
+   "5003850562831597565": {
+      "message": "Nyt abonnement"
+   },
+   "5004312405043027351": {
+      "message": "Udfør"
+   },
+   "5029496897209707807": {
+      "message": "Google Play Musik til Chrome skal opdateres. Dette bør ske automatisk."
+   },
+   "5043933900720743682": {
+      "message": "Album"
+   },
+   "504907426029176372": {
+      "message": "Sidst brugt:"
+   },
+   "5049432650728491454": {
+      "message": "Gennemse nye udgivelser, hitlister, playlister og genrer"
+   },
+   "5067818727161314391": {
+      "message": "Del via Google+"
+   },
+   "5080822706931608370": {
+      "message": "{NUM_ALBUMS,plural, =0{0 album}=1{1 album}one{# albums}other{# album}}"
+   },
+   "5085509606319320198": {
+      "message": "Luk køen"
+   },
+   "5117284791649421953": {
+      "message": "Historik for Play Musik"
+   },
+   "5119663120731608161": {
+      "message": "Tjek playlisten $START_LINK$Senest tilføjet$END_LINK$ for at se dine nyeste sange.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "5125947296792815314": {
+      "message": "{NUM_SKIPS,plural, =1{Du kan springe ét nummer mere over}one{Du kan springe # numre mere over}other{Du kan springe # numre mere over}}"
+   },
+   "5128240607770067472": {
+      "message": "Om…"
+   },
+   "5141725357376719861": {
+      "message": "$START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$ ud af $NUM_TOTAL_TRACKS$ er downloadet",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TOTAL_TRACKS": {
+            "content": "$2"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$3"
+         },
+         "START_SPAN": {
+            "content": "$4"
+         }
+      }
+   },
+   "5143432838919500349": {
+      "message": "Scanner..."
+   },
+   "5154374028369457456": {
+      "message": "Værktøjslinje til navigation"
+   },
+   "5161411570094992408": {
+      "message": "Ikke nu"
+   },
+   "5188231675115376764": {
+      "message": "Gå til Mine radiokanaler"
+   },
+   "5237204164514638395": {
+      "message": "Send en gave"
+   },
+   "5274506773583039432": {
+      "message": "Er du sikker på, at du vil $START_SPAN$slette$END_SPAN$ den valgte playliste for altid?",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "5302287499843369186": {
+      "message": "Konfiguration af Google Play Musik"
+   },
+   "5316998074277327666": {
+      "message": "Gracenote eller dennes leverandører har ophavsretten © til dele af indholdet."
+   },
+   "5324332666649007562": {
+      "message": "{NUM_SONGS_TO_EXPUNGE,plural, =1{Er du sikker på, at du vil {START_SPAN_1}slette den valgte sang permanent{END_SPAN}?}one{Er du sikker på, at du vil {START_SPAN_2}slette de valgte sange permanent{END_SPAN}?}other{Er du sikker på, at du vil {START_SPAN_2}slette de valgte sange permanent{END_SPAN}?}}"
+   },
+   "5326351540290142036": {
+      "message": "Forrige sang"
+   },
+   "5346889542079298595": {
+      "message": "Gratis radio til alt, hvad du laver. Gem $FORMATTED_LOCKER_SIZE$ numre fra din personlige samling. Abonner, og få adgang til $FORMATTED_MUSIC_CATALOG_SIZE$ sange on-demand og offlineafspilning.",
+      "placeholders": {
+         "FORMATTED_LOCKER_SIZE": {
+            "content": "$1"
+         },
+         "FORMATTED_MUSIC_CATALOG_SIZE": {
+            "content": "$2"
+         }
+      }
+   },
+   "5348600594194881699": {
+      "message": "Læn dig tilbage og slap af – du abonnerer allerede på Google Play Musik."
+   },
+   "5350246280596757721": {
+      "message": "Relaterede musikere"
+   },
+   "5370332239555585516": {
+      "message": "Masser af musik, ingen annoncer"
+   },
+   "5379453108698089622": {
+      "message": "Gå til Lyt nu"
+   },
+   "5393158295657392839": {
+      "message": "Sangene er markeret som forkert matchet."
+   },
+   "5395035563228151731": {
+      "message": "Kontostatus:"
+   },
+   "5407092932504462689": {
+      "message": "Se alle søgeresultaterne for radiokanaler"
+   },
+   "5410695385284979104": {
+      "message": "$TITLE$ Mix",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "541213310813871561": {
+      "message": "Familieindstillinger"
+   },
+   "5432330868773114140": {
+      "message": "Start radio"
+   },
+   "5444318821310889944": {
+      "message": "{COUNT_1,plural, =0{0 afsnit}=1{1 afsnit}one{{COUNT_2} afsnit}other{{COUNT_2} afsnit}}"
+   },
+   "545173546103184657": {
+      "message": "Google-konto:"
+   },
+   "5452218284042451605": {
+      "message": "Hvis du vil indløse en kupon for $START_SPAN$$USER_EMAIL$$END_SPAN$, skal du indtaste koden nedenfor",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "USER_EMAIL": {
+            "content": "$3"
+         }
+      }
+   },
+   "5464364716831469679": {
+      "message": "Ukendt album"
+   },
+   "5480320305561124595": {
+      "message": "Min samling"
+   },
+   "548629550059508920": {
+      "message": "Upload mislykkedes, fordi du allerede uploader fra to konti."
+   },
+   "5492320356892382782": {
+      "message": "Slet permanent"
+   },
+   "5497512316841934820": {
+      "message": "\"Jeg prøver lykken\"-mix"
+   },
+   "5497627646066282315": {
+      "message": "Opretter forbindelse"
+   },
+   "550380163414655031": {
+      "message": "Derefter vil vi spørge ind til din musiksmag, så vi kan finde den musik, der passer bedst til dig."
+   },
+   "5518817744725858296": {
+      "message": "Kunstneren spiller live i nærheden af dig"
+   },
+   "5535160370665610524": {
+      "message": "Spol tilbage i den aktuelle sang"
+   },
+   "5578390534357178026": {
+      "message": "Sørg for, at du er logget ind i Chrome med den samme Google-konto."
+   },
+   "5584189341216439776": {
+      "message": "Tilføj din musik"
+   },
+   "5586233271963962252": {
+      "message": "Næste sang"
+   },
+   "5593848105713936399": {
+      "message": "Kø"
+   },
+   "5594762259680838005": {
+      "message": "Købt for nylig"
+   },
+   "5605692130698677333": {
+      "message": "Har du brug for hjælp til at tilføje musik fra en computer, hvor du allerede har installeret Google Play Musikmanager?"
+   },
+   "560627050344405345": {
+      "message": "Spring 30 sekunder frem"
+   },
+   "5607000992339442129": {
+      "message": "Du kan nemt og hurtigt uploade din musiksamling til Google Play."
+   },
+   "5631364725702248876": {
+      "message": "Gennemse radiokanaler"
+   },
+   "5635270894887625192": {
+      "message": "$START_UNORDERED_LIST$$START_ITEM$$START_DIV_1$$END_DIV$$START_SPAN$Gem op til $FORMATTED_LOCKER_SIZE$ sange i Google Play gratis.$END_SPAN$$END_ITEM$$START_ITEM$$START_DIV_2$$END_DIV$$START_SPAN$Tilføj din samling fra iTunes, Windows Media Player eller mapper.$END_SPAN$$END_ITEM$$START_ITEM$$START_DIV_3$$END_DIV$$START_SPAN$Lyt på nettet eller dine mobilenheder uden besvær med ledninger eller synkronisering.$END_SPAN$$END_ITEM$$END_UNORDERED_LIST$",
+      "placeholders": {
+         "END_DIV": {
+            "content": "$1"
+         },
+         "END_ITEM": {
+            "content": "$2"
+         },
+         "END_SPAN": {
+            "content": "$3"
+         },
+         "END_UNORDERED_LIST": {
+            "content": "$4"
+         },
+         "FORMATTED_LOCKER_SIZE": {
+            "content": "$5"
+         },
+         "START_DIV_1": {
+            "content": "$6"
+         },
+         "START_DIV_2": {
+            "content": "$7"
+         },
+         "START_DIV_3": {
+            "content": "$8"
+         },
+         "START_ITEM": {
+            "content": "$9"
+         },
+         "START_SPAN": {
+            "content": "$10"
+         },
+         "START_UNORDERED_LIST": {
+            "content": "$11"
+         }
+      }
+   },
+   "5671499827182863671": {
+      "message": "Du er blevet logget ud af denne konto. Klik på knappen nedenfor for at komme tilbage til din musik."
+   },
+   "5729733224544981434": {
+      "message": "Føj Google Play Musik til Chrome for at aktivere træk og slip"
+   },
+   "5769804815976568558": {
+      "message": "Vælg downloadplacering"
+   },
+   "5827343664961087180": {
+      "message": "Abonner"
+   },
+   "5832435837238304779": {
+      "message": "Afspil $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "585739095777961817": {
+      "message": "af"
+   },
+   "5862309805277852777": {
+      "message": "Titel"
+   },
+   "5863523793538309428": {
+      "message": "Din musik er ved at blive slettet. Der kan gå et par timer, før al din musik er fjernet."
+   },
+   "5888141336325862688": {
+      "message": "Gå til Gennemse radiokanaler"
+   },
+   "5889126665299129466": {
+      "message": "Du skal være logget ind på Chrome for at bruge miniafspilleren."
+   },
+   "5889904821719049150": {
+      "message": "Lyt til din musik på en hvilken som helst computer og op til ti forskellige enheder. Når du uploader og downloader musik ved hjælp af Musikmanager eller Google Play Musik til Chrome, tæller det med som en enhed."
+   },
+   "5891064527381218201": {
+      "message": "Gratis"
+   },
+   "5923830678189377717": {
+      "message": "Hmmm..."
+   },
+   "5946473117506990177": {
+      "message": "Giv et Google Play Musik-abonnement i gave"
+   },
+   "5971001229987621398": {
+      "message": "Foreslået ny udgivelse"
+   },
+   "5987565417212088924": {
+      "message": "Playliste fra Lydsøgning"
+   },
+   "5990212441459592050": {
+      "message": "Offentliggør"
+   },
+   "599493319699637812": {
+      "message": "Bland sange"
+   },
+   "6028312506269896318": {
+      "message": "Er du sikker på, at du vil fjerne godkendelsen til afspilning af musik for denne enhed:"
+   },
+   "60369026765465265": {
+      "message": "Opdater kanal"
+   },
+   "6037216776738907588": {
+      "message": "Gå til Mine genrer"
+   },
+   "6062704261604405084": {
+      "message": "Konfigurer Google Play Musik til Chrome til at tilføje din musiksamling, så du kan nyde din musik på din telefon, tablet og computer."
+   },
+   "6062911693359625717": {
+      "message": "Bithastighed: $BITRATE$",
+      "placeholders": {
+         "BITRATE": {
+            "content": "$1"
+         }
+      }
+   },
+   "6068863249628617875": {
+      "message": "Prøv det nu"
+   },
+   "607779708716020188": {
+      "message": "…"
+   },
+   "6080972150136904755": {
+      "message": "Denne playliste er tom lige nu"
+   },
+   "6082171864197428613": {
+      "message": "Installer"
+   },
+   "609463966491943885": {
+      "message": "Vælg mapper"
+   },
+   "6097429778714195840": {
+      "message": "Gå til Nye udgivelser"
+   },
+   "6104044107385556653": {
+      "message": "Der skelnes mellem store og små bogstaver i kuponkoder"
+   },
+   "6115840172404094036": {
+      "message": "Gå til den næste sang"
+   },
+   "6134905866550808378": {
+      "message": "Alle mine sange – $GENRE_NAME$",
+      "placeholders": {
+         "GENRE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "6176916746057281482": {
+      "message": "Se oplysninger om afsnit"
+   },
+   "6182267200530067545": {
+      "message": "Tegn et fast abonnement nu, så musikken fortsætter med at spille."
+   },
+   "6202991870072245705": {
+      "message": "Afmeld"
+   },
+   "6214362172197372800": {
+      "message": "Kontrollér, at du har downloadet en kopi af alle køb i Google Play til din computer, inden du fortsætter."
+   },
+   "6227307047241266902": {
+      "message": "menuen Flere valgmuligheder"
+   },
+   "6233107584508657559": {
+      "message": "Der kunne ikke oprettes forbindelse til Google"
+   },
+   "6233799104785293347": {
+      "message": "Opgrader"
+   },
+   "6242354668932209396": {
+      "message": "Alle sange gentages. Klik for at ændre gentagelsestilstanden."
+   },
+   "624560585652958729": {
+      "message": "Fjern godkendelse"
+   },
+   "6254019915482435769": {
+      "message": "Diske"
+   },
+   "6263911096488435737": {
+      "message": "Opdater mix"
+   },
+   "6266962164598137510": {
+      "message": "Kan ikke lide"
+   },
+   "6295780096198935300": {
+      "message": "Se alle søgeresultaterne for sange"
+   },
+   "6321629750851370838": {
+      "message": "Afspilning"
+   },
+   "6334800505555910746": {
+      "message": "Fra $XXX_1$ i henhold til $XXX_2$",
+      "placeholders": {
+         "XXX_1": {
+            "content": "$1"
+         },
+         "XXX_2": {
+            "content": "$2"
+         }
+      }
+   },
+   "6338543385295715171": {
+      "message": "Fejl ved upload."
+   },
+   "6348993545995904615": {
+      "message": "Bland"
+   },
+   "6360340926892934518": {
+      "message": "Tilføj en mappe"
+   },
+   "6385838952512467617": {
+      "message": "{NUM,plural, =0{Der er ingen sange med kun én download tilbage.}=1{\"{XXX_1}\" har kun 1 download tilbage.}=2{\"{XXX_1}\" og \"{XXX_2}\" har kun 1 download tilbage.}=3{\"{XXX_1}\", \"{XXX_2}\" og \"{XXX_3}\" har kun 1 download tilbage.}=4{\"{XXX_1}\", \"{XXX_2}\", \"{XXX_3}\" og 1 anden markeret sang har kun 1 download tilbage.}one{\"{XXX_1},\" \"{XXX_2},\" \"{XXX_3},\" and {XXX_4} other selected songs have only 1 download remaining.}other{\"{XXX_1}\", \"{XXX_2}\", \"{XXX_3}\" og {XXX_4} andre markerede sange har kun 1 download tilbage.}}"
+   },
+   "6386884903976634321": {
+      "message": "Opdater indstillinger"
+   },
+   "6392918669949841614": {
+      "message": "Tilføjet den"
+   },
+   "6401620758535187625": {
+      "message": "Opdater betalingsoplysninger"
+   },
+   "6426880811380367028": {
+      "message": "Sæt $TARGET$ på pause",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "6439365426343089851": {
+      "message": "Generelt"
+   },
+   "6453809956732788630": {
+      "message": "$START_SPAN$Nyd vores musiknørders playlister$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "6455589326534311330": {
+      "message": "Denne begrænsning gælder ikke, når du bruger $START_SPAN$Musikmanager$END_SPAN$ til at downloade hele din samling til din computer.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "6463864371052292453": {
+      "message": "Explicit: Kan være uegnet for børn"
+   },
+   "6473040876350306456": {
+      "message": "Placeringshistorik"
+   },
+   "6482036697464831271": {
+      "message": "For at uploade din musik hurtigt matcher Google Play dine musikfiler med kopier på vores server. Af og til kan det ske, at vi matcher med den forkerte sang. Rapportér problemet her, og sangen vil blive rettet til at bruge din kopi i stedet for den matchede kopi."
+   },
+   "6482522612734635310": {
+      "message": "Musikken er sat på pause, da det lader til, at du lytter til den på en anden enhed."
+   },
+   "6482815137654580311": {
+      "message": "Rediger oplysninger"
+   },
+   "6485379744416240146": {
+      "message": "Musik du kan lide"
+   },
+   "6488707262592852720": {
+      "message": "2. Træk ikonet for Musikmanager til ikonet for programmappen i installationsvinduet."
+   },
+   "6502885021177224543": {
+      "message": "Google Play Musik: Vælg mappe til downloads"
+   },
+   "6504449653938065974": {
+      "message": "Anbefalet playliste"
+   },
+   "6513265996872955028": {
+      "message": "Føj til samlingen"
+   },
+   "6523257069333866790": {
+      "message": "Musiksamling"
+   },
+   "6531109671848395983": {
+      "message": "Hvis du vil tilføje din musik, skal du installere Google Play Musik til Chrome."
+   },
+   "6531471505721570155": {
+      "message": "Få mere"
+   },
+   "6555053572817998410": {
+      "message": "Sæt på pause"
+   },
+   "6562996658473327600": {
+      "message": "Afspiller:"
+   },
+   "6568036879894576496": {
+      "message": "Musik fra følgende mapper bliver føjet til Google Play Musik"
+   },
+   "6576943715351613839": {
+      "message": "{DOWNLOAD_COUNT_MAX_1,plural, =1{ Hver sang kan downloades én gang på nettet.}one{ Hver sang kan downloades {DOWNLOAD_COUNT_MAX_2} gange på nettet.}other{ Hver sang kan downloades {DOWNLOAD_COUNT_MAX_2} gange på nettet.}}"
+   },
+   "65984904390749158": {
+      "message": "Udfør"
+   },
+   "66116513409922755": {
+      "message": "Nej"
+   },
+   "6612332818623520965": {
+      "message": "Der opstod desværre en fejl. Prøv igen."
+   },
+   "6634231960955145278": {
+      "message": "Sang"
+   },
+   "6638274938129779637": {
+      "message": "Fortryd Kan lide"
+   },
+   "6650633628037596693": {
+      "message": "Prøv igen"
+   },
+   "6650888720096194474": {
+      "message": "For at bruge miniafspilleren skal du konfigurere Google Play Musik for $START_SPAN$$EMAIL$$END_SPAN$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         },
+         "END_SPAN": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "6652649548557498169": {
+      "message": "Normal"
+   },
+   "6652787256443519035": {
+      "message": "Utagget"
+   },
+   "6674940684074453217": {
+      "message": "iOS"
+   },
+   "6703444928647322448": {
+      "message": "Titel"
+   },
+   "6704452266937792847": {
+      "message": "Føj til samlingen"
+   },
+   "6706494172112196654": {
+      "message": "Opgrader til et familieabonnement – op til seks familiemedlemmer"
+   },
+   "6716575470159796252": {
+      "message": "Chrome OS"
+   },
+   "6718773735728815040": {
+      "message": "Anbefalet til dig"
+   },
+   "6719382961812623394": {
+      "message": "Der opstod et problem med konfigurationen"
+   },
+   "6724866564770579816": {
+      "message": "Afspilningsmetoder"
+   },
+   "6742017901699269182": {
+      "message": "Gå til Mine album"
+   },
+   "6747414430222084644": {
+      "message": "Sanglængde: $TRACK_LENGTH$",
+      "placeholders": {
+         "TRACK_LENGTH": {
+            "content": "$1"
+         }
+      }
+   },
+   "6790172339432877080": {
+      "message": "Dette L-mærke er et registreret varemærke, der angiver, at indholdet leveres af pladeselskaberne og videoproduktionsselskaberne."
+   },
+   "6814976743136440069": {
+      "message": "OK"
+   },
+   "6820635381009519748": {
+      "message": "Fjern fra køen"
+   },
+   "6830152735949448199": {
+      "message": "Labs i Google Play Musik er et forsøgsområde for eksperimentelle funktioner, som ikke er helt klar til det brede publikum. De kan ændre sig, gå i stykker eller forsvinde når som helst. God fornøjelse!"
+   },
+   "6839273670547667172": {
+      "message": "Diverse"
+   },
+   "6840919594921167668": {
+      "message": "Tjek mappen Downloads på din computer for at se dine downloadede sange."
+   },
+   "6852978731943767591": {
+      "message": "3. Når installationsprogrammet åbner, skal du følge vejledningen for at konfigurere Musikmanager."
+   },
+   "6857227272497365704": {
+      "message": "Spring til et bestemt sted i sangen (7 fremrykninger til 70 % af varigheden)"
+   },
+   "6875485529840056179": {
+      "message": "Få adgang til mere end $FORMATTED_MUSIC_CATALOG_SIZE$ sange og ubegrænset radio.",
+      "placeholders": {
+         "FORMATTED_MUSIC_CATALOG_SIZE": {
+            "content": "$1"
+         }
+      }
+   },
+   "6887831882226099905": {
+      "message": "Er du sikker på, at du vil fjerne godkendelsen til tilføjelse af musik for denne enhed:"
+   },
+   "6932671848756303275": {
+      "message": "Lav"
+   },
+   "6940170973585783277": {
+      "message": "Opgrader til et familieabonnement"
+   },
+   "6941609127174167431": {
+      "message": "Spring ti sekunder tilbage"
+   },
+   "6943941659433003765": {
+      "message": "Start et direkte mix"
+   },
+   "6962699013778688473": {
+      "message": "Fortsæt"
+   },
+   "6990699195498598876": {
+      "message": "Du skal først downloade Musikmanager nedenfor. Musikmanager er et lille program, der kan føje musikfilerne fra din computer til Google Play."
+   },
+   "699971906528455934": {
+      "message": "Ukendt kunstner"
+   },
+   "7009828133009731416": {
+      "message": "Gratis fra Google"
+   },
+   "7022070615528435141": {
+      "message": "Slet"
+   },
+   "7035822615949880851": {
+      "message": "Din musik er midlertidigt utilgængelig fra denne enhed. Prøv igen senere. Fejl 442."
+   },
+   "7043080825985118397": {
+      "message": "Fortryd sletning"
+   },
+   "7054091192371222228": {
+      "message": " af "
+   },
+   "7062695654404914711": {
+      "message": "Direkte mix"
+   },
+   "7067908984080925888": {
+      "message": "Læs mere"
+   },
+   "7071666053441099517": {
+      "message": "1. Åbn MusicManager.dmg i nederste venstre hjørne af dit browservindue."
+   },
+   "7080245643233785574": {
+      "message": "Der er opstået et problem med Google Play Musik til Chrome. Du skal logge ind igen."
+   },
+   "7090368974279082159": {
+      "message": "Ups!"
+   },
+   "709740537382334098": {
+      "message": "Slet hele min samling inklusive købt musik ($TOTAL_SONGS$)",
+      "placeholders": {
+         "TOTAL_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7105416082849293719": {
+      "message": "Seneste aktivitet"
+   },
+   "7110393208916703749": {
+      "message": "Videoer"
+   },
+   "7116872031464114568": {
+      "message": "Identificeret i Lydsøgning"
+   },
+   "7136816542440442290": {
+      "message": "Der opstod et problem under indlæsningen af din radiokanal."
+   },
+   "7182974689040833178": {
+      "message": "Genoptag"
+   },
+   "7192513315706728552": {
+      "message": "Serverfejl. Prøv igen senere."
+   },
+   "7194376132387780145": {
+      "message": "Denne computer kunne ikke godkendes, fordi du allerede har ti enheder."
+   },
+   "7212676589977202933": {
+      "message": "Der er tilføjet $NUM_TRANSFERRED_TRACKS$ sange",
+      "placeholders": {
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7224832103566723854": {
+      "message": "Playlisten kunne ikke åbnes. Prøv igen."
+   },
+   "7225854335198901823": {
+      "message": "Lavere kvalitet bruger mindre data"
+   },
+   "7249560357803023328": {
+      "message": "Download samlingen"
+   },
+   "7262284142845767114": {
+      "message": "Musik du kan lide"
+   },
+   "7277602889799602415": {
+      "message": "Slet min samling"
+   },
+   "7283215568776397157": {
+      "message": "Uploadede sange:"
+   },
+   "7287006426755387074": {
+      "message": "Øg lydstyrken for afspilleren"
+   },
+   "7292878672940239832": {
+      "message": "{NUM_MINUTES,plural, =0{0 minutter}=1{1 minut}one{# minutes}other{# minutter}}"
+   },
+   "7292902857194439444": {
+      "message": "Enhed"
+   },
+   "7293925053370285812": {
+      "message": "Aktuel sang gentages. Klik for at ændre gentagelsestilstanden."
+   },
+   "729714018676926076": {
+      "message": "Forudbestil på Google Play Musik"
+   },
+   "7299356918464630268": {
+      "message": "Højere kvalitet bruger mere data"
+   },
+   "730022297859142476": {
+      "message": "Direkte mix"
+   },
+   "731429515932674572": {
+      "message": "Slå lyden fra"
+   },
+   "7320133162875658022": {
+      "message": "Upload nye sange ($NUM_NEW_SONGS$)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7354536653016090160": {
+      "message": "Hitlister"
+   },
+   "7354691783317064273": {
+      "message": "Der oprettes forbindelse til Chrome-appen."
+   },
+   "7376787658603979700": {
+      "message": "Shop blandt millioner af sange, og find hundredvis af gratis numre."
+   },
+   "7410432243549869948": {
+      "message": "Varighed"
+   },
+   "7411932913365107274": {
+      "message": "Du kan fjerne godkendelsen for fire enheder om året."
+   },
+   "741454111929523251": {
+      "message": "Mente du: $START_LINK$$SUGGESTED_QUERY$$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         },
+         "SUGGESTED_QUERY": {
+            "content": "$3"
+         }
+      }
+   },
+   "7417635001613679430": {
+      "message": "Vælg mapper..."
+   },
+   "7422152161839392092": {
+      "message": "Giv et abonnement på Google Play Musik i gave"
+   },
+   "7467710920158412786": {
+      "message": "En privat playliste kun for dig."
+   },
+   "7501747046724259714": {
+      "message": "Brugerens playlister kunne ikke hentes. Prøv igen."
+   },
+   "7502695447103329189": {
+      "message": "Shift &#8594;"
+   },
+   "7512291922236002631": {
+      "message": "Kopiér og indsæt dette link for at dele $START_SPAN$$TITLE$$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "7515033107202878673": {
+      "message": "Vælg de musikere, du kan lide"
+   },
+   "7535122927261158198": {
+      "message": "Senest tilføjet"
+   },
+   "7546873952682838388": {
+      "message": "Musik fra denne computer"
+   },
+   "756024699361489239": {
+      "message": "Bland"
+   },
+   "756532847162987514": {
+      "message": "($XXX$)",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "7569000733095186860": {
+      "message": "Der opstod en fejl ved opdateringen af indhold"
+   },
+   "7572946295452220765": {
+      "message": "Vejledning til installation"
+   },
+   "7587796626090923635": {
+      "message": "{COUNT_1,plural, =0{0 afspilninger}=1{1 afspilning}one{{COUNT_2} afspilninger}other{{COUNT_2} afspilninger}}"
+   },
+   "7592349062857393820": {
+      "message": "g efterfulgt af t"
+   },
+   "7599424290971072767": {
+      "message": "Genre"
+   },
+   "7604883230326131491": {
+      "message": "$TITLE$-playliste",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7605394550777137111": {
+      "message": "Din musik bliver downloadet lige om lidt. Hvis ikke, skal du $START_LINK$klikke her$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "7619560701830330401": {
+      "message": "Indlæser"
+   },
+   "762389150316771008": {
+      "message": "\"Jeg prøver lykken\"-radio"
+   },
+   "7625459160681249394": {
+      "message": "{NUM_SONGS,plural, =0{Du har ikke valgt nogen sange, som du vil downloade til din computer.}=1{Den valgte sang er allerede blevet downloadet det maksimale antal gange.}one{The selected songs have already been downloaded the maximum number of times.}other{De valgte sange er allerede blevet downloadet det maksimale antal gange.}}"
+   },
+   "763998168115480566": {
+      "message": "Du kan ikke springe flere sange over. Få on-demand- og offlineadgang til millioner af sange."
+   },
+   "7664246845088850317": {
+      "message": "Forbindelsen til serveren mislykkedes med fejlkoden: "
+   },
+   "7669291472367464463": {
+      "message": "Angiv din @google.com-mailadresse"
+   },
+   "7677669941581940117": {
+      "message": "Google+"
+   },
+   "7743528314734813641": {
+      "message": "Der opstod et problem under indlæsningen af dit direkte mix."
+   },
+   "7756401573104983978": {
+      "message": "Computerprogram"
+   },
+   "776736242214904151": {
+      "message": "Afspil denne sang og millioner af andre igen når som helst"
+   },
+   "7772875668912229569": {
+      "message": "{NUM_SONGS,plural, =0{0 sange}=1{1 sang}one{# songs}other{# sange}}"
+   },
+   "7774266771623079214": {
+      "message": "Play Musik"
+   },
+   "7783345534551124847": {
+      "message": "Sange"
+   },
+   "7801884781403562273": {
+      "message": "Indløs"
+   },
+   "7819314041543176992": {
+      "message": "Luk"
+   },
+   "7832954852370077811": {
+      "message": "Start noget musik, eller føj et album, en sang eller en playliste til din kø ved at klikke på ikonet $MENU_ICON$",
+      "placeholders": {
+         "MENU_ICON": {
+            "content": "$1"
+         }
+      }
+   },
+   "7834872082445723495": {
+      "message": "Tilføjelse af musik annulleres"
+   },
+   "7873745865358968651": {
+      "message": "{NUM_HOURS,plural, =0{0 timer}=1{1 time}one{# hours}other{# timer}}"
+   },
+   "7941094066137301803": {
+      "message": "Opgrader til Google+ for at begynde at dele med dine venner."
+   },
+   "7943877664425892318": {
+      "message": "Åbn skuffen med playlister"
+   },
+   "7947294997516635657": {
+      "message": "Alt er opdateret"
+   },
+   "7978348005042781826": {
+      "message": "{VALUE,plural, =0{0 mapper}=1{1 mappe}one{# mapper}other{# mapper}}"
+   },
+   "7980428538910137664": {
+      "message": "Gratis og købt"
+   },
+   "7985393396166342590": {
+      "message": "Tilføjelse af musik genoptages"
+   },
+   "7996265599642887416": {
+      "message": "Fjern fra samling"
+   },
+   "8041472556355834197": {
+      "message": "Afspilningsknapper"
+   },
+   "8058956869215275454": {
+      "message": "Del via Facebook"
+   },
+   "8110367050267853536": {
+      "message": "Flere valgmuligheder"
+   },
+   "8110717721846730575": {
+      "message": "Slå lyden til"
+   },
+   "8117873518116417445": {
+      "message": "{NUM,plural, =0{Ingen sange har overskredet grænsen for downloads.}=1{\"{XXX_1}\" er allerede blevet downloadet {DOWNLOAD_COUNT_MAX} gange og vil ikke blive downloadet.}=2{\"{XXX_1}\" og \"{XXX_2}\" er allerede blevet downloadet {DOWNLOAD_COUNT_MAX} gange og vil ikke blive downloadet.}=3{\"{XXX_1}\", \"{XXX_2}\" og \"{XXX_3}\" er allerede blevet downloadet {DOWNLOAD_COUNT_MAX} gange og vil ikke blive downloadet.}=4{\"{XXX_1}\", \"{XXX_2}\", \"{XXX_3}\" og en anden markeret sang er allerede blevet downloadet {DOWNLOAD_COUNT_MAX} gange og vil ikke blive downloadet.}one{\"{XXX_1},\" \"{XXX_2},\" \"{XXX_3},\" and {XXX_4} other selected songs have already been downloaded {DOWNLOAD_COUNT_MAX} times and will not be downloaded.}other{\"{XXX_1}\", \"{XXX_2}\", \"{XXX_3}\" og {XXX_4} andre markerede sange er allerede blevet downloadet {DOWNLOAD_COUNT_MAX} gange og vil ikke blive downloadet.}}"
+   },
+   "8140841959031615975": {
+      "message": "Hold mig opdateret med nyheder og tilbud fra Google Play Musik"
+   },
+   "8144474297019493415": {
+      "message": "Senest tilføjet"
+   },
+   "8167254435928832023": {
+      "message": "Jeg prøver lykken"
+   },
+   "8174689178967388837": {
+      "message": "Nummer"
+   },
+   "8184838044774375710": {
+      "message": "Der kan ikke afspilles musik på to enheder på samme tid"
+   },
+   "819996403327805209": {
+      "message": "Flere oplysninger"
+   },
+   "8202537648978392187": {
+      "message": "{DOWNLOAD_COUNT_MAX_1,plural, =1{ Du kan også {START_SPAN_1}downloade direkte{END_SPAN}, men kun {START_SPAN_2}én gang pr. sang{END_SPAN}.}one{ Du kan også {START_SPAN_1}downloade direkte{END_SPAN}, men kun {START_SPAN_3}{DOWNLOAD_COUNT_MAX_2} gange pr. sang{END_SPAN}.}other{ Du kan også {START_SPAN_1}downloade direkte{END_SPAN}, men kun {START_SPAN_3}{DOWNLOAD_COUNT_MAX_2} gange pr. sang{END_SPAN}.}}"
+   },
+   "8216772648076666728": {
+      "message": "Tillad sange med Explicit-indhold."
+   },
+   "8233851949641842866": {
+      "message": "{NUM_FAILURES_1,plural, =1{ Der var 1 sang, som ikke kunne tilføjes}one{ Der var {NUM_FAILURES_2} sange, som ikke kunne tilføjes}other{ Der var {NUM_FAILURES_2} sange, som ikke kunne tilføjes}}"
+   },
+   "8235345176344531979": {
+      "message": "g efterfulgt af a"
+   },
+   "828333935216451744": {
+      "message": "Med et abonnement på Google Play Musik får du adgang til mere end $FORMATTED_MUSIC_CATALOG_SIZE$ sange og ubegrænset radio.",
+      "placeholders": {
+         "FORMATTED_MUSIC_CATALOG_SIZE": {
+            "content": "$1"
+         }
+      }
+   },
+   "828700836558117968": {
+      "message": "Google Play Musik"
+   },
+   "8300572760144032022": {
+      "message": "Opret en ny radiokanal ud fra den valgte sang"
+   },
+   "8302804816588048941": {
+      "message": "Denne handling medfører også sletning af dine playlister, direkte mix, bedømmelser og eventuelle oplysninger om antallet af afspilninger."
+   },
+   "8325100368677049569": {
+      "message": "Udforsk ny musik"
+   },
+   "8385464685117997940": {
+      "message": "Afspillet for nylig"
+   },
+   "8395180429531273524": {
+      "message": "Hvorfor er min enhed ikke berettiget?"
+   },
+   "8396767881870375563": {
+      "message": "Se alle søgeresultaterne for aktiviteter"
+   },
+   "8405156617531647050": {
+      "message": "Det ser ud til, at du allerede har prøvet Google Play Musik."
+   },
+   "840664911413405433": {
+      "message": "Windows"
+   },
+   "840692109692540367": {
+      "message": "Log ind"
+   },
+   "8421838551605999158": {
+      "message": "1. Gem musicmanagerinstaller.exe"
+   },
+   "8424326418312855409": {
+      "message": "Google Play Musik kunne ikke konfigureres."
+   },
+   "8439955599488894226": {
+      "message": "Privatlivspolitik"
+   },
+   "8440128775129354214": {
+      "message": "Privatliv"
+   },
+   "8455196866871985315": {
+      "message": "Se alle populære album"
+   },
+   "8455204924704616723": {
+      "message": "Fil"
+   },
+   "8477224362193738096": {
+      "message": "Musiker: $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "848933194605193751": {
+      "message": "Set for nylig på YouTube"
+   },
+   "851623407011365974": {
+      "message": "Din musik fortsætter om et øjeblik"
+   },
+   "8534560073330554352": {
+      "message": "Antal afspilninger"
+   },
+   "8542907888351533629": {
+      "message": "..."
+   },
+   "8559735404345611808": {
+      "message": "Få adgang til $FORMATTED_MUSIC_CATALOG_SIZE$ reklamefri sange on-demand. Lyt til downloadet indhold, når du er offline. Tilføj $FORMATTED_LOCKER_SIZE$ af dine sange, og lyt overalt.",
+      "placeholders": {
+         "FORMATTED_LOCKER_SIZE": {
+            "content": "$1"
+         },
+         "FORMATTED_MUSIC_CATALOG_SIZE": {
+            "content": "$2"
+         }
+      }
+   },
+   "8564202903947049539": {
+      "message": "Afspil"
+   },
+   "8574053857298592408": {
+      "message": "Åbn sidemenuen."
+   },
+   "8602981985283490607": {
+      "message": "$START_LINK$Få hjælp til at fjerne Musikmanager$END_LINK$ fra din computer.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "8604571003772710870": {
+      "message": "Tryk på Shift+Enter for at afspille"
+   },
+   "8606325754052632992": {
+      "message": "Google Play matcher dine musikfiler med kopier på vores server for at uploade din musik hurtigt. Det hænder, at vi matcher med den forkerte sang. Hvis du rapporterer problemet her, bliver sangen uploadet igen."
+   },
+   "8608281335099046628": {
+      "message": "Behandler musik..."
+   },
+   "8619410898472620495": {
+      "message": "Gå til Google Play Musik på nettet for at genoptage afspilningen."
+   },
+   "862440714280873951": {
+      "message": "Indeholder podcasts"
+   },
+   "8624490471677691415": {
+      "message": "Vis musik efter"
+   },
+   "8624618794349836904": {
+      "message": "Fjern den historik, der bruges til at give dig tilpassede anbefalinger og tilpasset radio. Dette vil ikke fjerne bedømmelser og afspilningstællere fra de enkelte numre."
+   },
+   "8639048757911329468": {
+      "message": "NaCl-version: $START_SPAN$$NACL_VERSION$$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NACL_VERSION": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "8642779049394824811": {
+      "message": "Der kan ikke søges, mens radioen spiller"
+   },
+   "8679806927601731663": {
+      "message": "Prøv igen"
+   },
+   "8692453200617588996": {
+      "message": "Vælg de genrer, du kan lide"
+   },
+   "8700121026680200191": {
+      "message": "Ryd"
+   },
+   "8733921970136713647": {
+      "message": "Opsig abonnement"
+   },
+   "8764339661945610128": {
+      "message": "Vis flere kunstnere"
+   },
+   "8790918354594417962": {
+      "message": "Facebook"
+   },
+   "8799945990693183114": {
+      "message": "Labs"
+   },
+   "880592275679936810": {
+      "message": "$START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$ er tilføjet",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "8825531460389729800": {
+      "message": "{NUM_PLAYLISTS,plural, =0{0 playlister}=1{1 playliste}one{# playlister}other{# playlister}}"
+   },
+   "8841049363660529484": {
+      "message": "$ITEM_NAME$ er valgt. Klik for at fjerne markering.",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "886941024758881610": {
+      "message": "Flere sange"
+   },
+   "8871219022895015530": {
+      "message": "Tilføjer de valgte sange til køen"
+   },
+   "88781093248476711": {
+      "message": "ikke navngivet"
+   },
+   "8890553633144307762": {
+      "message": "Tilbage"
+   },
+   "8892908795692466458": {
+      "message": "Del"
+   },
+   "8910998670732377227": {
+      "message": "Prøv igen"
+   },
+   "8920100935192456970": {
+      "message": "Se alle søgeresultaterne for genre"
+   },
+   "8928816882866356838": {
+      "message": "Offentlig"
+   },
+   "8931700495296520714": {
+      "message": "Luk miniafspiller"
+   },
+   "8936704404804793618": {
+      "message": "Videoer"
+   },
+   "8949306858344607697": {
+      "message": "Playlister, der er offentligt delt af $USER_FULL_NAME$",
+      "placeholders": {
+         "USER_FULL_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8953033926734869941": {
+      "message": "Titel"
+   },
+   "8961985815150856927": {
+      "message": "Oprettet for nylig"
+   },
+   "8969179774064404960": {
+      "message": "Lydstyrke"
+   },
+   "8971282019539581965": {
+      "message": "Luk dialogboksen Om"
+   },
+   "8982807952821993986": {
+      "message": "{NUM_TRANSFERRED_TRACKS_1,plural, =1{ Der blev downloadet 1 sang}one{ Der blev downloadet {NUM_TRANSFERRED_TRACKS_2} sange}other{ Der blev downloadet {NUM_TRANSFERRED_TRACKS_2} sange}}"
+   },
+   "9000028459946302905": {
+      "message": "Slet al musik, jeg har uploadet til Min samling ($UPLOADED_SONGS$)",
+      "placeholders": {
+         "UPLOADED_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "902263003582497446": {
+      "message": "Høj kvalitet uafhængigt af netværksforholdene. På langsomme netværk kan det tage længere tid at gemme i bufferen."
+   },
+   "9024489874326845912": {
+      "message": "Anbefalet album"
+   },
+   "9042260521669277115": {
+      "message": "Pause"
+   },
+   "9049377337845973204": {
+      "message": "Afspil: $SONG_NAME$",
+      "placeholders": {
+         "SONG_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "9059560719840598868": {
+      "message": "Send feedback"
+   },
+   "9084816336314899019": {
+      "message": "Fortsæt"
+   },
+   "9128859482251917046": {
+      "message": "Åbn eller luk køen"
+   },
+   "9138683078793837147": {
+      "message": "Fortryd Kan ikke lide"
+   },
+   "9143597363285105250": {
+      "message": "Albumkunstner"
+   },
+   "9166842143674355091": {
+      "message": "Seneste"
+   },
+   "9179661003472285430": {
+      "message": "Download Musikmanager"
+   },
+   "9193901371937110673": {
+      "message": "Der er ikke godkendt nogen enheder"
+   },
+   "9205544184671349450": {
+      "message": "Det ser ud til, at du allerede har musik på denne computer."
+   },
+   "9214517335069385090": {
+      "message": "Du kan også..."
+   },
+   "933914956414602837": {
+      "message": "For at uploade din musik hurtigt matcher Google Play dine musikfiler med kopier på vores server. Af og til kan det ske, at vi matcher med den forkerte sang. Rapportér problemet her, og sangen vil blive rettet til at bruge din kopi i stedet for den matchede kopi."
+   },
+   "935985887697278449": {
+      "message": "Er du allerede abonnent?"
+   },
+   "949327761578931377": {
+      "message": "Forsæt med at lytte til $OFFER_PRICE$ pr. måned.",
+      "placeholders": {
+         "OFFER_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "953268105555355822": {
+      "message": "Se alle"
+   },
+   "95869773684474447": {
+      "message": "Afspilningsfejl"
+   },
+   "963232722931839477": {
+      "message": "Din kø er tom"
+   },
+   "993762601773196496": {
+      "message": "Cast"
+   },
+   "997890303689941626": {
+      "message": "Se alle søgeresultaterne for video"
+   }
+}

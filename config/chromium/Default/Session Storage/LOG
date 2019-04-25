@@ -1,0 +1,18 @@
+2019/04/25-21:03:02.686 7ac Reusing MANIFEST /home/tom/.config/chromium/Default/Session Storage/MANIFEST-000001
+2019/04/25-21:03:02.687 7ac Recovering log #276
+2019/04/25-21:03:02.687 7ac Reusing old log /home/tom/.config/chromium/Default/Session Storage/000276.log 
+2019/04/25-21:03:14.637 a3f Level-0 table #280: started
+2019/04/25-21:03:14.647 a3f Level-0 table #280: 16656 bytes OK
+2019/04/25-21:03:14.653 a3f Delete type=0 #276
+2019/04/25-21:13:09.409 a3f Level-0 table #282: started
+2019/04/25-21:13:09.416 a3f Level-0 table #282: 14854 bytes OK
+2019/04/25-21:13:09.423 a3f Delete type=0 #279
+2019/04/25-21:13:09.423 a3f Compacting 4@0 + 1@1 files
+2019/04/25-21:13:09.438 a3f Generated table #283@0: 4941 keys, 135595 bytes
+2019/04/25-21:13:09.438 a3f Compacted 4@0 + 1@1 files => 135595 bytes
+2019/04/25-21:13:09.446 a3f compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/04/25-21:13:09.446 a3f Delete type=2 #275
+2019/04/25-21:13:09.446 a3f Delete type=2 #280
+2019/04/25-21:13:09.446 a3f Delete type=2 #273
+2019/04/25-21:13:09.446 a3f Delete type=2 #282
+2019/04/25-21:13:09.447 a3f Delete type=2 #277

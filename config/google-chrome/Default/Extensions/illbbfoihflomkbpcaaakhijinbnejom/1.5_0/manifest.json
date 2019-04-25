@@ -1,0 +1,17 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.90kids.com/games/"
+      },
+      "urls": [ "http://www.90kids.com/games/" ]
+   },
+   "description": "Relive your childhood!",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDJueW/Me+A487+7vkGHM69h3SgcWrLiS20yUdL7lQ0VHrNc6ty3k/YomQAcyW1pExjC7hSqoFnWB3bh7mJlJj2gZnbHFl7plTNA52QLuDANeUzC4A2kKy8AU8sI9/BuCHbGNc9Q4HpHw2sqQYIbGiUL/suXsyvRYJ9roA1+M802QIDAQAB",
+   "manifest_version": 2,
+   "name": "90kids Games",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.5"
+}

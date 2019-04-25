@@ -1,0 +1,149 @@
+{
+   "about_add_new_rule": {
+      "message": "افزودن قانون جدید"
+   },
+   "about_ext_description": {
+      "message": "وب را رمزگذاری کنید! از امنیت HTTPS بصورت خودکار برای بسیاری از وب‌سایت‌ها استفاده کنید."
+   },
+   "about_ext_name": {
+      "message": "HTTPS در همه جا"
+   },
+   "about_rulesets_version": {
+      "message": "نسخه دستور عمل برای"
+   },
+   "about_title": {
+      "message": "درباره HTTPS در همه جا "
+   },
+   "about_version": {
+      "message": "نسخه"
+   },
+   "cancel_he_blocking_explainer": {
+      "message": "HTTPS در همه جا متوجه شده است که شما در حال ورود به یک صفحه بدون HTTPS هستید، و تلاش کرد تا در عوض شما را به نسخه HTTPS آن بفرستد. نسخه HTTPS در دسترس نیست. به احتمال زیاد این سایت نسخه HTTPS را پشتیبانی نمی‌کند، اما همچنین این امکان وجود دارد که یک مهاجم در حال مسدود کردن نسخه HTTPS است. اگر تمایل دارید که که نسخه‌ی رمز نشده این صفحه را ببینید، می توانید این کار را با غیر فعال کردن گزینه «مسدود کردن تمام درخواست های رمز نشده» در افزونه HTTPS در همه جا انجام دهید. توجه داشته باشید که غیرفعال کردن این گزینه می‌تواند مرورگرتان را در مقابل حملات کاهنده مبتنی به شبکه بر روی وبسایتی که دیدن می‌کنید آسیب‌پذیر کند."
+   },
+   "cancel_he_blocking_network": {
+      "message": "حملات کاهنده مبتنی به شبکه"
+   },
+   "chrome_add_new_rule": {
+      "message": "اضافه کردن یک قانون جدید برای این سایت"
+   },
+   "chrome_add_rule": {
+      "message": "اضافه کردن یک قانون برای این سایت"
+   },
+   "chrome_always_https_for_host": {
+      "message": "همیشه از https برای این میزبان استفاده شود"
+   },
+   "chrome_disable_on_this_site": {
+      "message": "غیر فعال کردن HTTPS در همه جا برای این سایت"
+   },
+   "chrome_enable_on_this_site": {
+      "message": "فعال کردن HTTPS در همه جا برای این سایت"
+   },
+   "chrome_experimental_rules": {
+      "message": "قوانین تجربی"
+   },
+   "chrome_experimental_rules_description": {
+      "message": "ممکن است علت، هشدار و یا شکستگی باشد. غیر فعال به طور پیش فرض."
+   },
+   "chrome_hide_advanced": {
+      "message": "مخفی‌کردن پیشرفته"
+   },
+   "chrome_host": {
+      "message": "ميزبان:"
+   },
+   "chrome_redirect_to": {
+      "message": "تغییر مسیر به"
+   },
+   "chrome_regex": {
+      "message": "عبارت‌های منظم منطبق شده"
+   },
+   "chrome_rule_name": {
+      "message": "نام قانون"
+   },
+   "chrome_show_advanced": {
+      "message": "نمایش پیشرفته"
+   },
+   "chrome_stable_rules": {
+      "message": "قوانین پایدار"
+   },
+   "chrome_stable_rules_description": {
+      "message": "اتصالات رمزگذاری برای این وبگاه ها را اجباری کن :"
+   },
+   "chrome_status_cancel_button": {
+      "message": "لغو"
+   },
+   "menu_donate_eff_imperative": {
+      "message": "به سازمان EFF کمک مالی کنید."
+   },
+   "menu_encryptAllSitesEligible": {
+      "message": "رمزگذاری تمام سایت های قابل انتخاب (EASE)"
+   },
+   "menu_globalEnable": {
+      "message": "HTTPS سراسری را فعال کنید "
+   },
+   "menu_observatory": {
+      "message": "تنظیم‌های رصدخانه‌ی SSL"
+   },
+   "menu_showCounter": {
+      "message": "نمایش شمارنده"
+   },
+   "menu_viewAllRules": {
+      "message": "نمایش همه قوانین "
+   },
+   "options_addUpdateChannel": {
+      "message": "افزودن بروز رسانی کانال"
+   },
+   "options_advancedSettings": {
+      "message": "تنظیمات پیشرفته"
+   },
+   "options_autoUpdateRulesets": {
+      "message": "به روز رسانی خودکار دستور عمل ها"
+   },
+   "options_delete": {
+      "message": "حذف"
+   },
+   "options_disabledUrlsListed": {
+      "message": "HTTPS در همه جا غیر فعال"
+   },
+   "options_enableMixedRulesets": {
+      "message": "فعالسازی دستور عمل های با محتوای مخلوط"
+   },
+   "options_enterUpdateChannelName": {
+      "message": "نامی برای بروز رسانی کانال وارد کنید"
+   },
+   "options_generalSettings": {
+      "message": "تنظیمات عمومی"
+   },
+   "options_showDevtoolsTab": {
+      "message": "نمایش برگه ابزار توسعه"
+   },
+   "options_storedRulesetsVersion": {
+      "message": "نسخه قوانین ذخیره شده:"
+   },
+   "options_update": {
+      "message": "به روز رسانی"
+   },
+   "options_updateChannels": {
+      "message": "بروز رسانی کانال‌ها"
+   },
+   "options_updateChannelsWarning": {
+      "message": "هشدار: افزودن کانال‌های بروز رسانی می‌تواند باعث حمله و دزدی از مرورگر شما شود. اگر بدانید چه کار می‌کنید می‌توانید این بخش را ویرایش کنید."
+   },
+   "options_updatesLastChecked": {
+      "message": "آخرین بروز رسانی‌های بررسی شده:"
+   },
+   "options_updatesLastCheckedNever": {
+      "message": "هرگز"
+   },
+   "options_userRulesListed": {
+      "message": "قوانین کاربری HTTPS در همه جا"
+   },
+   "prefs_export_settings": {
+      "message": "خروجی گرفتن از تنظیمات"
+   },
+   "prefs_reset_defaults": {
+      "message": "بازنشانی به پیشفرض"
+   },
+   "prefs_reset_defaults_message": {
+      "message": "این مجموعه دستور عمل ها را به وضعیت پیش فرض تنظیم مجدد خواهد کرد. ادامه می دهید؟"
+   }
+}

@@ -1,0 +1,34 @@
+{
+   "appDesc": {
+      "description": "The description of the application, as shown on the web store.",
+      "message": "Réimplémente les boutons \"Voir l'image\" et \"Recherche par image\"."
+   },
+   "appName": {
+      "description": "Title of the application, displayed on the web store.",
+      "message": "View image"
+   },
+   "donatePayPal": {
+      "description": "Text used for the donation button.",
+      "message": " Faire un don à travers PayPal"
+   },
+   "optionsButton": {
+      "description": "Text displayed on the link to options button.",
+      "message": "Options"
+   },
+   "resetButton": {
+      "description": "Text displayed on reset button.",
+      "message": "Réinitialiser"
+   },
+   "searchImg": {
+      "description": "Button leads to google, search by image page.",
+      "message": "Recherche par image"
+   },
+   "settingsToggle_NewTab_viewImage": {
+      "description": "Settings toggle which causes images to open in new tab.",
+      "message": "Ouvrir les images dans un nouvel onglet:"
+   },
+   "viewImage": {
+      "description": "Button for viewing image.",
+      "message": "Voir l'image"
+   }
+}

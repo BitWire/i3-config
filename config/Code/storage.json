@@ -1,0 +1,79 @@
+{
+    "telemetry.machineId": "db54bad0ed01872a868741ae7a725179d90cbb5e83ab6f876d19c48dc23d36d2",
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/tom/src/work/solarpanel%20fuckery",
+            "backupPath": "/home/tom/.config/Code/Backups/3f3f72de978fcec427d9b797797f6fef",
+            "uiState": {
+                "mode": 1,
+                "x": 0,
+                "y": 0,
+                "width": 1366,
+                "height": 744
+            }
+        },
+        "openedWindows": []
+    },
+    "openedPathsList": {
+        "workspaces3": [
+            "file:///home/tom/src/work/solarpanel%20fuckery",
+            "file:///home/tom/src/work/wifi-statspage",
+            "file:///home/tom/git_temp/i3buntu_1.1-1",
+            "file:///home/tom/git_temp/i3buntu_1.0-1",
+            "file:///home/tom/src/infinitydriverless19",
+            "file:///home/tom/Downloads/Telegram%20Desktop/vpn",
+            {
+                "id": "72f8ff6bf7086bbd4a3d556f49b657f8",
+                "configURIPath": "file:///home/tom/bin/bin-scripts.code-workspace"
+            },
+            "file:///home/tom/src/kotlin%20stuff",
+            "file:///home/tom/bin",
+            "file:///home/tom/Downloads/Praxissemester/bericht%20latex"
+        ],
+        "files2": [
+            "file:///home/tom/Desktop/chrome-hnpfjngllnobngcgfapefoaidbinmjnm-Default.desktop",
+            "file:///home/tom/Desktop/chrome-gnjnklpjdjebijhmeplhdgbpcpnmndpn-Default.desktop",
+            "file:///home/tom/git_temp/i3buntu_1.0-1/DEBIAN/control",
+            "file:///home/tom/git_temp/i3buntu_1.0-1/output.txt",
+            "file:///home/tom/Pictures/screenshots/watermarked.sh",
+            "file:///home/tom/output.txt",
+            "file:///home/tom/Downloads/Telegram%20Desktop/vpn/baloo_openvpn_remote_access_l3.ovpn",
+            "file:///home/tom/Downloads/Telegram%20Desktop/vpn/readme.txt",
+            "file:///home/tom/Downloads/fsgdjdtfj/oof.txt",
+            "file:///home/tom/Desktop/chrome-eneflofdmdkdacdhdbadceajaameojoh-Default.desktop",
+            "file:///home/tom/.ssh/id_rsa.pub",
+            "file:///home/tom/Downloads/file.txt",
+            "file:///home/tom/Downloads/ABA-SoSe-2017.txt",
+            "file:///home/tom/tn5250j/bin/tn5250j",
+            "file:///home/tom/Downloads/Telegram%20Desktop/MS1.md",
+            "file:///home/tom/programs/IBM%20i%20Access%20stuff/Linux_Application/install_acs_64",
+            "file:///home/tom/IBM/install_acs_log.txt",
+            "file:///home/tom/tn5250j/readme.txt",
+            "file:///home/tom/Downloads/anyconnect-linux64-4.6.03049-core-vpn-webdeploy-k9.sh",
+            "file:///home/tom/Downloads/anyconnect.tar",
+            "file:///tmp/mozilla_tom0/anyconnect-linux64-4.6.03049-core-vpn-webdeploy-k9.sh",
+            "file:///home/tom/Downloads/citation-263314485.txt",
+            "file:///home/tom/Downloads/citation-263314485.ris",
+            "file:///home/tom/git_temp/Canta-theme/change_color.sh",
+            "file:///home/tom/bin/i3exit",
+            "file:///home/tom/bin/addDisplay",
+            "file:///home/tom/bin/bls",
+            "file:///home/tom/.config/polybar/config",
+            "file:///home/tom/.config/gtk-3.0/settings.ini",
+            "file:///home/tom/.notable.json",
+            "file:///home/tom/.chromium-bsu",
+            "file:///home/tom/.config/mimeapps.list",
+            "file:///home/tom/.Xdefaults",
+            "file:///home/tom/.cache/.fr-PSbEPM/README",
+            "file:///home/tom/.cache/.fr-OjF0Pg/theft-alarm/theft-alarm.sh",
+            "file:///home/tom/.cache/.fr-Zj9FrA/theft-alarm/plugins.d/LID.sh",
+            "file:///home/tom/.cache/.fr-AzfBhI/theft-alarm/plugins.d/HDAPS.sh",
+            "file:///home/tom/.cache/.fr-AsrLNi/theft-alarm/theft-alarm.sh",
+            "file:///home/tom/bin/orientation",
+            "file:///home/tom/Downloads/tilt-0.0.2/README"
+        ]
+    },
+    "pickerWorkingDir": "/home/tom/src/work"
+}

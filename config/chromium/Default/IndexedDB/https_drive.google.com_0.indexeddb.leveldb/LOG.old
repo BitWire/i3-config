@@ -1,0 +1,9 @@
+2019/04/24-08:09:23.476 4eb2 Reusing MANIFEST /home/tom/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/04/24-08:09:23.476 4eb2 Recovering log #17
+2019/04/24-08:09:23.482 4eb2 Reusing old log /home/tom/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000017.log 
+2019/04/24-08:09:25.159 51c9 Level-0 table #21: started
+2019/04/24-08:09:25.186 51c9 Level-0 table #21: 677943 bytes OK
+2019/04/24-08:09:25.196 51c9 Delete type=0 #17
+2019/04/24-08:09:25.365 51c9 Level-0 table #23: started
+2019/04/24-08:09:25.388 51c9 Level-0 table #23: 628961 bytes OK
+2019/04/24-08:09:25.394 51c9 Delete type=0 #20

@@ -1,0 +1,58 @@
+{
+   "browser_action_hover": {
+      "description": "",
+      "message": "Ecosia Search"
+   },
+   "context_menu_search": {
+      "description": "",
+      "message": "Cerca il testo selezionato con Ecosia"
+   },
+   "info_popup_CTA": {
+      "description": "",
+      "message": "Per saperne di più"
+   },
+   "info_popup_body": {
+      "description": "info button pop up hover",
+      "message": "Non è la pagina che volevi? Scopri come ripristinare i segnalibro e impostare la tua pagina Nuova scheda."
+   },
+   "new_tab_restore_all": {
+      "description": "",
+      "message": "Ripristina tutto"
+   },
+   "new_tab_thumbnail_removed": {
+      "description": "",
+      "message": "Anteprima eliminata"
+   },
+   "new_tab_title": {
+      "description": "",
+      "message": "Nuova scheda"
+   },
+   "new_tab_undo": {
+      "description": "",
+      "message": "Annulla"
+   },
+   "searchinput_placeholder": {
+      "description": "",
+      "message": "Cerca in modo da contribuire a piantare alberi..."
+   },
+   "store_shortdesc_firefox": {
+      "description": "",
+      "message": "Questa estensione imposta Ecosia come motore di ricerca, così puoi piantare alberi a ogni ricerca."
+   },
+   "store_shortdesc_new": {
+      "description": "",
+      "message": "Questa estensione imposta Ecosia come motore di ricerca e personalizza la nuova scheda, così puoi piantare alberi a ogni ricerca."
+   },
+   "store_shortdesc_old": {
+      "description": "",
+      "message": "Questa estensione reindirizza le tue ricerche dalla omnibar verso Ecosia Search."
+   },
+   "store_title_new": {
+      "description": "",
+      "message": "Ecosia - Il motore di ricerca che pianta alberi"
+   },
+   "store_title_old": {
+      "description": "",
+      "message": "Ecosia Omnibar Redirect (Legacy)"
+   }
+}

@@ -1,0 +1,2761 @@
+{
+   "1001360787461904844": {
+      "message": "Autres options pour l'élément \"$TARGET$\"",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "1026450251988549367": {
+      "message": "Modifié récemment"
+   },
+   "1035476379650787996": {
+      "message": "Impossible d'effectuer votre demande"
+   },
+   "1035734413919296": {
+      "message": "Ajouter de la musique"
+   },
+   "1044946868924904798": {
+      "message": "Aucune connexion"
+   },
+   "1046700819368184074": {
+      "message": "Dossier de téléchargement"
+   },
+   "1047094450854611275": {
+      "message": "Le mini-lecteur vous permet de contrôler la lecture de la musique en dehors de la fenêtre du navigateur, d'indiquer que vous aimez des titres et d'écouter la radio \"J'ai de la chance\"."
+   },
+   "10524368647766690": {
+      "message": "N°"
+   },
+   "1065557748112539713": {
+      "message": "Interruption du téléchargement de musique en cours…"
+   },
+   "1091846413708174942": {
+      "message": "Vos podcasts"
+   },
+   "1099947980448260765": {
+      "message": "Accéder à \"Populaires\""
+   },
+   "1105024870503318889": {
+      "message": "Ajouter ma musique"
+   },
+   "1141501935253936315": {
+      "message": "Podcasts"
+   },
+   "1144407473317535723": {
+      "message": "S'abonner"
+   },
+   "1144614654642966892": {
+      "message": "Annuler l'abonnement au service (vous pourrez continuer à l'utiliser jusqu'à votre prochaine facture)"
+   },
+   "1145877575671354635": {
+      "message": "Actualiser la bibliothèque"
+   },
+   "1147358182484006761": {
+      "message": "Boutique"
+   },
+   "1150285978886683433": {
+      "message": "Activer ou désactiver la répétition d'un morceau ou de tous les morceaux"
+   },
+   "1152313922995021532": {
+      "message": ".rpm 64 bits (pour Fedora/openSUSE)"
+   },
+   "1165829070116929673": {
+      "message": "{NUM_TRANSFERRED_TRACKS_1,plural, =1{ 1 titre ajouté}one{ {NUM_TRANSFERRED_TRACKS_2} titre ajouté}other{ {NUM_TRANSFERRED_TRACKS_2} titres ajoutés}}"
+   },
+   "1181311234668957012": {
+      "message": "Playlist automatique"
+   },
+   "1182611188595867762": {
+      "message": "2. Lorsque le programme d'installation s'ouvre, suivez les instructions pour configurer Music Manager."
+   },
+   "1189933439482480473": {
+      "message": "Le nombre maximal de titres autorisés a été atteint."
+   },
+   "1218504303426384579": {
+      "message": "Albums"
+   },
+   "1220984280262077870": {
+      "message": "Gratuits et achetés"
+   },
+   "1227051853106034748": {
+      "message": "Impossible de revenir en arrière ni d'effectuer une avance rapide au sein des aperçus."
+   },
+   "1238358838717941284": {
+      "message": "Extrait"
+   },
+   "1249846405947826980": {
+      "message": "Épisode précédent"
+   },
+   "1257583932123379891": {
+      "message": "Afficher les podcasts de"
+   },
+   "1280952737124946671": {
+      "message": "{NUM_PODCASTS,plural, =0{Aucun podcast}=1{Un podcast}one{# podcast}other{# podcasts}}"
+   },
+   "1288885129710503327": {
+      "message": "3. Ouvrez le dossier \"Applications\", puis double-cliquez sur Google Music Manager."
+   },
+   "1291021741111868686": {
+      "message": ".deb 64 bits (pour Debian/Ubuntu)"
+   },
+   "1291623607736913474": {
+      "message": "Parcourir les radios de"
+   },
+   "1294292881529533213": {
+      "message": "Logo Google Play Musique"
+   },
+   "129923171865835166": {
+      "message": "Radio \"J'ai de la chance\""
+   },
+   "1303647473723340887": {
+      "message": "Sélectionner l'élément situé au-dessus de celui sélectionné"
+   },
+   "131636849522359023": {
+      "message": "Fourni sous la licence \"$XXX$\"",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "1341185708905265042": {
+      "message": "CD n°"
+   },
+   "1348774649041038169": {
+      "message": "Navigation"
+   },
+   "1370021378292702047": {
+      "message": "\"$SONG_TITLE$\" marqué comme correspondance incorrecte",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "1372720741032795625": {
+      "message": "Activer ou désactiver la lecture aléatoire"
+   },
+   "1372788343021542418": {
+      "message": "Pour utiliser le mini-lecteur, connectez-vous à Google Play Musique sur le Web."
+   },
+   "1393837337557373364": {
+      "message": "Album"
+   },
+   "1404225614691686373": {
+      "message": "Musique illimitée$START_BREAK$avec Google Play",
+      "placeholders": {
+         "START_BREAK": {
+            "content": "$1"
+         }
+      }
+   },
+   "1411257156168420592": {
+      "message": "Cliquez pour sélectionner l'élément \"$ITEM_NAME$\".",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1429336442713571177": {
+      "message": "Listes de titres"
+   },
+   "1435809990540516997": {
+      "message": "Ajout de musique en cours…"
+   },
+   "1464072562214937907": {
+      "message": "Année"
+   },
+   "147527058386222778": {
+      "message": "Qualité de diffusion en streaming"
+   },
+   "1490665788833937521": {
+      "message": "Télécharger le mini-lecteur"
+   },
+   "1501458973427096787": {
+      "message": "Écoutez de la musique hors connexion"
+   },
+   "1504214836895903832": {
+      "message": "Connexion impossible."
+   },
+   "1517865562673472241": {
+      "message": "1. Attendez que le programme d'installation ait terminé."
+   },
+   "1529406134757733750": {
+      "message": "{NUM_FAILURES_1,plural, =1{ Impossible de télécharger 1 titre.}one{ Impossible de télécharger {NUM_FAILURES_2} titre.}other{ Impossible de télécharger {NUM_FAILURES_2} titres.}}"
+   },
+   "1573657685592390905": {
+      "message": "Sélectionner un dossier…"
+   },
+   "1575810254412583888": {
+      "message": "Titres"
+   },
+   "1595478688335662057": {
+      "message": "Un utilisateur Google"
+   },
+   "1598061158801514509": {
+      "message": "Reprise du téléchargement de musique en cours…"
+   },
+   "1607904075839741217": {
+      "message": "Sélectionner des fichiers sur votre ordinateur"
+   },
+   "1664100143082435029": {
+      "message": "Annuler"
+   },
+   "1666765550993208796": {
+      "message": "Ces titres présentent-ils des correspondances incorrectes ?"
+   },
+   "1673135862760647009": {
+      "message": "Pas de pub. Ignorez les titres de votre choix"
+   },
+   "1676480944844752785": {
+      "message": "Playlists automatiques"
+   },
+   "1686917835491599951": {
+      "message": "Ajouté récemment à ma bibliothèque"
+   },
+   "1688117822806275177": {
+      "message": "Supprimer de ma bibliothèque"
+   },
+   "1689044830718067443": {
+      "message": "L'installation devrait commencer automatiquement dans quelques secondes. Besoin $START_LINK$d'aide$END_LINK$  ?",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "1700078784075267898": {
+      "message": "Google Play Musique"
+   },
+   "1712333098917352630": {
+      "message": "Radio"
+   },
+   "1715373473261069991": {
+      "message": "Twitter"
+   },
+   "1721299725717238391": {
+      "message": "Vous êtes déjà abonné. Les coupons ne sont actuellement disponibles que pour les nouveaux utilisateurs."
+   },
+   "1722592106949807025": {
+      "message": "Enregistrer les journaux de débogage"
+   },
+   "1726363342938046830": {
+      "message": "À propos"
+   },
+   "1729815731089690989": {
+      "message": "Assurez-vous que vous êtes connecté à Internet."
+   },
+   "174952015183967014": {
+      "message": "$TITLE$ – Propose des podcasts",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "1765521785433616250": {
+      "message": "Le téléchargement devrait bientôt démarrer. Dans le cas contraire, veuillez $START_SPAN$cliquer ici$END_SPAN$.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "1781759902625939771": {
+      "message": "Artiste inconnu"
+   },
+   "1790640569414740156": {
+      "message": "Genres"
+   },
+   "1803865475179910876": {
+      "message": "Google Play Musique pour Chrome sur $PLATFORM$",
+      "placeholders": {
+         "PLATFORM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1823843876735462104": {
+      "message": "Playlists"
+   },
+   "1831178715211281116": {
+      "message": "Désolé, la promotion n'est valable que sur certains appareils Chrome OS. Voulez-vous quand même bénéficier de la musique en illimité ?"
+   },
+   "1838639948466909028": {
+      "message": "Cette page n'est pas compatible avec votre navigateur. Utilisez l'un des $START_LINK$navigateurs compatibles$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "1850859858333664648": {
+      "message": "Tous les titres"
+   },
+   "1857207760765836958": {
+      "message": "$START_SPAN$Écoutez la radio et ignorez les titres de votre choix.$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "1865818889600889051": {
+      "message": "Votre compte a été modifié. Veuillez actualiser la page pour continuer."
+   },
+   "1869199094024141188": {
+      "message": "{NUM_MIXES,plural, =0{0 mix}=1{1 mix}one{# mix}other{# mix}}"
+   },
+   "1869588215425319728": {
+      "message": "Fermer le panneau de navigation"
+   },
+   "1872101028863972302": {
+      "message": "$NUM_TRANSFERRED_TRACKS$ titres téléchargés",
+      "placeholders": {
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$1"
+         }
+      }
+   },
+   "1873654242780262831": {
+      "message": "Sélectionner l'élément situé en dessous de celui sélectionné"
+   },
+   "192481666606780833": {
+      "message": "Impossible de lire la musique."
+   },
+   "193503854366151748": {
+      "message": "Voter contre le morceau en cours"
+   },
+   "197153323825255063": {
+      "message": "Centre d'aide relatif à la confidentialité"
+   },
+   "1980398532913758377": {
+      "message": "$NUM_COMPUTERS$ ordinateurs",
+      "placeholders": {
+         "NUM_COMPUTERS": {
+            "content": "$1"
+         }
+      }
+   },
+   "1984987229407697795": {
+      "message": "Podcasts"
+   },
+   "1993805115277775762": {
+      "message": "$FORMATTED_MUSIC_CATALOG_SIZE$ de titres à la demande",
+      "placeholders": {
+         "FORMATTED_MUSIC_CATALOG_SIZE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2006786763920466492": {
+      "message": "Date de suppression"
+   },
+   "2029980907058777630": {
+      "message": "Conditions d'utilisation"
+   },
+   "2032972931560484213": {
+      "message": "Playlist crée par $CREATOR$",
+      "placeholders": {
+         "CREATOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "2038618429165152799": {
+      "message": "Sans titre"
+   },
+   "2085941577249285555": {
+      "message": "S'abonner"
+   },
+   "2093026227428526289": {
+      "message": "Cette offre est uniquement disponible sur une sélection de nouveaux Chromebooks dans les pays où le service d'abonnement Google Play Musique $START_LINK$est disponible$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2101525118384454593": {
+      "message": "Désactiver la lecture aléatoire"
+   },
+   "2102825898069375693": {
+      "message": "Menu"
+   },
+   "2139100152161431685": {
+      "message": "Vos titres musicaux sont momentanément indisponibles sur cet appareil. Veuillez réessayer ultérieurement. $START_LINK$Aide$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2139683490477275175": {
+      "message": "Fermer"
+   },
+   "2145060893030204211": {
+      "message": "Impossible de vous fournir plus d'informations. Veuillez réessayer plus tard."
+   },
+   "2149165958319691680": {
+      "message": "Acheter"
+   },
+   "2149839604112465314": {
+      "message": "{NUM_SONGS_1,plural, =0{Aucun titre}=1{1 titre}one{{NUM_SONGS_2} titre}other{{NUM_SONGS_2} titres}}"
+   },
+   "2152998011161774228": {
+      "message": "g, puis h"
+   },
+   "2158830056128036057": {
+      "message": "Traitement de vos fichiers musicaux en cours…"
+   },
+   "2159130950882492111": {
+      "message": "Annuler"
+   },
+   "2187022653493279712": {
+      "message": "g, puis e"
+   },
+   "2214224657661107347": {
+      "message": "Envoyer un cadeau"
+   },
+   "2220879710364134067": {
+      "message": "Modifie les morceaux sélectionnés"
+   },
+   "2239551688895104696": {
+      "message": "Activer/Désactiver le menu des playlists"
+   },
+   "2244547550956716142": {
+      "message": "Meilleurs classements"
+   },
+   "2246437904181111020": {
+      "message": "Google Play Musique : sélectionner les dossiers des médias"
+   },
+   "2256597604224604671": {
+      "message": "Interrompre la lecture de \"$TITLE$\"",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2270666830264677427": {
+      "message": "Vous ne pouvez télécharger simultanément que $MAX_TRACKS_IN_ZIP$ titres au maximum. Veuillez en sélectionner moins, puis réessayer.",
+      "placeholders": {
+         "MAX_TRACKS_IN_ZIP": {
+            "content": "$1"
+         }
+      }
+   },
+   "2277837732287051413": {
+      "message": "Voter pour le morceau en cours"
+   },
+   "2280774384387096759": {
+      "message": "Faites glisser les titres ou les dossiers ici afin de les ajouter à votre bibliothèque musicale."
+   },
+   "2296431514706414883": {
+      "message": "1. Dans la fenêtre \"Téléchargements\", double-cliquez sur MusicManager.dmg."
+   },
+   "229748758179155728": {
+      "message": "Désolé, le service Google Play Musique n'est pas disponible dans votre pays."
+   },
+   "2303154715443443305": {
+      "message": "Téléchargement de Music Manager..."
+   },
+   "2303727423829841771": {
+      "message": "Il semble que vous ayez désactivé JavaScript dans votre navigateur. Celui-ci doit être activé pour que Google Play fonctionne correctement."
+   },
+   "2309808536212982229": {
+      "message": "Activités"
+   },
+   "2311151671924532713": {
+      "message": "Supprimer de la playlist"
+   },
+   "2312110731653597036": {
+      "message": "$PERCENTAGE_COMPLETE$ %",
+      "placeholders": {
+         "PERCENTAGE_COMPLETE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2329070756809480856": {
+      "message": "Album : $ALBUM_NAME$",
+      "placeholders": {
+         "ALBUM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "2357805327369816634": {
+      "message": "Abonnez-vous pour écouter toute la musique que vous voulez, sans publicité."
+   },
+   "2359922567074115383": {
+      "message": "Effacer l'image de l'album"
+   },
+   "2372448112806402757": {
+      "message": "Épisode suivant"
+   },
+   "2383360664777254925": {
+      "message": "Activer/Désactiver le menu de navigation"
+   },
+   "2407755817901433243": {
+      "message": "Utilisez un code de coupon pour un abonnement à Google Play Musique."
+   },
+   "2443885011055165607": {
+      "message": "Veuillez sélectionner le package à télécharger :"
+   },
+   "2447745837421769983": {
+      "message": "Pour profiter d'une expérience de téléchargement optimale, installez Google Play Musique pour Chrome."
+   },
+   "2461177781520343478": {
+      "message": "Titre inconnu"
+   },
+   "2474664417751811820": {
+      "message": "(NE COCHEZ CETTE CASE QUE SI VOUS RENCONTREZ DES PROBLÈMES LORS DE LA LECTURE DE CONTENUS AUDIO) Sommes-nous autorisés à extraire des journaux de lecture et à déboguer votre compte ?"
+   },
+   "2483680006830369490": {
+      "message": "g, puis p"
+   },
+   "2492300395471245755": {
+      "message": "Artiste"
+   },
+   "250478839881665936": {
+      "message": "g, puis s"
+   },
+   "2537475974842549685": {
+      "message": "Fermer l'annonce"
+   },
+   "2540334409214949805": {
+      "message": "$START_LINK$Connectez-vous$END_LINK$ pour savoir si des bonus Chrome vous attendent.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2544569632476723854": {
+      "message": "Conditions d'utilisation"
+   },
+   "2567679469483426925": {
+      "message": "Ce goodie n'est pas disponible pour le moment."
+   },
+   "2597193119810674616": {
+      "message": "Abonnez-vous à Google Play Musique, et profitez de $OFFER_LENGTH_DAYS$ jours gratuits.",
+      "placeholders": {
+         "OFFER_LENGTH_DAYS": {
+            "content": "$1"
+         }
+      }
+   },
+   "259918799497504180": {
+      "message": "Suggestion : $FIRST$ sur $SECOND$",
+      "placeholders": {
+         "FIRST": {
+            "content": "$1"
+         },
+         "SECOND": {
+            "content": "$2"
+         }
+      }
+   },
+   "2605658322936929408": {
+      "message": "Podcast"
+   },
+   "2626751888211361777": {
+      "message": "Afficher un top des titres plus développé"
+   },
+   "2634703826856398600": {
+      "message": "($NUM_NEW_SONGS$ nouveaux titres)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "2635933238308036768": {
+      "message": "Music Manager n'est disponible que pour Windows, Mac et Linux."
+   },
+   "2655732800763953732": {
+      "message": "Mix instantané \"$TITLE$\"",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2662644497259948010": {
+      "message": "Commentaire"
+   },
+   "2665785172586453916": {
+      "message": "Image publicitaire liée à l'annonce audio actuelle"
+   },
+   "2673412443855817873": {
+      "message": "Je n'aime pas"
+   },
+   "2687424427940533491": {
+      "message": "Commandes relatives à l'activité"
+   },
+   "2707074873770010705": {
+      "message": "Votre appareil ne vous permet pas de bénéficier de cette promotion, mais ne vous inquiétez pas, vous pouvez toujours écouter de la musique en illimité en essayant Google Play Musique gratuitement pendant 30 jours."
+   },
+   "2714752802779336020": {
+      "message": "Google Play Musique"
+   },
+   "2721786517672194900": {
+      "message": "Cette limite ne s'applique pas lorsque vous utilisez $START_SPAN$Google Play Musique pour Chrome$END_SPAN$ pour le téléchargement.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "2728721019095728485": {
+      "message": "Élevée"
+   },
+   "2731202671625726225": {
+      "message": "Gérer les paramètres liés à la famille."
+   },
+   "2777498733015254880": {
+      "message": "Aide et commentaires"
+   },
+   "2787148143326073325": {
+      "message": "Recherche audio"
+   },
+   "280973959199634338": {
+      "message": "Afficher la vidéo YouTube"
+   },
+   "2826705908408853328": {
+      "message": "Nous devons vous rediriger vers Google Play pour que vous puissiez finaliser la configuration. Vous serez redirigé vers Play Musique lorsque vous aurez terminé."
+   },
+   "2834324594183341424": {
+      "message": "Ajouter votre bibliothèque musicale dans Google Play"
+   },
+   "2840006222747077107": {
+      "message": "Bibliothèque vide."
+   },
+   "2856670286248433202": {
+      "message": "Annonce"
+   },
+   "2857356182021649243": {
+      "message": "Accéder à mes titres"
+   },
+   "2881621988818346391": {
+      "message": "Oui"
+   },
+   "2881776379326317082": {
+      "message": "Toujours utiliser cet emplacement"
+   },
+   "2896640427519622010": {
+      "message": "Liens de navigation rapide"
+   },
+   "29046698705387751": {
+      "message": "{NUM_STATIONS,plural, =0{0 radio}=1{1 radio}one{# radio}other{# radios}}"
+   },
+   "2924201210722864904": {
+      "message": "Acheter"
+   },
+   "2933981780439742153": {
+      "message": "Afficher le mini-lecteur"
+   },
+   "2941843189430218247": {
+      "message": "Maj q"
+   },
+   "2982463607788408741": {
+      "message": "Vous avez été déconnecté de votre compte Google. Veuillez actualiser la page pour vous reconnecter."
+   },
+   "2983216790003568156": {
+      "message": "Impossible d'établir une connexion sécurisée"
+   },
+   "3010015422095710725": {
+      "message": "Supprimer toute ma bibliothèque, y compris la musique achetée et celle ajoutée via mon abonnement au service Google Play Musique ($TOTAL_SONGS$)",
+      "placeholders": {
+         "TOTAL_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "302056167930397366": {
+      "message": "Utiliser l'offre"
+   },
+   "3066644656941512863": {
+      "message": "Petit problème… Une erreur s'est produite lors de la suppression de la musique."
+   },
+   "309901418176428732": {
+      "message": "Podcasts"
+   },
+   "3099741642167775297": {
+      "message": "Télécharger"
+   },
+   "310152014457055522": {
+      "message": "Abonnez-vous pour écouter le titre ou l'album de votre choix."
+   },
+   "311252408333124913": {
+      "message": "Mettre à jour le paramètre"
+   },
+   "3117706868107348105": {
+      "message": "Vous pouvez également copier et coller le lien suivant :"
+   },
+   "3120374312076174169": {
+      "message": "{NUM_EPISODES,plural, =0{0 épisode}=1{1 épisode}one{# épisode}other{# épisodes}}"
+   },
+   "3125342991297920614": {
+      "message": "Impossible de charger l'album. Veuillez réessayer."
+   },
+   "3150614832204809552": {
+      "message": "Podcast : $SERIES_NAME$",
+      "placeholders": {
+         "SERIES_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "315237578086020945": {
+      "message": "Accéder à mes artistes"
+   },
+   "31530890844887887": {
+      "message": "Progression du titre"
+   },
+   "3154951825194528737": {
+      "message": "Annulation du téléchargement de musique en cours…"
+   },
+   "3163044740176820503": {
+      "message": "Commencer"
+   },
+   "3164162886883870754": {
+      "message": "{NUM_SONGS_TO_DELETE,plural, =1{Voulez-vous vraiment supprimer le titre sélectionné ?}one{Voulez-vous vraiment supprimer le titre sélectionné ?}other{Voulez-vous vraiment supprimer les titres sélectionnés ?}}"
+   },
+   "3185279424082070029": {
+      "message": "Veuillez vous assurer que l'ordinateur sur lequel vous stockez ce titre exécute Music Manager et qu'il est connecté à Internet. Le titre sera réimporté dans les prochains jours."
+   },
+   "3187115322095111816": {
+      "message": "{VALUE,plural, =0{Aucun titre}=1{1 titre}one{# titre}other{# titres}}"
+   },
+   "3198123723060667787": {
+      "message": "Date"
+   },
+   "3213972439514824911": {
+      "message": "J'aime"
+   },
+   "3225804441370198247": {
+      "message": "Tous mes titres – $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3229693790499517570": {
+      "message": "Nouveautés"
+   },
+   "3244003434432113241": {
+      "message": "Lecture"
+   },
+   "3248575677000760820": {
+      "message": "{NUM_SONGS,plural, =0{Vous n'avez sélectionné aucun titre à télécharger sur votre ordinateur.}=1{Voulez-vous vraiment télécharger le titre sélectionné sur votre ordinateur ?}one{Voulez-vous vraiment télécharger le titre sélectionné sur votre ordinateur ?}other{Voulez-vous vraiment télécharger les titres sélectionnés sur votre ordinateur ?}}"
+   },
+   "3277700190370010726": {
+      "message": "La promotion Google Play pour l'utilisateur $START_BOLD$$USER_EMAIL$$END_BOLD$ valable dans le cadre du service de musique n'est pas disponible pour le moment. Veuillez réessayer ultérieurement.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "START_BOLD": {
+            "content": "$2"
+         },
+         "USER_EMAIL": {
+            "content": "$3"
+         }
+      }
+   },
+   "3307635842875172003": {
+      "message": "Accéder à \"Mes mix\""
+   },
+   "3310099093781584673": {
+      "message": "g, puis m"
+   },
+   "3311269073804742952": {
+      "message": "À écouter"
+   },
+   "3323193679372503780": {
+      "message": "Non, merci"
+   },
+   "3326102734049980036": {
+      "message": "Temps restant : $DURATION$",
+      "placeholders": {
+         "DURATION": {
+            "content": "$1"
+         }
+      }
+   },
+   "3334073701901432746": {
+      "message": "Afficher tous les résultats de recherche de playlist"
+   },
+   "3335728816495350082": {
+      "message": "Top des titres – $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3339989424930162325": {
+      "message": "Afficher le lecteur principal"
+   },
+   "3342201181237345414": {
+      "message": "Pas explicite"
+   },
+   "3377006691156456363": {
+      "message": "Lien partageable"
+   },
+   "3381844160250536550": {
+      "message": "Connexion à Chrome"
+   },
+   "3410315382362912156": {
+      "message": "Le titre $START_SPAN$$TITLE$$END_SPAN$ est privé pour le moment. Pour le partager, rendez-le public.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "3418677553313974490": {
+      "message": "Corbeille"
+   },
+   "3419681791450150574": {
+      "message": "Progression"
+   },
+   "342127282404571667": {
+      "message": "Google Play Musique pour Chrome OS"
+   },
+   "3430836318571306097": {
+      "message": "Modifier votre mode de paiement -"
+   },
+   "3431116501598202644": {
+      "message": "Album inconnu"
+   },
+   "3462291720620021793": {
+      "message": "Créée par $OWNER_NAME$",
+      "placeholders": {
+         "OWNER_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "346461448125635284": {
+      "message": "Accédez à l'ensemble de vos titres musicaux pour les écouter n'importe où. Il vous suffit d'ajouter à Google Play les fichiers enregistrés sur votre ordinateur."
+   },
+   "3491417595697100862": {
+      "message": "Fourni par $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "3503286865266511120": {
+      "message": "Réduire le volume du lecteur"
+   },
+   "3519190023725081398": {
+      "message": "g, puis b"
+   },
+   "352192086869301337": {
+      "message": "$START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$ titres ajoutés sur $NUM_TOTAL_TRACKS$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TOTAL_TRACKS": {
+            "content": "$2"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$3"
+         },
+         "START_SPAN": {
+            "content": "$4"
+         }
+      }
+   },
+   "3530801739313410091": {
+      "message": "Utiliser le coupon Google Play Musique"
+   },
+   "3545785371861413299": {
+      "message": "Démarrer l'essai gratuit"
+   },
+   "3545929198870894557": {
+      "message": "Accéder à \"Mes playlists\""
+   },
+   "3565714850919973591": {
+      "message": "/"
+   },
+   "3583962010571084681": {
+      "message": "Toujours élevée"
+   },
+   "3605470624800934973": {
+      "message": "Voulez-vous vraiment supprimer l'album sélectionné ?"
+   },
+   "3629941396858927174": {
+      "message": "Masquer les autres options"
+   },
+   "3638177113998814964": {
+      "message": "Chargement du titre \"$TARGET$\" en cours…",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "3643866539136239218": {
+      "message": "Effacer la recherche"
+   },
+   "3650356879337858878": {
+      "message": "Vie privée et géolocalisation"
+   },
+   "3693467228074689327": {
+      "message": "Continuer"
+   },
+   "370216116393129031": {
+      "message": "Ouvrir la file d'attente"
+   },
+   "3748893353086104812": {
+      "message": "Vider le cache local et actualiser toutes les informations relatives aux titres et aux playlists"
+   },
+   "3768927257183755959": {
+      "message": "Enregistrer"
+   },
+   "3782346097595894324": {
+      "message": "Échec de la connexion au serveur. Veuillez réessayer ultérieurement."
+   },
+   "3789779144889291801": {
+      "message": "Téléchargez facilement la musique que vous avez achetée ou importée sur Google Play."
+   },
+   "3795262960327716692": {
+      "message": "Pour ajouter un titre, faites-le glisser vers le nom de la playlist dans la barre latérale."
+   },
+   "3839679337223320857": {
+      "message": "Connecté avec l'adresse $EMAIL$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "3847468592740504132": {
+      "message": "Radio \"$ITEM_NAME$\"",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3849149261610050417": {
+      "message": "Accéder à Google Play Musique"
+   },
+   "3861583677596279097": {
+      "message": "L'équipe d'ingénieurs doit examiner ce rapport au cours du prochain jour ouvré."
+   },
+   "3865248559890962003": {
+      "message": "Suggestion : $SUGGESTION$",
+      "placeholders": {
+         "SUGGESTION": {
+            "content": "$1"
+         }
+      }
+   },
+   "3866082057646051822": {
+      "message": "Utiliser votre coupon Google Play Musique"
+   },
+   "3868119883080041455": {
+      "message": "Radio \"$TITLE$\"",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "3872632959071287956": {
+      "message": "Veuillez vous connecter à Google Play Musique sur Internet avant d'utiliser l'application Chrome."
+   },
+   "3885497195825665706": {
+      "message": "Suivant"
+   },
+   "3890078112831612818": {
+      "message": "Veuillez vous assurer que l'ordinateur sur lequel vous stockez ces titres musicaux est équipé de Music Manager et qu'il est connecté à Internet. Les titres seront réimportés le lendemain."
+   },
+   "3897348120591552265": {
+      "message": "Gérer"
+   },
+   "3904027274600624417": {
+      "message": "Accessible à tous. Parfait pour le partage."
+   },
+   "3905289916217023036": {
+      "message": "Supprimez définitivement toute la musique achetée ou importée."
+   },
+   "392008683752499246": {
+      "message": "Ajoutez gratuitement jusqu'à $FORMATTED_LOCKER_SIZE$ titres issus de votre collection à Google Play.",
+      "placeholders": {
+         "FORMATTED_LOCKER_SIZE": {
+            "content": "$1"
+         }
+      }
+   },
+   "3936240281193464170": {
+      "message": "Actualiser"
+   },
+   "3941019069704400974": {
+      "message": "Voulez-vous vraiment supprimer définitivement l'historique utilisé pour vous fournir des recommandations personnalisées ? Cela ne supprime pas les notes que vous avez accordées ni le nombre de fois où vous avez écouté un titre."
+   },
+   "3949911572988594237": {
+      "message": "Créer une playlist"
+   },
+   "3973260061047030021": {
+      "message": "Lire ou mettre en pause la musique"
+   },
+   "3973931101896534797": {
+      "message": "Date"
+   },
+   "3981724709755713539": {
+      "message": "Playlists récentes"
+   },
+   "3982112843644394207": {
+      "message": "2. Dans la liste des téléchargements de votre navigateur, double-cliquez sur musicmanagerinstaller.exe pour l'ouvrir."
+   },
+   "3993484408454658640": {
+      "message": "Contrôle parental :"
+   },
+   "4018574576796390012": {
+      "message": "Voulez-vous vraiment $START_SPAN$supprimer définitivement$END_SPAN$ la playlist \"$PLAYLIST_NAME$\" ?",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "PLAYLIST_NAME": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "4021376741882293501": {
+      "message": "Linux"
+   },
+   "4052021127566304266": {
+      "message": "Modifier"
+   },
+   "405696346909038516": {
+      "message": "Afficher tous les résultats de recherche de podcasts"
+   },
+   "4063027937991598166": {
+      "message": "Supprimer l'élément sélectionné"
+   },
+   "4071581399160046214": {
+      "message": "Accueil"
+   },
+   "4075286221500750156": {
+      "message": "Version : $VERSION$ $BUILD_MODE$",
+      "placeholders": {
+         "BUILD_MODE": {
+            "content": "$1"
+         },
+         "VERSION": {
+            "content": "$2"
+         }
+      }
+   },
+   "4082846773463542695": {
+      "message": "Impossible d'identifier votre ordinateur."
+   },
+   "4086606389696938932": {
+      "message": "Compte"
+   },
+   "4091426921184034649": {
+      "message": "Modifier l'abonnement"
+   },
+   "4110926661719376304": {
+      "message": "Découvrir comment activer JavaScript"
+   },
+   "4117886182866316912": {
+      "message": "Avance rapide dans le titre en cours"
+   },
+   "4136239927282562599": {
+      "message": "Écoutez une radio diffusant de la musique similaire au titre $START_SPAN$$TITLE$$END_SPAN$.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "4139665515290249483": {
+      "message": "Cette playlist est vide."
+   },
+   "4141582858389779168": {
+      "message": "Inscrivez-vous pour profiter de musique en illimité pour seulement $OFFER_PRICE$ par mois et écoutez des millions de titres instantanément et sans publicité.",
+      "placeholders": {
+         "OFFER_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4158639452472568044": {
+      "message": "Ce titre a été signalé comme une mise en correspondance incorrecte"
+   },
+   "4170852783933160433": {
+      "message": "{SONG_COUNT,plural, =1{Votre copie va être utilisée plutôt que celle qui a été mise en correspondance pour le titre que vous avez sélectionné.}one{Votre copie va être utilisée plutôt que celle qui a été mise en correspondance pour le titre que vous avez sélectionné.}other{Vos copies vont être utilisées plutôt que celles qui ont été mises en correspondance pour les titres que vous avez sélectionnés.}}"
+   },
+   "4183640380235728062": {
+      "message": "Répétition désactivée. Cliquer pour modifier le mode de répétition."
+   },
+   "4207298621447602833": {
+      "message": "Meilleure correspondance"
+   },
+   "4210934092144627539": {
+      "message": "Écouté ou ajouté récemment"
+   },
+   "4214349520294814506": {
+      "message": "$LABEL$, sélectionné(e)",
+      "placeholders": {
+         "LABEL": {
+            "content": "$1"
+         }
+      }
+   },
+   "4223772395954115656": {
+      "message": "$START_SPAN$Écoutez des millions de titres où que vous soyez.$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "4250881018175851283": {
+      "message": "Afficher les derniers contenus"
+   },
+   "4260036130369028456": {
+      "message": "g, puis g"
+   },
+   "4263959392548297550": {
+      "message": "Annuler"
+   },
+   "4267092206833736997": {
+      "message": "Radios"
+   },
+   "4272173055918340921": {
+      "message": "Chargement de la bibliothèque musicale en cours…"
+   },
+   "4275466320467620600": {
+      "message": "Toujours au premier plan"
+   },
+   "4285216590250755577": {
+      "message": "Vous devez mettre à jour votre appareil pour que nous puissions vérifier si vous pouvez bénéficier de cette promotion."
+   },
+   "4307428996576001111": {
+      "message": "Retourner au titre précédent"
+   },
+   "4323912651038951928": {
+      "message": "Cette action supprime également vos playlists, vos radios, les avis associés et toutes les informations relatives au nombre de lectures."
+   },
+   "4330683855002842723": {
+      "message": "Afficher d'autres options"
+   },
+   "4340616150909089613": {
+      "message": "Le titre \"$SONG_TITLE$\" correspond-il à une autre chanson ?",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4357737589458300153": {
+      "message": "Technologie d'encodage audio MPEG Layer-3 sous licence de Fraunhofer IIS et Thomson. La technologie Advanced Audio Coding (AAC) est utilisée sous licence gérée par Via Licensing Corporation. Google Play contient certains logiciels tiers nécessitant un avis et/ou des conditions d'utilisation supplémentaires. Ces avis et/ou conditions d'utilisation supplémentaires requis pour les logiciels tiers sont disponibles sur notre $START_LINK$page de divulgation des tiers$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "4373763311924773906": {
+      "message": "Ajouter de la musique depuis les sources suivantes : $SOURCE_LIST$",
+      "placeholders": {
+         "SOURCE_LIST": {
+            "content": "$1"
+         }
+      }
+   },
+   "4374547022638899908": {
+      "message": "Bloquer la musique dont les paroles ont été signalées comme explicites par les fournisseurs de contenu."
+   },
+   "437655423845564400": {
+      "message": "Le nombre maximal de titres autorisés a été atteint. Vous pouvez importer jusqu'à $TRACK_LIMIT$ titres.",
+      "placeholders": {
+         "TRACK_LIMIT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4383725505132456525": {
+      "message": "Interruption de l'ajout de musique en cours…"
+   },
+   "4386455913448027147": {
+      "message": "$ITEM_NAME$",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4387704382811204091": {
+      "message": "Créez vos propres playlists."
+   },
+   "4396890764725725469": {
+      "message": "Enregistrer"
+   },
+   "4432809939941276493": {
+      "message": "Pour le moment, Google Play Musique n'est disponible que dans certains pays et pour certains types de comptes."
+   },
+   "4448959744786615285": {
+      "message": "{COUNT_1,plural, =0{Aucun titre}=1{1 titre}one{{COUNT_2} titre}other{{COUNT_2} titres}}"
+   },
+   "445149490695787423": {
+      "message": "Nouvelle connexion"
+   },
+   "4452427314943113135": {
+      "message": "Titre précédent"
+   },
+   "4461486069850736796": {
+      "message": "{NUM_SECONDS,plural, =0{0 seconde}=1{1 seconde}one{# seconde}other{# secondes}}"
+   },
+   "4462494623248108758": {
+      "message": "Playlist"
+   },
+   "4476647413225813774": {
+      "message": "Une fois les $OFFER_LENGTH_DAYS$ jours écoulés, continuez à utiliser le service pour seulement $OFFER_PRICE$ par mois.",
+      "placeholders": {
+         "OFFER_LENGTH_DAYS": {
+            "content": "$1"
+         },
+         "OFFER_PRICE": {
+            "content": "$2"
+         }
+      }
+   },
+   "4479370175321248159": {
+      "message": "Mac OS X"
+   },
+   "4481282928945235645": {
+      "message": "Vous devez importer à nouveau certains de vos titres."
+   },
+   "4523347413979510028": {
+      "message": "Vidéo YouTube"
+   },
+   "4537375385198577563": {
+      "message": "En savoir plus"
+   },
+   "4539806158142214585": {
+      "message": "g, puis n"
+   },
+   "4548136982356342217": {
+      "message": "Maj &#8592;"
+   },
+   "4554520729383911291": {
+      "message": "Créer un mix instantané à partir du morceau sélectionné"
+   },
+   "4580988005648117665": {
+      "message": "Rechercher"
+   },
+   "4601938511613873712": {
+      "message": "Mes appareils"
+   },
+   "46135825491334308": {
+      "message": "La suppression de votre musique est définitive."
+   },
+   "4624704164651982020": {
+      "message": "Configuration de Google Play Musique pour Chrome en cours…"
+   },
+   "4629398054050196678": {
+      "message": "Emplacement de la musique téléchargée :"
+   },
+   "4645609569705949286": {
+      "message": "Moi uniquement"
+   },
+   "4648993989034133051": {
+      "message": "Affiche le menu pour le titre sélectionné."
+   },
+   "4658362967039953209": {
+      "message": "Importer ma musique"
+   },
+   "4662613464573260354": {
+      "message": "Suggestion"
+   },
+   "4687189636655044066": {
+      "message": "Barre d'espace"
+   },
+   "4709553525160465770": {
+      "message": "Pour importer votre musique rapidement, Google Play établit des correspondances entre vos fichiers musicaux et des copies sur notre serveur. La mise en correspondance incorrecte de deux titres peut se produire occasionnellement. Signalez ce problème ici et le titre sera réimporté."
+   },
+   "4718177503702130030": {
+      "message": "Durée écoulée pour le titre : $CURRENT_TIME$",
+      "placeholders": {
+         "CURRENT_TIME": {
+            "content": "$1"
+         }
+      }
+   },
+   "4724245563419948725": {
+      "message": "Mettre à jour Google Play lorsque j'ajoute de la musique à ces emplacements"
+   },
+   "472845696068673335": {
+      "message": "Le contenu mis à jour a bien été chargé"
+   },
+   "4742770396342457517": {
+      "message": "Écouter dans Google Play Musique"
+   },
+   "4743341466695708276": {
+      "message": "Android"
+   },
+   "4769480851867061848": {
+      "message": "Lire l'élément \"$TARGET$\"",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "4775550080689015987": {
+      "message": "Motif"
+   },
+   "477988155866276940": {
+      "message": "{NUM_GENRES,plural, =0{Aucun genre}=1{1 genre}one{# genre}other{# genres}}"
+   },
+   "4782493710939339680": {
+      "message": "Partager sur Twitter"
+   },
+   "4846792506513649213": {
+      "message": "Radios"
+   },
+   "4862902902120611556": {
+      "message": "Afficher tous les résultats de recherche d'artiste"
+   },
+   "4867246087786788222": {
+      "message": "Type de compte :"
+   },
+   "4874337908897060929": {
+      "message": "Ajout de la musique interrompu."
+   },
+   "4875592400807861759": {
+      "message": "{NUM_SONGS_TO_DELETE,plural, =1{Voulez-vous vraiment {START_SPAN_1}supprimer définitivement{END_SPAN} le titre sélectionné ?}one{Voulez-vous vraiment {START_SPAN_2}supprimer définitivement{END_SPAN} le titre sélectionné ?}other{Voulez-vous vraiment {START_SPAN_2}supprimer définitivement{END_SPAN} les titres sélectionnés ?}}"
+   },
+   "4886126295094352182": {
+      "message": "Google Play Musique pour Chrome"
+   },
+   "4902817035128594900": {
+      "message": "Description"
+   },
+   "4916816672463415688": {
+      "message": "Essayer Google Play Musique"
+   },
+   "4920946997448724158": {
+      "message": "Compositeur"
+   },
+   "4930506384627295710": {
+      "message": "Paramètres"
+   },
+   "4945228064546795686": {
+      "message": "Afficher tous les résultats de recherche d'album"
+   },
+   "4962022175989879342": {
+      "message": "Contenu explicite"
+   },
+   "4972659496812307928": {
+      "message": "Téléchargement de la musique interrompu."
+   },
+   "4980580439123922024": {
+      "message": "Artistes"
+   },
+   "4982958189718922051": {
+      "message": "Accueil de Google Play Musique"
+   },
+   "4998030835388374541": {
+      "message": "Modifier l'image de l'album"
+   },
+   "5003850562831597565": {
+      "message": "Abonnement récent"
+   },
+   "5004312405043027351": {
+      "message": "OK"
+   },
+   "5029496897209707807": {
+      "message": "L'application Google Play Musique pour Chrome doit être mise à jour. Le processus devrait être automatique."
+   },
+   "5043933900720743682": {
+      "message": "Albums"
+   },
+   "504907426029176372": {
+      "message": "Dernier accès :"
+   },
+   "5049432650728491454": {
+      "message": "Découvrez des nouveautés, les titres les mieux classés, des playlists et de nouveaux genres."
+   },
+   "5067818727161314391": {
+      "message": "Partager sur Google+"
+   },
+   "5080822706931608370": {
+      "message": "{NUM_ALBUMS,plural, =0{Aucun album}=1{1 album}one{# album}other{# albums}}"
+   },
+   "5085509606319320198": {
+      "message": "Fermer la file d'attente"
+   },
+   "5117284791649421953": {
+      "message": "Historique de Play Musique"
+   },
+   "5119663120731608161": {
+      "message": "Retrouvez les titres importés récemment dans la playlist $START_LINK$Derniers ajouts$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "5125947296792815314": {
+      "message": "{NUM_SKIPS,plural, =1{Vous pouvez encore ignorer 1 titre.}one{Vous pouvez encore ignorer # titre.}other{Vous pouvez encore ignorer # titres.}}"
+   },
+   "5128240607770067472": {
+      "message": "À propos…"
+   },
+   "5141725357376719861": {
+      "message": "$START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$ titres téléchargés sur $NUM_TOTAL_TRACKS$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TOTAL_TRACKS": {
+            "content": "$2"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$3"
+         },
+         "START_SPAN": {
+            "content": "$4"
+         }
+      }
+   },
+   "5143432838919500349": {
+      "message": "Recherche en cours…"
+   },
+   "5154374028369457456": {
+      "message": "Barre de navigation"
+   },
+   "5161411570094992408": {
+      "message": "Pas maintenant"
+   },
+   "5188231675115376764": {
+      "message": "Accéder à \"Mes radios\""
+   },
+   "5237204164514638395": {
+      "message": "Envoyer un cadeau"
+   },
+   "5274506773583039432": {
+      "message": "Voulez-vous vraiment $START_SPAN$supprimer définitivement$END_SPAN$ la playlist sélectionnée ?",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "5302287499843369186": {
+      "message": "Configuration de Google Play Musique"
+   },
+   "5316998074277327666": {
+      "message": "Certaines parties du contenu sont protégées par les droits d'auteur (©) de Gracenote ou de ses fournisseurs."
+   },
+   "5324332666649007562": {
+      "message": "{NUM_SONGS_TO_EXPUNGE,plural, =1{Voulez-vous vraiment {START_SPAN_1}supprimer définitivement{END_SPAN} le titre sélectionné ?}one{Voulez-vous vraiment {START_SPAN_2}supprimer définitivement{END_SPAN} le titre sélectionné ?}other{Voulez-vous vraiment {START_SPAN_2}supprimer définitivement{END_SPAN} les titres sélectionnés ?}}"
+   },
+   "5326351540290142036": {
+      "message": "Titre précédent"
+   },
+   "5346889542079298595": {
+      "message": "Une radio gratuite pour toutes vos activités. Conservez $FORMATTED_LOCKER_SIZE$ titres de votre collection personnelle. Abonnez-vous pour accéder à la demande à $FORMATTED_MUSIC_CATALOG_SIZE$ de titres et à la fonctionnalité d'écoute hors connexion.",
+      "placeholders": {
+         "FORMATTED_LOCKER_SIZE": {
+            "content": "$1"
+         },
+         "FORMATTED_MUSIC_CATALOG_SIZE": {
+            "content": "$2"
+         }
+      }
+   },
+   "5348600594194881699": {
+      "message": "Aucune action nécessaire : vous êtes déjà abonné à Google Play Musique."
+   },
+   "5350246280596757721": {
+      "message": "Artistes associés"
+   },
+   "5370332239555585516": {
+      "message": "Toute la musique que vous voulez, sans publicité"
+   },
+   "5379453108698089622": {
+      "message": "Accéder à l'option \"À écouter\""
+   },
+   "5393158295657392839": {
+      "message": "Titres présentant des correspondances incorrectes"
+   },
+   "5395035563228151731": {
+      "message": "État du compte :"
+   },
+   "5407092932504462689": {
+      "message": "Afficher tous les résultats de recherche de radio"
+   },
+   "5410695385284979104": {
+      "message": "Mix \"$TITLE$\"",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "541213310813871561": {
+      "message": "Paramètres liés à la famille"
+   },
+   "5432330868773114140": {
+      "message": "Lancer la radio"
+   },
+   "5444318821310889944": {
+      "message": "{COUNT_1,plural, =0{0 épisode}=1{1 épisode}one{{COUNT_2} épisode}other{{COUNT_2} épisodes}}"
+   },
+   "545173546103184657": {
+      "message": "Compte Google :"
+   },
+   "5452218284042451605": {
+      "message": "Pour appliquer un coupon à l'adresse $START_SPAN$$USER_EMAIL$$END_SPAN$, saisissez votre code ci-dessous.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "USER_EMAIL": {
+            "content": "$3"
+         }
+      }
+   },
+   "5464364716831469679": {
+      "message": "Album inconnu"
+   },
+   "5480320305561124595": {
+      "message": "Ma bibliothèque"
+   },
+   "548629550059508920": {
+      "message": "Importation impossible, car vous importez déjà des contenus depuis deux comptes."
+   },
+   "5492320356892382782": {
+      "message": "Supprimer définitivement"
+   },
+   "5497512316841934820": {
+      "message": "Mix \"J'ai de la chance\""
+   },
+   "5497627646066282315": {
+      "message": "Connexion en cours…"
+   },
+   "550380163414655031": {
+      "message": "Ensuite, nous vous poserons quelques questions sur vos goûts musicaux afin que nous puissions vous aider à découvrir des titres qui vous plaisent."
+   },
+   "5518817744725858296": {
+      "message": "Artiste en concert à proximité"
+   },
+   "5535160370665610524": {
+      "message": "Retour rapide dans le titre en cours"
+   },
+   "5578390534357178026": {
+      "message": "Assurez-vous que vous êtes connecté à Chrome avec le même compte Google."
+   },
+   "5584189341216439776": {
+      "message": "Ajoutez votre musique"
+   },
+   "5586233271963962252": {
+      "message": "Titre suivant"
+   },
+   "5593848105713936399": {
+      "message": "À l'écoute"
+   },
+   "5594762259680838005": {
+      "message": "Acheté récemment"
+   },
+   "5605692130698677333": {
+      "message": "Besoin d'aide pour ajouter de la musique depuis un ordinateur sur lequel vous avez déjà installé le programme d'installation de Music Manager pour Google Play ?"
+   },
+   "560627050344405345": {
+      "message": "Avance rapide de 30 secondes"
+   },
+   "5607000992339442129": {
+      "message": "Quelques minutes suffisent pour commencer à importer votre bibliothèque musicale sur Google Play."
+   },
+   "5631364725702248876": {
+      "message": "Parcourir les stations"
+   },
+   "5635270894887625192": {
+      "message": "$START_UNORDERED_LIST$$START_ITEM$$START_DIV_1$$END_DIV$$START_SPAN$Stockez jusqu'à $FORMATTED_LOCKER_SIZE$ titres musicaux gratuitement sur Google Play.$END_SPAN$$END_ITEM$$START_ITEM$$START_DIV_2$$END_DIV$$START_SPAN$Importez votre bibliothèque depuis iTunes, Windows Media Player ou les dossiers de votre choix.$END_SPAN$$END_ITEM$$START_ITEM$$START_DIV_3$$END_DIV$$START_SPAN$Écoutez votre musique sur le Web ou sur vos appareils mobiles, sans câble ni synchronisation.$END_SPAN$$END_ITEM$$END_UNORDERED_LIST$",
+      "placeholders": {
+         "END_DIV": {
+            "content": "$1"
+         },
+         "END_ITEM": {
+            "content": "$2"
+         },
+         "END_SPAN": {
+            "content": "$3"
+         },
+         "END_UNORDERED_LIST": {
+            "content": "$4"
+         },
+         "FORMATTED_LOCKER_SIZE": {
+            "content": "$5"
+         },
+         "START_DIV_1": {
+            "content": "$6"
+         },
+         "START_DIV_2": {
+            "content": "$7"
+         },
+         "START_DIV_3": {
+            "content": "$8"
+         },
+         "START_ITEM": {
+            "content": "$9"
+         },
+         "START_SPAN": {
+            "content": "$10"
+         },
+         "START_UNORDERED_LIST": {
+            "content": "$11"
+         }
+      }
+   },
+   "5671499827182863671": {
+      "message": "Vous avez été déconnecté de ce compte. Veuillez cliquer sur le bouton ci-dessous pour retrouver votre musique."
+   },
+   "5729733224544981434": {
+      "message": "Ajoutez Google Play Musique pour Chrome pour activer le glisser-déposer"
+   },
+   "5769804815976568558": {
+      "message": "Sélectionner un emplacement de téléchargement"
+   },
+   "5827343664961087180": {
+      "message": "S'abonner"
+   },
+   "5832435837238304779": {
+      "message": "Lire la playlist \"$TITLE$\"",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "585739095777961817": {
+      "message": "par"
+   },
+   "5862309805277852777": {
+      "message": "Nom"
+   },
+   "5863523793538309428": {
+      "message": "La suppression de votre musique est en cours. Veuillez patienter quelques heures pour que tout soit supprimé."
+   },
+   "5888141336325862688": {
+      "message": "Accéder à \"Parcourir les radios\""
+   },
+   "5889126665299129466": {
+      "message": "Pour utiliser le mini-lecteur, vous devez être connecté à Chrome."
+   },
+   "5889904821719049150": {
+      "message": "Écoutez votre musique sur n'importe quel ordinateur et sur 10 appareils au maximum. L'importation ou le téléchargement de musique avec Music Manager ou Google Play Musique pour Chrome sont pris en compte pour la limite de votre appareil."
+   },
+   "5891064527381218201": {
+      "message": "Gratuit"
+   },
+   "5923830678189377717": {
+      "message": "Hmmm…"
+   },
+   "5946473117506990177": {
+      "message": "Offrir un abonnement à Google Play Musique"
+   },
+   "5971001229987621398": {
+      "message": "Nouveauté recommandée"
+   },
+   "5987565417212088924": {
+      "message": "Playlist \"Recherche audio\""
+   },
+   "5990212441459592050": {
+      "message": "Rendre publique"
+   },
+   "599493319699637812": {
+      "message": "Lecture aléatoire"
+   },
+   "6028312506269896318": {
+      "message": "Voulez-vous vraiment annuler l'autorisation de lire de la musique accordée à l'appareil suivant ?"
+   },
+   "60369026765465265": {
+      "message": "Actualiser la radio"
+   },
+   "6037216776738907588": {
+      "message": "Accéder à mes genres"
+   },
+   "6062704261604405084": {
+      "message": "Configurez Google Play Musique pour Chrome afin d'y ajouter votre bibliothèque musicale et de profiter de votre musique sur votre téléphone, votre tablette et votre ordinateur."
+   },
+   "6062911693359625717": {
+      "message": "Débit : $BITRATE$",
+      "placeholders": {
+         "BITRATE": {
+            "content": "$1"
+         }
+      }
+   },
+   "6068863249628617875": {
+      "message": "Essayer maintenant"
+   },
+   "607779708716020188": {
+      "message": "…"
+   },
+   "6080972150136904755": {
+      "message": "Cette playlist est vide pour le moment."
+   },
+   "6082171864197428613": {
+      "message": "Installer"
+   },
+   "609463966491943885": {
+      "message": "Sélectionner des dossiers"
+   },
+   "6097429778714195840": {
+      "message": "Accéder à \"Nouveautés\""
+   },
+   "6104044107385556653": {
+      "message": "Les codes des coupons sont sensibles à la casse."
+   },
+   "6115840172404094036": {
+      "message": "Accéder au titre suivant"
+   },
+   "6134905866550808378": {
+      "message": "Tous mes titres – $GENRE_NAME$",
+      "placeholders": {
+         "GENRE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "6176916746057281482": {
+      "message": "Informations relatives à l'épisode"
+   },
+   "6182267200530067545": {
+      "message": "Configurez votre abonnement récurrent maintenant pour pouvoir écouter de la musique sans interruption."
+   },
+   "6202991870072245705": {
+      "message": "Se désabonner"
+   },
+   "6214362172197372800": {
+      "message": "Assurez-vous d'avoir téléchargé sur votre ordinateur une copie de tous vos achats effectués sur Google Play avant de poursuivre."
+   },
+   "6227307047241266902": {
+      "message": "menu \"Plus d'options\""
+   },
+   "6233107584508657559": {
+      "message": "Impossible de se connecter à Google."
+   },
+   "6233799104785293347": {
+      "message": "Mettre à jour"
+   },
+   "6242354668932209396": {
+      "message": "Répétition de tous les titres. Cliquer pour modifier le mode de répétition."
+   },
+   "624560585652958729": {
+      "message": "Annuler l'autorisation"
+   },
+   "6254019915482435769": {
+      "message": "Disques"
+   },
+   "6263911096488435737": {
+      "message": "Actualiser le mix"
+   },
+   "6266962164598137510": {
+      "message": "Je n'aime pas"
+   },
+   "6295780096198935300": {
+      "message": "Afficher tous les résultats de recherche de titre"
+   },
+   "6321629750851370838": {
+      "message": "Lecture"
+   },
+   "6334800505555910746": {
+      "message": "Fourni par $XXX_1$ sous la licence \"$XXX_2$\"",
+      "placeholders": {
+         "XXX_1": {
+            "content": "$1"
+         },
+         "XXX_2": {
+            "content": "$2"
+         }
+      }
+   },
+   "6338543385295715171": {
+      "message": "Erreur d'importation."
+   },
+   "6348993545995904615": {
+      "message": "Lire en mode aléatoire"
+   },
+   "6360340926892934518": {
+      "message": "Ajouter un dossier"
+   },
+   "6385838952512467617": {
+      "message": "{NUM,plural, =0{Aucun téléchargement restant}=1{Un téléchargement restant pour \"{XXX_1}\"}=2{Un téléchargement restant pour \"{XXX_1}\" et \"{XXX_2}\"}=3{Un téléchargement restant pour \"{XXX_1}\", \"{XXX_2}\" et \"{XXX_3}\"}=4{Un téléchargement restant pour \"{XXX_1}\", \"{XXX_2}\", \"{XXX_3}\" et un autre titre}one{Un téléchargement restant pour \"{XXX_1}\", \"{XXX_2}\", \"{XXX_3}\" et {XXX_4} autre titre}other{Un téléchargement restant pour \"{XXX_1}\", \"{XXX_2}\", \"{XXX_3}\" et {XXX_4} autres titres}}"
+   },
+   "6386884903976634321": {
+      "message": "Mettre à jour les paramètres"
+   },
+   "6392918669949841614": {
+      "message": "Date d'ajout"
+   },
+   "6401620758535187625": {
+      "message": "Mettre à jour les informations de paiement"
+   },
+   "6426880811380367028": {
+      "message": "Interrompre l'élément \"$TARGET$\"",
+      "placeholders": {
+         "TARGET": {
+            "content": "$1"
+         }
+      }
+   },
+   "6439365426343089851": {
+      "message": "Général"
+   },
+   "6453809956732788630": {
+      "message": "$START_SPAN$Découvrez des playlists créées par notre équipe de fins mélomanes.$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "6455589326534311330": {
+      "message": "Cette limite ne s'applique pas lorsque vous utilisez $START_SPAN$Music Manager$END_SPAN$ pour télécharger l'ensemble de votre bibliothèque musicale sur votre ordinateur.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "6463864371052292453": {
+      "message": "Contenu explicite pouvant choquer les enfants"
+   },
+   "6473040876350306456": {
+      "message": "Historique des positions"
+   },
+   "6482036697464831271": {
+      "message": "Pour que vos titres soient rapidement importés dans Google Play, vos fichiers musicaux sont mis en correspondance avec les copies présentes sur nos serveurs. Il arrive parfois que les titres ne soient pas mis en correspondance avec la bonne copie. Signalez le problème ici pour utiliser vos copies plutôt que celles qui ont été mises en correspondance."
+   },
+   "6482522612734635310": {
+      "message": "La musique a été interrompue, car vous semblez écouter le contenu sur un autre appareil."
+   },
+   "6482815137654580311": {
+      "message": "Modifier les informations"
+   },
+   "6485379744416240146": {
+      "message": "J'aime"
+   },
+   "6488707262592852720": {
+      "message": "2. Dans la fenêtre du programme d'installation, faites glisser l'icône de Music Manager dans le dossier \"Applications\"."
+   },
+   "6502885021177224543": {
+      "message": "Google Play Musique : sélectionner le dossier de téléchargement"
+   },
+   "6504449653938065974": {
+      "message": "Playlist recommandée"
+   },
+   "6513265996872955028": {
+      "message": "Ajouter à la bibliothèque"
+   },
+   "6523257069333866790": {
+      "message": "Bibliothèque musicale"
+   },
+   "6531109671848395983": {
+      "message": "Pour ajouter votre musique, installez Google Play Musique pour Chrome."
+   },
+   "6531471505721570155": {
+      "message": "Plus de fonctionnalités"
+   },
+   "6555053572817998410": {
+      "message": "Pause"
+   },
+   "6562996658473327600": {
+      "message": "Lecture à partir de :"
+   },
+   "6568036879894576496": {
+      "message": "La musique des dossiers suivants va être ajoutée à Google Play Musique"
+   },
+   "6576943715351613839": {
+      "message": "{DOWNLOAD_COUNT_MAX_1,plural, =1{ Vous pouvez télécharger chaque titre une fois sur le Web.}one{ Vous pouvez télécharger chaque titre {DOWNLOAD_COUNT_MAX_2} fois sur le Web.}other{ Vous pouvez télécharger chaque titre {DOWNLOAD_COUNT_MAX_2} fois sur le Web.}}"
+   },
+   "65984904390749158": {
+      "message": "Terminer"
+   },
+   "66116513409922755": {
+      "message": "Non"
+   },
+   "6612332818623520965": {
+      "message": "Désolé, une erreur s'est produite. Veuillez réessayer."
+   },
+   "6634231960955145278": {
+      "message": "Titre"
+   },
+   "6638274938129779637": {
+      "message": "Annuler l'action \"J'aime\""
+   },
+   "6650633628037596693": {
+      "message": "Veuillez réessayer."
+   },
+   "6650888720096194474": {
+      "message": "Pour utiliser le mini-lecteur, vous devez configurer Google Play Musique pour $START_SPAN$$EMAIL$$END_SPAN$.",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         },
+         "END_SPAN": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "6652649548557498169": {
+      "message": "Normale"
+   },
+   "6652787256443519035": {
+      "message": "Aucun tag"
+   },
+   "6674940684074453217": {
+      "message": "iOS"
+   },
+   "6703444928647322448": {
+      "message": "Nom"
+   },
+   "6704452266937792847": {
+      "message": "Ajouter à la bibliothèque"
+   },
+   "6706494172112196654": {
+      "message": "Passer à un abonnement famille incluant jusqu'à 6 personnes"
+   },
+   "6716575470159796252": {
+      "message": "Chrome OS"
+   },
+   "6718773735728815040": {
+      "message": "Recommandation personnalisée"
+   },
+   "6719382961812623394": {
+      "message": "Un problème est survenu lors de la configuration."
+   },
+   "6724866564770579816": {
+      "message": "Modes d'écoute de la musique"
+   },
+   "6742017901699269182": {
+      "message": "Accéder à mes albums"
+   },
+   "6747414430222084644": {
+      "message": "Durée du titre : $TRACK_LENGTH$",
+      "placeholders": {
+         "TRACK_LENGTH": {
+            "content": "$1"
+         }
+      }
+   },
+   "6790172339432877080": {
+      "message": "Cette icône L-mark est une marque déposée indiquant que ce contenu est fourni par les maisons de disques et les entreprises de production vidéo."
+   },
+   "6814976743136440069": {
+      "message": "OK"
+   },
+   "6820635381009519748": {
+      "message": "Supprimer de la file d'attente"
+   },
+   "6830152735949448199": {
+      "message": "Avec les fonctionnalités expérimentales de Google Play Musique, testez des fonctionnalités qui ne sont pas encore tout à fait prêtes à être dévoilées au grand public. Celles-ci peuvent être modifiées, cesser de fonctionner ou disparaître à tout moment. Amusez-vous bien !"
+   },
+   "6839273670547667172": {
+      "message": "Divers"
+   },
+   "6840919594921167668": {
+      "message": "Les titres téléchargés se trouvent quant à eux dans le dossier \"Téléchargements\" de votre ordinateur."
+   },
+   "6852978731943767591": {
+      "message": "3. Lorsque le programme d'installation s'ouvre, suivez les instructions pour configurer Music Manager."
+   },
+   "6857227272497365704": {
+      "message": "Accéder à une partie spécifique du titre (par exemple, sélectionner \"7\" permet d'avancer à 70 % de sa durée)"
+   },
+   "6875485529840056179": {
+      "message": "Accédez à plus de $FORMATTED_MUSIC_CATALOG_SIZE$ de titres et à des radios en illimité.",
+      "placeholders": {
+         "FORMATTED_MUSIC_CATALOG_SIZE": {
+            "content": "$1"
+         }
+      }
+   },
+   "6887831882226099905": {
+      "message": "Voulez-vous vraiment annuler l'autorisation d'ajouter de la musique à l'appareil suivant ?"
+   },
+   "6932671848756303275": {
+      "message": "Faible"
+   },
+   "6940170973585783277": {
+      "message": "Passer à un abonnement famille"
+   },
+   "6941609127174167431": {
+      "message": "Retour arrière de 10 secondes"
+   },
+   "6943941659433003765": {
+      "message": "Démarrer un mix instantané"
+   },
+   "6962699013778688473": {
+      "message": "Continuer"
+   },
+   "6990699195498598876": {
+      "message": "Pour commencer, téléchargez Music Manager ci-dessous. Simple d'utilisation, cette application vous permet d'ajouter à Google Play les fichiers musicaux enregistrés sur votre ordinateur."
+   },
+   "699971906528455934": {
+      "message": "Artiste inconnu"
+   },
+   "7009828133009731416": {
+      "message": "Article proposé gratuitement par Google"
+   },
+   "7022070615528435141": {
+      "message": "Supprimer"
+   },
+   "7035822615949880851": {
+      "message": "Les titres de cet appareil sont momentanément indisponibles. Veuillez réessayer plus tard. Erreur 442."
+   },
+   "7043080825985118397": {
+      "message": "Annuler la suppression"
+   },
+   "7054091192371222228": {
+      "message": " sur "
+   },
+   "7062695654404914711": {
+      "message": "Mix instantanés"
+   },
+   "7067908984080925888": {
+      "message": "Afficher plus"
+   },
+   "7071666053441099517": {
+      "message": "1. Ouvrez MusicManager.dmg, situé en bas à gauche de votre navigateur."
+   },
+   "7080245643233785574": {
+      "message": "Un problème est survenu dans Google Play Musique pour Chrome. Veuillez vous reconnecter."
+   },
+   "7090368974279082159": {
+      "message": "Petit problème"
+   },
+   "709740537382334098": {
+      "message": "Supprimer toute ma bibliothèque, y compris les titres achetés ($TOTAL_SONGS$)",
+      "placeholders": {
+         "TOTAL_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7105416082849293719": {
+      "message": "Activité récente"
+   },
+   "7110393208916703749": {
+      "message": "Vidéos"
+   },
+   "7116872031464114568": {
+      "message": "Identifié dans la recherche audio"
+   },
+   "7136816542440442290": {
+      "message": "Un problème est survenu lors du chargement de la radio."
+   },
+   "7182974689040833178": {
+      "message": "Reprendre"
+   },
+   "7192513315706728552": {
+      "message": "Erreur serveur. Veuillez réessayer plus tard."
+   },
+   "7194376132387780145": {
+      "message": "Impossible d'autoriser cet ordinateur, car vous avez déjà dix appareils."
+   },
+   "7212676589977202933": {
+      "message": "$NUM_TRANSFERRED_TRACKS$ titres ajoutés",
+      "placeholders": {
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7224832103566723854": {
+      "message": "Impossible de charger la playlist. Veuillez réessayer."
+   },
+   "7225854335198901823": {
+      "message": "Une moins bonne qualité nécessite moins de données"
+   },
+   "7249560357803023328": {
+      "message": "Télécharger la bibliothèque"
+   },
+   "7262284142845767114": {
+      "message": "J'aime"
+   },
+   "7277602889799602415": {
+      "message": "Supprimer ma bibliothèque"
+   },
+   "7283215568776397157": {
+      "message": "Titres importés :"
+   },
+   "7287006426755387074": {
+      "message": "Augmenter le volume du lecteur"
+   },
+   "7292878672940239832": {
+      "message": "{NUM_MINUTES,plural, =0{0 minute}=1{1 minute}one{# minute}other{# minutes}}"
+   },
+   "7292902857194439444": {
+      "message": "Appareil"
+   },
+   "7293925053370285812": {
+      "message": "Répétition du titre en cours. Cliquer pour modifier le mode de répétition."
+   },
+   "729714018676926076": {
+      "message": "Précommander sur Google Play Musique"
+   },
+   "7299356918464630268": {
+      "message": "Une meilleure qualité nécessite plus de données"
+   },
+   "730022297859142476": {
+      "message": "Mix instantané"
+   },
+   "731429515932674572": {
+      "message": "Couper le son"
+   },
+   "7320133162875658022": {
+      "message": "Importer les nouveaux titres ($NUM_NEW_SONGS$)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7354536653016090160": {
+      "message": "Populaires"
+   },
+   "7354691783317064273": {
+      "message": "L'application Chrome est en cours de connexion…"
+   },
+   "7376787658603979700": {
+      "message": "Accédez à des millions de titres, dont des centaines disponibles gratuitement"
+   },
+   "7410432243549869948": {
+      "message": "Durée"
+   },
+   "7411932913365107274": {
+      "message": "Vous pouvez annuler l'autorisation de quatre appareils par an."
+   },
+   "741454111929523251": {
+      "message": "Essayez avec l'orthographe : $START_LINK$$SUGGESTED_QUERY$$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         },
+         "SUGGESTED_QUERY": {
+            "content": "$3"
+         }
+      }
+   },
+   "7417635001613679430": {
+      "message": "Sélectionner des dossiers…"
+   },
+   "7422152161839392092": {
+      "message": "Offrez un abonnement à Google Play Musique"
+   },
+   "7467710920158412786": {
+      "message": "Playlist privée, pour votre usage personnel"
+   },
+   "7501747046724259714": {
+      "message": "Impossible de récupérer les playlists de l'utilisateur. Veuillez réessayer."
+   },
+   "7502695447103329189": {
+      "message": "Maj &#8594;"
+   },
+   "7512291922236002631": {
+      "message": "Copiez et collez ce lien pour partager $START_SPAN$$TITLE$$END_SPAN$.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "7515033107202878673": {
+      "message": "Sélectionnez les artistes que vous aimez"
+   },
+   "7535122927261158198": {
+      "message": "Derniers ajouts"
+   },
+   "7546873952682838388": {
+      "message": "Musique sur cet ordinateur"
+   },
+   "756024699361489239": {
+      "message": "Lire en mode aléatoire"
+   },
+   "756532847162987514": {
+      "message": "($XXX$)",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "7569000733095186860": {
+      "message": "Erreur de mise à jour du contenu"
+   },
+   "7572946295452220765": {
+      "message": "Consignes d'installation"
+   },
+   "7587796626090923635": {
+      "message": "{COUNT_1,plural, =0{0 lecture}=1{1 lecture}one{{COUNT_2} lecture}other{{COUNT_2} lectures}}"
+   },
+   "7592349062857393820": {
+      "message": "g, puis t"
+   },
+   "7599424290971072767": {
+      "message": "Genre"
+   },
+   "7604883230326131491": {
+      "message": "Playlist \"$TITLE$\"",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7605394550777137111": {
+      "message": "Le téléchargement devrait bientôt démarrer. Dans le cas contraire, veuillez $START_LINK$cliquer ici$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "7619560701830330401": {
+      "message": "Chargement en cours…"
+   },
+   "762389150316771008": {
+      "message": "Radio \"J'ai de la chance\""
+   },
+   "7625459160681249394": {
+      "message": "{NUM_SONGS,plural, =0{Vous n'avez sélectionné aucun titre à télécharger sur votre ordinateur.}=1{Vous avez atteint le nombre maximal de téléchargements possibles pour ce titre.}one{Vous avez atteint le nombre maximal de téléchargements possibles pour ce titre.}other{Vous avez atteint le nombre maximal de téléchargements possibles pour ces titres.}}"
+   },
+   "763998168115480566": {
+      "message": "Vous ne pouvez plus ignorer de titres. Accédez à des millions de titres à la demande et hors connexion."
+   },
+   "7664246845088850317": {
+      "message": "Échec de la connexion au serveur. Code d'erreur : "
+   },
+   "7669291472367464463": {
+      "message": "Veuillez saisir votre adresse e-mail @google.com."
+   },
+   "7677669941581940117": {
+      "message": "Google+"
+   },
+   "7743528314734813641": {
+      "message": "Un problème est survenu lors du chargement du mix instantané."
+   },
+   "7756401573104983978": {
+      "message": "Application pour ordinateur"
+   },
+   "776736242214904151": {
+      "message": "Réécoutez ce titre ainsi que des millions d'autres lorsque vous le souhaitez."
+   },
+   "7772875668912229569": {
+      "message": "{NUM_SONGS,plural, =0{Aucun titre}=1{1 titre}one{# titre}other{# titres}}"
+   },
+   "7774266771623079214": {
+      "message": "Play Musique"
+   },
+   "7783345534551124847": {
+      "message": "Titres"
+   },
+   "7801884781403562273": {
+      "message": "Utiliser un code"
+   },
+   "7819314041543176992": {
+      "message": "Fermer"
+   },
+   "7832954852370077811": {
+      "message": "Lancez la lecture d'un titre ou cliquez sur l'icône $MENU_ICON$ d'un album, d'un titre ou d'une playlist pour l'ajouter à votre file d'attente.",
+      "placeholders": {
+         "MENU_ICON": {
+            "content": "$1"
+         }
+      }
+   },
+   "7834872082445723495": {
+      "message": "Annulation de l'ajout de musique en cours…"
+   },
+   "7873745865358968651": {
+      "message": "{NUM_HOURS,plural, =0{0 heure}=1{1 heure}one{# heure}other{# heures}}"
+   },
+   "7941094066137301803": {
+      "message": "Passez à Google+ pour partager ce contenu avec vos amis."
+   },
+   "7943877664425892318": {
+      "message": "Ouvrir le panneau des playlists"
+   },
+   "7947294997516635657": {
+      "message": "Synchronisation terminée !"
+   },
+   "7978348005042781826": {
+      "message": "{VALUE,plural, =0{Aucun dossier}=1{1 dossier}one{# dossier}other{# dossiers}}"
+   },
+   "7980428538910137664": {
+      "message": "Gratuits et achetés"
+   },
+   "7985393396166342590": {
+      "message": "Reprise de l'ajout de musique en cours…"
+   },
+   "7996265599642887416": {
+      "message": "Supprimer de la bibliothèque"
+   },
+   "8041472556355834197": {
+      "message": "Commandes du lecteur"
+   },
+   "8058956869215275454": {
+      "message": "Partager sur Facebook"
+   },
+   "8110367050267853536": {
+      "message": "Plus d'options"
+   },
+   "8110717721846730575": {
+      "message": "Réactiver le son"
+   },
+   "8117873518116417445": {
+      "message": "{NUM,plural, =0{Vous n'avez dépassé la limite de téléchargement pour aucun titre.}=1{Vous avez déjà téléchargé \"{XXX_1}\" {DOWNLOAD_COUNT_MAX} fois. Vous n'avez plus la possibilité d'effectuer cette opération.}=2{Vous avez déjà téléchargé \"{XXX_1}\" et \"{XXX_2}\" {DOWNLOAD_COUNT_MAX} fois. Vous n'avez plus la possibilité d'effectuer cette opération.}=3{Vous avez déjà téléchargé \"{XXX_1}\", \"{XXX_2}\" et \"{XXX_3}\" {DOWNLOAD_COUNT_MAX} fois. Vous n'avez plus la possibilité d'effectuer cette opération.}=4{Vous avez déjà téléchargé \"{XXX_1}\", \"{XXX_2}\", \"{XXX_3}\" et un autre titre {DOWNLOAD_COUNT_MAX} fois. Vous n'avez plus la possibilité d'effectuer cette opération.}one{Vous avez déjà téléchargé \"{XXX_1}\", \"{XXX_2}\", \"{XXX_3}\" et {XXX_4} autre titre {DOWNLOAD_COUNT_MAX} fois. Vous n'avez plus la possibilité d'effectuer cette opération.}other{Vous avez déjà téléchargé \"{XXX_1}\", \"{XXX_2}\", \"{XXX_3}\" et {XXX_4} autres titres {DOWNLOAD_COUNT_MAX} fois. Vous n'avez plus la possibilité d'effectuer cette opération.}}"
+   },
+   "8140841959031615975": {
+      "message": "Je souhaite recevoir les actualités et les offres Google Play Musique"
+   },
+   "8144474297019493415": {
+      "message": "Derniers ajouts"
+   },
+   "8167254435928832023": {
+      "message": "J'ai de la chance"
+   },
+   "8174689178967388837": {
+      "message": "Piste n°"
+   },
+   "8184838044774375710": {
+      "message": "Impossible d'écouter de la musique sur deux appareils à la fois"
+   },
+   "819996403327805209": {
+      "message": "En savoir plus"
+   },
+   "8202537648978392187": {
+      "message": "{DOWNLOAD_COUNT_MAX_1,plural, =1{ Vous pouvez également {START_SPAN_1}télécharger de la musique directement{END_SPAN}, mais seulement {START_SPAN_2}une fois par titre{END_SPAN}.}one{ Vous pouvez également {START_SPAN_1}télécharger de la musique directement{END_SPAN}, mais seulement {START_SPAN_3}{DOWNLOAD_COUNT_MAX_2} fois par titre{END_SPAN}.}other{ Vous pouvez également {START_SPAN_1}télécharger de la musique directement{END_SPAN}, mais seulement {START_SPAN_3}{DOWNLOAD_COUNT_MAX_2} fois par titre{END_SPAN}.}}"
+   },
+   "8216772648076666728": {
+      "message": "Autoriser les titres au contenu explicite."
+   },
+   "8233851949641842866": {
+      "message": "{NUM_FAILURES_1,plural, =1{ Impossible d'ajouter 1 titre.}one{ Impossible d'ajouter {NUM_FAILURES_2} titre.}other{ Impossible d'ajouter {NUM_FAILURES_2} titres.}}"
+   },
+   "8235345176344531979": {
+      "message": "g, puis a"
+   },
+   "828333935216451744": {
+      "message": "L'abonnement au service Google Play Musique vous permet d'accéder à plus de $FORMATTED_MUSIC_CATALOG_SIZE$ de titres et à des radios en illimité.",
+      "placeholders": {
+         "FORMATTED_MUSIC_CATALOG_SIZE": {
+            "content": "$1"
+         }
+      }
+   },
+   "828700836558117968": {
+      "message": "Google Play Musique"
+   },
+   "8300572760144032022": {
+      "message": "Créer une radio à partir du titre sélectionné"
+   },
+   "8302804816588048941": {
+      "message": "Cette action supprime également vos playlists, vos mix instantanés, les avis associés et toutes les informations relatives au nombre de lectures."
+   },
+   "8325100368677049569": {
+      "message": "Découvrez de nouveaux titres"
+   },
+   "8385464685117997940": {
+      "message": "Écouté récemment"
+   },
+   "8395180429531273524": {
+      "message": "Pourquoi ne puis-je pas bénéficier de l'offre sur mon appareil ?"
+   },
+   "8396767881870375563": {
+      "message": "Afficher tous les résultats de recherche d'activité"
+   },
+   "8405156617531647050": {
+      "message": "Il semble que vous ayez déjà essayé Google Play Musique."
+   },
+   "840664911413405433": {
+      "message": "Windows"
+   },
+   "840692109692540367": {
+      "message": "Connexion"
+   },
+   "8421838551605999158": {
+      "message": "1. Enregistrez musicmanagerinstaller.exe."
+   },
+   "8424326418312855409": {
+      "message": "Un problème est survenu lors de la configuration de Google Play Musique."
+   },
+   "8439955599488894226": {
+      "message": "Règles de confidentialité"
+   },
+   "8440128775129354214": {
+      "message": "Confidentialité"
+   },
+   "8455196866871985315": {
+      "message": "Afficher tout le top des albums"
+   },
+   "8455204924704616723": {
+      "message": "Fichier"
+   },
+   "8477224362193738096": {
+      "message": "Artiste : $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "848933194605193751": {
+      "message": "Vidéos regardées récemment sur YouTube"
+   },
+   "851623407011365974": {
+      "message": "La lecture de votre musique va bientôt reprendre."
+   },
+   "8534560073330554352": {
+      "message": "Nombre d'écoutes"
+   },
+   "8542907888351533629": {
+      "message": "..."
+   },
+   "8559735404345611808": {
+      "message": "Accès à la demande et sans publicité à $FORMATTED_MUSIC_CATALOG_SIZE$ de titres. Téléchargez les titres que vous souhaitez écouter lorsque vous êtes hors connexion. Ajoutez $FORMATTED_LOCKER_SIZE$ titres téléchargés, et écoutez-les où que vous soyez.",
+      "placeholders": {
+         "FORMATTED_LOCKER_SIZE": {
+            "content": "$1"
+         },
+         "FORMATTED_MUSIC_CATALOG_SIZE": {
+            "content": "$2"
+         }
+      }
+   },
+   "8564202903947049539": {
+      "message": "Lecture"
+   },
+   "8574053857298592408": {
+      "message": "Ouvrir le panneau de navigation"
+   },
+   "8602981985283490607": {
+      "message": "$START_LINK$Obtenir de l'aide pour supprimer Music Manager$END_LINK$ de votre ordinateur",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "8604571003772710870": {
+      "message": "Appuyez sur Maj+Entrée pour démarrer la lecture"
+   },
+   "8606325754052632992": {
+      "message": "Pour importer votre musique rapidement, Google Play établit des correspondances entre vos fichiers musicaux et les copies présentes sur notre serveur. La mise en correspondance incorrecte de deux titres peut se produire occasionnellement. Signalez ce problème ici et les titres seront réimportés."
+   },
+   "8608281335099046628": {
+      "message": "Traitement des titres musicaux en cours…"
+   },
+   "8619410898472620495": {
+      "message": "Rendez-vous su Google Play Musique sur le Web pour reprendre la lecture."
+   },
+   "862440714280873951": {
+      "message": "Contient des podcasts."
+   },
+   "8624490471677691415": {
+      "message": "Afficher la musique de"
+   },
+   "8624618794349836904": {
+      "message": "Supprimer l'historique utilisé pour vous proposer des recommandations adaptées à vos goûts et personnaliser la radio. Cela ne supprime pas les notes que vous avez accordées ni le nombre de fois où vous avez écouté un titre."
+   },
+   "8639048757911329468": {
+      "message": "Version NaCl : $START_SPAN$$NACL_VERSION$$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NACL_VERSION": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "8642779049394824811": {
+      "message": "Impossible de revenir en arrière ou d'effectuer une avance rapide lors de l'utilisation de la radio"
+   },
+   "8679806927601731663": {
+      "message": "Réessayer"
+   },
+   "8692453200617588996": {
+      "message": "Sélectionnez les genres que vous aimez"
+   },
+   "8700121026680200191": {
+      "message": "Effacer"
+   },
+   "8733921970136713647": {
+      "message": "Annuler l'abonnement"
+   },
+   "8764339661945610128": {
+      "message": "Afficher plus d'artistes"
+   },
+   "8790918354594417962": {
+      "message": "Facebook"
+   },
+   "8799945990693183114": {
+      "message": "Fonctionnalités expérimentales"
+   },
+   "880592275679936810": {
+      "message": "$START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$ titres ajoutés",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "8825531460389729800": {
+      "message": "{NUM_PLAYLISTS,plural, =0{Aucune playlist}=1{1 playlist}one{# playlist}other{# playlists}}"
+   },
+   "8841049363660529484": {
+      "message": "L'élément \"$ITEM_NAME$\" est sélectionné. Cliquez pour le désélectionner.",
+      "placeholders": {
+         "ITEM_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "886941024758881610": {
+      "message": "Plus de titres"
+   },
+   "8871219022895015530": {
+      "message": "Ajoute les titres sélectionnés à la file d'attente."
+   },
+   "88781093248476711": {
+      "message": "sans nom"
+   },
+   "8890553633144307762": {
+      "message": "Retour"
+   },
+   "8892908795692466458": {
+      "message": "Partager"
+   },
+   "8910998670732377227": {
+      "message": "Réessayer"
+   },
+   "8920100935192456970": {
+      "message": "Afficher tous les résultats de recherche de genre"
+   },
+   "8928816882866356838": {
+      "message": "Tout le monde"
+   },
+   "8931700495296520714": {
+      "message": "Fermer le mini-lecteur"
+   },
+   "8936704404804793618": {
+      "message": "Vidéos"
+   },
+   "8949306858344607697": {
+      "message": "Playlists publiques de $USER_FULL_NAME$",
+      "placeholders": {
+         "USER_FULL_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8953033926734869941": {
+      "message": "Nom"
+   },
+   "8961985815150856927": {
+      "message": "Créé récemment"
+   },
+   "8969179774064404960": {
+      "message": "Volume"
+   },
+   "8971282019539581965": {
+      "message": "Fermer la boîte de dialogue \"À propos\""
+   },
+   "8982807952821993986": {
+      "message": "{NUM_TRANSFERRED_TRACKS_1,plural, =1{ 1 titre téléchargé}one{ {NUM_TRANSFERRED_TRACKS_2} titre téléchargé}other{ {NUM_TRANSFERRED_TRACKS_2} titres téléchargés}}"
+   },
+   "9000028459946302905": {
+      "message": "Supprimer tous les titres importés dans ma bibliothèque ($UPLOADED_SONGS$)",
+      "placeholders": {
+         "UPLOADED_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "902263003582497446": {
+      "message": "Qualité élevée indépendamment du réseau. Mise en mémoire tampon possible sur les réseaux lents."
+   },
+   "9024489874326845912": {
+      "message": "Album recommandé"
+   },
+   "9042260521669277115": {
+      "message": "Interrompre"
+   },
+   "9049377337845973204": {
+      "message": "Lire : $SONG_NAME$",
+      "placeholders": {
+         "SONG_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "9059560719840598868": {
+      "message": "Envoyer des commentaires"
+   },
+   "9084816336314899019": {
+      "message": "Continuer"
+   },
+   "9128859482251917046": {
+      "message": "Ouvrir ou fermer la file d'attente"
+   },
+   "9138683078793837147": {
+      "message": "Annuler l'action \"Je n'aime pas\""
+   },
+   "9143597363285105250": {
+      "message": "Artiste de l'album"
+   },
+   "9166842143674355091": {
+      "message": "Récente"
+   },
+   "9179661003472285430": {
+      "message": "Télécharger Music Manager"
+   },
+   "9193901371937110673": {
+      "message": "Aucun appareil autorisé"
+   },
+   "9205544184671349450": {
+      "message": "Vous semblez déjà avoir de la musique sur cet ordinateur."
+   },
+   "9214517335069385090": {
+      "message": "Vous pouvez également…"
+   },
+   "933914956414602837": {
+      "message": "Pour que vos titres soient rapidement importés dans Google Play, vos fichiers musicaux sont mis en correspondance avec les copies présentes sur nos serveurs. Il arrive parfois que les titres ne soient pas mis en correspondance avec la bonne copie. Signalez le problème ici pour utiliser votre copie plutôt que celle qui a été mise en correspondance."
+   },
+   "935985887697278449": {
+      "message": "Déjà abonné"
+   },
+   "949327761578931377": {
+      "message": "Continuez à utiliser le service pour $OFFER_PRICE$ par mois.",
+      "placeholders": {
+         "OFFER_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "953268105555355822": {
+      "message": "Tout afficher"
+   },
+   "95869773684474447": {
+      "message": "Erreur de lecture."
+   },
+   "963232722931839477": {
+      "message": "La file d'attente est vide."
+   },
+   "993762601773196496": {
+      "message": "Caster"
+   },
+   "997890303689941626": {
+      "message": "Afficher tous les résultats de recherche de vidéo"
+   }
+}

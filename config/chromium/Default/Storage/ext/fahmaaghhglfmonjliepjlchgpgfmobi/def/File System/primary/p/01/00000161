@@ -1,0 +1,47 @@
+
+
+-------session starts-------
+
+[4-25 19:2:59.42] INFO: Network came online, restarting delay timer.
+[4-25 19:2:59.54] INFO: MediaGallery: name=/home/tom/Pictures, galleryId=2, isMediaDevice=false, deviceId=undefined
+[4-25 19:2:59.56] INFO: Starts a quick scan on /home/tom/Pictures
+[4-25 19:2:59.56] INFO: Iterating over dir / from source /home/tom/Pictures
+[4-25 19:2:59.81] INFO: Got the drag_and_drop directory
+[4-25 19:2:59.83] INFO: Iterating over dir /screenshots from source /home/tom/Pictures
+[4-25 19:2:59.95] INFO: Iterating over dir /screenshots/exercise 2.3.2 from source /home/tom/Pictures
+[4-25 19:2:59.104] INFO: Iterating over dir /screenshots/exercise 2.3.2/watermarked from source /home/tom/Pictures
+[4-25 19:2:59.105] INFO: Iterating over dir /screenshots/exercise 2.6.2 not complete from source /home/tom/Pictures
+[4-25 19:2:59.108] INFO: Iterating over dir /screenshots/exercise 2.6.2 not complete/watermarked from source /home/tom/Pictures
+[4-25 19:2:59.109] INFO: Iterating over dir /screenshots/exercise 2.2.2 from source /home/tom/Pictures
+[4-25 19:2:59.111] INFO: Iterating over dir /screenshots/exercise 2.2.2/watermarked from source /home/tom/Pictures
+[4-25 19:2:59.112] INFO: Iterating over dir /screenshots/exercise 2.3.4 from source /home/tom/Pictures
+[4-25 19:2:59.114] INFO: Iterating over dir /screenshots/exercise 2.3.4/watermarked from source /home/tom/Pictures
+[4-25 19:2:59.115] INFO: Iterating over dir /screenshots/exercise 2.4.3 from source /home/tom/Pictures
+[4-25 19:2:59.118] INFO: Iterating over dir /screenshots/exercise 2.4.3/watermarked from source /home/tom/Pictures
+[4-25 19:2:59.135] INFO: Iterating over dir /screenshots/exercise 2.3.6 from source /home/tom/Pictures
+[4-25 19:2:59.137] INFO: Iterating over dir /screenshots/exercise 2.3.6/watermarked from source /home/tom/Pictures
+[4-25 19:2:59.140] INFO: Iterating over dir /screenshots/exercise 2.5.3 from source /home/tom/Pictures
+[4-25 19:2:59.142] INFO: Iterating over dir /screenshots/exercise 2.5.3/watermarked from source /home/tom/Pictures
+[4-25 19:2:59.145] INFO: Iterating over dir /screenshots/exercise 2.6.3 from source /home/tom/Pictures
+[4-25 19:2:59.152] INFO: Iterating over dir /screenshots/exercise 2.6.3/watermarked from source /home/tom/Pictures
+[4-25 19:2:59.154] INFO: Iterating over dir /screenshots/exercise 2.4.4 from source /home/tom/Pictures
+[4-25 19:2:59.155] INFO: Iterating over dir /screenshots/exercise 2.4.4/watermarked from source /home/tom/Pictures
+[4-25 19:2:59.157] INFO: Iterating over dir /screenshots/exercise 2.2.1.2 from source /home/tom/Pictures
+[4-25 19:2:59.158] INFO: Iterating over dir /screenshots/exercise 2.2.1.2/watermarked from source /home/tom/Pictures
+[4-25 19:2:59.164] INFO: Iterating over dir /screenshots/exercise 2.5.2 not completely done from source /home/tom/Pictures
+[4-25 19:2:59.166] INFO: Iterating over dir /screenshots/exercise 2.5.2 not completely done/watermarked from source /home/tom/Pictures
+[4-25 19:2:59.167] INFO: Iterating over dir /screenshots/exercise 2.3.3 from source /home/tom/Pictures
+[4-25 19:2:59.170] INFO: Iterating over dir /screenshots/exercise 2.3.3/watermarked from source /home/tom/Pictures
+[4-25 19:2:59.172] INFO: Iterating over dir /screenshots/exercise 2.4.2 from source /home/tom/Pictures
+[4-25 19:2:59.173] INFO: Iterating over dir /screenshots/exercise 2.4.2/watermarked from source /home/tom/Pictures
+[4-25 19:2:59.175] INFO: Iterating over dir /screenshots/exercise 2.3.5 from source /home/tom/Pictures
+[4-25 19:2:59.176] INFO: Iterating over dir /screenshots/exercise 2.3.5/watermarked from source /home/tom/Pictures
+[4-25 19:2:59.178] INFO: /home/tom/Pictures does not contain music file
+[4-25 19:2:59.200] INFO: lsUserAddedMusicSourceIds=null
+[4-25 19:2:59.200] INFO: lsLastTrackFailureLoggingTime=null
+[4-25 19:2:59.200] INFO: lsUserSelectedDownloadDirId=null
+[4-25 19:2:59.203] INFO: lsDefaultDownloadLocationId=null
+[4-25 19:2:59.203] INFO: Setting is already: lsAlwaysUseDefaultDownloadLocation = false
+[4-25 19:2:59.203] INFO: Setting is already: lsDefaultDownloadLocationId = null
+[4-25 19:3:1.217] INFO: Fetched user settings from server.
+[4-25 19:3:1.220] INFO: chromeapp:E ready

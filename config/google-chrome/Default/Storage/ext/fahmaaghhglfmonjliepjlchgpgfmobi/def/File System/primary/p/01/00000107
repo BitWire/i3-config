@@ -1,0 +1,35 @@
+
+
+-------session starts-------
+
+[4-9 20:27:18.265] INFO: MediaGallery: name=/home/tom/Pictures, galleryId=2, isMediaDevice=false, deviceId=undefined
+[4-9 20:27:18.271] INFO: Starts a quick scan on /home/tom/Pictures
+[4-9 20:27:18.272] INFO: Iterating over dir / from source /home/tom/Pictures
+[4-9 20:27:18.287] INFO: Iterating over dir /screenshots from source /home/tom/Pictures
+[4-9 20:27:18.320] INFO: Got the drag_and_drop directory
+[4-9 20:27:18.321] INFO: Iterating over dir /screenshots/exercise 2.3.2 from source /home/tom/Pictures
+[4-9 20:27:18.365] INFO: Iterating over dir /screenshots/exercise 2.6.2 not complete from source /home/tom/Pictures
+[4-9 20:27:18.382] INFO: Iterating over dir /screenshots/exercise 2.2.2 from source /home/tom/Pictures
+[4-9 20:27:18.386] INFO: Iterating over dir /screenshots/exercise 2.3.4 from source /home/tom/Pictures
+[4-9 20:27:18.387] INFO: Iterating over dir /screenshots/exercise 2.4.3 from source /home/tom/Pictures
+[4-9 20:27:18.390] INFO: Iterating over dir /screenshots/exercise 2.3.6 from source /home/tom/Pictures
+[4-9 20:27:18.391] INFO: Iterating over dir /screenshots/exercise 2.5.3 from source /home/tom/Pictures
+[4-9 20:27:18.392] INFO: Iterating over dir /screenshots/exercise 2.6.3 from source /home/tom/Pictures
+[4-9 20:27:18.395] INFO: Iterating over dir /screenshots/exercise 2.4.4 from source /home/tom/Pictures
+[4-9 20:27:18.397] INFO: Iterating over dir /screenshots/exercise 2.2.1.2 from source /home/tom/Pictures
+[4-9 20:27:18.403] INFO: Iterating over dir /screenshots/exercise 2.5.2 not completely done from source /home/tom/Pictures
+[4-9 20:27:18.414] INFO: Iterating over dir /screenshots/exercise 2.3.3 from source /home/tom/Pictures
+[4-9 20:27:18.417] INFO: Iterating over dir /screenshots/exercise 2.4.2 from source /home/tom/Pictures
+[4-9 20:27:18.421] INFO: Iterating over dir /screenshots/exercise 2.3.5 from source /home/tom/Pictures
+[4-9 20:27:18.423] INFO: /home/tom/Pictures does not contain music file
+[4-9 20:27:18.638] INFO: lsUserAddedMusicSourceIds=null
+[4-9 20:27:18.638] INFO: lsLastTrackFailureLoggingTime=null
+[4-9 20:27:18.638] INFO: lsUserSelectedDownloadDirId=null
+[4-9 20:27:18.640] INFO: lsDefaultDownloadLocationId=null
+[4-9 20:27:18.640] INFO: Setting is already: lsAlwaysUseDefaultDownloadLocation = false
+[4-9 20:27:18.640] INFO: Setting is already: lsDefaultDownloadLocationId = null
+[4-9 20:27:19.777] INFO: lsAppActivated=false
+[4-9 20:27:19.778] INFO: lsDragAndDropActivated=false
+[4-9 20:27:19.778] INFO: Nacl version: 1.0.467.4929
+[4-9 20:27:19.779] INFO: lsAppActivated=false
+[4-9 20:27:59.891] INFO: Error fetching features, backoff count: 1

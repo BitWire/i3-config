@@ -1,0 +1,39 @@
+{
+   "app": {
+      "icon_color": "#017FF5",
+      "launch": {
+         "web_url": "https://thcommunity.de/community/forums/startseite.80/"
+      },
+      "linked_icons": [ {
+         "size": 32,
+         "url": "https://thcommunity.de/favicon.png"
+      }, {
+         "size": 48,
+         "url": "https://thcommunity.de/favicon.png"
+      }, {
+         "size": 64,
+         "url": "https://thcommunity.de/favicon.png"
+      }, {
+         "size": 96,
+         "url": "https://thcommunity.de/favicon.png"
+      }, {
+         "size": 128,
+         "url": "https://thcommunity.de/favicon.png"
+      }, {
+         "size": 256,
+         "url": "https://thcommunity.de/favicon.png"
+      } ]
+   },
+   "description": "",
+   "icons": {
+      "128": "icons/128.png",
+      "256": "icons/256.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "64": "icons/64.png",
+      "96": "icons/96.png"
+   },
+   "key": "Sm0Mt0+Uqo7qn9t5ueE8mOgfy9cHphRuLj1SWdV5EcI=",
+   "name": "thcommunity",
+   "version": "2019.2.23.55107"
+}

@@ -1,0 +1,58 @@
+{
+   "browser_action_hover": {
+      "description": "",
+      "message": "Buscar con Ecosia"
+   },
+   "context_menu_search": {
+      "description": "",
+      "message": "Selección de búsquedas con Ecosia"
+   },
+   "info_popup_CTA": {
+      "description": "",
+      "message": "Más información"
+   },
+   "info_popup_body": {
+      "description": "info button pop up hover",
+      "message": "¿No es la página que esperabas? Obtén más información acerca de cómo restaurar los marcadores y establecer la página de nueva pestaña."
+   },
+   "new_tab_restore_all": {
+      "description": "",
+      "message": "Restablecer todo"
+   },
+   "new_tab_thumbnail_removed": {
+      "description": "",
+      "message": "Thumbnail eliminado"
+   },
+   "new_tab_title": {
+      "description": "",
+      "message": "Nueva pestaña"
+   },
+   "new_tab_undo": {
+      "description": "",
+      "message": "Deshacer"
+   },
+   "searchinput_placeholder": {
+      "description": "",
+      "message": "Busca para plantar árboles..."
+   },
+   "store_shortdesc_firefox": {
+      "description": "",
+      "message": "Esta extensión establece Ecosia como buscador predeterminado para que puedas plantar árboles con cada búsqueda."
+   },
+   "store_shortdesc_new": {
+      "description": "",
+      "message": "Esta extensión establece Ecosia como buscador predeterminado y personaliza la página de nueva pestaña para que puedas plantar árboles con cada búsqueda."
+   },
+   "store_shortdesc_old": {
+      "description": "",
+      "message": "Esta extensión redirige tus búsquedas de Omnibar al buscador de Ecosia."
+   },
+   "store_title_new": {
+      "description": "",
+      "message": "Ecosia, el buscador que planta árboles"
+   },
+   "store_title_old": {
+      "description": "",
+      "message": "Ecosia Omnibar Redirect (Legacy)"
+   }
+}

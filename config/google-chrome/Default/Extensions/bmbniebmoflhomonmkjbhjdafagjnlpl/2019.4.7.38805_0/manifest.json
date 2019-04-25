@@ -1,0 +1,43 @@
+{
+   "app": {
+      "icon_color": "#1DA0F2",
+      "launch": {
+         "web_url": "https://twitter.com/?utm_source=web_app_manifest"
+      },
+      "linked_icons": [ {
+         "size": 32,
+         "url": "https://abs.twimg.com/favicons/favicon.ico"
+      }, {
+         "size": 48,
+         "url": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png"
+      }, {
+         "size": 64,
+         "url": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png"
+      }, {
+         "size": 96,
+         "url": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png"
+      }, {
+         "size": 128,
+         "url": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png"
+      }, {
+         "size": 192,
+         "url": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png"
+      }, {
+         "size": 256,
+         "url": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png"
+      } ]
+   },
+   "description": "",
+   "icons": {
+      "128": "icons/128.png",
+      "192": "icons/192.png",
+      "256": "icons/256.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "64": "icons/64.png",
+      "96": "icons/96.png"
+   },
+   "key": "rmBAbKKW/M0waIUMD3wRNuYMoOJQzwPe1U/LQZCqf9A=",
+   "name": "Twitter",
+   "version": "2019.4.7.38805"
+}

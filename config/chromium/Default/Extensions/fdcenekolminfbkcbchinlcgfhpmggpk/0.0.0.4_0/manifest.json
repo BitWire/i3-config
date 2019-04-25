@@ -1,0 +1,21 @@
+{
+   "app": {
+      "launch": {
+         "container": "tab",
+         "urls": [ "http://www.mixcloud.com" ],
+         "web_url": "http://www.mixcloud.com"
+      }
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "128.png",
+      "16": "16.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC1ANLt/XJXxVuL+r/3Dk3Wzwc7bPY+aTVNfGMApZurRn/arespIY0PrwVzkNofNwCLlF29GxP6QwkGqCvshnYQxBjvcp0Sld56N57lNfD796TNTVFM7E6fSTRdNN908aUy6l6/LcIC2AjCTSUUOg949udOoJq+NVnZ38u60gm+WQIDAQAB",
+   "manifest_version": 2,
+   "name": "Mixcloud",
+   "permissions": [  ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "0.0.0.4"
+}

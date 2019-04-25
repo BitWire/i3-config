@@ -1,0 +1,149 @@
+{
+   "about_add_new_rule": {
+      "message": "Dodaj Nową Regułę"
+   },
+   "about_ext_description": {
+      "message": "Szyfruj sieć! Automatycznie używaj zabezpieczeń HTTPS na wielu stronach."
+   },
+   "about_ext_name": {
+      "message": "HTTPS Everywhere"
+   },
+   "about_rulesets_version": {
+      "message": "Wersja zestaw regół dla "
+   },
+   "about_title": {
+      "message": "O HTTPS Everywhere"
+   },
+   "about_version": {
+      "message": "Wersja"
+   },
+   "cancel_he_blocking_explainer": {
+      "message": "HTTPS Everywhere zauważyło że nawigujesz do strony bez HTTPS i próbowało wysłać Ci wersje HTTPS. Wersja HTTPS jest niedostępna. Najprawdopodobniej ta strona nie wspiera HTTPS, lecz jest też możliwe że atakujący blokuje wersję HTTPS. Jeśli chcesz pomimo to wyświetlić niezaszyfrowaną wersję tej strony, możesz to nadal zrobić przez wyłączenie opcji 'Blokuj wszystkie nieszyfrowane próby połączenia' w rozszerzeniu HTTPS Everywhere. Bądź świadom że wyłączenie tej opcji może uczynić twoją przeglądarkę podatną na sieciowe ataki downgrade na stronach które odwiedzasz."
+   },
+   "cancel_he_blocking_network": {
+      "message": "sieciowe ataki downgrade"
+   },
+   "chrome_add_new_rule": {
+      "message": "Dodaj nową regułę dla tej strony"
+   },
+   "chrome_add_rule": {
+      "message": "Dodaj nową regułę dla tej strony"
+   },
+   "chrome_always_https_for_host": {
+      "message": "Zawsze używaj https dla tego hosta"
+   },
+   "chrome_disable_on_this_site": {
+      "message": "Wyłącz HTTPS Everywhere na tej stronie"
+   },
+   "chrome_enable_on_this_site": {
+      "message": "Włącz HTTPS Everywhere na tej stronie"
+   },
+   "chrome_experimental_rules": {
+      "message": "Reguły eksperymentalne"
+   },
+   "chrome_experimental_rules_description": {
+      "message": "Może powodować ostrzeżenia lub uszkodzenia. Domyślnie wyłączone."
+   },
+   "chrome_hide_advanced": {
+      "message": "Ukryj zaawansowane"
+   },
+   "chrome_host": {
+      "message": "Host:"
+   },
+   "chrome_redirect_to": {
+      "message": "Przekieruj do"
+   },
+   "chrome_regex": {
+      "message": "Pasujący regex"
+   },
+   "chrome_rule_name": {
+      "message": "Nazwa reguły"
+   },
+   "chrome_show_advanced": {
+      "message": "Pokaż zaawansowane"
+   },
+   "chrome_stable_rules": {
+      "message": "Reguły stabilne"
+   },
+   "chrome_stable_rules_description": {
+      "message": "Wymuszaj szyfrowane połączenie do tych stron internetowych:"
+   },
+   "chrome_status_cancel_button": {
+      "message": "Anuluj"
+   },
+   "menu_donate_eff_imperative": {
+      "message": "Wspomóż finansowo EFF"
+   },
+   "menu_encryptAllSitesEligible": {
+      "message": "Szyfruj wszystkie witryny spełniające kryteria (EASE)"
+   },
+   "menu_globalEnable": {
+      "message": "Włącz HTTPS Everywhere"
+   },
+   "menu_observatory": {
+      "message": "Ustawienia SSL Observatory"
+   },
+   "menu_showCounter": {
+      "message": "Pokaż Licznik"
+   },
+   "menu_viewAllRules": {
+      "message": "Wyświetl wszystkie reguły"
+   },
+   "options_addUpdateChannel": {
+      "message": "Dodaj kanał aktualizacji"
+   },
+   "options_advancedSettings": {
+      "message": "Ustawienia zaawansowane"
+   },
+   "options_autoUpdateRulesets": {
+      "message": "Automatycznie aktualizuj zestawy reguł"
+   },
+   "options_delete": {
+      "message": "Usuń"
+   },
+   "options_disabledUrlsListed": {
+      "message": "Strony wyłączone w HTTPS Everywhere"
+   },
+   "options_enableMixedRulesets": {
+      "message": "Włącz zestawy regół o rożnorodnych zawartościach"
+   },
+   "options_enterUpdateChannelName": {
+      "message": "Wpisz nazwę kanału aktualizacji"
+   },
+   "options_generalSettings": {
+      "message": "Ustawienia Główne"
+   },
+   "options_showDevtoolsTab": {
+      "message": "Pokaż zakładkę Devtools"
+   },
+   "options_storedRulesetsVersion": {
+      "message": "Zapisane wersje zestawów reguł"
+   },
+   "options_update": {
+      "message": "Aktualizacja"
+   },
+   "options_updateChannels": {
+      "message": "Zaktualizuj kanały"
+   },
+   "options_updateChannelsWarning": {
+      "message": "Ostrzeżenie: Dodawanie &quot;update channels&quot; może umożliwić atak przejęcia kontroli nad twoją przeglądarką. Edytuj tę sekcję jedynie jeśli wiesz co robisz!"
+   },
+   "options_updatesLastChecked": {
+      "message": "Ostatnio sprawdzono aktualizacje:"
+   },
+   "options_updatesLastCheckedNever": {
+      "message": "nigdy"
+   },
+   "options_userRulesListed": {
+      "message": "Zasady użytkowników HTTPS Everywhere"
+   },
+   "prefs_export_settings": {
+      "message": "Eksportuj ustawienia"
+   },
+   "prefs_reset_defaults": {
+      "message": "Przywróć ustawienia fabryczne"
+   },
+   "prefs_reset_defaults_message": {
+      "message": "To zresetuje każdy zestaw reguł do jego domyślnego stanu. Kontynuować?"
+   }
+}

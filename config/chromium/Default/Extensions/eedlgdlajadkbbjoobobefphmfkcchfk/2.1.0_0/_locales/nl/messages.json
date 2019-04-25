@@ -1,0 +1,58 @@
+{
+   "browser_action_hover": {
+      "description": "",
+      "message": "Ecosia Zoeken"
+   },
+   "context_menu_search": {
+      "description": "",
+      "message": "Zoek selectie met Ecosia"
+   },
+   "info_popup_CTA": {
+      "description": "",
+      "message": "Meer informatie"
+   },
+   "info_popup_body": {
+      "description": "info button pop up hover",
+      "message": "Niet de pagina die je verwachtte? Meer informatie over hoe je je bladwijzers herstelt en je Nieuw Tabblad pagina."
+   },
+   "new_tab_restore_all": {
+      "description": "",
+      "message": "Alles herstellen"
+   },
+   "new_tab_thumbnail_removed": {
+      "description": "",
+      "message": "Thumbnail verwijderd"
+   },
+   "new_tab_title": {
+      "description": "",
+      "message": "Nieuwe tab"
+   },
+   "new_tab_undo": {
+      "description": "",
+      "message": "Ongedaan maken"
+   },
+   "searchinput_placeholder": {
+      "description": "",
+      "message": "Doorzoek het web en plant bomen..."
+   },
+   "store_shortdesc_firefox": {
+      "description": "",
+      "message": "Deze extensie stelt Ecosia als je standaard zoekmachine in zodat je met elke zoekopdracht bomen plant."
+   },
+   "store_shortdesc_new": {
+      "description": "",
+      "message": "Deze extensie stelt Ecosia als je standaard zoekmachine in en past je nieuwe tabs-pagina aan zodat je met elke zoekopdracht bomen plant."
+   },
+   "store_shortdesc_old": {
+      "description": "",
+      "message": "Deze extensie stuurt je zoekopdrachten  van de omnibar naar Ecosia Zoeken door"
+   },
+   "store_title_new": {
+      "description": "",
+      "message": "Ecosia - de zoekmachine die bomen plant"
+   },
+   "store_title_old": {
+      "description": "",
+      "message": "Ecosia Omnibar Redirect (Legacy)"
+   }
+}

@@ -1,0 +1,6 @@
+2019/04/24-08:07:52.924 4e29 Reusing MANIFEST /home/tom/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2019/04/24-08:07:52.925 4e29 Recovering log #139
+2019/04/24-08:07:52.925 4e29 Reusing old log /home/tom/.config/chromium/Default/Sync Data/LevelDB/000139.log 
+2019/04/24-08:25:18.415 51cc Level-0 table #144: started
+2019/04/24-08:25:18.427 51cc Level-0 table #144: 100222 bytes OK
+2019/04/24-08:25:18.436 51cc Delete type=0 #139

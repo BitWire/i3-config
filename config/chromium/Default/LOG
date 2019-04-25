@@ -1,0 +1,11 @@
+2019/04/25-21:03:41.660 83d Recovering log #205
+2019/04/25-21:03:41.661 83d Level-0 table #207: started
+2019/04/25-21:03:41.666 83d Level-0 table #207: 750 bytes OK
+2019/04/25-21:03:41.684 83d Delete type=3 #203
+2019/04/25-21:03:41.684 83d Delete type=0 #205
+2019/04/25-21:03:41.685 a3f Compacting 3@0 + 0@1 files
+2019/04/25-21:03:41.686 a3f Compacted 3@0 + 0@1 files => 0 bytes
+2019/04/25-21:03:41.693 a3f compacted to: files[ 1 3 0 0 0 0 0 ]
+2019/04/25-21:03:41.694 a3f Delete type=2 #204
+2019/04/25-21:03:41.694 a3f Delete type=2 #194
+2019/04/25-21:03:41.694 a3f Delete type=2 #186

@@ -1,0 +1,28 @@
+[Data Source]
+DisplayName=Gmail
+Enabled=true
+Parent=b845ef0c5108ec0a3d7e9d1db0e65402c448587b
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://b845ef0c5108ec0a3d7e9d1db0e65402c448587b/%5bGoogle%20Mail%5d/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=folder://local/Templates
+StartBottom=inconsistent
+TopSignature=inconsistent
+
+[Mail Identity]
+Address=alexrider70@gmail.com
+Aliases=
+Name=Thomas Schmidt
+Organization=
+ReplyTo=
+SignatureUid=none
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=be3b4dbe5b4fff5136c5f32db13059635bb227c5
+RepliesToOriginFolder=false
+UseSentFolder=true

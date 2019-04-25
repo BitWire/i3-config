@@ -1,0 +1,149 @@
+{
+   "about_add_new_rule": {
+      "message": "नया नियम जोड़ें"
+   },
+   "about_ext_description": {
+      "message": "इन्टरनेट संचार को गोपनीय करें! सभी वेबसाइट्स पर स्वतः ही HTTPS का इस्तेमाल करें."
+   },
+   "about_ext_name": {
+      "message": "HTTPS EVERYWHERE"
+   },
+   "about_rulesets_version": {
+      "message": "के लिए नियम संस्करण"
+   },
+   "about_title": {
+      "message": "HTTPS EVERYWHERE के बारे में"
+   },
+   "about_version": {
+      "message": "संस्करण"
+   },
+   "cancel_he_blocking_explainer": {
+      "message": "HTTPS हर जगह ने ध्यान दिया कि आप एक गैर-HTTPS पृष्ठ पर नेविगेट कर रहे थे, और इसके बजाय आपको HTTPS संस्करण में भेजने की कोशिश की। HTTPS संस्करण अनुपलब्ध है। अधिकतर यह साइट HTTPS का समर्थन नहीं करती है, लेकिन यह भी संभव है कि एक हमलावर HTTPS संस्करण को अवरुद्ध कर रहा हो। यदि आप इस पृष्ठ के अनएन्क्रिप्टेड संस्करण को देखना चाहते हैं, तो भी आप अपने HTTPS हर जगह एक्सटेंशन में 'सभी अनएन्क्रिप्टेड अनुरोधों को अवरोधित करें' विकल्प को अक्षम करके ऐसा कर सकते हैं। ध्यान रखें कि इस विकल्प को अक्षम करने से आपका ब्राउज़र आपके द्वारा देखी जाने वाली वेबसाइटों पर नेटवर्क-आधारित डाउनग्रेड हमलों के लिए कमजोर हो सकता है।"
+   },
+   "cancel_he_blocking_network": {
+      "message": "नेटवर्क आधारित डाउनग्रेड हमले"
+   },
+   "chrome_add_new_rule": {
+      "message": "इस साइट के लिए एक नया नियम जोड़ें"
+   },
+   "chrome_add_rule": {
+      "message": "इस साइट के लिए एक नियम जोड़ें."
+   },
+   "chrome_always_https_for_host": {
+      "message": "हमेशा इस मेजबान के लिए HTTPS का उपयोग करें"
+   },
+   "chrome_disable_on_this_site": {
+      "message": "निर्योग्य करे HTTPS Everywhere इस वेबसाइट पर"
+   },
+   "chrome_enable_on_this_site": {
+      "message": "सक्षम करे HTTPS Everywhere इस वेबसाइट पर"
+   },
+   "chrome_experimental_rules": {
+      "message": "प्रायोगिक नियम"
+   },
+   "chrome_experimental_rules_description": {
+      "message": "ये चेतावनियां या टूटने का कारण हो सकता है. यही कारण है कि वे डिफ़ॉल्ट रूप से अक्षम हैं. "
+   },
+   "chrome_hide_advanced": {
+      "message": "छिपाना उन्नत विकल्प "
+   },
+   "chrome_host": {
+      "message": "मेज़बान:"
+   },
+   "chrome_redirect_to": {
+      "message": "यहाँ रेडिरेक्ट करे"
+   },
+   "chrome_regex": {
+      "message": "मिलान  regex"
+   },
+   "chrome_rule_name": {
+      "message": "नियम का नाम"
+   },
+   "chrome_show_advanced": {
+      "message": "दिखाना उन्नत विकल्प "
+   },
+   "chrome_stable_rules": {
+      "message": "स्थिर नियम"
+   },
+   "chrome_stable_rules_description": {
+      "message": "इन वेबसाइटों पर एन्क्रिप्ट किए गए कनेक्शनों को बल दें:"
+   },
+   "chrome_status_cancel_button": {
+      "message": "रद्द करें"
+   },
+   "menu_donate_eff_imperative": {
+      "message": "EFF को दान कीजिये"
+   },
+   "menu_encryptAllSitesEligible": {
+      "message": "Encrypt All Sites Eligible (EASE)"
+   },
+   "menu_globalEnable": {
+      "message": "हर जगह HTTPS सक्षम"
+   },
+   "menu_observatory": {
+      "message": "एसएसएल वेधशाला प्राथमिकताएं"
+   },
+   "menu_showCounter": {
+      "message": "काउंटर दिखाएँ"
+   },
+   "menu_viewAllRules": {
+      "message": "सभी नियम देखें"
+   },
+   "options_addUpdateChannel": {
+      "message": "अद्यतन चैनल जोड़ें"
+   },
+   "options_advancedSettings": {
+      "message": "एडवांस सेटिंग"
+   },
+   "options_autoUpdateRulesets": {
+      "message": "नियमों को स्वत: अद्यतन करें"
+   },
+   "options_delete": {
+      "message": "हटाना"
+   },
+   "options_disabledUrlsListed": {
+      "message": "HTTPS Everywhere वेबसाइटों निर्योग्य"
+   },
+   "options_enableMixedRulesets": {
+      "message": "मिश्रित सामग्री नियम सक्षम करें"
+   },
+   "options_enterUpdateChannelName": {
+      "message": "अद्यतन चैनल नाम दर्ज करें"
+   },
+   "options_generalSettings": {
+      "message": "सामान्य सेटिंग्स"
+   },
+   "options_showDevtoolsTab": {
+      "message": "Devtools टैब दिखाएं"
+   },
+   "options_storedRulesetsVersion": {
+      "message": "संग्रहीत नियम संस्करण:"
+   },
+   "options_update": {
+      "message": "अद्यतन करें"
+   },
+   "options_updateChannels": {
+      "message": "अद्यतन चैनल"
+   },
+   "options_updateChannelsWarning": {
+      "message": "चेतावनी: अद्यतन चैनल जोड़ना हमलावरों को आपके ब्राउज़र को हाइजैक करने का कारण बन सकता है। अगर आप जानते हैं कि आप क्या कर रहे हैं तो ही इस खंड को संपादित करें!"
+   },
+   "options_updatesLastChecked": {
+      "message": "अद्यतन अंतिम बार चेक किया गया:"
+   },
+   "options_updatesLastCheckedNever": {
+      "message": "कभी नहीँ"
+   },
+   "options_userRulesListed": {
+      "message": "HTTPS Everywhere उपयोगकर्ता नियम"
+   },
+   "prefs_export_settings": {
+      "message": "सेटिंग्स निर्यात करने के लिए क्लिक करें"
+   },
+   "prefs_reset_defaults": {
+      "message": "डिफ़ॉल्ट पर रीसेट करें"
+   },
+   "prefs_reset_defaults_message": {
+      "message": "यह प्रत्येक नियमसेट को अपनी डिफ़ॉल्ट स्थिति में रीसेट कर देगा। जारी रखना चाहते हैं?"
+   }
+}

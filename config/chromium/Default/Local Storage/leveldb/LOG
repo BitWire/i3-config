@@ -1,0 +1,6 @@
+2019/04/25-21:02:58.781 7ac Reusing MANIFEST leveldb/MANIFEST-000001
+2019/04/25-21:02:58.782 7ac Recovering log #432
+2019/04/25-21:02:58.783 7ac Reusing old log leveldb/000432.log 
+2019/04/25-21:18:07.931 ee9 Level-0 table #436: started
+2019/04/25-21:18:07.939 ee9 Level-0 table #436: 23654 bytes OK
+2019/04/25-21:18:07.946 ee9 Delete type=0 #432

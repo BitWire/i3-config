@@ -1,0 +1,15 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+    {
+        "key": "ctrl+k s",
+        "command": "workbench.action.files.saveAll"
+    },
+    {
+        "key": "meta+s",
+        "command": "scratchpads.newScratchpad"
+    },
+    {
+        "key": "shift+meta+s",
+        "command": "scratchpads.openScratchpad"
+    }
+]

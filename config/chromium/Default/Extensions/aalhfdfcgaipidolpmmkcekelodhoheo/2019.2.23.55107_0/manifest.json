@@ -1,0 +1,43 @@
+{
+   "app": {
+      "icon_color": "#FE1F00",
+      "launch": {
+         "web_url": "https://fantasy.formula1.com/pick-a-team"
+      },
+      "linked_icons": [ {
+         "size": 16,
+         "url": "https://fantasy.formula1.com/assets/f1/images/icons/favicon16.png"
+      }, {
+         "size": 32,
+         "url": "https://fantasy.formula1.com/assets/f1/images/icons/favicon32.png"
+      }, {
+         "size": 48,
+         "url": "https://fantasy.formula1.com/assets/f1/images/icons/favicon32.png"
+      }, {
+         "size": 64,
+         "url": "https://fantasy.formula1.com/assets/f1/images/icons/favicon32.png"
+      }, {
+         "size": 96,
+         "url": "https://fantasy.formula1.com/assets/f1/images/icons/favicon32.png"
+      }, {
+         "size": 128,
+         "url": "https://fantasy.formula1.com/assets/f1/images/icons/favicon32.png"
+      }, {
+         "size": 256,
+         "url": "https://fantasy.formula1.com/assets/f1/images/icons/favicon32.png"
+      } ]
+   },
+   "description": "",
+   "icons": {
+      "128": "icons/128.png",
+      "16": "icons/16.png",
+      "256": "icons/256.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "64": "icons/64.png",
+      "96": "icons/96.png"
+   },
+   "key": "jh+/74Qjcjb8cQIgdyMDo82cHP0B2Qcj4TaoaelV/t4=",
+   "name": "F1 Fantasy",
+   "version": "2019.2.23.55107"
+}

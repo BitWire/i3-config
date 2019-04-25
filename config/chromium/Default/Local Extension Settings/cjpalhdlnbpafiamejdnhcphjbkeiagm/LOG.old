@@ -1,0 +1,30 @@
+2019/04/24-08:07:53.842 4e1f Reusing MANIFEST /home/tom/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2019/04/24-08:07:53.843 4e1f Recovering log #230
+2019/04/24-08:07:53.855 4e1f Reusing old log /home/tom/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000230.log 
+2019/04/24-08:16:56.816 51cc Level-0 table #234: started
+2019/04/24-08:16:56.879 51cc Level-0 table #234: 2644255 bytes OK
+2019/04/24-08:16:56.885 51cc Delete type=0 #230
+2019/04/24-08:18:56.419 51cc Level-0 table #236: started
+2019/04/24-08:18:56.454 51cc Level-0 table #236: 1547539 bytes OK
+2019/04/24-08:18:56.464 51cc Delete type=0 #233
+2019/04/24-08:39:58.321 51cc Level-0 table #238: started
+2019/04/24-08:39:58.355 51cc Level-0 table #238: 1778986 bytes OK
+2019/04/24-08:39:58.361 51cc Delete type=0 #235
+2019/04/24-08:39:58.362 51cc Compacting 4@0 + 4@1 files
+2019/04/24-08:39:58.413 51cc Generated table #239@0: 10 keys, 2250995 bytes
+2019/04/24-08:39:58.464 51cc Generated table #240@0: 11 keys, 2222485 bytes
+2019/04/24-08:39:58.513 51cc Generated table #241@0: 15 keys, 2108356 bytes
+2019/04/24-08:39:58.518 51cc Generated table #242@0: 7 keys, 45011 bytes
+2019/04/24-08:39:58.518 51cc Compacted 4@0 + 4@1 files => 6626847 bytes
+2019/04/24-08:39:58.525 51cc compacted to: files[ 0 4 1 0 0 0 0 ]
+2019/04/24-08:39:58.525 51cc Delete type=2 #229
+2019/04/24-08:39:58.526 51cc Delete type=2 #228
+2019/04/24-08:39:58.526 51cc Delete type=2 #238
+2019/04/24-08:39:58.526 51cc Delete type=2 #231
+2019/04/24-08:39:58.527 51cc Delete type=2 #234
+2019/04/24-08:39:58.527 51cc Delete type=2 #227
+2019/04/24-08:39:58.528 51cc Delete type=2 #216
+2019/04/24-08:39:58.528 51cc Delete type=2 #236
+2019/04/24-08:39:58.570 51cc Level-0 table #244: started
+2019/04/24-08:39:58.613 51cc Level-0 table #244: 2321996 bytes OK
+2019/04/24-08:39:58.619 51cc Delete type=0 #237

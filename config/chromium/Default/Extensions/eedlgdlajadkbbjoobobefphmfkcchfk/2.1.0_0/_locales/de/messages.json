@@ -1,0 +1,58 @@
+{
+   "browser_action_hover": {
+      "description": "",
+      "message": "Ecosia Suche"
+   },
+   "context_menu_search": {
+      "description": "",
+      "message": "Markierten Text mit Ecosia suchen"
+   },
+   "info_popup_CTA": {
+      "description": "",
+      "message": "Mehr erfahren"
+   },
+   "info_popup_body": {
+      "description": "info button pop up hover",
+      "message": "Nicht die Seite, die du erwartet hast? Erfahre hier, wie du Lesezeichen wiederherstellen und Standardseiten für neue Tabs festlegen kannst."
+   },
+   "new_tab_restore_all": {
+      "description": "",
+      "message": "Alle wiederherstellen "
+   },
+   "new_tab_thumbnail_removed": {
+      "description": "",
+      "message": "Thumbnail entfernt"
+   },
+   "new_tab_title": {
+      "description": "",
+      "message": "Neuer Tab"
+   },
+   "new_tab_undo": {
+      "description": "",
+      "message": "Rückgängig"
+   },
+   "searchinput_placeholder": {
+      "description": "",
+      "message": "Im Web suchen und Bäume pflanzen..."
+   },
+   "store_shortdesc_firefox": {
+      "description": "",
+      "message": "Mit dieser Erweiterung kannst du Ecosia als Standardsuchmaschine einrichten, sodass du mit jeder Suche Bäume pflanzen kannst."
+   },
+   "store_shortdesc_new": {
+      "description": "",
+      "message": "Mit dieser Erweiterung kannst du Ecosia als Standardsuchmaschine einrichten und deine neuen Browsertabs anpassen, sodass du mit jeder Suche Bäume pflanzen kannst."
+   },
+   "store_shortdesc_old": {
+      "description": "",
+      "message": "Diese Erweiterung leitet deine Suchanfragen von der Omnibox zur Ecosia-Suche weiter."
+   },
+   "store_title_new": {
+      "description": "",
+      "message": "Ecosia – Die Suchmaschine, die Bäume pflanzt"
+   },
+   "store_title_old": {
+      "description": "",
+      "message": "Ecosia Omnibox Weiterleitung (veraltet)"
+   }
+}

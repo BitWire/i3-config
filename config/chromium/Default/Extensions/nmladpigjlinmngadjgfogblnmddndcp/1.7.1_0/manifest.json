@@ -1,0 +1,18 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "https://subtitlevideoplayer.appspot.com/static/ChromeOsSubtitle/src/index.html"
+      },
+      "urls": [ "https://subtitlevideoplayer.appspot.com/static/ChromeOsSubtitle/src/" ]
+   },
+   "icons": {
+      "128": "camera.png",
+      "16": "camera.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDKXSIZk9rGXK3hqOIx3LntvYRMboPs5E9xc7Pi8YLm3czauKvjzFqN3fIhbqHo40Imj/oYRB6+UXxggs2wMxkQ+6J9Ji8if2b8speVKbzElHV4H9E3wxkNCgMOHrwtrqR+YuWPWCDPUzC88ff2qZ26dVjlV0dn+6kfA8F5LO6/QwIDAQAB",
+   "manifest_version": 2,
+   "name": "LocalChromecast Player",
+   "offline_enabled": true,
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.7.1"
+}

@@ -1,0 +1,149 @@
+{
+   "about_add_new_rule": {
+      "message": "Új szabály hozzáadás"
+   },
+   "about_ext_description": {
+      "message": "Titkosítsa a Web-et! Automatikusan használja a HTTPS titkosítást a legtöbb oldalon."
+   },
+   "about_ext_name": {
+      "message": "HTTPS Everywhere"
+   },
+   "about_rulesets_version": {
+      "message": "Szabálykészlet verziók ehhez:"
+   },
+   "about_title": {
+      "message": "A HTTPS Everywhere névjegye"
+   },
+   "about_version": {
+      "message": "Verzió"
+   },
+   "cancel_he_blocking_explainer": {
+      "message": "A HTTPS Everywhere úgy észlelte, hogy egy nem-HTTPS oldalra navigált, és megpróbálta elküldeni a HTTPS verziót inkább helyette. A HTTPS verzió nem elérhető. Leginkább úgy tűnik, hogy ez az oldal nem támogatja a HTTPS-t, de az is elképzelhető, hogy egy támadó blokkolja a HTTPS verzió elérését. Ha szeretné megnézni a titkosítatlan verzióját az oldalnak, továbbra is megteheti a 'Minden titkosítatlan kérés blokkolása' opció kikapcsolásával a HTTPS Everywhere bővítményben. Figyeljen arra, hogy ennek az opciónak a kikapcsolásával a böngészőt sérülékennyé teszi a hálózati bázisú lefokozó támadásokkal szemben a weboldalakon, amit látogat."
+   },
+   "cancel_he_blocking_network": {
+      "message": "hálózati bázisú lefokozó támadás"
+   },
+   "chrome_add_new_rule": {
+      "message": "Új szabály az oldalhoz"
+   },
+   "chrome_add_rule": {
+      "message": "Szabály felvétel az oldalhoz"
+   },
+   "chrome_always_https_for_host": {
+      "message": "Mindig https-t használjon ehhez a kiszolgálóhoz"
+   },
+   "chrome_disable_on_this_site": {
+      "message": "HTTPS Everywhere kikapcsolása ezen oldalnál"
+   },
+   "chrome_enable_on_this_site": {
+      "message": "HTTPS Everywhere bekapcsolása ezen oldalnál"
+   },
+   "chrome_experimental_rules": {
+      "message": "Kísérleti szabályok"
+   },
+   "chrome_experimental_rules_description": {
+      "message": "Figyelmeztetéseket és megszakításokat okozhat. Alapértelmezésben letiltva."
+   },
+   "chrome_hide_advanced": {
+      "message": "Speciális beállítások elrejtése"
+   },
+   "chrome_host": {
+      "message": "Kiszolgáló:"
+   },
+   "chrome_redirect_to": {
+      "message": "Átirányítás ide:"
+   },
+   "chrome_regex": {
+      "message": "Illeszkedő regex"
+   },
+   "chrome_rule_name": {
+      "message": "Szabály neve"
+   },
+   "chrome_show_advanced": {
+      "message": "Speciális beállítások megjelenítése"
+   },
+   "chrome_stable_rules": {
+      "message": "Stabil szabályok"
+   },
+   "chrome_stable_rules_description": {
+      "message": "Titkosított kapcsolatok kényszerítése ezekhez a weboldalakhoz:"
+   },
+   "chrome_status_cancel_button": {
+      "message": "Mégsem"
+   },
+   "menu_donate_eff_imperative": {
+      "message": "Támogatás az EFF-nek"
+   },
+   "menu_encryptAllSitesEligible": {
+      "message": "Encrypt All Sites Eligible (EASE)"
+   },
+   "menu_globalEnable": {
+      "message": "HTTPS Everywhere bekapcsolása"
+   },
+   "menu_observatory": {
+      "message": "SSL Observatory Preferenciák"
+   },
+   "menu_showCounter": {
+      "message": "Mutassa a számlálót"
+   },
+   "menu_viewAllRules": {
+      "message": "Összes szabály megtekintése"
+   },
+   "options_addUpdateChannel": {
+      "message": "Frissítő csatorna hozzáadása"
+   },
+   "options_advancedSettings": {
+      "message": "Speciális beállítások"
+   },
+   "options_autoUpdateRulesets": {
+      "message": "Automata frissítés szabályok"
+   },
+   "options_delete": {
+      "message": "Törlés"
+   },
+   "options_disabledUrlsListed": {
+      "message": "HTTPS Everywhere Sites kikapcsolva"
+   },
+   "options_enableMixedRulesets": {
+      "message": "Kevert tartalom beállításszabályok engedélyezése"
+   },
+   "options_enterUpdateChannelName": {
+      "message": "Adja meg a Frissítő csatorna nevét"
+   },
+   "options_generalSettings": {
+      "message": "Általános beállítások"
+   },
+   "options_showDevtoolsTab": {
+      "message": "Fejlesztőeszközük fül megjelenítése"
+   },
+   "options_storedRulesetsVersion": {
+      "message": "Tárolt szabálykészletek verziója:"
+   },
+   "options_update": {
+      "message": "Frissítés"
+   },
+   "options_updateChannels": {
+      "message": "Csatornák frissítése"
+   },
+   "options_updateChannelsWarning": {
+      "message": "Figyelem: A frissítési csatornák hozzáadásával a támadók eltéríthetik a böngészőjét. Csak akkor szerkessze ezt a beállítást, ha tudja mit csinál!"
+   },
+   "options_updatesLastChecked": {
+      "message": "Frissítések utolsó ellenőrzése:"
+   },
+   "options_updatesLastCheckedNever": {
+      "message": "soha"
+   },
+   "options_userRulesListed": {
+      "message": "HTTPS Everywhere felhasználói szabályok"
+   },
+   "prefs_export_settings": {
+      "message": "Beállítások exportálása"
+   },
+   "prefs_reset_defaults": {
+      "message": "Visszaállítás alaphelyzetre"
+   },
+   "prefs_reset_defaults_message": {
+      "message": "Ez minden szabálybeállítást visszaállít az alapértelmezett értékre. Folytatja?"
+   }
+}

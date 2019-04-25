@@ -1,0 +1,58 @@
+{
+   "browser_action_hover": {
+      "description": "",
+      "message": "Ecosia sök"
+   },
+   "context_menu_search": {
+      "description": "",
+      "message": "Sök urval med Ecosia"
+   },
+   "info_popup_CTA": {
+      "description": "",
+      "message": "Läs mer"
+   },
+   "info_popup_body": {
+      "description": "info button pop up hover",
+      "message": "Inte den sida du förväntade dig? Läs mer om hur du återställer bokmärken och hur du anpassar nya flikar."
+   },
+   "new_tab_restore_all": {
+      "description": "",
+      "message": "Återställ allt"
+   },
+   "new_tab_thumbnail_removed": {
+      "description": "",
+      "message": "Miniatyr borttagen"
+   },
+   "new_tab_title": {
+      "description": "",
+      "message": "Ny flik"
+   },
+   "new_tab_undo": {
+      "description": "",
+      "message": "Ångra"
+   },
+   "searchinput_placeholder": {
+      "description": "",
+      "message": "Sök på webben för att plantera träd..."
+   },
+   "store_shortdesc_firefox": {
+      "description": "",
+      "message": "Tillägget sätter din sökmotor till Ecosia så att du kan plantera träd med varje sökning."
+   },
+   "store_shortdesc_new": {
+      "description": "",
+      "message": "Tillägget sätter din sökmotor till Ecosia och anpassar din nya flik så att du kan plantera träd med varje sökning."
+   },
+   "store_shortdesc_old": {
+      "description": "",
+      "message": "Tillägget omdirigerar dina sökningar från omniboxen till en Ecosiasökning."
+   },
+   "store_title_new": {
+      "description": "",
+      "message": "Ecosia - sökmotorn som planterar träd"
+   },
+   "store_title_old": {
+      "description": "",
+      "message": "Ecosia Omnibox-omdirigering (Legacy)"
+   }
+}

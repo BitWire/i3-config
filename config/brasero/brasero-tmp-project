@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<braseroproject>
+	<version>0.2</version>
+	<label>Data disc (15 Apr 19)</label>
+	<track>
+		<data>
+			<graft>
+				<path>/2019-04-08-raspbian-stretch-lite.img</path>
+				<uri>file%3A%2F%2F%2Fhome%2Ftom%2FDownloads%2F2019-04-08-raspbian-stretch-lite.img</uri>
+			</graft>
+			<excluded>file%3A%2F%2F%2Fhome%2Ftom%2FDownloads%2F2019-04-08-raspbian-stretch-lite.img</excluded>
+		</data>
+	</track>
+</braseroproject>
