@@ -1,7 +1,0 @@
-[Info] /home/tom/.ssh/config: ENOENT: no such file or directory, open '/home/tom/.ssh/config'
-[Info] Looking for git repository
-[Info] Git repository found, initializing review manager and pr tree view.
-[Info] No GitHub remotes found
-[Info] Review> no matching pull request metadata found for current branch master
-[Info] No GitHub remotes found
-[Info] Review> no matching pull request metadata found for current branch master
